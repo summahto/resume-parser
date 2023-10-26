@@ -1,4 +1,4 @@
-1. **Name:** Luna Stardust
+**Name:** Luna Stardust
    - **Skills:** Galactic Diplomacy, Nebula Navigation, Celestial Communication
    - **Experience:** Ambassador to the Starlight Council, Captain of the Interstellar Cruiser "Aurora Borealis"
    - **Education:** Cosmic Diplomacy Academy, Nebula University
@@ -8,7 +8,7 @@
    - **Volunteering:** Celestial Clean-Up Crew, Nebula Neighborhood Watch
    - **Contact Information:** luna.stardust@email.com, Galactic Avenue, Star City
 
-2. **Name:** Captain Quillbeard
+**Name:** Captain Quillbeard
    - **Skills:** Pirate Negotiation, Ship Steering, Treasure Map Reading, Java
    - **Experience:** Captain of the Legendary Ship "The Salty Serpent," Master of Plundering and Pillaging
    - **Education:** Pirate Academy of High Seas Skullduggery
@@ -18,7 +18,7 @@
    - **Volunteering:** Coastal Cleanup Crew, Pirate Orphanage Support
    - **Contact Information:** quillbeard@email.com, Pirate Cove, Hidden Isles
 
-3. **Name:** Harmony Melody
+**Name:** Harmony Melody
    - **Skills:** Unicorn Grooming, Pixie Harmony, Rainbow Painting, Python
    - **Experience:** Chief Songstress in the Enchanted Forest Orchestra, Head Painter of the Rainbow Brigade
    - **Education:** Melody Meadows School of Magical Arts
@@ -28,7 +28,7 @@
    - **Volunteering:** Melody for the Elderly, Rainbow Restoration Project
    - **Contact Information:** harmony.melody@email.com, Enchanted Glade, Pixie Hollow
 
-4. **Name:** Sir Bumblebuzz
+**Name:** Sir Bumblebuzz
    - **Skills:** Dragon Taming, Potion Brewing, Knightly Etiquette, Java
    - **Experience:** Knight of the Royal Dragon Guard, Brewmaster at the Mystic Potion Emporium
    - **Education:** Knights' Academy, School of Alchemical Arts
@@ -38,7 +38,7 @@
    - **Volunteering:** Knights for Charity, Potion Brewing for the Homeless
    - **Contact Information:** sir.bumblebuzz@email.com, Castle Keep, Dragonshire
 
-5. **Name:** Sparkle McInventor
+**Name:** Sparkle McInventor
    - **Skills:** Rainbow Contraption Building, Cloud Engineering, Leprechaun Liaison, Java
    - **Experience:** Chief Inventor at the Sky Workshop, Consultant to the Leprechaun Industrial Guild
    - **Education:** Technicolor Institute of Whimsical Engineering
@@ -48,7 +48,7 @@
    - **Volunteering:** Rainbow Machine Repairs, Leprechaun STEM Education
    - **Contact Information:** sparkle.mcInventor@email.com, Cloud Boulevard, Whimsyville
 
-6. **Name:** Professor Quizzleton
+**Name:** Professor Quizzleton
    - **Skills:** Riddle Crafting, Enigma Solving, Sphinx Negotiation
    - **Experience:** Headmaster at the Puzzlementary School of Riddles, Chief Negotiator with Sphinx Syndicate
    - **Education:** University of Puzzlology, Sphinx Studies Department
@@ -58,7 +58,7 @@
    - **Volunteering:** Riddles for Orphans, Sphinx Habitat Restoration
    - **Contact Information:** professor.quizzleton@email.com, Enigma Hall, Puzzlantis
 
-7. **Name:** Twinkle Toes
+**Name:** Twinkle Toes
    - **Skills:** Fairy Ballet, Dewdrop Acrobatics, Butterfly Whispering, Java
    - **Experience:** Prima Ballerina in the Twinkletoe Troupe, Lead Choreographer of the Dewdrop Dance Academy
    - **Education:** Fairy Arts Conservatory, School of Enchanted Ballet
@@ -68,7 +68,7 @@
    - **Volunteering:** Ballet for Butterflies, Dewdrop Recycling Initiative
    - **Contact Information:** twinkle.toes@email.com, Enchanted Meadow, Fairyland
 
-8. **Name:** Galactic Chef Nova
+**Name:** Galactic Chef Nova
    - **Skills:** Starlight Cuisine, Cosmic Cake Baking, Moonbeam Mixology
    - **Experience:** Head Chef at the Celestial Culinary Institute, Baker for the Galactic Royal Banquets
    - **Education:** Stellar Gastronomy School, Lunar Pastry Academy
@@ -78,7 +78,7 @@
    - **Volunteering:** Galactic Food Bank, Starlight Soup Kitchen
    - **Contact Information:** chef.nova@email.com, Culinary Constellation, Star City
 
-9. **Name:** Wizard Wiggles
+**Name:** Wizard Wiggles
    - **Skills:** Spellcasting, Wand Waving, Potion Spilling, Python
    - **Experience:** Grand Sorcerer of the Mystic Arcane Order, Potion Master at Wiggly Wizardry Emporium
    - **Education:** Wizardry Academy, School of Magical Arts and Alchemy
@@ -88,7 +88,7 @@
    - **Volunteering:** Spells for Seniors, Potion Brewing for the Needy
    - **Contact Information:** wizard.wiggles@email.com, Enchanted Tower, Wizard's Haven
 
-10. **Name:** Stealthy Shadow
+**Name:** Stealthy Shadow
     - **Skills:** Ninja Sneakiness, Shadow Manipulation, Silent Chuckling, Java
     - **Experience:** Master of Shadows at the Midnight Guild, Chief Chuckler of the Silent Laughter Society
     - **Education:** Ninja Academy, Academy of Stealth and Chuckles
@@ -98,7 +98,7 @@
     - **Volunteering:** Shadows for Safety, Laughter Yoga for Introverts
     - **Contact Information:** stealthy.shadow@email.com, Midnight Alley, Shadow City
 
-11. **Name:** Astro Explorer Stella
+**Name:** Astro Explorer Stella
     - **Skills:** Planet Hopping, Comet Catching, Intergalactic Photography
     - **Experience:** Lead Explorer at the Cosmic Discovery Institute, Chief Photographer for the Nebula Gazette
     - **Education:** Astro Exploration Academy, Cosmic Photography School
@@ -108,7 +108,7 @@
     - **Volunteering:** Planetary Preservation Project, Starry-Eyed Mentoring
     - **Contact Information:** explorer.stella@email.com, Starbase Observatory, Astro Haven
 
-12. **Name:** Captain Cupcake
+**Name:** Captain Cupcake
     - **Skills:** Sugary Sorcery, Confectionery Navigation, Whipped Cream Weaponry
     - **Experience:** Captain of the Sweet Tooth Armada, Confectionery Conqueror of Candyland
     - **Education:** Dessert Enchantment Academy, Bakery Warfare School
@@ -118,7 +118,7 @@
     - **Volunteering:** Sweets for Smiles, Cupcakes for a Cause
     - **Contact Information:** captain.cupcake@email.com, Sugar Bay, Candyland
 
-13. **Name:** Serenade Seraphina
+**Name:** Serenade Seraphina
     - **Skills:** Angelic Singing, Harp Harmonization, Cloud Choreography, Python
     - **Experience:** Angelic Soloist at the Celestial Opera House, Choreographer of the Cloud Ballet Company
     - **Education:** Heavenly Harmony Conservatory, Cloud Arts Academy
@@ -128,7 +128,7 @@
     - **Volunteering:** Songs for Serenity, Cloud Cleanup Crusade
     - **Contact Information:** serenade.seraphina@email.com, Angelic Heights, Celestial City
 
-14. **Name:** Cosmic Courier Celestia
+**Name:** Cosmic Courier Celestia
     - **Skills:** Warp Speed Delivery, Star System Sorting, Intergalactic Mail Mastery, Java
     - **Experience:** Chief Courier of the Cosmic Postal Service, Navigator of the Warp-Speed Express
     - **Education:** Interstellar Courier Academy, Space Mail Management Institute
@@ -138,7 +138,7 @@
     - **Volunteering:** Space Mail for the Needy, Express Delivery for Exoplanets
     - **Contact Information:** courier.celestia@email.com, Starport Central, Cosmic Hub
 
-15. **Name:** Baron Von Tickletongue
+**Name:** Baron Von Tickletongue
     - **Skills:** Ticklish Diplomacy, Feather Tickle Tactics, Jokester Juggling
     - **Experience:** Baron of Chuckles at the Laughter League, Tickle Diplomat to the Court of Giggles
     - **Education:** Chuckle Academy, School of Ticklish Affairs
@@ -148,7 +148,7 @@
     - **Volunteering:** Laughter Therapy for Leprechauns, Ticklish Talks for Peace
     - **Contact Information:** baron.tickle@email.com, Giggle Castle, Chuckle City
 
-16. **Name:** Countess Sparklefizz
+**Name:** Countess Sparklefizz
     - **Skills:** Potion Princess, Enchanted Elixirs, Sparkle Spellcasting
     - **Experience:** Royal Alchemist to the Sparkle Kingdom, Potion Mixer for the Enchanted Ball
     - **Education:** Royal Alchemy Academy, School of Magical Mixology
@@ -158,7 +158,7 @@
     - **Volunteering:** Potions for Peace, Elixir Empowerment for All
     - **Contact Information:** countess.sparklefizz@email.com, Sparkle Castle, Enchantopia
 
-17. **Name:** Daring Doodlebug
+**Name:** Daring Doodlebug
     - **Skills:** Epic Doodling, Cartoon Combat, Comic Book Creation, Python
     - **Experience:** Doodle Warrior of the Sketch Squad, Creator of the Mighty Doodlebug Comics
     - **Education:** Cartoon Combat Academy, Doodle Arts Institute
@@ -168,7 +168,7 @@
     - **Volunteering:** Doodles for Charity, Comic Relief Crusade
     - **Contact Information:** daring.doodlebug@email.com, Doodle Haven, Sketchburg
 
-18. **Name:** Captain Snugglepaws
+**Name:** Captain Snugglepaws
     - **Skills:** Cuddling, Nap Scheduling, Fuzzy Wuzzy Strategy
     - **Experience:** Admiral of the Snuggle Fleet, Chief Nap Strategist at the Cozy Command Center
     - **Education:** Cuddle Academy, Nap Planning School
@@ -178,7 +178,7 @@
     - **Volunteering:** Cuddles for Care, Naptime Assistance for Newbies
     - **Contact Information:** captain.snugglepaws@email.com, Cozy Cove, Snuggleopolis
 
-19. **Name:** Quantum Quill
+**Name:** Quantum Quill
     - **Skills:** Quantum Physics Poetry, Wormhole Writing, Black Hole Storytelling
     - **Experience:** Quantum Poet Laureate of the Cosmic Library, Chief Scribe of the Wormhole Chronicles
     - **Education:** Quantum Verse Institute, Black Hole Narratives School
@@ -188,7 +188,7 @@
     - **Volunteering:** Quantum Quill for Literacy, Wormhole Storytime for Orphans
     - **Contact Information:** quantum.quill@email.com, Cosmic Library, Verse Vista
 
-20. **Name:** Sir Jigglywinks
+**Name:** Sir Jigglywinks
     - **Skills:** Jellybean Jousting, Giggly Swordsmanship, Marshmallow Shield Mastery, Java
     - **Experience:** Knight Commander of the Jiggly Kingdom, Conqueror of the Marshmallow Marshlands
     - **Education:** Jiggly Jousting School, Sweets and Swords Academy
@@ -198,7 +198,7 @@
     - **Volunteering:** Jousts for Joy, Marshmallow Meditations for Mindfulness
     - **Contact Information:** sir.jigglywinks@email.com, Jiggly Keep, Sweetshire
 
-21. **Name:** Princess Pixelina
+**Name:** Princess Pixelina
     - **Skills:** Pixel Artistry, Emoji Magic, Virtual Kingdom Management
     - **Experience:** Pixel Princess of the Digital Dominion, Emoji Enchantress of the Virtual Realm
     - **Education:** Pixel Art Academy, Virtual Kingdom University
@@ -208,7 +208,7 @@
     - **Volunteering:** Pixels for Progress, Emoji Education for Elders
     - **Contact Information:** princess.pixelina@email.com, Digital Palace, Pixelandia
 
-22. **Name:** Galactic Gamer Glitch
+**Name:** Galactic Gamer Glitch
     - **Skills:** Virtual Reality Exploration, Code Breaking, Pixel Perfect Precision, Python
     - **Experience:** Grand Master Gamer of the Galactic Arcade, Code Wizard of the Cyber Cosmos
     - **Education:** Gaming Galaxy School, Code Crafting Institute
@@ -218,7 +218,7 @@
     - **Volunteering:** Gaming for Good, Code Cleanup Crew
     - **Contact Information:** gamer.glitch@email.com, Virtual Plaza, Cyber City
 
-23. **Name:** Baroness Bubblegum
+**Name:** Baroness Bubblegum
     - **Skills:** Bubblegum Sculpting, Sticky Situation Solving, Gumdrop Architecture
     - **Experience:** Architect of Sweet Structures, Sticky Strategist of the Bubblegum Empire
     - **Education:** Architectural Candy College, Bubblegum Design Institute
@@ -228,7 +228,7 @@
     - **Volunteering:** Bubblegum Bridges for Bunnies, Gumdrop Gardens for Giggles
     - **Contact Information:** baroness.bubblegum@email.com, Candy Castle, Sugaropolis
     
-24. **Name:** Grandmaster Giggles
+**Name:** Grandmaster Giggles
     - **Skills:** Ticklish Chess, Jovial Jenga, Whimsical Checkers
     - **Experience:** Chess Champion of Giggleland, Jenga Jester Extraordinaire
     - **Education:** Games and Giggles University, School of Whimsical Strategy
@@ -238,7 +238,7 @@
     - **Volunteering:** Games for Giggles, Jestful Jigsaw Jamboree
     - **Contact Information:** grandmaster.giggles@email.com, Giggle Hall, Jesterville
 
-25. **Name:** Captain Cupid
+**Name:** Captain Cupid
     - **Skills:** Love Arrow Archery, Romantic Rescues, Heartfelt Heroism, Python
     - **Experience:** Heroic Matchmaker of the Love Galaxy, Savior of Broken Hearts
     - **Education:** Cupid's Academy of Affection, Love Hero Training Institute
@@ -248,7 +248,7 @@
     - **Volunteering:** Cupid's Care for the Lonely, Heart Healing for the Hopeless
     - **Contact Information:** captain.cupid@email.com, Love Lighthouse, Heart Haven
 
-26. **Name:** Disco Dynamo
+**Name:** Disco Dynamo
     - **Skills:** Disco Ball Spinning, Groovy Dance Moves, Funky Fashion Design
     - **Experience:** Disco Diva of the Stellar Dance Floor, Fashionista of the Funk Galaxy
     - **Education:** Disco Dance Academy, Galactic Fashion Institute
@@ -258,7 +258,7 @@
     - **Volunteering:** Dance for Charity, Groovy Garb for Good
     - **Contact Information:** disco.dynamo@email.com, Starlight Studio, Funkopolis
 
-27. **Name:** Quantum Quasar
+**Name:** Quantum Quasar
     - **Skills:** Astrophysics Pranks, Quantum Quizzes, Meteor Shower Organizing, Java
     - **Experience:** Chief Prankster at the Galactic Observatory, Quizmaster of Quantum Quandaries
     - **Education:** Quantum Shenanigans School, Astro-Quiz Institute
@@ -268,7 +268,7 @@
     - **Volunteering:** Pranks for Progress, Quiz Quest for the Curious
     - **Contact Information:** quantum.quasar@email.com, Observatory Outpost, Quirkonia
 
-28. **Name:** Lady Lullaby
+**Name:** Lady Lullaby
     - **Skills:** Sleepytime Symphony, Dream Weaving, Pillow Fluffing, Python
     - **Experience:** Dream Maestro of the Night Sky Orchestra, Chief Fluffer at the Cosmic Pillow Emporium
     - **Education:** Lullaby Conservatory, Pillowcraft Academy
@@ -278,7 +278,7 @@
     - **Volunteering:** Lullabies for Little Ones, Pillow Puffing for Peace
     - **Contact Information:** lady.lullaby@email.com, Dream Dome, Slumberville
 
-29. **Name:** Cosmic Cupid
+**Name:** Cosmic Cupid
     - **Skills:** Shooting Star Matchmaking, Celestial Couples Counseling, Love Constellation Crafting, Java
     - **Experience:** Stellar Matchmaker of the Love Constellations, Counselor of Cosmic Couples
     - **Education:** Cupid's Cosmic Academy, Love Constellation University
@@ -288,7 +288,7 @@
     - **Volunteering:** Love for Lightyears, Constellation Couples Camp
     - **Contact Information:** cosmic.cupid@email.com, Love Launchpad, Constellation Cove
 
-30. **Name:** Galactic Giggler
+**Name:** Galactic Giggler
     - **Skills:** Interstellar Jokes, Cosmic Comedy, Nebula Nonsense
     - **Experience:** Head Comic at the Laugh Galaxy Comedy Club, Nebula Nonsense Specialist
     - **Education:** Comedy Cosmos College, School of Galactic Giggles
@@ -298,7 +298,7 @@
     - **Volunteering:** Giggles for Good, Comedy for a Cause
     - **Contact Information:** galactic.giggler@email.com, Giggle Guild, Chuckleburg
 
-31. **Name:** Sir Whiskerfluff
+**Name:** Sir Whiskerfluff
     - **Skills:** Kitten Cuddling, Paw Patrol, Feline Friendship, Python
     - **Experience:** Knight of the Whisker Kingdom, Paw Patrol Commander, Feline Friendship Ambassador
     - **Education:** Whisker Academy, Paw Arts Institute
@@ -308,7 +308,7 @@
     - **Volunteering:** Whiskers for Wellness, Paw Prints for Peace
     - **Contact Information:** sir.whiskerfluff@email.com, Whisker Castle, Pawland
 
-32. **Name:** Enchanting Embers
+**Name:** Enchanting Embers
     - **Skills:** Fire Dancing, Ember Juggling, Phoenix Feather Crafting
     - **Experience:** Fire Elemental Performer at the Ember Theater, Master Phoenix Feather Craftsman
     - **Education:** School of Elemental Arts, Phoenix Feather Crafting Guild
@@ -318,7 +318,7 @@
     - **Volunteering:** Fire for Harmony, Feathered Friends Sanctuary
     - **Contact Information:** enchanting.embers@email.com, Ember Haven, Blaze Borough
 
-33. **Name:** Captain Cacklebeak
+**Name:** Captain Cacklebeak
     - **Skills:** Parrot Piracy, Squawk Negotiation, Feathered Friend Bonding, Java
     - **Experience:** Captain of the Squawky Seas, Parrot Diplomat, Expert in Feathered Friendships
     - **Education:** Pirate Parrotry Academy, Avian Diplomacy Institute
@@ -328,7 +328,7 @@
     - **Volunteering:** Piracy Prevention for Parrots, Squawk Sanctuary Support
     - **Contact Information:** captain.cacklebeak@email.com, Pirate Perch, Squawk Cove
 
-34. **Name:** Stardust Symphony
+**Name:** Stardust Symphony
     - **Skills:** Meteorite Music, Constellation Concertos, Galactic Guitar, Python
     - **Experience:** Cosmic Composer of Stellar Symphonies, Guitarist of the Galactic Harmony Orchestra
     - **Education:** Celestial Music Conservatory, Galactic Guitar School
@@ -338,7 +338,7 @@
     - **Volunteering:** Music for Meteorites, Harmony for Humanity
     - **Contact Information:** stardust.symphony@email.com, Symphony Space, Harmonia
 
-35. **Name:** Quantum Quasar
+**Name:** Quantum Quasar
     - **Skills:** Astrophysics Pranks, Quantum Quizzes, Meteor Shower Organizing, Java
     - **Experience:** Chief Prankster at the Galactic Observatory, Quizmaster of Quantum Quandaries
     - **Education:** Quantum Shenanigans School, Astro-Quiz Institute
@@ -347,7 +347,7 @@
       - Astro Quizmaster, Galactic Genius, astro.quizmaster@email.com
     - **Volunteering:** Pranks for Progress, Quiz Quest for the Curious
     - **Contact Information:** quantum.quasar@email.com, Observatory Outpost, Quirkonia
-36. **Name:** Luna Stardust
+**Name:** Luna Stardust
     - **Skills:** Galactic Diplomacy, Nebula Navigation, Celestial Communication
     - **Experience:** Ambassador to the Starlight Council, Captain of the Interstellar Cruiser "Aurora Borealis"
     - **Education:** Cosmic Diplomacy Academy, Nebula University
@@ -360,7 +360,7 @@
       - Coordinated the Nebula Summit for Galactic Harmony
       - Led the Starlight Initiative for Intergalactic Cooperation
 
-37. **Name:** Captain Quillbeard
+**Name:** Captain Quillbeard
     - **Skills:** Pirate Negotiation, Ship Steering, Treasure Map Reading, Java
     - **Experience:** Captain of the Legendary Ship "The Salty Serpent," Master of Plundering and Pillaging
     - **Education:** Pirate Academy of High Seas Skullduggery
@@ -373,7 +373,7 @@
       - Successfully navigated the Treacherous Tides of Triton
       - Established the Pirate Outreach Program for Orphaned Buccaneers
 
-38. **Name:** Harmony Melody
+**Name:** Harmony Melody
     - **Skills:** Unicorn Grooming, Pixie Harmony, Rainbow Painting, Python
     - **Experience:** Chief Songstress in the Enchanted Forest Orchestra, Head Painter of the Rainbow Brigade
     - **Education:** Melody Meadows School of Magical Arts
@@ -386,7 +386,7 @@
       - Orchestrated the Symphony of the Whispering Willows
       - Led the Rainbow Revitalization Initiative for Fairy Habitats
 
-39. **Name:** Sir Bumblebuzz
+**Name:** Sir Bumblebuzz
     - **Skills:** Dragon Taming, Potion Brewing, Knightly Etiquette, Java
     - **Experience:** Knight of the Royal Dragon Guard, Brewmaster at the Mystic Potion Emporium
     - **Education:** Knights' Academy, School of Alchemical Arts
@@ -399,7 +399,7 @@
       - Designed the Dragon-Safe Haven for Endangered Species
       - Formulated the Elixir of Harmony for Kingdom Well-being
 
-40. **Name:** Sparkle McInventor
+**Name:** Sparkle McInventor
     - **Skills:** Rainbow Contraption Building, Cloud Engineering, Leprechaun Liaison, Java
     - **Experience:** Chief Inventor at the Sky Workshop, Consultant to the Leprechaun Industrial Guild
     - **Education:** Technicolor Institute of Whimsical Engineering
@@ -412,7 +412,7 @@
       - Engineered the Rainbow Rocket for Interstellar Travel
       - Collaborated on the Leprechaun-Engineered Cloud Cruiser
 
-41. **Name:** Professor Quizzleton
+**Name:** Professor Quizzleton
     - **Skills:** Riddle Crafting, Enigma Solving, Sphinx Negotiation
     - **Experience:** Headmaster at the Puzzlementary School of Riddles, Chief Negotiator with Sphinx Syndicate
     - **Education:** University of Puzzlology, Sphinx Studies Department
@@ -425,7 +425,7 @@
       - Orchestrated the Enigmatic Extravaganza for Puzzle Enthusiasts
       - Negotiated the Riddle Treaty for Cross-Realm Understanding
 
-42. **Name:** Twinkle Toes
+**Name:** Twinkle Toes
     - **Skills:** Fairy Ballet, Dewdrop Acrobatics, Butterfly Whispering, Java
     - **Experience:** Prima Ballerina in the Twinkletoe Troupe, Lead Choreographer of the Dewdrop Dance Academy
     - **Education:** Fairy Arts Conservatory, School of Enchanted Ballet
@@ -438,7 +438,7 @@
       - Choreographed the Dance of the Enchanted Butterflies
       - Founded the Dewdrop Dance Academy for Aspiring Fairies
 
-43. **Name:** Professor Quillington
+**Name:** Professor Quillington
     - **Skills:** Quill Calligraphy, Literature Lecturing, Ink Alchemy, C#, Python
     - **Experience:** Head of the Department of Literary Arts, Quill Enthusiast Society Advisor
     - **Education:** Penmanship University, Literary Alchemy Institute
@@ -451,7 +451,7 @@
       - Curated the Literary Gala for Wordcraft Excellence
       - Initiated the Quill Revival Project for Ancient Writing Instruments
 
-44. **Name:** Captain Whiskerwhirl
+**Name:** Captain Whiskerwhirl
     - **Skills:** Whirlwind Navigation, Tornado Tactics, Stormy Swordplay, C#
     - **Experience:** Captain of the Cyclone Crew, Commander of the Windy Waters
     - **Education:** Tempestuous Training Academy, Galeforce Maritime School
@@ -464,7 +464,7 @@
       - Navigated the Whirlwind Regatta for Seafaring Glory
       - Implemented the Wind Energy Initiative for Sustainable Seas
 
-45. **Name:** Pixel Pirate Pixelbeard
+**Name:** Pixel Pirate Pixelbeard
     - **Skills:** Pixel Plundering, Code Curation, Digital Daggering, C#, Python
     - **Experience:** Captain of the Pixelated Plunderers, Digital Buccaneer of the Binary Seas
     - **Education:** Code Buccaneer Academy, Pixel Pillaging Institute
@@ -477,7 +477,7 @@
       - Initiated the Pixel Plundering Festival for Digital Creativity
       - Designed the Code Compass for Seamless Navigation in the Digital Realm
 
-46. **Name:** Cosmic Composer Comet
+**Name:** Cosmic Composer Comet
     - **Skills:** Celestial Symphony, Starlight Sonata, Galactic Guitar, C#
     - **Experience:** Composer in the Celestial Orchestra, Guitarist in the Starry String Ensemble
     - **Education:** Cosmic Conservatory of Music, Galactic Guitar School
@@ -490,7 +490,7 @@
       - Composed the Cosmic Concerto for Intergalactic Harmony
       - Orchestrated the Stellar Strings Initiative for Musical Education
 
-47. **Name:** Captain Nebula Nova
+**Name:** Captain Nebula Nova
     - **Skills:** Nebula Navigation, Star Mapping, Galactic Guidance, C#
     - **Experience:** Captain of the Celestial Cruiser, Navigator of the Nebula Nebula
     - **Education:** Galactic Navigation Academy, Stellar Cartography Institute
@@ -503,7 +503,7 @@
       - Pioneered the Nebula Navigational Network for Spacefarers
       - Mapped the Celestial Constellations for Astronomical Advancements
 
-48. **Name:** Sorceress Stardust
+**Name:** Sorceress Stardust
     - **Skills:** Enchanted Elixirs, Potion Crafting, Crystal Conjuring, C#, Python
     - **Experience:** Mistress of Mystical Potions, Sorceress of the Crystal Kingdom
     - **Education:** Potioncraft Academy, Crystal Conjuring College
@@ -516,7 +516,7 @@
       - Formulated the Elixir of Tranquility for Kingdom Well-being
       - Conjured the Crystal Cathedral for Spiritual Harmony
 
-49. **Name:** Galactic Gardener Greenleaf
+**Name:** Galactic Gardener Greenleaf
     - **Skills:** Starlight Soil Enrichment, Cosmic Crop Cultivation, Nebula Nurturing, C#
     - **Experience:** Head Gardener of the Celestial Greenhouse, Planter of the Galactic Grove
     - **Education:** Stellar Horticulture Institute, Nebula Nursery School
@@ -529,7 +529,7 @@
       - Established the Starlight Sanctuary for Rare Plant Species
       - Cultivated the Nebula Nurture Program for Green Initiatives
 
-50. **Name:** Captain Comet Crunch
+**Name:** Captain Comet Crunch
     - **Skills:** Astro Crunching, Meteor Munching, Cosmic Cereal Crafting, C#
     - **Experience:** Captain of the Crunchy Cosmos, Crunchmaster of the Comet Cluster
     - **Education:** Galactic Gastronomy School, Cereal Crafting Academy
