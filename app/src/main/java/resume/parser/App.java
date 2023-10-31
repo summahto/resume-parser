@@ -12,6 +12,7 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.Callable;
+import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
@@ -50,7 +51,14 @@ public class App {
             // Invoke all tasks and wait for their completion
             List<Future<Boolean>> results = executorService.invokeAll(callableResumes);
 
+            for (Future<Boolean> future : results) {
+                future.get();
+            }
+
         } catch (InterruptedException e) {
+            e.printStackTrace();
+        } catch (ExecutionException e) {
+            // TODO Auto-generated catch block
             e.printStackTrace();
         } finally {
             // Shutdown the executor service when all tasks are done
