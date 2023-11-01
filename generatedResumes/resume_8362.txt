@@ -1,0 +1,10 @@
+8362. **Name:** Xena Nguyen
+   - **Skills:** Java, JavaScript, Angular, Project Management
+   - **Experience:** Senior Analyst at InnovativeTech
+   - **Education:** Ph.D. in Computer Science from Creative Arts College
+   - **References:** Yuki Smith, Developer, david_cruz@example.com
+Yuki Chen, Director, bob_gupta@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** victoria_jones@example.com, Village, Green Valley
+   - **Projects:** Developed the Innovative Platform for Enhancing Problem-solving
+

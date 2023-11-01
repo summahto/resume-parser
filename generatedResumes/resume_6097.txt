@@ -1,0 +1,10 @@
+6097. **Name:** Ivy Lee
+   - **Skills:** Angular, Agile, React, Blockchain
+   - **Experience:** Lead Engineer at TechCorp
+   - **Education:** Bachelor in Business Administration from Physics Academy
+   - **References:** Quinn Jones, Coordinator, xena_gupta@example.com
+Xena Wang, Designer, jack_miller@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** leo_nguyen@example.com, Village, Innoville
+   - **Projects:** Developed the Groundbreaking Platform for Solving Collaboration
+

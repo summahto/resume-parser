@@ -1,0 +1,10 @@
+5982. **Name:** Jack López
+   - **Skills:** Docker, Big Data, SQL, IoT
+   - **Experience:** Lead Scientist at CodeCrafters
+   - **Education:** Master in Engineering from Creative Arts College
+   - **References:** Charlie Brown, Lead, leo_brown@example.com
+Ulysses Patel, Director, ivy_lópez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** walter_gonzalez@example.com, City, Innoville
+   - **Projects:** Led the Innovative Project for Solving User Experience
+

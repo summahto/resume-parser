@@ -1,0 +1,10 @@
+1475. **Name:** David White
+   - **Skills:** Node.js, JavaScript, React, Blockchain
+   - **Experience:** Lead Designer at InnoSolutions
+   - **Education:** Master in Physics from Tech University
+   - **References:** Leo Singh, Manager, xena_lopez@example.com
+Ivy Jackson, CEO, nathan_nguyen@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** ivy_rodriguez@example.com, City, Data City
+   - **Projects:** Developed the Groundbreaking Framework for Streamlining Problem-solving
+

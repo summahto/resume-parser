@@ -1,0 +1,10 @@
+1711. **Name:** Henry Gupta
+   - **Skills:** iOS Development, Network Administration, Machine Learning, Cybersecurity
+   - **Experience:** Lead Manager at DataInnovators
+   - **Education:** Ph.D. in Data Science from Physics Academy
+   - **References:** Charlie Nguyen, Coordinator, ivy_jones@example.com
+Yuki Cruz, Coordinator, olivia_jackson@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** bob_gupta@example.com, Village, Innoville
+   - **Projects:** Contributed to the Cutting-edge Platform for Streamlining Business Processes
+

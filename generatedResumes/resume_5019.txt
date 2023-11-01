@@ -1,0 +1,10 @@
+5019. **Name:** Ivy Lee
+   - **Skills:** SQL, Graphic Design, Network Administration, UI/UX Design
+   - **Experience:** Senior Manager at DigitalSolutions
+   - **Education:** Master in Business Administration from Business School
+   - **References:** Rachel Kim, CTO, bob_brown@example.com
+Rachel Miller, Analyst, walter_smith@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** alice_williams@example.com, Village, Artopia
+   - **Projects:** Contributed to the Groundbreaking System for Optimizing User Experience
+

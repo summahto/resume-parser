@@ -1,0 +1,10 @@
+2974. **Name:** Sam López
+   - **Skills:** Node.js, Swift, Machine Learning, Cloud Computing
+   - **Experience:** Senior Scientist at CreativeSolutions
+   - **Education:** Master in Data Science from Inno Institute
+   - **References:** Nathan Chen, Analyst, tina_johnson@example.com
+Alice Smith, CEO, david_lopez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** jack_silva@example.com, Village, Techtopia
+   - **Projects:** Led the Innovative System for Optimizing Problem-solving
+

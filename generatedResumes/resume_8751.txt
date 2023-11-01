@@ -1,0 +1,10 @@
+8751. **Name:** Eva Lee
+   - **Skills:** Cybersecurity, Swift, SQL, Graphic Design
+   - **Experience:** Junior Analyst at CreativeSolutions
+   - **Education:** Master in Engineering from Business School
+   - **References:** Charlie Brown, Director, zane_kumar@example.com
+Charlie Singh, Manager, tina_miller@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** charlie_kumar@example.com, Village, Data City
+   - **Projects:** Developed the Groundbreaking App for Streamlining Problem-solving
+

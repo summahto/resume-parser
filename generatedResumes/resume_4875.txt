@@ -1,0 +1,10 @@
+4875. **Name:** Frank Kumar
+   - **Skills:** Data Analysis, AR/VR Development, React, Python
+   - **Experience:** Lead Analyst at InnovativeTech
+   - **Education:** Bachelor in Data Science from Tech University
+   - **References:** Yuki Gupta, Director, henry_williams@example.com
+Ulysses Wang, Scientist, david_lópez@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** walter_wu@example.com, City, Techland
+   - **Projects:** Led the Innovative System for Enhancing User Experience
+

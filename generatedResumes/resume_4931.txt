@@ -1,0 +1,10 @@
+4931. **Name:** Patrick Li
+   - **Skills:** Project Management, Docker, Blockchain, CSS
+   - **Experience:** Junior Manager at DigitalSolutions
+   - **Education:** Master in Art from Physics Academy
+   - **References:** Sam Lee, Manager, bob_gupta@example.com
+Henry Lee, Lead, eva_silva@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** henry_brown@example.com, City, Data City
+   - **Projects:** Developed the Revolutionary Platform for Solving User Experience
+

@@ -1,0 +1,10 @@
+3165. **Name:** Jack Kumar
+   - **Skills:** Docker, IoT, UI/UX Design, Blockchain
+   - **Experience:** Senior Engineer at DataExperts
+   - **Education:** Ph.D. in Business Administration from Data Science School
+   - **References:** Nathan Li, Director, henry_silva@example.com
+Olivia Jackson, CTO, olivia_wu@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** eva_patel@example.com, Village, Innoville
+   - **Projects:** Led the Revolutionary Platform for Solving Data Analysis
+

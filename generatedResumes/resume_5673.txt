@@ -1,0 +1,10 @@
+5673. **Name:** Zane Smith
+   - **Skills:** JavaScript, Agile, DevOps, Docker
+   - **Experience:** Junior Designer at TechCorp
+   - **Education:** Ph.D. in Engineering from Business School
+   - **References:** Charlie Miller, Coordinator, rachel_kumar@example.com
+David Lee, Engineer, quinn_lopez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** alice_wu@example.com, Village, Data City
+   - **Projects:** Contributed to the Revolutionary App for Streamlining Collaboration
+

@@ -1,0 +1,10 @@
+3704. **Name:** Ivy Miller
+   - **Skills:** Machine Learning, C#, AR/VR Development, Big Data
+   - **Experience:** Junior Analyst at DataExperts
+   - **Education:** Master in Engineering from Business School
+   - **References:** David Gonzalez, Engineer, olivia_brown@example.com
+Nathan Cruz, Manager, zane_rodriguez@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** walter_kim@example.com, Town, Innoville
+   - **Projects:** Led the Groundbreaking System for Streamlining Data Analysis
+

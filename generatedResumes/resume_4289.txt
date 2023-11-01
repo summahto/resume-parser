@@ -1,0 +1,10 @@
+4289. **Name:** Leo Kumar
+   - **Skills:** Java, Android Development, Big Data, Cloud Computing
+   - **Experience:** Lead Engineer at CreativeMinds
+   - **Education:** Bachelor in Data Science from Data Science School
+   - **References:** Alice Garcia, Coordinator, nathan_jones@example.com
+Leo Sato, Manager, sam_brown@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** yuki_gupta@example.com, Village, Techtopia
+   - **Projects:** Contributed to the Revolutionary System for Solving Business Processes
+

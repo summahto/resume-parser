@@ -1,0 +1,10 @@
+8425. **Name:** Katherine Nguyen
+   - **Skills:** Cloud Computing, Kubernetes, Cybersecurity, Java
+   - **Experience:** Junior Manager at CreativeSolutions
+   - **Education:** Bachelor in Business Administration from Tech University
+   - **References:** Xena Lopez, Manager, mia_lópez@example.com
+Walter White, CEO, victoria_kumar@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** yuki_jones@example.com, Village, Inno Haven
+   - **Projects:** Led the Innovative Project for Streamlining User Experience
+

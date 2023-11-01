@@ -1,0 +1,10 @@
+7701. **Name:** Olivia Lopez
+   - **Skills:** UI/UX Design, Cybersecurity, Agile, Git
+   - **Experience:** Junior Manager at DigitalSolutions
+   - **Education:** Master in Business Administration from Business School
+   - **References:** Olivia Nguyen, Developer, walter_kim@example.com
+Eva Johnson, Scientist, katherine_silva@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** patrick_wu@example.com, Town, Green Valley
+   - **Projects:** Developed the Revolutionary System for Enhancing Problem-solving
+

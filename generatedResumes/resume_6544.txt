@@ -1,0 +1,10 @@
+6544. **Name:** Walter Wang
+   - **Skills:** Git, Cloud Computing, CSS, Python
+   - **Experience:** Junior Designer at CodeCrafters
+   - **Education:** Bachelor in Engineering from Physics Academy
+   - **References:** Ivy Wu, Director, charlie_white@example.com
+Bob Chen, Engineer, sam_singh@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** patrick_lee@example.com, Town, Data Haven
+   - **Projects:** Contributed to the Cutting-edge Project for Streamlining Business Processes
+

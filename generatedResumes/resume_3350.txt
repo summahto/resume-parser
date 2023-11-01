@@ -1,0 +1,10 @@
+3350. **Name:** Katherine Williams
+   - **Skills:** iOS Development, Network Administration, Angular, Vue.js
+   - **Experience:** Senior Scientist at DataExperts
+   - **Education:** Master in Business Administration from Data Science School
+   - **References:** Rachel Smith, Scientist, walter_lopez@example.com
+Henry Taylor, Manager, zane_patel@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** nathan_suzuki@example.com, Town, Techtopia
+   - **Projects:** Led the Groundbreaking App for Enhancing Business Processes
+

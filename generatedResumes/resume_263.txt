@@ -1,0 +1,10 @@
+263. **Name:** Zane Nguyen
+   - **Skills:** Android Development, Git, Cybersecurity, UI/UX Design
+   - **Experience:** Senior Developer at DataInnovators
+   - **Education:** Ph.D. in Computer Science from Inno Institute
+   - **References:** Victoria White, Scientist, victoria_gupta@example.com
+Ulysses Lee, Analyst, walter_nguyen@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** eva_miller@example.com, City, Data Haven
+   - **Projects:** Contributed to the Innovative Project for Solving Data Analysis
+

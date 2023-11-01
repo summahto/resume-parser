@@ -1,0 +1,10 @@
+1946. **Name:** Leo Hernandez
+   - **Skills:** Kubernetes, IoT, Blockchain, C#
+   - **Experience:** Junior Analyst at TechCorp
+   - **Education:** Master in Computer Science from Inno Institute
+   - **References:** Bob Lopez, Developer, jack_silva@example.com
+Katherine Gupta, Coordinator, tina_kumar@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** henry_miller@example.com, City, Artopia
+   - **Projects:** Developed the Revolutionary Platform for Streamlining User Experience
+

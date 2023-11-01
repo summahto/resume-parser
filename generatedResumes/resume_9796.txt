@@ -1,0 +1,10 @@
+9796. **Name:** Nathan Chen
+   - **Skills:** Machine Learning, Vue.js, Java, Data Analysis
+   - **Experience:** Lead Scientist at TechInnovate
+   - **Education:** Master in Business Administration from Business School
+   - **References:** Eva Cruz, Coordinator, ulysses_kumar@example.com
+Henry Silva, Scientist, jack_rodriguez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** xena_brown@example.com, City, Green Valley
+   - **Projects:** Developed the Innovative Framework for Solving Collaboration
+

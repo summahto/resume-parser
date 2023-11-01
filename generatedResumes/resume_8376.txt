@@ -1,0 +1,10 @@
+8376. **Name:** Bob Garcia
+   - **Skills:** Graphic Design, Git, Swift, SQL
+   - **Experience:** Lead Engineer at DataInnovators
+   - **Education:** Master in Business Administration from Business School
+   - **References:** Patrick Lee, Designer, rachel_cruz@example.com
+Alice Yamamoto, Developer, ivy_chen@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** nathan_wu@example.com, Village, Techtopia
+   - **Projects:** Led the Revolutionary App for Solving Business Processes
+

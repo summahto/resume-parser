@@ -1,0 +1,10 @@
+1761. **Name:** Tina Gupta
+   - **Skills:** Big Data, HTML, Kubernetes, Data Analysis
+   - **Experience:** Junior Engineer at CreativeSolutions
+   - **Education:** Master in Computer Science from Physics Academy
+   - **References:** David Garcia, Lead, quinn_lee@example.com
+Quinn Silva, Coordinator, nathan_white@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** bob_brown@example.com, City, Techland
+   - **Projects:** Led the Revolutionary Project for Enhancing Business Processes
+

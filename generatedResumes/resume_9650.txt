@@ -1,0 +1,10 @@
+9650. **Name:** Zane López
+   - **Skills:** Cybersecurity, Angular, iOS Development, Big Data
+   - **Experience:** Junior Developer at InnoSolutions
+   - **Education:** Master in Engineering from Business School
+   - **References:** Sam Williams, Designer, ivy_cruz@example.com
+Walter Gupta, Engineer, walter_kumar@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** sam_chen@example.com, City, Innoville
+   - **Projects:** Contributed to the Revolutionary Framework for Solving User Experience
+

@@ -1,0 +1,10 @@
+8513. **Name:** Nathan Hernandez
+   - **Skills:** Blockchain, DevOps, Python, Graphic Design
+   - **Experience:** Lead Designer at InnoSolutions
+   - **Education:** Ph.D. in Computer Science from Tech University
+   - **References:** Tina Jackson, Director, bob_sato@example.com
+Nathan Wang, Director, sam_williams@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** bob_smith@example.com, Village, Inno Haven
+   - **Projects:** Developed the Innovative System for Streamlining Business Processes
+

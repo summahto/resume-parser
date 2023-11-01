@@ -1,0 +1,10 @@
+535. **Name:** Nathan Wu
+   - **Skills:** IoT, Project Management, Docker, SQL
+   - **Experience:** Junior Designer at DataInnovators
+   - **Education:** Master in Engineering from Business School
+   - **References:** Zane Lopez, CTO, henry_brown@example.com
+Eva Miller, Scientist, tina_jones@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** grace_wang@example.com, Town, Data City
+   - **Projects:** Contributed to the Revolutionary App for Enhancing Data Analysis
+

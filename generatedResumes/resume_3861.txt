@@ -1,0 +1,10 @@
+3861. **Name:** Zane Lopez
+   - **Skills:** Agile, Data Analysis, Cloud Computing, Kubernetes
+   - **Experience:** Lead Scientist at DigitalSolutions
+   - **Education:** Bachelor in Physics from Business School
+   - **References:** Xena Nguyen, Engineer, xena_jones@example.com
+Henry Wu, Lead, alice_kumar@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** charlie_miller@example.com, Village, Scienceburg
+   - **Projects:** Contributed to the Groundbreaking System for Optimizing Problem-solving
+

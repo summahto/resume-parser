@@ -1,0 +1,10 @@
+6486. **Name:** Walter Jones
+   - **Skills:** Vue.js, Cloud Computing, Agile, Blockchain
+   - **Experience:** Senior Developer at DataExperts
+   - **Education:** Bachelor in Physics from Physics Academy
+   - **References:** Sam Nguyen, Lead, frank_smith@example.com
+Victoria Kumar, Scientist, frank_hernandez@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** xena_nguyen@example.com, Town, Inno Haven
+   - **Projects:** Developed the Cutting-edge Project for Enhancing Business Processes
+

@@ -1,0 +1,10 @@
+117. **Name:** Walter Rodriguez
+   - **Skills:** UI/UX Design, Cybersecurity, React, Kubernetes
+   - **Experience:** Senior Analyst at DataExperts
+   - **Education:** Master in Art from Data Science School
+   - **References:** Quinn Chen, Director, olivia_kim@example.com
+Nathan Garcia, Scientist, tina_smith@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** bob_jackson@example.com, Town, Data Haven
+   - **Projects:** Led the Groundbreaking App for Streamlining Data Analysis
+

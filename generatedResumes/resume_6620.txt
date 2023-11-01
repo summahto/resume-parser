@@ -1,0 +1,10 @@
+6620. **Name:** Zane Gupta
+   - **Skills:** Big Data, Git, Agile, Kubernetes
+   - **Experience:** Lead Analyst at CreativeSolutions
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** Walter Wang, Designer, rachel_patel@example.com
+Patrick Rodriguez, Designer, jack_smith@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** patrick_patel@example.com, City, Techtopia
+   - **Projects:** Contributed to the Revolutionary Project for Enhancing User Experience
+

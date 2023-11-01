@@ -1,0 +1,10 @@
+9461. **Name:** Jack Patel
+   - **Skills:** AR/VR Development, Vue.js, Android Development, Java
+   - **Experience:** Junior Designer at CodeCrafters
+   - **Education:** Bachelor in Business Administration from Data Science School
+   - **References:** Bob Lee, Lead, eva_hernandez@example.com
+Leo Wang, Analyst, quinn_patel@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** charlie_jackson@example.com, Town, Innovation Meadows
+   - **Projects:** Led the Cutting-edge App for Optimizing User Experience
+

@@ -1,0 +1,10 @@
+1194. **Name:** Xena Rodriguez
+   - **Skills:** Blockchain, Java, Data Analysis, Vue.js
+   - **Experience:** Senior Analyst at CodeCrafters
+   - **Education:** Ph.D. in Art from Physics Academy
+   - **References:** Mia Rodriguez, CEO, eva_nguyen@example.com
+Alice Wu, Engineer, victoria_garcia@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** tina_hernandez@example.com, Village, Techtopia
+   - **Projects:** Developed the Cutting-edge Project for Enhancing Problem-solving
+

@@ -1,0 +1,10 @@
+4172. **Name:** Charlie Lee
+   - **Skills:** Cloud Computing, Java, Swift, Machine Learning
+   - **Experience:** Junior Analyst at DigitalSolutions
+   - **Education:** Master in Art from Business School
+   - **References:** Grace Chen, Analyst, tina_gupta@example.com
+Ivy Brown, Analyst, bob_li@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** mia_garcia@example.com, City, Data City
+   - **Projects:** Contributed to the Cutting-edge Platform for Streamlining User Experience
+

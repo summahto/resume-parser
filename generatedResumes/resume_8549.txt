@@ -1,0 +1,10 @@
+8549. **Name:** David Brown
+   - **Skills:** SQL, Vue.js, Kubernetes, AR/VR Development
+   - **Experience:** Lead Analyst at DigitalSolutions
+   - **Education:** Master in Physics from Business School
+   - **References:** Ulysses Jackson, Lead, zane_lopez@example.com
+Leo Cruz, Scientist, alice_brown@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** victoria_nguyen@example.com, City, Data City
+   - **Projects:** Led the Innovative App for Solving Data Analysis
+

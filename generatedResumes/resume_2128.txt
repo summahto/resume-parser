@@ -1,0 +1,10 @@
+2128. **Name:** Patrick Kumar
+   - **Skills:** iOS Development, HTML, IoT, Blockchain
+   - **Experience:** Junior Analyst at CodeCrafters
+   - **Education:** Master in Computer Science from Tech University
+   - **References:** Zane Smith, Analyst, olivia_brown@example.com
+Nathan Chen, CTO, walter_smith@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** leo_silva@example.com, City, Green Valley
+   - **Projects:** Developed the Innovative System for Solving Collaboration
+

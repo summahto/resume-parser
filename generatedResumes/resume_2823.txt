@@ -1,0 +1,10 @@
+2823. **Name:** Leo Taylor
+   - **Skills:** Android Development, UI/UX Design, Blockchain, Python
+   - **Experience:** Junior Designer at InnoSolutions
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** Rachel Li, Manager, alice_wu@example.com
+Bob Taylor, Scientist, walter_brown@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** leo_nguyen@example.com, Village, Artopia
+   - **Projects:** Led the Cutting-edge Project for Solving Data Analysis
+

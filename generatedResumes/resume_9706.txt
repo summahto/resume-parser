@@ -1,0 +1,10 @@
+9706. **Name:** Katherine Kumar
+   - **Skills:** Angular, Project Management, Graphic Design, React
+   - **Experience:** Lead Designer at DataInnovators
+   - **Education:** Ph.D. in Engineering from Tech University
+   - **References:** Victoria Kumar, Coordinator, henry_suzuki@example.com
+Leo Wang, Coordinator, nathan_kim@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** sam_lopez@example.com, Village, Artopia
+   - **Projects:** Led the Innovative Platform for Streamlining Data Analysis
+

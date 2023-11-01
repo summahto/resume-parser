@@ -1,0 +1,10 @@
+4265. **Name:** Olivia Gupta
+   - **Skills:** IoT, Vue.js, C#, Graphic Design
+   - **Experience:** Senior Developer at InnoSolutions
+   - **Education:** Master in Physics from Tech University
+   - **References:** Yuki White, CEO, leo_kumar@example.com
+Quinn Silva, Scientist, olivia_garcia@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** sam_brown@example.com, City, Techtopia
+   - **Projects:** Contributed to the Innovative Framework for Enhancing Problem-solving
+

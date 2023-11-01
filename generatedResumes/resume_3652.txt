@@ -1,0 +1,10 @@
+3652. **Name:** Xena Jackson
+   - **Skills:** JavaScript, Java, C#, SQL
+   - **Experience:** Senior Manager at DigitalSolutions
+   - **Education:** Ph.D. in Business Administration from Data Science School
+   - **References:** Quinn Chen, Manager, eva_smith@example.com
+Zane Gupta, Lead, ulysses_patel@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** alice_wang@example.com, City, Data Haven
+   - **Projects:** Developed the Innovative App for Streamlining User Experience
+

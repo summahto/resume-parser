@@ -1,0 +1,10 @@
+8949. **Name:** Grace Nguyen
+   - **Skills:** Vue.js, Android Development, JavaScript, IoT
+   - **Experience:** Lead Manager at InnoSolutions
+   - **Education:** Master in Engineering from Creative Arts College
+   - **References:** Sam Hernandez, Coordinator, david_yamamoto@example.com
+Tina Jones, Designer, charlie_jones@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** jack_lopez@example.com, Village, Green Valley
+   - **Projects:** Led the Cutting-edge Platform for Optimizing Data Analysis
+

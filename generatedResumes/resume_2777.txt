@@ -1,0 +1,10 @@
+2777. **Name:** Katherine Hernandez
+   - **Skills:** CSS, Project Management, Cloud Computing, Docker
+   - **Experience:** Senior Developer at CodeCrafters
+   - **Education:** Bachelor in Art from Data Science School
+   - **References:** Walter Cruz, Designer, nathan_nguyen@example.com
+Patrick Lee, CEO, nathan_brown@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** grace_jones@example.com, Village, Scienceburg
+   - **Projects:** Contributed to the Innovative System for Enhancing Data Analysis
+

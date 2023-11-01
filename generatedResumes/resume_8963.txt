@@ -1,0 +1,10 @@
+8963. **Name:** Grace Garcia
+   - **Skills:** AR/VR Development, Node.js, Agile, React
+   - **Experience:** Lead Scientist at InnovativeTech
+   - **Education:** Bachelor in Data Science from Tech University
+   - **References:** Katherine Garcia, Developer, sam_jackson@example.com
+Zane Suzuki, Designer, henry_lopez@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** walter_chen@example.com, City, Artopia
+   - **Projects:** Developed the Groundbreaking Project for Enhancing User Experience
+

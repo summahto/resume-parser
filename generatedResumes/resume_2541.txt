@@ -1,0 +1,10 @@
+2541. **Name:** Sam Singh
+   - **Skills:** Git, Node.js, C#, Project Management
+   - **Experience:** Senior Developer at TechInnovate
+   - **Education:** Bachelor in Engineering from Physics Academy
+   - **References:** Grace Wang, CTO, katherine_miller@example.com
+Leo Wu, CTO, henry_wang@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** nathan_lópez@example.com, Village, Scienceburg
+   - **Projects:** Led the Groundbreaking Project for Streamlining Problem-solving
+

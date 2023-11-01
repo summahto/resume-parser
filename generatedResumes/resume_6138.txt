@@ -1,0 +1,10 @@
+6138. **Name:** David Wu
+   - **Skills:** JavaScript, Cloud Computing, AR/VR Development, React
+   - **Experience:** Junior Manager at CodeCrafters
+   - **Education:** Ph.D. in Business Administration from Physics Academy
+   - **References:** Mia Jones, Manager, victoria_patel@example.com
+David Lee, Director, nathan_brown@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** patrick_jackson@example.com, City, Green Valley
+   - **Projects:** Developed the Innovative App for Streamlining User Experience
+

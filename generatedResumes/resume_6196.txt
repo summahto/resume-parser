@@ -1,0 +1,10 @@
+6196. **Name:** Katherine Gupta
+   - **Skills:** Docker, Network Administration, DevOps, Android Development
+   - **Experience:** Junior Analyst at InnoSolutions
+   - **Education:** Bachelor in Engineering from Business School
+   - **References:** Zane Jackson, Coordinator, alice_müller@example.com
+Ivy Lee, CEO, zane_chen@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** victoria_kim@example.com, Village, Inno Haven
+   - **Projects:** Contributed to the Innovative Project for Solving User Experience
+

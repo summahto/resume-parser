@@ -1,0 +1,10 @@
+2390. **Name:** Ulysses Wang
+   - **Skills:** Git, Java, C#, SQL
+   - **Experience:** Senior Manager at CreativeMinds
+   - **Education:** Master in Engineering from Physics Academy
+   - **References:** Tina Kumar, CTO, ivy_white@example.com
+Mia Smith, Director, alice_kumar@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** olivia_wu@example.com, City, Innoville
+   - **Projects:** Contributed to the Groundbreaking Platform for Streamlining User Experience
+

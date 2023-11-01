@@ -1,0 +1,10 @@
+1210. **Name:** Tina White
+   - **Skills:** iOS Development, Machine Learning, Docker, Node.js
+   - **Experience:** Lead Manager at CodeCrafters
+   - **Education:** Master in Physics from Data Science School
+   - **References:** Grace White, Manager, jack_rodriguez@example.com
+Rachel Jackson, Director, bob_lee@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** bob_taylor@example.com, City, Inno Haven
+   - **Projects:** Developed the Cutting-edge App for Enhancing Data Analysis
+

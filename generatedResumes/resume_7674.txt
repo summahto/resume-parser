@@ -1,0 +1,10 @@
+7674. **Name:** Xena Rodriguez
+   - **Skills:** Android Development, JavaScript, Angular, Git
+   - **Experience:** Senior Designer at CreativeSolutions
+   - **Education:** Bachelor in Art from Inno Institute
+   - **References:** Henry Smith, Analyst, sam_nguyen@example.com
+Bob Davis, Analyst, xena_white@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** eva_nguyen@example.com, Town, Green Valley
+   - **Projects:** Contributed to the Groundbreaking System for Enhancing Business Processes
+

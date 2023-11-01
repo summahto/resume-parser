@@ -1,0 +1,10 @@
+5276. **Name:** Leo Gonzalez
+   - **Skills:** Project Management, Big Data, Git, Java
+   - **Experience:** Junior Scientist at InnovativeTech
+   - **Education:** Ph.D. in Physics from Data Science School
+   - **References:** Jack Nguyen, Lead, walter_hernandez@example.com
+Sam Silva, Analyst, ulysses_silva@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** zane_lee@example.com, Village, Green Valley
+   - **Projects:** Developed the Cutting-edge Platform for Enhancing Collaboration
+

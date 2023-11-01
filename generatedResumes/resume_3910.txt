@@ -1,0 +1,10 @@
+3910. **Name:** David Yamamoto
+   - **Skills:** Machine Learning, CSS, Docker, AR/VR Development
+   - **Experience:** Junior Scientist at DataExperts
+   - **Education:** Bachelor in Physics from Inno Institute
+   - **References:** Walter Lee, Developer, eva_lópez@example.com
+Victoria Müller, Director, sam_lópez@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** grace_white@example.com, Town, Inno Haven
+   - **Projects:** Developed the Revolutionary Project for Enhancing Collaboration
+

@@ -1,0 +1,10 @@
+5993. **Name:** Charlie Wu
+   - **Skills:** Data Analysis, Kubernetes, iOS Development, Agile
+   - **Experience:** Lead Scientist at DigitalSolutions
+   - **Education:** Bachelor in Art from Data Science School
+   - **References:** Henry Taylor, Developer, rachel_brown@example.com
+Patrick Kumar, Developer, alice_cruz@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** bob_lee@example.com, City, Techland
+   - **Projects:** Developed the Revolutionary Framework for Solving User Experience
+

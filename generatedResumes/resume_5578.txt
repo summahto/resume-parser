@@ -1,0 +1,10 @@
+5578. **Name:** Zane Lee
+   - **Skills:** JavaScript, Data Analysis, React, Docker
+   - **Experience:** Junior Engineer at DataExperts
+   - **Education:** Master in Business Administration from Inno Institute
+   - **References:** Grace Wang, Engineer, bob_johnson@example.com
+Jack López, Designer, eva_cruz@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** mia_gupta@example.com, City, Green Valley
+   - **Projects:** Developed the Innovative System for Solving Data Analysis
+

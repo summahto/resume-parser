@@ -1,0 +1,10 @@
+5313. **Name:** Mia Jones
+   - **Skills:** Swift, Agile, Graphic Design, Network Administration
+   - **Experience:** Junior Manager at InnovativeTech
+   - **Education:** Master in Art from Inno Institute
+   - **References:** Eva Cruz, Scientist, bob_lee@example.com
+Eva Garcia, Designer, patrick_gonzalez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** jack_jones@example.com, Village, Inno Haven
+   - **Projects:** Led the Cutting-edge Framework for Solving Data Analysis
+

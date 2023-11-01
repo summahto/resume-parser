@@ -1,0 +1,10 @@
+8860. **Name:** Ivy Jones
+   - **Skills:** Git, Java, Project Management, Swift
+   - **Experience:** Junior Designer at InnoSolutions
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** David Yamamoto, Engineer, rachel_garcia@example.com
+Tina Garcia, Coordinator, xena_wu@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** sam_gonzalez@example.com, Village, Innoville
+   - **Projects:** Led the Groundbreaking System for Optimizing Collaboration
+

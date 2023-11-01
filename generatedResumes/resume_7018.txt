@@ -1,0 +1,10 @@
+7018. **Name:** David Nguyen
+   - **Skills:** Angular, Machine Learning, Cloud Computing, SQL
+   - **Experience:** Junior Scientist at CreativeMinds
+   - **Education:** Bachelor in Art from Inno Institute
+   - **References:** Charlie Sato, Director, leo_brown@example.com
+Eva Jones, Developer, jack_nguyen@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** alice_yamamoto@example.com, City, Inno Haven
+   - **Projects:** Developed the Cutting-edge System for Enhancing Problem-solving
+

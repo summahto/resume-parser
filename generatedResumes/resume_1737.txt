@@ -1,0 +1,10 @@
+1737. **Name:** Bob Gupta
+   - **Skills:** Node.js, React, IoT, iOS Development
+   - **Experience:** Lead Engineer at DigitalSolutions
+   - **Education:** Ph.D. in Data Science from Creative Arts College
+   - **References:** Tina Lee, Analyst, nathan_rodriguez@example.com
+Olivia Wang, Developer, victoria_nguyen@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** grace_singh@example.com, City, Inno Haven
+   - **Projects:** Led the Cutting-edge App for Optimizing Problem-solving
+

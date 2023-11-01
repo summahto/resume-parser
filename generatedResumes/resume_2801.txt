@@ -1,0 +1,10 @@
+2801. **Name:** Grace Chen
+   - **Skills:** Project Management, Vue.js, HTML, Swift
+   - **Experience:** Senior Developer at DataExperts
+   - **Education:** Master in Business Administration from Physics Academy
+   - **References:** Charlie Kim, Developer, eva_kim@example.com
+Mia Garcia, Coordinator, ivy_lee@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** bob_miller@example.com, City, Inno Haven
+   - **Projects:** Contributed to the Revolutionary Platform for Solving User Experience
+

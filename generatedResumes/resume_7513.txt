@@ -1,0 +1,10 @@
+7513. **Name:** Katherine White
+   - **Skills:** Graphic Design, C#, HTML, Android Development
+   - **Experience:** Junior Manager at InnoSolutions
+   - **Education:** Master in Business Administration from Business School
+   - **References:** Yuki Kumar, Manager, alice_lópez@example.com
+Sam Smith, Director, olivia_wu@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** bob_nguyen@example.com, Village, Techtopia
+   - **Projects:** Contributed to the Revolutionary Framework for Optimizing Data Analysis
+

@@ -1,0 +1,10 @@
+4194. **Name:** Xena Nguyen
+   - **Skills:** DevOps, UI/UX Design, AR/VR Development, Machine Learning
+   - **Experience:** Senior Designer at DataInnovators
+   - **Education:** Master in Physics from Inno Institute
+   - **References:** Quinn White, CTO, grace_smith@example.com
+Olivia Li, Analyst, rachel_silva@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** sam_wang@example.com, Village, Data City
+   - **Projects:** Developed the Cutting-edge System for Enhancing User Experience
+

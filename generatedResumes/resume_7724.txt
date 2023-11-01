@@ -1,0 +1,10 @@
+7724. **Name:** Jack Lee
+   - **Skills:** Network Administration, Cloud Computing, Docker, SQL
+   - **Experience:** Lead Analyst at CreativeMinds
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Alice Lee, Engineer, victoria_lópez@example.com
+Ulysses Nguyen, Analyst, quinn_gupta@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** eva_miller@example.com, Town, Data City
+   - **Projects:** Led the Groundbreaking Project for Streamlining Business Processes
+

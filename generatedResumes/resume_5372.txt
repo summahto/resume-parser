@@ -1,0 +1,10 @@
+5372. **Name:** Nathan Miller
+   - **Skills:** C#, Android Development, IoT, JavaScript
+   - **Experience:** Lead Developer at DataInnovators
+   - **Education:** Ph.D. in Art from Physics Academy
+   - **References:** Henry Smith, Lead, jack_lee@example.com
+Frank Jackson, Analyst, mia_nguyen@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** walter_white@example.com, City, Data Haven
+   - **Projects:** Developed the Innovative Framework for Streamlining Collaboration
+

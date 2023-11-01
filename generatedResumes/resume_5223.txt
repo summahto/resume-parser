@@ -1,0 +1,10 @@
+5223. **Name:** Alice Gupta
+   - **Skills:** SQL, Agile, React, Git
+   - **Experience:** Senior Designer at TechInnovate
+   - **Education:** Bachelor in Art from Physics Academy
+   - **References:** Leo Lopez, Engineer, david_williams@example.com
+Sam Suzuki, CTO, katherine_rodriguez@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** sam_nguyen@example.com, Town, Scienceburg
+   - **Projects:** Developed the Cutting-edge Project for Streamlining Business Processes
+

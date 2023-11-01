@@ -1,0 +1,10 @@
+5325. **Name:** Olivia Kumar
+   - **Skills:** Agile, Project Management, C#, DevOps
+   - **Experience:** Junior Scientist at DataInnovators
+   - **Education:** Ph.D. in Computer Science from Creative Arts College
+   - **References:** Charlie Brown, Engineer, olivia_silva@example.com
+Henry Li, CEO, rachel_kumar@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** victoria_patel@example.com, City, Innovation Meadows
+   - **Projects:** Led the Innovative Project for Solving Problem-solving
+

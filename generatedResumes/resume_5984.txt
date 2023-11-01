@@ -1,0 +1,10 @@
+5984. **Name:** Yuki Nguyen
+   - **Skills:** Project Management, Swift, IoT, Cybersecurity
+   - **Experience:** Junior Designer at DigitalSolutions
+   - **Education:** Bachelor in Data Science from Inno Institute
+   - **References:** Grace Silva, Developer, olivia_silva@example.com
+Charlie Silva, Manager, zane_silva@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** frank_miller@example.com, Town, Green Valley
+   - **Projects:** Contributed to the Groundbreaking Framework for Solving User Experience
+

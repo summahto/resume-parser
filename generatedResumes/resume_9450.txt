@@ -1,0 +1,10 @@
+9450. **Name:** David Wang
+   - **Skills:** Kubernetes, IoT, SQL, Data Analysis
+   - **Experience:** Junior Analyst at TechInnovate
+   - **Education:** Master in Business Administration from Data Science School
+   - **References:** Eva Wu, Scientist, olivia_gupta@example.com
+Walter Miller, CTO, xena_brown@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** mia_smith@example.com, City, Data Haven
+   - **Projects:** Developed the Revolutionary Platform for Streamlining Problem-solving
+

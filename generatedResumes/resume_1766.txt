@@ -1,0 +1,10 @@
+1766. **Name:** Victoria Miller
+   - **Skills:** Python, Agile, Node.js, SQL
+   - **Experience:** Senior Manager at DataInnovators
+   - **Education:** Bachelor in Business Administration from Data Science School
+   - **References:** Patrick Garcia, CEO, eva_garcia@example.com
+Quinn Jones, Lead, alice_cruz@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** olivia_garcia@example.com, Village, Data City
+   - **Projects:** Developed the Revolutionary System for Optimizing Collaboration
+

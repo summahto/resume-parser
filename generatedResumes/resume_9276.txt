@@ -1,0 +1,10 @@
+9276. **Name:** Leo Garcia
+   - **Skills:** Data Analysis, AR/VR Development, Cloud Computing, Agile
+   - **Experience:** Senior Manager at TechCorp
+   - **Education:** Master in Business Administration from Physics Academy
+   - **References:** Ivy Lopez, Designer, patrick_kumar@example.com
+Patrick Wu, Engineer, xena_jones@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** mia_rodriguez@example.com, Town, Techland
+   - **Projects:** Developed the Innovative Platform for Optimizing Business Processes
+

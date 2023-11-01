@@ -1,0 +1,10 @@
+5172. **Name:** Leo Wu
+   - **Skills:** Big Data, Agile, Machine Learning, JavaScript
+   - **Experience:** Junior Engineer at CodeCrafters
+   - **Education:** Master in Physics from Data Science School
+   - **References:** Leo Kim, Director, frank_chen@example.com
+Frank Wu, Director, charlie_lópez@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** leo_hernandez@example.com, Village, Innoville
+   - **Projects:** Contributed to the Groundbreaking App for Enhancing User Experience
+

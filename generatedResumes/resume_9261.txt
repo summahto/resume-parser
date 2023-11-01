@@ -1,0 +1,10 @@
+9261. **Name:** Charlie Silva
+   - **Skills:** Agile, CSS, SQL, Git
+   - **Experience:** Lead Engineer at CodeCrafters
+   - **Education:** Ph.D. in Engineering from Inno Institute
+   - **References:** Leo Lee, Designer, ulysses_johnson@example.com
+Sam Yamamoto, Manager, quinn_cruz@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** yuki_white@example.com, Village, Scienceburg
+   - **Projects:** Led the Cutting-edge Project for Solving User Experience
+

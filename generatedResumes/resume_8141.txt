@@ -1,0 +1,10 @@
+8141. **Name:** Victoria Kumar
+   - **Skills:** UI/UX Design, Graphic Design, Network Administration, Git
+   - **Experience:** Junior Analyst at DataExperts
+   - **Education:** Ph.D. in Business Administration from Physics Academy
+   - **References:** David Yamamoto, Manager, david_wu@example.com
+Quinn Garcia, Analyst, nathan_brown@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** zane_gupta@example.com, Village, Scienceburg
+   - **Projects:** Developed the Innovative Project for Enhancing User Experience
+

@@ -1,0 +1,10 @@
+8602. **Name:** Katherine Lopez
+   - **Skills:** Java, Cloud Computing, Big Data, JavaScript
+   - **Experience:** Junior Engineer at InnoSolutions
+   - **Education:** Bachelor in Business Administration from Business School
+   - **References:** Tina Rodriguez, Scientist, frank_garcia@example.com
+Rachel Smith, Director, victoria_jackson@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** olivia_white@example.com, Village, Data Haven
+   - **Projects:** Developed the Revolutionary Project for Solving Data Analysis
+

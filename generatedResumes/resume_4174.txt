@@ -1,0 +1,10 @@
+4174. **Name:** Leo Chen
+   - **Skills:** Angular, iOS Development, AR/VR Development, Data Analysis
+   - **Experience:** Lead Developer at CreativeMinds
+   - **Education:** Ph.D. in Art from Creative Arts College
+   - **References:** Frank White, Scientist, bob_smith@example.com
+Sam López, Developer, zane_kumar@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** mia_kumar@example.com, Town, Data Haven
+   - **Projects:** Contributed to the Groundbreaking Project for Optimizing User Experience
+

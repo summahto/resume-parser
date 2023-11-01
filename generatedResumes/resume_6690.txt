@@ -1,0 +1,10 @@
+6690. **Name:** Katherine Chen
+   - **Skills:** SQL, Project Management, React, IoT
+   - **Experience:** Lead Scientist at CreativeSolutions
+   - **Education:** Ph.D. in Art from Data Science School
+   - **References:** Jack Cruz, Analyst, sam_smith@example.com
+Ivy Sato, Coordinator, ulysses_brown@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** jack_silva@example.com, City, Inno Haven
+   - **Projects:** Led the Groundbreaking Project for Streamlining User Experience
+

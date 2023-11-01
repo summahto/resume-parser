@@ -1,0 +1,10 @@
+4607. **Name:** Xena Lee
+   - **Skills:** iOS Development, UI/UX Design, Vue.js, SQL
+   - **Experience:** Lead Analyst at TechCorp
+   - **Education:** Master in Business Administration from Inno Institute
+   - **References:** Ivy Jackson, Analyst, tina_lee@example.com
+Leo Miller, Director, patrick_nguyen@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** frank_wu@example.com, Village, Scienceburg
+   - **Projects:** Contributed to the Cutting-edge Project for Solving Collaboration
+

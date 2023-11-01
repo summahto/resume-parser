@@ -1,0 +1,10 @@
+2552. **Name:** Ivy Kumar
+   - **Skills:** Node.js, AR/VR Development, Cloud Computing, Data Analysis
+   - **Experience:** Junior Manager at InnovativeTech
+   - **Education:** Master in Computer Science from Data Science School
+   - **References:** Ulysses Li, Lead, tina_rodriguez@example.com
+Grace Nguyen, CEO, xena_gupta@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** grace_brown@example.com, Town, Data Haven
+   - **Projects:** Contributed to the Groundbreaking Project for Streamlining Collaboration
+

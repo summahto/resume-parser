@@ -1,0 +1,10 @@
+9941. **Name:** Nathan Nguyen
+   - **Skills:** C#, Android Development, Swift, Cybersecurity
+   - **Experience:** Lead Manager at TechCorp
+   - **Education:** Master in Engineering from Inno Institute
+   - **References:** Zane Gupta, Coordinator, zane_yamamoto@example.com
+Olivia Brown, Lead, mia_williams@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** leo_rodriguez@example.com, City, Data City
+   - **Projects:** Led the Revolutionary Platform for Optimizing Collaboration
+

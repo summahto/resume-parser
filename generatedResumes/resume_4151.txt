@@ -1,0 +1,10 @@
+4151. **Name:** Walter López
+   - **Skills:** Angular, Project Management, Blockchain, JavaScript
+   - **Experience:** Junior Engineer at InnovativeTech
+   - **Education:** Ph.D. in Physics from Creative Arts College
+   - **References:** Quinn Jones, CTO, victoria_white@example.com
+David Kim, Analyst, eva_yamamoto@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** patrick_lopez@example.com, Town, Artopia
+   - **Projects:** Developed the Cutting-edge App for Streamlining Collaboration
+

@@ -1,0 +1,10 @@
+1080. **Name:** Leo Rodriguez
+   - **Skills:** Big Data, Graphic Design, Machine Learning, SQL
+   - **Experience:** Senior Developer at TechCorp
+   - **Education:** Ph.D. in Physics from Business School
+   - **References:** Ivy Nguyen, Developer, nathan_kumar@example.com
+Quinn Jackson, Manager, zane_rodriguez@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** bob_jones@example.com, City, Techtopia
+   - **Projects:** Led the Revolutionary Project for Solving User Experience
+

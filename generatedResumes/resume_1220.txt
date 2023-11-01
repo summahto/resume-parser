@@ -1,0 +1,10 @@
+1220. **Name:** Ivy Gupta
+   - **Skills:** IoT, Graphic Design, Git, Docker
+   - **Experience:** Senior Analyst at InnoSolutions
+   - **Education:** Master in Engineering from Inno Institute
+   - **References:** David Suzuki, Lead, tina_chen@example.com
+Grace Lee, Director, david_gupta@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** frank_lee@example.com, Town, Green Valley
+   - **Projects:** Led the Innovative Project for Enhancing Collaboration
+

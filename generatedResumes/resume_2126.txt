@@ -1,0 +1,10 @@
+2126. **Name:** Jack Patel
+   - **Skills:** React, Swift, HTML, Cybersecurity
+   - **Experience:** Senior Scientist at InnoSolutions
+   - **Education:** Master in Data Science from Business School
+   - **References:** Rachel Smith, Developer, mia_jackson@example.com
+Grace Jackson, Manager, zane_kumar@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** ivy_silva@example.com, Village, Data City
+   - **Projects:** Developed the Groundbreaking App for Streamlining Data Analysis
+

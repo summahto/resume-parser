@@ -1,0 +1,10 @@
+8956. **Name:** Yuki Jackson
+   - **Skills:** Network Administration, CSS, Agile, HTML
+   - **Experience:** Senior Analyst at DataExperts
+   - **Education:** Bachelor in Data Science from Data Science School
+   - **References:** Tina López, Developer, ulysses_white@example.com
+Tina Lee, Engineer, patrick_wu@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** walter_williams@example.com, Village, Techtopia
+   - **Projects:** Led the Cutting-edge System for Streamlining Data Analysis
+

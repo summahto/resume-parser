@@ -1,0 +1,10 @@
+6233. **Name:** Eva Miller
+   - **Skills:** AR/VR Development, Docker, Machine Learning, Git
+   - **Experience:** Lead Manager at DataExperts
+   - **Education:** Ph.D. in Engineering from Data Science School
+   - **References:** Grace Müller, CEO, ivy_miller@example.com
+Alice Chen, Scientist, charlie_smith@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** walter_kumar@example.com, Village, Inno Haven
+   - **Projects:** Developed the Innovative System for Optimizing User Experience
+

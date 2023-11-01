@@ -1,0 +1,10 @@
+8621. **Name:** Xena Jackson
+   - **Skills:** Angular, Java, AR/VR Development, iOS Development
+   - **Experience:** Senior Manager at TechInnovate
+   - **Education:** Bachelor in Business Administration from Business School
+   - **References:** Eva Yamamoto, Scientist, ulysses_kumar@example.com
+Leo Gupta, Director, eva_silva@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** leo_chen@example.com, City, Green Valley
+   - **Projects:** Developed the Innovative System for Enhancing Problem-solving
+

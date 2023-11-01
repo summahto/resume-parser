@@ -1,0 +1,10 @@
+1818. **Name:** Tina Smith
+   - **Skills:** Project Management, Network Administration, Java, Machine Learning
+   - **Experience:** Lead Analyst at DigitalSolutions
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Frank Patel, Coordinator, walter_wu@example.com
+Nathan Jackson, CTO, frank_miller@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** xena_nguyen@example.com, City, Techtopia
+   - **Projects:** Led the Groundbreaking App for Solving Business Processes
+

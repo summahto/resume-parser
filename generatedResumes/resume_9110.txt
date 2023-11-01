@@ -1,0 +1,10 @@
+9110. **Name:** Katherine Taylor
+   - **Skills:** Docker, Machine Learning, Git, DevOps
+   - **Experience:** Junior Scientist at InnoSolutions
+   - **Education:** Ph.D. in Physics from Tech University
+   - **References:** David Garcia, Analyst, yuki_kim@example.com
+Ulysses Silva, Manager, tina_jones@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** charlie_taylor@example.com, City, Data Haven
+   - **Projects:** Led the Groundbreaking Project for Solving Problem-solving
+

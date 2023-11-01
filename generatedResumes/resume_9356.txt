@@ -1,0 +1,10 @@
+9356. **Name:** Charlie Lopez
+   - **Skills:** Network Administration, AR/VR Development, CSS, Vue.js
+   - **Experience:** Lead Designer at TechInnovate
+   - **Education:** Master in Business Administration from Business School
+   - **References:** Walter Smith, CTO, victoria_yamamoto@example.com
+Rachel Taylor, Developer, grace_brown@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** sam_brown@example.com, City, Innovation Meadows
+   - **Projects:** Led the Revolutionary Platform for Optimizing Data Analysis
+

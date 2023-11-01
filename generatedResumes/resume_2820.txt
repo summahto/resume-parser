@@ -1,0 +1,10 @@
+2820. **Name:** Walter Wang
+   - **Skills:** HTML, AR/VR Development, Kubernetes, Cloud Computing
+   - **Experience:** Junior Scientist at CreativeSolutions
+   - **Education:** Master in Art from Business School
+   - **References:** Katherine Chen, CTO, olivia_brown@example.com
+Katherine Singh, Lead, david_white@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** frank_davis@example.com, City, Data Haven
+   - **Projects:** Led the Groundbreaking App for Optimizing Data Analysis
+

@@ -1,0 +1,10 @@
+975. **Name:** Bob Lee
+   - **Skills:** Project Management, Java, Git, Docker
+   - **Experience:** Junior Manager at CodeCrafters
+   - **Education:** Bachelor in Engineering from Inno Institute
+   - **References:** Zane Lee, CTO, yuki_rodriguez@example.com
+Ivy Wang, Analyst, henry_jones@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** tina_jones@example.com, Town, Data Haven
+   - **Projects:** Contributed to the Innovative Framework for Solving Data Analysis
+

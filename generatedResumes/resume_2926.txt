@@ -1,0 +1,10 @@
+2926. **Name:** Leo Silva
+   - **Skills:** Swift, Machine Learning, Kubernetes, Blockchain
+   - **Experience:** Junior Engineer at DataInnovators
+   - **Education:** Master in Business Administration from Data Science School
+   - **References:** Alice Lee, Scientist, charlie_lee@example.com
+Henry Yamamoto, Manager, victoria_kumar@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** mia_cruz@example.com, Town, Data Haven
+   - **Projects:** Developed the Innovative Platform for Optimizing Collaboration
+

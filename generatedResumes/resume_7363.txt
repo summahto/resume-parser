@@ -1,0 +1,10 @@
+7363. **Name:** Eva Nguyen
+   - **Skills:** Network Administration, DevOps, Blockchain, React
+   - **Experience:** Senior Designer at DigitalSolutions
+   - **Education:** Bachelor in Computer Science from Inno Institute
+   - **References:** Eva Lee, Engineer, xena_chen@example.com
+Yuki Smith, Manager, nathan_gupta@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** david_nguyen@example.com, Village, Techtopia
+   - **Projects:** Developed the Cutting-edge System for Solving Data Analysis
+

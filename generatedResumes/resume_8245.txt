@@ -1,0 +1,10 @@
+8245. **Name:** Olivia Wu
+   - **Skills:** React, UI/UX Design, DevOps, C#
+   - **Experience:** Junior Manager at CreativeSolutions
+   - **Education:** Bachelor in Business Administration from Business School
+   - **References:** Quinn Jones, Engineer, yuki_patel@example.com
+Yuki Taylor, Engineer, xena_nguyen@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** bob_brown@example.com, Town, Innoville
+   - **Projects:** Led the Groundbreaking Project for Streamlining Business Processes
+

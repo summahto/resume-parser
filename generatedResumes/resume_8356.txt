@@ -1,0 +1,10 @@
+8356. **Name:** Xena Wu
+   - **Skills:** Git, Project Management, Angular, Kubernetes
+   - **Experience:** Senior Scientist at CreativeMinds
+   - **Education:** Ph.D. in Business Administration from Physics Academy
+   - **References:** Quinn López, Analyst, ivy_white@example.com
+Rachel Lopez, Scientist, ivy_sato@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** ulysses_wang@example.com, Village, Inno Haven
+   - **Projects:** Contributed to the Innovative Framework for Solving User Experience
+

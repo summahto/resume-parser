@@ -1,0 +1,10 @@
+3540. **Name:** Nathan Smith
+   - **Skills:** Vue.js, Docker, React, Android Development
+   - **Experience:** Senior Engineer at TechCorp
+   - **Education:** Master in Business Administration from Tech University
+   - **References:** Grace Garcia, Manager, katherine_white@example.com
+Charlie Jones, CEO, sam_miller@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** olivia_cruz@example.com, Village, Techland
+   - **Projects:** Developed the Cutting-edge App for Enhancing Collaboration
+

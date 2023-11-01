@@ -1,0 +1,10 @@
+5284. **Name:** Jack Taylor
+   - **Skills:** Machine Learning, Blockchain, Android Development, UI/UX Design
+   - **Experience:** Senior Manager at InnoSolutions
+   - **Education:** Master in Physics from Data Science School
+   - **References:** Rachel Rodriguez, CEO, patrick_brown@example.com
+Jack Lee, Coordinator, rachel_garcia@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** yuki_silva@example.com, Village, Innovation Meadows
+   - **Projects:** Developed the Cutting-edge App for Enhancing Data Analysis
+

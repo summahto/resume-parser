@@ -1,0 +1,10 @@
+5188. **Name:** Bob Patel
+   - **Skills:** Docker, Android Development, React, Kubernetes
+   - **Experience:** Junior Engineer at CreativeSolutions
+   - **Education:** Bachelor in Business Administration from Business School
+   - **References:** Xena Lee, Analyst, sam_nguyen@example.com
+Sam Lopez, Designer, olivia_jackson@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** xena_chen@example.com, Town, Techtopia
+   - **Projects:** Contributed to the Innovative App for Streamlining Problem-solving
+

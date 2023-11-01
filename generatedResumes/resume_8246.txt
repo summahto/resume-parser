@@ -1,0 +1,10 @@
+8246. **Name:** Leo Jones
+   - **Skills:** SQL, Android Development, UI/UX Design, iOS Development
+   - **Experience:** Lead Analyst at CreativeMinds
+   - **Education:** Ph.D. in Physics from Tech University
+   - **References:** Alice Brown, Coordinator, walter_gupta@example.com
+Grace Nguyen, CEO, zane_patel@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** david_rodriguez@example.com, Village, Innoville
+   - **Projects:** Contributed to the Cutting-edge Platform for Streamlining Collaboration
+

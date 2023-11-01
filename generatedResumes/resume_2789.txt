@@ -1,0 +1,10 @@
+2789. **Name:** Rachel Miller
+   - **Skills:** C#, Cybersecurity, iOS Development, Angular
+   - **Experience:** Lead Designer at InnovativeTech
+   - **Education:** Master in Computer Science from Business School
+   - **References:** Frank Lee, Lead, walter_lopez@example.com
+Rachel Kim, Manager, walter_smith@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** nathan_smith@example.com, Town, Inno Haven
+   - **Projects:** Developed the Groundbreaking System for Streamlining Collaboration
+

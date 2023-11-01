@@ -1,0 +1,10 @@
+8426. **Name:** Tina Garcia
+   - **Skills:** Angular, Git, JavaScript, Cybersecurity
+   - **Experience:** Junior Designer at CreativeMinds
+   - **Education:** Ph.D. in Physics from Tech University
+   - **References:** Bob Gupta, Scientist, bob_nguyen@example.com
+Bob Wang, Engineer, zane_patel@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** rachel_kumar@example.com, Town, Inno Haven
+   - **Projects:** Developed the Cutting-edge Project for Optimizing User Experience
+

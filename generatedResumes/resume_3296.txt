@@ -1,0 +1,10 @@
+3296. **Name:** David Jones
+   - **Skills:** DevOps, UI/UX Design, Machine Learning, Java
+   - **Experience:** Senior Scientist at TechCorp
+   - **Education:** Master in Art from Inno Institute
+   - **References:** Henry Kim, Developer, katherine_johnson@example.com
+Katherine Johnson, Manager, ivy_brown@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** rachel_johnson@example.com, Village, Techland
+   - **Projects:** Contributed to the Cutting-edge Platform for Solving Problem-solving
+

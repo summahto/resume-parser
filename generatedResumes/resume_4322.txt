@@ -1,0 +1,10 @@
+4322. **Name:** Zane Patel
+   - **Skills:** IoT, Vue.js, CSS, C#
+   - **Experience:** Senior Designer at CreativeMinds
+   - **Education:** Master in Business Administration from Physics Academy
+   - **References:** Mia Kumar, Lead, tina_nguyen@example.com
+Walter Wu, Manager, charlie_müller@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** nathan_brown@example.com, Village, Data City
+   - **Projects:** Developed the Cutting-edge Project for Optimizing Collaboration
+

@@ -1,0 +1,10 @@
+9445. **Name:** Ulysses Wu
+   - **Skills:** Network Administration, Cloud Computing, Big Data, React
+   - **Experience:** Junior Developer at InnoSolutions
+   - **Education:** Master in Physics from Creative Arts College
+   - **References:** Patrick Gupta, Lead, grace_cruz@example.com
+Leo Wang, Scientist, bob_gupta@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** mia_nguyen@example.com, City, Techtopia
+   - **Projects:** Contributed to the Groundbreaking Platform for Streamlining Data Analysis
+

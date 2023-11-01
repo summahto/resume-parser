@@ -1,0 +1,10 @@
+3645. **Name:** Nathan Lopez
+   - **Skills:** AR/VR Development, Cybersecurity, Data Analysis, Graphic Design
+   - **Experience:** Senior Analyst at CodeCrafters
+   - **Education:** Ph.D. in Art from Tech University
+   - **References:** Patrick Wu, Developer, henry_müller@example.com
+Sam Nguyen, Designer, alice_nguyen@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** henry_cruz@example.com, City, Scienceburg
+   - **Projects:** Developed the Innovative System for Streamlining Collaboration
+

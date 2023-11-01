@@ -1,0 +1,10 @@
+3587. **Name:** Jack Miller
+   - **Skills:** C#, DevOps, Data Analysis, Angular
+   - **Experience:** Junior Developer at TechCorp
+   - **Education:** Ph.D. in Computer Science from Inno Institute
+   - **References:** Walter Patel, Developer, david_chen@example.com
+Ulysses Sato, Developer, henry_jackson@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** bob_jones@example.com, City, Data City
+   - **Projects:** Contributed to the Cutting-edge Project for Optimizing Business Processes
+

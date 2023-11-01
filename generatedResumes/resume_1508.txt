@@ -1,0 +1,10 @@
+1508. **Name:** Tina Gupta
+   - **Skills:** Cybersecurity, UI/UX Design, SQL, CSS
+   - **Experience:** Senior Engineer at CreativeMinds
+   - **Education:** Ph.D. in Art from Physics Academy
+   - **References:** Quinn Müller, Coordinator, sam_smith@example.com
+Katherine Miller, CTO, xena_kumar@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** henry_jackson@example.com, Town, Techtopia
+   - **Projects:** Contributed to the Cutting-edge Platform for Solving Problem-solving
+

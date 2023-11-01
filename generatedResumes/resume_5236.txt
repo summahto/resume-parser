@@ -1,0 +1,10 @@
+5236. **Name:** Patrick Kim
+   - **Skills:** Kubernetes, Agile, Cloud Computing, C#
+   - **Experience:** Lead Manager at InnovativeTech
+   - **Education:** Bachelor in Computer Science from Inno Institute
+   - **References:** Charlie Silva, CTO, tina_kim@example.com
+Katherine Hernandez, Manager, nathan_gupta@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** mia_nguyen@example.com, Town, Scienceburg
+   - **Projects:** Developed the Cutting-edge Platform for Enhancing Business Processes
+

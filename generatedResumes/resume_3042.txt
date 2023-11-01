@@ -1,0 +1,10 @@
+3042. **Name:** Tina Nguyen
+   - **Skills:** Android Development, Docker, SQL, AR/VR Development
+   - **Experience:** Junior Designer at DataInnovators
+   - **Education:** Ph.D. in Business Administration from Creative Arts College
+   - **References:** Mia Kim, Scientist, rachel_wu@example.com
+Rachel Miller, Coordinator, mia_kumar@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** eva_jackson@example.com, Village, Artopia
+   - **Projects:** Developed the Cutting-edge Project for Streamlining Problem-solving
+

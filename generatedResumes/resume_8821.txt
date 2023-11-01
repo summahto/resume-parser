@@ -1,0 +1,10 @@
+8821. **Name:** Leo Lopez
+   - **Skills:** Project Management, Swift, IoT, Java
+   - **Experience:** Senior Designer at DataExperts
+   - **Education:** Bachelor in Engineering from Data Science School
+   - **References:** Quinn Kumar, Engineer, david_jones@example.com
+Sam Silva, Scientist, victoria_jackson@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** henry_jackson@example.com, Village, Inno Haven
+   - **Projects:** Led the Groundbreaking App for Streamlining Problem-solving
+

@@ -1,0 +1,10 @@
+2743. **Name:** Nathan Nguyen
+   - **Skills:** iOS Development, CSS, HTML, React
+   - **Experience:** Senior Analyst at InnoSolutions
+   - **Education:** Master in Engineering from Physics Academy
+   - **References:** Charlie Kumar, Engineer, david_garcia@example.com
+Bob Garcia, Scientist, ulysses_smith@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** sam_kumar@example.com, Village, Green Valley
+   - **Projects:** Led the Groundbreaking Framework for Optimizing Collaboration
+

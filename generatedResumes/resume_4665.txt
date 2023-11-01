@@ -1,0 +1,10 @@
+4665. **Name:** Patrick Wang
+   - **Skills:** Kubernetes, iOS Development, Agile, HTML
+   - **Experience:** Senior Scientist at TechCorp
+   - **Education:** Bachelor in Business Administration from Inno Institute
+   - **References:** Alice Gupta, Analyst, alice_kumar@example.com
+Katherine Jones, Developer, grace_silva@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** ulysses_brown@example.com, City, Techland
+   - **Projects:** Led the Revolutionary Framework for Streamlining User Experience
+

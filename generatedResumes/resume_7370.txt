@@ -1,0 +1,10 @@
+7370. **Name:** Tina López
+   - **Skills:** Angular, Graphic Design, C#, UI/UX Design
+   - **Experience:** Junior Scientist at InnoSolutions
+   - **Education:** Bachelor in Art from Data Science School
+   - **References:** Grace White, Developer, leo_wu@example.com
+Nathan Nguyen, Lead, grace_chen@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** xena_brown@example.com, Town, Techland
+   - **Projects:** Developed the Cutting-edge App for Streamlining User Experience
+

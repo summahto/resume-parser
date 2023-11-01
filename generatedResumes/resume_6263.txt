@@ -1,0 +1,10 @@
+6263. **Name:** Ivy Nguyen
+   - **Skills:** Docker, IoT, C#, Java
+   - **Experience:** Senior Developer at InnovativeTech
+   - **Education:** Master in Data Science from Creative Arts College
+   - **References:** Xena Jackson, Lead, katherine_brown@example.com
+Zane Lopez, Engineer, quinn_lee@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** mia_jones@example.com, Village, Artopia
+   - **Projects:** Developed the Cutting-edge Platform for Optimizing Problem-solving
+

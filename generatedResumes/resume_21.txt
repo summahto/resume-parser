@@ -1,10 +1,10 @@
-**Name:** Princess Pixelina
-- **Skills:** Pixel Artistry, Emoji Magic, Virtual Kingdom Management
-- **Experience:** Pixel Princess of the Digital Dominion, Emoji Enchantress of the Virtual Realm
-- **Education:** Pixel Art Academy, Virtual Kingdom University
-- **References:**
-- Pixel Picasso, Artistic Algorithmist, pixel.picasso@email.com
-- Emoji Empress, Virtual Visionary, emoji.empress@email.com
-- **Volunteering:** Pixels for Progress, Emoji Education for Elders
-- **Contact Information:** princess.pixelina@email.com, Digital Palace, Pixelandia
+21. **Name:** Eva Kumar
+   - **Skills:** Network Administration, Node.js, Graphic Design, IoT
+   - **Experience:** Junior Developer at TechCorp
+   - **Education:** Ph.D. in Engineering from Business School
+   - **References:** Yuki Chen, Engineer, patrick_gonzalez@example.com
+Olivia White, Director, zane_jones@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** tina_smith@example.com, Town, Techland
+   - **Projects:** Contributed to the Innovative System for Streamlining User Experience
 

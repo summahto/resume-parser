@@ -1,0 +1,10 @@
+6197. **Name:** Katherine Garcia
+   - **Skills:** iOS Development, Git, Cybersecurity, Data Analysis
+   - **Experience:** Senior Manager at DataExperts
+   - **Education:** Ph.D. in Physics from Tech University
+   - **References:** Jack Chen, Scientist, sam_lopez@example.com
+Quinn Cruz, CEO, henry_patel@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** david_gupta@example.com, Village, Scienceburg
+   - **Projects:** Developed the Cutting-edge Platform for Enhancing Problem-solving
+

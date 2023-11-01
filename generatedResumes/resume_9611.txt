@@ -1,0 +1,10 @@
+9611. **Name:** Quinn Lopez
+   - **Skills:** IoT, HTML, CSS, Cloud Computing
+   - **Experience:** Junior Manager at DataInnovators
+   - **Education:** Ph.D. in Art from Data Science School
+   - **References:** Walter Brown, Engineer, olivia_cruz@example.com
+Zane Kumar, Analyst, leo_white@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** ulysses_kumar@example.com, Town, Scienceburg
+   - **Projects:** Developed the Revolutionary App for Optimizing Data Analysis
+

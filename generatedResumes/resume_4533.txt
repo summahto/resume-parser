@@ -1,0 +1,10 @@
+4533. **Name:** Tina Lopez
+   - **Skills:** Vue.js, AR/VR Development, CSS, IoT
+   - **Experience:** Lead Developer at InnoSolutions
+   - **Education:** Master in Computer Science from Data Science School
+   - **References:** Frank Johnson, Developer, katherine_miller@example.com
+Frank Patel, Scientist, alice_wu@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** frank_singh@example.com, Village, Inno Haven
+   - **Projects:** Contributed to the Innovative Framework for Solving Problem-solving
+

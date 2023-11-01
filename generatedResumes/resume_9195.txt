@@ -1,0 +1,10 @@
+9195. **Name:** Henry Cruz
+   - **Skills:** UI/UX Design, JavaScript, Python, Big Data
+   - **Experience:** Junior Engineer at DataExperts
+   - **Education:** Ph.D. in Computer Science from Creative Arts College
+   - **References:** Nathan Jones, Engineer, olivia_brown@example.com
+Nathan Williams, Engineer, katherine_rodriguez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** yuki_cruz@example.com, City, Green Valley
+   - **Projects:** Developed the Groundbreaking Framework for Solving Business Processes
+

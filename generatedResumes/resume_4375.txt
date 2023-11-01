@@ -1,0 +1,10 @@
+4375. **Name:** Ivy Lopez
+   - **Skills:** Node.js, Swift, HTML, Angular
+   - **Experience:** Lead Developer at CodeCrafters
+   - **Education:** Ph.D. in Art from Creative Arts College
+   - **References:** Mia Nguyen, Lead, xena_lopez@example.com
+Katherine Cruz, Lead, grace_jackson@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** sam_chen@example.com, Village, Scienceburg
+   - **Projects:** Developed the Cutting-edge System for Solving User Experience
+

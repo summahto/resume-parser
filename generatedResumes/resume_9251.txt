@@ -1,0 +1,10 @@
+9251. **Name:** Charlie Yamamoto
+   - **Skills:** Big Data, Git, Swift, Node.js
+   - **Experience:** Junior Developer at CodeCrafters
+   - **Education:** Ph.D. in Business Administration from Data Science School
+   - **References:** Ivy Suzuki, Scientist, katherine_jones@example.com
+Sam Chen, CEO, nathan_rodriguez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** leo_nguyen@example.com, Village, Green Valley
+   - **Projects:** Developed the Innovative Framework for Solving User Experience
+

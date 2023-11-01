@@ -1,0 +1,10 @@
+2771. **Name:** Quinn Jackson
+   - **Skills:** AR/VR Development, Python, Docker, HTML
+   - **Experience:** Lead Developer at CreativeMinds
+   - **Education:** Bachelor in Physics from Creative Arts College
+   - **References:** Zane Kumar, Manager, david_taylor@example.com
+Alice Lopez, Coordinator, bob_wu@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** sam_wang@example.com, Village, Scienceburg
+   - **Projects:** Contributed to the Cutting-edge Framework for Enhancing User Experience
+

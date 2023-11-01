@@ -1,0 +1,10 @@
+6075. **Name:** Patrick Lee
+   - **Skills:** Git, Graphic Design, AR/VR Development, Machine Learning
+   - **Experience:** Junior Analyst at DataExperts
+   - **Education:** Master in Business Administration from Creative Arts College
+   - **References:** Rachel Kumar, Analyst, zane_garcia@example.com
+Grace Lee, CEO, mia_wu@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** sam_nguyen@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Cutting-edge Project for Optimizing Collaboration
+

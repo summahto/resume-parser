@@ -1,0 +1,10 @@
+7155. **Name:** Katherine Jackson
+   - **Skills:** SQL, Big Data, Graphic Design, HTML
+   - **Experience:** Senior Developer at DataExperts
+   - **Education:** Master in Engineering from Inno Institute
+   - **References:** Walter White, Lead, olivia_garcia@example.com
+Eva Silva, Director, katherine_cruz@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** frank_lee@example.com, City, Techland
+   - **Projects:** Led the Groundbreaking Platform for Enhancing Collaboration
+

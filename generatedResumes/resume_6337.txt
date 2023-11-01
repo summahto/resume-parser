@@ -1,0 +1,10 @@
+6337. **Name:** Zane Taylor
+   - **Skills:** Git, HTML, Data Analysis, Agile
+   - **Experience:** Senior Designer at CodeCrafters
+   - **Education:** Ph.D. in Physics from Creative Arts College
+   - **References:** Henry Miller, Designer, charlie_singh@example.com
+Katherine Cruz, Lead, mia_nguyen@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** david_kumar@example.com, Village, Techland
+   - **Projects:** Developed the Innovative Platform for Streamlining Problem-solving
+

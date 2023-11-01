@@ -1,0 +1,10 @@
+4401. **Name:** Ivy Smith
+   - **Skills:** Angular, JavaScript, Machine Learning, Kubernetes
+   - **Experience:** Junior Analyst at InnoSolutions
+   - **Education:** Master in Engineering from Physics Academy
+   - **References:** Patrick Jackson, Director, frank_miller@example.com
+Zane White, Lead, frank_cruz@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** david_kumar@example.com, City, Data City
+   - **Projects:** Developed the Revolutionary System for Enhancing Problem-solving
+

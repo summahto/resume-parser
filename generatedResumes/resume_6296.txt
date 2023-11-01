@@ -1,0 +1,10 @@
+6296. **Name:** Patrick Silva
+   - **Skills:** AR/VR Development, Docker, Vue.js, Big Data
+   - **Experience:** Lead Developer at DataExperts
+   - **Education:** Master in Computer Science from Physics Academy
+   - **References:** Walter Nguyen, Coordinator, xena_nguyen@example.com
+Charlie Williams, Designer, nathan_lópez@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** leo_chen@example.com, Town, Innoville
+   - **Projects:** Contributed to the Innovative Project for Solving Problem-solving
+

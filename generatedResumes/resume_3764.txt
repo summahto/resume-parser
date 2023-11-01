@@ -1,0 +1,10 @@
+3764. **Name:** Mia Kumar
+   - **Skills:** AR/VR Development, iOS Development, Kubernetes, C#
+   - **Experience:** Lead Developer at CodeCrafters
+   - **Education:** Master in Data Science from Physics Academy
+   - **References:** Zane Lee, Engineer, quinn_jackson@example.com
+Charlie Silva, Designer, tina_sato@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** nathan_jones@example.com, Town, Artopia
+   - **Projects:** Developed the Revolutionary Framework for Optimizing Business Processes
+

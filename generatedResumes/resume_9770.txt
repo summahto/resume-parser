@@ -1,0 +1,10 @@
+9770. **Name:** Olivia Silva
+   - **Skills:** Python, SQL, AR/VR Development, Network Administration
+   - **Experience:** Lead Manager at CreativeSolutions
+   - **Education:** Bachelor in Art from Tech University
+   - **References:** David Wu, Manager, leo_chen@example.com
+Xena Brown, Lead, katherine_wang@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** mia_gonzalez@example.com, City, Scienceburg
+   - **Projects:** Developed the Groundbreaking Project for Enhancing Business Processes
+

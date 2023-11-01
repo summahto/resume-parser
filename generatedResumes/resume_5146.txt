@@ -1,0 +1,10 @@
+5146. **Name:** Frank Wu
+   - **Skills:** React, Graphic Design, Docker, Python
+   - **Experience:** Senior Scientist at CodeCrafters
+   - **Education:** Master in Physics from Creative Arts College
+   - **References:** Walter Cruz, Designer, sam_smith@example.com
+Katherine Jones, Coordinator, tina_taylor@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** eva_lee@example.com, Village, Innoville
+   - **Projects:** Contributed to the Innovative Project for Solving Collaboration
+

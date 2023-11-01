@@ -1,0 +1,10 @@
+5979. **Name:** Ivy Gupta
+   - **Skills:** UI/UX Design, Kubernetes, iOS Development, Swift
+   - **Experience:** Junior Developer at CodeCrafters
+   - **Education:** Master in Data Science from Business School
+   - **References:** Yuki Silva, Designer, mia_garcia@example.com
+Henry Kumar, Coordinator, ulysses_garcia@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** victoria_miller@example.com, Village, Artopia
+   - **Projects:** Developed the Cutting-edge Platform for Optimizing User Experience
+

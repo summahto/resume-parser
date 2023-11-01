@@ -1,0 +1,10 @@
+7686. **Name:** Alice Garcia
+   - **Skills:** Docker, Project Management, Git, Android Development
+   - **Experience:** Junior Scientist at InnoSolutions
+   - **Education:** Master in Physics from Physics Academy
+   - **References:** Eva Singh, Developer, david_nguyen@example.com
+Yuki Kim, Engineer, victoria_lopez@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** grace_garcia@example.com, Village, Techland
+   - **Projects:** Contributed to the Revolutionary App for Optimizing Collaboration
+

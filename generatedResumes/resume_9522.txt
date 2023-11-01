@@ -1,0 +1,10 @@
+9522. **Name:** Ivy Smith
+   - **Skills:** Docker, iOS Development, Network Administration, Node.js
+   - **Experience:** Junior Engineer at TechInnovate
+   - **Education:** Master in Business Administration from Data Science School
+   - **References:** David Smith, Engineer, xena_yamamoto@example.com
+Nathan Kim, Analyst, quinn_miller@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** walter_patel@example.com, Village, Green Valley
+   - **Projects:** Contributed to the Innovative Project for Optimizing Business Processes
+

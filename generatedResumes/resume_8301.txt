@@ -1,0 +1,10 @@
+8301. **Name:** Charlie Lee
+   - **Skills:** Graphic Design, JavaScript, AR/VR Development, Machine Learning
+   - **Experience:** Senior Designer at CreativeSolutions
+   - **Education:** Master in Business Administration from Creative Arts College
+   - **References:** Rachel Patel, Engineer, bob_smith@example.com
+Henry Wu, Engineer, ulysses_lópez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** patrick_wang@example.com, City, Techland
+   - **Projects:** Developed the Revolutionary Framework for Streamlining Collaboration
+

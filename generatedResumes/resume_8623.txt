@@ -1,0 +1,10 @@
+8623. **Name:** Olivia Patel
+   - **Skills:** AR/VR Development, Java, Angular, iOS Development
+   - **Experience:** Junior Manager at CodeCrafters
+   - **Education:** Ph.D. in Engineering from Business School
+   - **References:** Victoria Nguyen, Engineer, xena_sato@example.com
+Frank Taylor, CEO, xena_yamamoto@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** jack_patel@example.com, City, Green Valley
+   - **Projects:** Led the Cutting-edge Framework for Enhancing Data Analysis
+

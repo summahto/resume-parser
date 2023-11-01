@@ -1,0 +1,10 @@
+2779. **Name:** Ivy Jackson
+   - **Skills:** Machine Learning, Cloud Computing, Angular, IoT
+   - **Experience:** Lead Analyst at TechCorp
+   - **Education:** Bachelor in Engineering from Inno Institute
+   - **References:** Charlie Gupta, Engineer, frank_lópez@example.com
+Henry Miller, Engineer, patrick_rodriguez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** jack_brown@example.com, Village, Green Valley
+   - **Projects:** Led the Cutting-edge Project for Optimizing Problem-solving
+

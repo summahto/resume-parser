@@ -1,0 +1,10 @@
+6413. **Name:** Alice Gupta
+   - **Skills:** Android Development, AR/VR Development, C#, Python
+   - **Experience:** Lead Designer at DigitalSolutions
+   - **Education:** Master in Engineering from Creative Arts College
+   - **References:** Olivia López, Developer, rachel_silva@example.com
+Victoria Kumar, CTO, tina_suzuki@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** yuki_miller@example.com, City, Green Valley
+   - **Projects:** Contributed to the Cutting-edge App for Streamlining Collaboration
+

@@ -1,0 +1,10 @@
+1208. **Name:** Tina Cruz
+   - **Skills:** Kubernetes, Java, Angular, UI/UX Design
+   - **Experience:** Junior Manager at InnoSolutions
+   - **Education:** Bachelor in Engineering from Physics Academy
+   - **References:** Zane Nguyen, CEO, tina_williams@example.com
+Jack Brown, CEO, walter_brown@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** nathan_williams@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Groundbreaking Framework for Enhancing Collaboration
+

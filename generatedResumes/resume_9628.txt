@@ -1,0 +1,10 @@
+9628. **Name:** Mia Singh
+   - **Skills:** Python, Graphic Design, C#, React
+   - **Experience:** Junior Engineer at InnovativeTech
+   - **Education:** Ph.D. in Physics from Data Science School
+   - **References:** Alice Williams, Scientist, bob_lee@example.com
+Eva White, Analyst, yuki_lopez@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** leo_cruz@example.com, Town, Data City
+   - **Projects:** Contributed to the Groundbreaking Project for Solving Data Analysis
+

@@ -1,0 +1,10 @@
+4646. **Name:** Katherine Cruz
+   - **Skills:** SQL, JavaScript, React, Docker
+   - **Experience:** Lead Manager at DigitalSolutions
+   - **Education:** Master in Data Science from Data Science School
+   - **References:** Ivy Lopez, CTO, david_garcia@example.com
+Olivia Williams, Manager, nathan_gupta@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** rachel_lopez@example.com, City, Green Valley
+   - **Projects:** Developed the Groundbreaking Platform for Optimizing Data Analysis
+

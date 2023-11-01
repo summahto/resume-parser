@@ -1,0 +1,10 @@
+878. **Name:** Katherine Taylor
+   - **Skills:** HTML, React, DevOps, Python
+   - **Experience:** Lead Engineer at CreativeMinds
+   - **Education:** Master in Computer Science from Data Science School
+   - **References:** Ulysses Nguyen, Coordinator, frank_wu@example.com
+Zane Wang, Lead, olivia_wu@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** mia_wang@example.com, City, Artopia
+   - **Projects:** Developed the Cutting-edge System for Optimizing Data Analysis
+

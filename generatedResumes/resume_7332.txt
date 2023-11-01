@@ -1,0 +1,10 @@
+7332. **Name:** Leo Kumar
+   - **Skills:** Android Development, Agile, Vue.js, Docker
+   - **Experience:** Lead Scientist at DataInnovators
+   - **Education:** Bachelor in Art from Tech University
+   - **References:** Patrick Jackson, Developer, mia_suzuki@example.com
+Bob Kumar, Director, yuki_suzuki@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** yuki_jackson@example.com, City, Data City
+   - **Projects:** Contributed to the Cutting-edge Framework for Enhancing Problem-solving
+

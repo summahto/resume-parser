@@ -1,0 +1,10 @@
+3638. **Name:** David Lee
+   - **Skills:** Kubernetes, React, Java, SQL
+   - **Experience:** Junior Developer at InnovativeTech
+   - **Education:** Ph.D. in Data Science from Data Science School
+   - **References:** Yuki Silva, Director, grace_davis@example.com
+Grace Wu, Developer, eva_kim@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** tina_nguyen@example.com, Town, Data City
+   - **Projects:** Developed the Groundbreaking System for Optimizing User Experience
+

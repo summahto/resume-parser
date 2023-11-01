@@ -1,0 +1,10 @@
+7137. **Name:** Leo Chen
+   - **Skills:** Android Development, Project Management, Angular, Java
+   - **Experience:** Lead Developer at InnovativeTech
+   - **Education:** Bachelor in Art from Business School
+   - **References:** Eva Wu, Developer, patrick_patel@example.com
+Bob Kumar, Manager, tina_chen@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** sam_cruz@example.com, City, Data City
+   - **Projects:** Led the Cutting-edge Platform for Solving Problem-solving
+

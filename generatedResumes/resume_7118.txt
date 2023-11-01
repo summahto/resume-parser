@@ -1,0 +1,10 @@
+7118. **Name:** Charlie Wang
+   - **Skills:** Cybersecurity, C#, Blockchain, Network Administration
+   - **Experience:** Junior Designer at CreativeSolutions
+   - **Education:** Ph.D. in Physics from Physics Academy
+   - **References:** Leo Kim, Designer, charlie_kim@example.com
+Yuki White, Manager, frank_wu@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** patrick_li@example.com, Village, Innoville
+   - **Projects:** Led the Innovative Platform for Optimizing Data Analysis
+

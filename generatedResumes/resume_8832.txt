@@ -1,0 +1,10 @@
+8832. **Name:** Xena Rodriguez
+   - **Skills:** C#, Cybersecurity, IoT, CSS
+   - **Experience:** Junior Designer at DigitalSolutions
+   - **Education:** Master in Computer Science from Business School
+   - **References:** Zane White, Director, bob_cruz@example.com
+Jack Miller, Scientist, sam_chen@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** henry_wang@example.com, City, Innoville
+   - **Projects:** Led the Innovative Platform for Streamlining Problem-solving
+

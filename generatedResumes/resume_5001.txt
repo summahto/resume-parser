@@ -1,0 +1,10 @@
+5001. **Name:** Charlie Patel
+   - **Skills:** CSS, Machine Learning, AR/VR Development, Graphic Design
+   - **Experience:** Junior Manager at CodeCrafters
+   - **Education:** Ph.D. in Business Administration from Creative Arts College
+   - **References:** Charlie Jackson, Manager, quinn_garcia@example.com
+Rachel Chen, Analyst, leo_brown@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** ulysses_jones@example.com, City, Artopia
+   - **Projects:** Developed the Groundbreaking Platform for Streamlining User Experience
+

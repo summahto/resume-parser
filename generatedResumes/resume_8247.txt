@@ -1,0 +1,10 @@
+8247. **Name:** Xena Lopez
+   - **Skills:** JavaScript, Java, Node.js, UI/UX Design
+   - **Experience:** Junior Developer at TechInnovate
+   - **Education:** Ph.D. in Art from Data Science School
+   - **References:** Rachel Nguyen, Analyst, ulysses_rodriguez@example.com
+Jack Nguyen, Lead, grace_lee@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** henry_lopez@example.com, City, Techland
+   - **Projects:** Developed the Revolutionary Platform for Streamlining Collaboration
+

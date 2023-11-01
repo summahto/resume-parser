@@ -1,0 +1,10 @@
+2299. **Name:** Mia Gupta
+   - **Skills:** Cloud Computing, Docker, Cybersecurity, Vue.js
+   - **Experience:** Lead Scientist at CodeCrafters
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Sam Cruz, CEO, frank_jones@example.com
+Zane Wang, Coordinator, tina_patel@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** ivy_smith@example.com, Town, Innoville
+   - **Projects:** Developed the Innovative Project for Solving User Experience
+

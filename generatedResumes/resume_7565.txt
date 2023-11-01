@@ -1,0 +1,10 @@
+7565. **Name:** Olivia Jackson
+   - **Skills:** UI/UX Design, IoT, HTML, Docker
+   - **Experience:** Lead Engineer at DataExperts
+   - **Education:** Bachelor in Engineering from Inno Institute
+   - **References:** Xena Wang, Director, charlie_smith@example.com
+Walter Lee, Designer, david_jackson@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** sam_cruz@example.com, City, Techtopia
+   - **Projects:** Developed the Revolutionary Framework for Optimizing Business Processes
+

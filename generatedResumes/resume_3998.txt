@@ -1,0 +1,10 @@
+3998. **Name:** Nathan Miller
+   - **Skills:** Cybersecurity, Blockchain, UI/UX Design, C#
+   - **Experience:** Senior Analyst at TechCorp
+   - **Education:** Master in Business Administration from Business School
+   - **References:** Walter Wang, Coordinator, henry_kim@example.com
+Jack Kim, Director, quinn_white@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** jack_brown@example.com, City, Inno Haven
+   - **Projects:** Contributed to the Innovative Framework for Solving Data Analysis
+

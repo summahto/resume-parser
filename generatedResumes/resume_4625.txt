@@ -1,0 +1,10 @@
+4625. **Name:** Ivy Cruz
+   - **Skills:** Git, AR/VR Development, HTML, Java
+   - **Experience:** Junior Manager at TechCorp
+   - **Education:** Master in Physics from Inno Institute
+   - **References:** Eva López, Analyst, victoria_nguyen@example.com
+David Jones, Designer, victoria_nguyen@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** grace_miller@example.com, Village, Artopia
+   - **Projects:** Contributed to the Cutting-edge Project for Solving Collaboration
+

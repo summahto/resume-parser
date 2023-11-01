@@ -1,0 +1,10 @@
+3248. **Name:** Xena Wang
+   - **Skills:** IoT, Node.js, Blockchain, Graphic Design
+   - **Experience:** Lead Manager at DataInnovators
+   - **Education:** Master in Business Administration from Business School
+   - **References:** Zane Taylor, Lead, alice_sato@example.com
+Ivy Lee, Engineer, charlie_lee@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** eva_wang@example.com, Village, Innovation Meadows
+   - **Projects:** Contributed to the Groundbreaking Platform for Solving Collaboration
+

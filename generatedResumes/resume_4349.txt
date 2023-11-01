@@ -1,0 +1,10 @@
+4349. **Name:** Charlie Jones
+   - **Skills:** Agile, Docker, iOS Development, C#
+   - **Experience:** Junior Developer at TechInnovate
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Victoria Wu, CTO, frank_wu@example.com
+Rachel Kim, CTO, olivia_jackson@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** grace_wu@example.com, Village, Artopia
+   - **Projects:** Contributed to the Groundbreaking Project for Enhancing User Experience
+

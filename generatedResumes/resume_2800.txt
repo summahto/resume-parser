@@ -1,0 +1,10 @@
+2800. **Name:** Bob Kumar
+   - **Skills:** React, SQL, UI/UX Design, DevOps
+   - **Experience:** Junior Manager at InnovativeTech
+   - **Education:** Bachelor in Business Administration from Tech University
+   - **References:** Grace Rodriguez, Designer, xena_yamamoto@example.com
+Leo Williams, Engineer, ulysses_gupta@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** charlie_taylor@example.com, Village, Inno Haven
+   - **Projects:** Developed the Revolutionary Platform for Solving Problem-solving
+

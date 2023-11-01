@@ -1,0 +1,10 @@
+5591. **Name:** Ivy Wu
+   - **Skills:** Java, IoT, JavaScript, Android Development
+   - **Experience:** Junior Developer at CreativeMinds
+   - **Education:** Bachelor in Engineering from Tech University
+   - **References:** Sam Kumar, Designer, yuki_taylor@example.com
+Nathan White, Coordinator, zane_hernandez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** grace_lee@example.com, Town, Data City
+   - **Projects:** Led the Groundbreaking Project for Solving Problem-solving
+

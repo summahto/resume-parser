@@ -1,0 +1,10 @@
+87. **Name:** Walter Rodriguez
+   - **Skills:** Docker, Cloud Computing, Swift, Blockchain
+   - **Experience:** Junior Manager at DataExperts
+   - **Education:** Bachelor in Data Science from Tech University
+   - **References:** Katherine Lee, Scientist, david_lee@example.com
+Alice Chen, Director, olivia_wu@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** ulysses_jones@example.com, Town, Data Haven
+   - **Projects:** Contributed to the Cutting-edge App for Solving Business Processes
+

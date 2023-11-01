@@ -1,0 +1,10 @@
+7597. **Name:** David Chen
+   - **Skills:** Vue.js, Node.js, SQL, Cybersecurity
+   - **Experience:** Junior Designer at CreativeMinds
+   - **Education:** Ph.D. in Computer Science from Inno Institute
+   - **References:** Yuki Jackson, Designer, nathan_kumar@example.com
+Mia Kumar, Lead, frank_lee@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** david_kumar@example.com, Town, Techland
+   - **Projects:** Contributed to the Cutting-edge System for Optimizing Problem-solving
+

@@ -1,0 +1,10 @@
+9761. **Name:** Ivy Taylor
+   - **Skills:** SQL, Docker, Node.js, Blockchain
+   - **Experience:** Lead Scientist at InnoSolutions
+   - **Education:** Ph.D. in Computer Science from Data Science School
+   - **References:** Walter Wu, Scientist, mia_patel@example.com
+Mia Sato, Lead, david_chen@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** henry_suzuki@example.com, City, Data City
+   - **Projects:** Developed the Revolutionary Project for Optimizing Collaboration
+

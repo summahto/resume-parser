@@ -1,0 +1,10 @@
+1173. **Name:** Bob Nguyen
+   - **Skills:** Docker, Machine Learning, Agile, Data Analysis
+   - **Experience:** Senior Manager at InnovativeTech
+   - **Education:** Bachelor in Business Administration from Business School
+   - **References:** Mia Lopez, Manager, sam_nguyen@example.com
+Tina Jackson, CEO, mia_singh@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** sam_rodriguez@example.com, City, Data City
+   - **Projects:** Contributed to the Innovative Platform for Enhancing Data Analysis
+

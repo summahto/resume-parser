@@ -1,0 +1,10 @@
+6756. **Name:** Jack Cruz
+   - **Skills:** Python, Vue.js, CSS, Machine Learning
+   - **Experience:** Junior Developer at CodeCrafters
+   - **Education:** Bachelor in Physics from Business School
+   - **References:** Sam Wu, Analyst, walter_chen@example.com
+Victoria Lopez, Engineer, ivy_kumar@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** walter_kumar@example.com, City, Inno Haven
+   - **Projects:** Developed the Groundbreaking Platform for Solving Data Analysis
+

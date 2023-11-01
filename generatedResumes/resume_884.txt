@@ -1,0 +1,10 @@
+884. **Name:** Charlie Chen
+   - **Skills:** Blockchain, AR/VR Development, Vue.js, IoT
+   - **Experience:** Junior Scientist at InnovativeTech
+   - **Education:** Master in Business Administration from Inno Institute
+   - **References:** Patrick Smith, CEO, katherine_white@example.com
+Rachel Suzuki, Analyst, xena_miller@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** frank_white@example.com, Village, Data Haven
+   - **Projects:** Contributed to the Cutting-edge App for Streamlining Problem-solving
+

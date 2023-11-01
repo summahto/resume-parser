@@ -1,10 +1,10 @@
-**Name:** Galactic Giggler
-- **Skills:** Interstellar Jokes, Cosmic Comedy, Nebula Nonsense
-- **Experience:** Head Comic at the Laugh Galaxy Comedy Club, Nebula Nonsense Specialist
-- **Education:** Comedy Cosmos College, School of Galactic Giggles
-- **References:**
-- Giggle General, Laughter Luminary, giggle.general@email.com
-- Nebula Nonsensical, Cosmic Comic, nebula.nonsensical@email.com
-- **Volunteering:** Giggles for Good, Comedy for a Cause
-- **Contact Information:** galactic.giggler@email.com, Giggle Guild, Chuckleburg
+30. **Name:** Eva Jackson
+   - **Skills:** CSS, Angular, iOS Development, Graphic Design
+   - **Experience:** Junior Developer at TechInnovate
+   - **Education:** Bachelor in Data Science from Data Science School
+   - **References:** Grace López, Developer, yuki_singh@example.com
+Nathan Patel, Designer, patrick_lee@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** nathan_kumar@example.com, City, Techtopia
+   - **Projects:** Led the Revolutionary System for Optimizing Business Processes
 

@@ -1,0 +1,10 @@
+3994. **Name:** Grace Nguyen
+   - **Skills:** Node.js, Vue.js, Cloud Computing, IoT
+   - **Experience:** Junior Analyst at CodeCrafters
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Alice Nguyen, Scientist, henry_cruz@example.com
+Yuki Gupta, CEO, tina_wu@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** victoria_chen@example.com, Town, Artopia
+   - **Projects:** Contributed to the Revolutionary Platform for Solving Business Processes
+

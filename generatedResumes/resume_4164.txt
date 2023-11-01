@@ -1,0 +1,10 @@
+4164. **Name:** Sam Smith
+   - **Skills:** Node.js, Git, Cloud Computing, Java
+   - **Experience:** Lead Engineer at DataInnovators
+   - **Education:** Bachelor in Business Administration from Inno Institute
+   - **References:** Henry Smith, CEO, victoria_kumar@example.com
+Alice White, Manager, eva_johnson@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** mia_gupta@example.com, City, Data City
+   - **Projects:** Contributed to the Revolutionary App for Solving Problem-solving
+

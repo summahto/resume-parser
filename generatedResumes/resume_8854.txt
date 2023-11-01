@@ -1,0 +1,10 @@
+8854. **Name:** Xena Jackson
+   - **Skills:** Agile, Java, iOS Development, Cloud Computing
+   - **Experience:** Senior Developer at DigitalSolutions
+   - **Education:** Ph.D. in Physics from Business School
+   - **References:** Victoria Miller, Analyst, walter_smith@example.com
+Tina Silva, Manager, ivy_jones@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** patrick_chen@example.com, City, Techtopia
+   - **Projects:** Contributed to the Cutting-edge App for Streamlining Business Processes
+

@@ -1,0 +1,10 @@
+4255. **Name:** Charlie Patel
+   - **Skills:** JavaScript, CSS, Python, Git
+   - **Experience:** Senior Developer at CreativeSolutions
+   - **Education:** Ph.D. in Art from Tech University
+   - **References:** Jack Cruz, Manager, charlie_rodriguez@example.com
+Zane Silva, CTO, olivia_kumar@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** victoria_lee@example.com, Village, Data City
+   - **Projects:** Contributed to the Cutting-edge App for Enhancing User Experience
+

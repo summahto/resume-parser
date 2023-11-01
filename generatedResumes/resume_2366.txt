@@ -1,0 +1,10 @@
+2366. **Name:** Quinn Gupta
+   - **Skills:** C#, CSS, Python, Big Data
+   - **Experience:** Lead Manager at TechCorp
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Katherine Kim, Manager, bob_white@example.com
+Rachel Yamamoto, Developer, charlie_wu@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** leo_nguyen@example.com, City, Innovation Meadows
+   - **Projects:** Developed the Cutting-edge Framework for Solving User Experience
+

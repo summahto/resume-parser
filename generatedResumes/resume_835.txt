@@ -1,0 +1,10 @@
+835. **Name:** Olivia Nguyen
+   - **Skills:** CSS, HTML, UI/UX Design, Vue.js
+   - **Experience:** Lead Manager at InnoSolutions
+   - **Education:** Bachelor in Physics from Business School
+   - **References:** Walter Müller, Engineer, rachel_kumar@example.com
+Alice White, Engineer, ivy_taylor@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** zane_johnson@example.com, Town, Innoville
+   - **Projects:** Developed the Innovative System for Streamlining Data Analysis
+

@@ -1,0 +1,10 @@
+4920. **Name:** Xena Jackson
+   - **Skills:** Data Analysis, Swift, Android Development, Vue.js
+   - **Experience:** Senior Designer at DigitalSolutions
+   - **Education:** Bachelor in Business Administration from Inno Institute
+   - **References:** Bob Kim, Director, jack_rodriguez@example.com
+Frank Li, Scientist, ivy_lopez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** leo_li@example.com, Town, Data City
+   - **Projects:** Contributed to the Cutting-edge App for Optimizing Problem-solving
+

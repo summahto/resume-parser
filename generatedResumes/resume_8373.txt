@@ -1,0 +1,10 @@
+8373. **Name:** Patrick Gupta
+   - **Skills:** Android Development, CSS, Angular, Java
+   - **Experience:** Junior Designer at DataInnovators
+   - **Education:** Master in Computer Science from Creative Arts College
+   - **References:** Quinn Brown, CTO, zane_wu@example.com
+Grace Rodriguez, Engineer, ulysses_miller@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** victoria_lopez@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Innovative App for Enhancing Collaboration
+

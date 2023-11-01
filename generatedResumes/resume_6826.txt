@@ -1,0 +1,10 @@
+6826. **Name:** David Rodriguez
+   - **Skills:** JavaScript, Blockchain, AR/VR Development, Swift
+   - **Experience:** Senior Engineer at DataInnovators
+   - **Education:** Master in Data Science from Data Science School
+   - **References:** Tina Brown, CTO, olivia_kumar@example.com
+Rachel López, Director, eva_chen@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** ivy_garcia@example.com, Village, Artopia
+   - **Projects:** Developed the Cutting-edge App for Enhancing Problem-solving
+

@@ -1,0 +1,10 @@
+5177. **Name:** Sam Gupta
+   - **Skills:** iOS Development, Node.js, Git, Data Analysis
+   - **Experience:** Lead Scientist at InnoSolutions
+   - **Education:** Master in Computer Science from Inno Institute
+   - **References:** Ulysses Rodriguez, Manager, ivy_singh@example.com
+Ivy Smith, Developer, quinn_kumar@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** tina_lópez@example.com, Town, Innoville
+   - **Projects:** Contributed to the Innovative Framework for Streamlining Problem-solving
+

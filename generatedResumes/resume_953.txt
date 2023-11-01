@@ -1,0 +1,10 @@
+953. **Name:** Frank White
+   - **Skills:** HTML, Git, Node.js, Cybersecurity
+   - **Experience:** Junior Manager at TechInnovate
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Ivy Yamamoto, Lead, tina_jones@example.com
+Yuki Kim, CTO, victoria_patel@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** patrick_cruz@example.com, Village, Data City
+   - **Projects:** Led the Innovative Platform for Solving Collaboration
+

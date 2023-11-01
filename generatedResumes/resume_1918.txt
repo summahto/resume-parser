@@ -1,0 +1,10 @@
+1918. **Name:** Frank Garcia
+   - **Skills:** iOS Development, Graphic Design, Machine Learning, Cybersecurity
+   - **Experience:** Junior Manager at CreativeSolutions
+   - **Education:** Master in Engineering from Data Science School
+   - **References:** Eva Miller, CTO, ivy_white@example.com
+Olivia Silva, Lead, zane_wang@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** grace_jones@example.com, Village, Green Valley
+   - **Projects:** Led the Groundbreaking App for Solving Business Processes
+

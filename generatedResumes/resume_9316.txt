@@ -1,0 +1,10 @@
+9316. **Name:** Grace Nguyen
+   - **Skills:** Android Development, Big Data, Node.js, Java
+   - **Experience:** Senior Manager at DataExperts
+   - **Education:** Bachelor in Engineering from Inno Institute
+   - **References:** Charlie Silva, Lead, nathan_suzuki@example.com
+Alice López, Analyst, charlie_lee@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** sam_miller@example.com, Town, Techland
+   - **Projects:** Developed the Cutting-edge Project for Optimizing Collaboration
+

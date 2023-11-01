@@ -1,0 +1,10 @@
+5317. **Name:** Jack Cruz
+   - **Skills:** Project Management, CSS, React, Blockchain
+   - **Experience:** Senior Designer at CreativeMinds
+   - **Education:** Ph.D. in Engineering from Physics Academy
+   - **References:** Leo White, CTO, xena_wu@example.com
+Nathan Garcia, Engineer, alice_kumar@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** alice_garcia@example.com, Town, Techland
+   - **Projects:** Developed the Innovative Framework for Enhancing Business Processes
+

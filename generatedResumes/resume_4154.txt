@@ -1,0 +1,10 @@
+4154. **Name:** Ivy Miller
+   - **Skills:** Graphic Design, AR/VR Development, Swift, Vue.js
+   - **Experience:** Lead Manager at InnoSolutions
+   - **Education:** Master in Data Science from Inno Institute
+   - **References:** Quinn Jones, Director, grace_hernandez@example.com
+Charlie Wu, Director, henry_silva@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** grace_chen@example.com, Village, Inno Haven
+   - **Projects:** Contributed to the Groundbreaking Platform for Streamlining Problem-solving
+

@@ -1,0 +1,10 @@
+8303. **Name:** Charlie Kim
+   - **Skills:** Android Development, HTML, CSS, IoT
+   - **Experience:** Senior Engineer at CodeCrafters
+   - **Education:** Master in Art from Inno Institute
+   - **References:** Alice Cruz, Manager, rachel_brown@example.com
+Ulysses Li, Scientist, frank_davis@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** mia_williams@example.com, City, Data Haven
+   - **Projects:** Contributed to the Cutting-edge App for Solving Problem-solving
+

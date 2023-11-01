@@ -1,0 +1,10 @@
+4295. **Name:** Mia Jackson
+   - **Skills:** DevOps, Machine Learning, Python, Project Management
+   - **Experience:** Senior Analyst at DigitalSolutions
+   - **Education:** Bachelor in Computer Science from Business School
+   - **References:** Jack López, Engineer, olivia_kumar@example.com
+Jack Patel, Scientist, bob_wu@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** ivy_lopez@example.com, City, Artopia
+   - **Projects:** Contributed to the Cutting-edge Framework for Optimizing Data Analysis
+

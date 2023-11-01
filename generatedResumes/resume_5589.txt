@@ -1,0 +1,10 @@
+5589. **Name:** Zane Lopez
+   - **Skills:** Cybersecurity, C#, Big Data, Node.js
+   - **Experience:** Senior Engineer at TechInnovate
+   - **Education:** Bachelor in Art from Tech University
+   - **References:** Xena Nguyen, Designer, quinn_cruz@example.com
+Katherine Kumar, Designer, quinn_wang@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** mia_lee@example.com, Village, Inno Haven
+   - **Projects:** Led the Cutting-edge Platform for Enhancing Problem-solving
+

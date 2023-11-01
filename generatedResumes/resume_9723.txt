@@ -1,0 +1,10 @@
+9723. **Name:** Mia Rodriguez
+   - **Skills:** C#, IoT, Vue.js, React
+   - **Experience:** Senior Analyst at CodeCrafters
+   - **Education:** Bachelor in Data Science from Tech University
+   - **References:** Nathan White, Analyst, sam_patel@example.com
+Eva Lee, Designer, xena_rodriguez@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** henry_sato@example.com, City, Techland
+   - **Projects:** Led the Groundbreaking Platform for Solving Data Analysis
+

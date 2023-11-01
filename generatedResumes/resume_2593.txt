@@ -1,0 +1,10 @@
+2593. **Name:** Ivy Kumar
+   - **Skills:** Project Management, JavaScript, HTML, Data Analysis
+   - **Experience:** Lead Designer at CodeCrafters
+   - **Education:** Master in Engineering from Inno Institute
+   - **References:** Patrick Nguyen, Analyst, sam_garcia@example.com
+David Singh, Manager, katherine_garcia@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** ivy_chen@example.com, Town, Artopia
+   - **Projects:** Developed the Cutting-edge App for Optimizing Data Analysis
+

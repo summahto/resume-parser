@@ -1,0 +1,10 @@
+5729. **Name:** Olivia Garcia
+   - **Skills:** Docker, Data Analysis, Python, Big Data
+   - **Experience:** Senior Engineer at CodeCrafters
+   - **Education:** Ph.D. in Data Science from Creative Arts College
+   - **References:** Rachel Yamamoto, CEO, frank_rodriguez@example.com
+Ulysses López, Manager, patrick_yamamoto@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** ulysses_rodriguez@example.com, Village, Techland
+   - **Projects:** Contributed to the Innovative Framework for Streamlining Collaboration
+

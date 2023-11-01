@@ -1,0 +1,10 @@
+2377. **Name:** Olivia White
+   - **Skills:** IoT, Big Data, Java, C#
+   - **Experience:** Junior Analyst at DataExperts
+   - **Education:** Bachelor in Engineering from Physics Academy
+   - **References:** Alice White, Lead, charlie_garcia@example.com
+Alice Nguyen, Engineer, henry_lopez@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** yuki_smith@example.com, Village, Inno Haven
+   - **Projects:** Led the Innovative App for Optimizing User Experience
+

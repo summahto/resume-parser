@@ -1,0 +1,10 @@
+2025. **Name:** Charlie Silva
+   - **Skills:** Cybersecurity, Big Data, IoT, Angular
+   - **Experience:** Lead Analyst at TechInnovate
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Mia Lee, Engineer, xena_garcia@example.com
+Rachel Lee, CEO, henry_jackson@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** zane_rodriguez@example.com, City, Innovation Meadows
+   - **Projects:** Developed the Groundbreaking App for Streamlining Business Processes
+

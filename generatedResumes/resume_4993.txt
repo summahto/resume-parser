@@ -1,0 +1,10 @@
+4993. **Name:** Mia Jackson
+   - **Skills:** Node.js, iOS Development, Git, SQL
+   - **Experience:** Lead Developer at InnoSolutions
+   - **Education:** Master in Business Administration from Creative Arts College
+   - **References:** Yuki Kumar, Manager, ivy_kumar@example.com
+Bob Taylor, Lead, grace_davis@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** tina_silva@example.com, Village, Innovation Meadows
+   - **Projects:** Contributed to the Innovative System for Solving Problem-solving
+

@@ -1,0 +1,10 @@
+877. **Name:** Charlie Garcia
+   - **Skills:** Angular, Swift, Project Management, iOS Development
+   - **Experience:** Lead Manager at DigitalSolutions
+   - **Education:** Bachelor in Business Administration from Data Science School
+   - **References:** Grace Wang, Scientist, yuki_jones@example.com
+Katherine Brown, Engineer, ulysses_silva@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** zane_brown@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Groundbreaking Project for Optimizing User Experience
+

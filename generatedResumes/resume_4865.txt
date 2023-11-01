@@ -1,0 +1,10 @@
+4865. **Name:** Ivy Chen
+   - **Skills:** Machine Learning, Project Management, Graphic Design, Network Administration
+   - **Experience:** Lead Analyst at DataInnovators
+   - **Education:** Bachelor in Data Science from Tech University
+   - **References:** Grace Wu, Coordinator, olivia_wang@example.com
+Ivy Silva, Manager, henry_lee@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** grace_yamamoto@example.com, City, Scienceburg
+   - **Projects:** Led the Cutting-edge Platform for Streamlining Collaboration
+

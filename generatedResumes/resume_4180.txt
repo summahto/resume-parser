@@ -1,0 +1,10 @@
+4180. **Name:** Leo Taylor
+   - **Skills:** iOS Development, Big Data, Cybersecurity, Project Management
+   - **Experience:** Senior Designer at DataExperts
+   - **Education:** Ph.D. in Physics from Creative Arts College
+   - **References:** Mia Rodriguez, Scientist, xena_nguyen@example.com
+Xena López, Designer, bob_brown@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** walter_smith@example.com, City, Data City
+   - **Projects:** Developed the Cutting-edge System for Optimizing Business Processes
+

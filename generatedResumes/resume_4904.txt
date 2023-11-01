@@ -1,0 +1,10 @@
+4904. **Name:** Mia Garcia
+   - **Skills:** SQL, Project Management, Data Analysis, Machine Learning
+   - **Experience:** Junior Designer at TechInnovate
+   - **Education:** Bachelor in Art from Tech University
+   - **References:** Quinn Jones, CEO, walter_cruz@example.com
+Sam Taylor, Engineer, tina_rodriguez@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** jack_silva@example.com, Village, Techland
+   - **Projects:** Developed the Revolutionary Platform for Streamlining User Experience
+

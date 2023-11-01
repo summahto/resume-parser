@@ -1,0 +1,10 @@
+7145. **Name:** Zane Garcia
+   - **Skills:** Node.js, React, Docker, Blockchain
+   - **Experience:** Lead Scientist at CreativeMinds
+   - **Education:** Master in Physics from Creative Arts College
+   - **References:** Leo López, Coordinator, yuki_white@example.com
+Henry Wang, CTO, katherine_cruz@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** charlie_nguyen@example.com, Village, Scienceburg
+   - **Projects:** Contributed to the Groundbreaking Platform for Optimizing Data Analysis
+

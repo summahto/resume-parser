@@ -1,0 +1,10 @@
+623. **Name:** Charlie Kumar
+   - **Skills:** DevOps, Big Data, IoT, React
+   - **Experience:** Lead Scientist at TechInnovate
+   - **Education:** Master in Engineering from Physics Academy
+   - **References:** Jack Yamamoto, Coordinator, alice_lee@example.com
+Rachel Smith, Designer, victoria_patel@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** ulysses_wu@example.com, Town, Scienceburg
+   - **Projects:** Developed the Revolutionary App for Optimizing Collaboration
+

@@ -1,0 +1,10 @@
+4385. **Name:** Ivy Gupta
+   - **Skills:** Data Analysis, HTML, DevOps, Cybersecurity
+   - **Experience:** Lead Analyst at CreativeMinds
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Grace White, Lead, leo_wang@example.com
+Grace Nguyen, Engineer, tina_garcia@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** mia_jackson@example.com, Town, Green Valley
+   - **Projects:** Contributed to the Revolutionary Framework for Solving Business Processes
+

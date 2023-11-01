@@ -1,0 +1,10 @@
+6166. **Name:** Zane Lopez
+   - **Skills:** Cybersecurity, Machine Learning, Git, Network Administration
+   - **Experience:** Junior Engineer at TechInnovate
+   - **Education:** Master in Business Administration from Data Science School
+   - **References:** Katherine Wu, Director, alice_white@example.com
+Eva Chen, Analyst, xena_lópez@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** quinn_kim@example.com, Town, Techland
+   - **Projects:** Led the Cutting-edge Platform for Streamlining Collaboration
+

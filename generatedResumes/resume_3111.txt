@@ -1,0 +1,10 @@
+3111. **Name:** Frank White
+   - **Skills:** Project Management, AR/VR Development, Kubernetes, UI/UX Design
+   - **Experience:** Lead Scientist at CodeCrafters
+   - **Education:** Ph.D. in Business Administration from Data Science School
+   - **References:** Victoria Silva, CTO, quinn_rodriguez@example.com
+Patrick Chen, Engineer, katherine_kim@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** eva_garcia@example.com, Village, Inno Haven
+   - **Projects:** Led the Innovative Project for Solving Problem-solving
+

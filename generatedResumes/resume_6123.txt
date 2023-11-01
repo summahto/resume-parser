@@ -1,0 +1,10 @@
+6123. **Name:** Jack Kim
+   - **Skills:** Swift, Big Data, AR/VR Development, Cybersecurity
+   - **Experience:** Senior Engineer at CodeCrafters
+   - **Education:** Ph.D. in Art from Inno Institute
+   - **References:** Patrick Miller, Director, nathan_miller@example.com
+Victoria Wang, Designer, ivy_rodriguez@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** victoria_silva@example.com, Village, Innovation Meadows
+   - **Projects:** Led the Revolutionary Platform for Enhancing Problem-solving
+

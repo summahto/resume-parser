@@ -1,0 +1,10 @@
+8458. **Name:** Alice White
+   - **Skills:** IoT, Project Management, Docker, Graphic Design
+   - **Experience:** Lead Engineer at DataExperts
+   - **Education:** Master in Computer Science from Inno Institute
+   - **References:** Zane Wang, Developer, alice_cruz@example.com
+Henry Chen, Scientist, jack_lee@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** zane_cruz@example.com, Village, Techtopia
+   - **Projects:** Developed the Groundbreaking Framework for Optimizing Business Processes
+

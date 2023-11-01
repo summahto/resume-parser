@@ -1,0 +1,10 @@
+4560. **Name:** Alice Brown
+   - **Skills:** C#, Cybersecurity, Swift, Android Development
+   - **Experience:** Lead Designer at CreativeSolutions
+   - **Education:** Bachelor in Data Science from Tech University
+   - **References:** Ivy Gupta, Lead, quinn_nguyen@example.com
+Charlie Smith, Manager, walter_li@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** frank_gupta@example.com, Village, Artopia
+   - **Projects:** Contributed to the Revolutionary Framework for Enhancing User Experience
+

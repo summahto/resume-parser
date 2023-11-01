@@ -1,0 +1,10 @@
+4526. **Name:** David Garcia
+   - **Skills:** React, AR/VR Development, Angular, Cybersecurity
+   - **Experience:** Junior Engineer at DataExperts
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** Quinn Miller, Engineer, david_garcia@example.com
+Tina Garcia, CEO, mia_brown@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** bob_nguyen@example.com, City, Techtopia
+   - **Projects:** Led the Cutting-edge Framework for Solving Problem-solving
+

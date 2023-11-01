@@ -1,0 +1,10 @@
+4328. **Name:** Charlie Lee
+   - **Skills:** C#, React, Swift, Kubernetes
+   - **Experience:** Junior Engineer at CreativeMinds
+   - **Education:** Bachelor in Engineering from Inno Institute
+   - **References:** Frank Garcia, Director, mia_silva@example.com
+Leo Miller, Director, charlie_nguyen@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** rachel_lee@example.com, Village, Artopia
+   - **Projects:** Contributed to the Innovative Platform for Optimizing Business Processes
+

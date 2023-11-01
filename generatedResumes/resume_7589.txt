@@ -1,0 +1,10 @@
+7589. **Name:** Tina Nguyen
+   - **Skills:** Data Analysis, Swift, UI/UX Design, Project Management
+   - **Experience:** Senior Developer at DataExperts
+   - **Education:** Bachelor in Business Administration from Tech University
+   - **References:** Yuki Jones, CEO, grace_li@example.com
+Nathan Nguyen, Engineer, zane_brown@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** charlie_jackson@example.com, Town, Artopia
+   - **Projects:** Developed the Cutting-edge System for Optimizing Data Analysis
+

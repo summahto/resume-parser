@@ -1,0 +1,10 @@
+6242. **Name:** Quinn Kumar
+   - **Skills:** Angular, DevOps, Git, Graphic Design
+   - **Experience:** Lead Manager at DataInnovators
+   - **Education:** Bachelor in Computer Science from Inno Institute
+   - **References:** Charlie Cruz, Engineer, alice_chen@example.com
+Charlie Nguyen, Scientist, xena_nguyen@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** leo_brown@example.com, City, Inno Haven
+   - **Projects:** Contributed to the Cutting-edge Project for Solving Data Analysis
+

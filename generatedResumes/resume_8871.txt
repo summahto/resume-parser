@@ -1,0 +1,10 @@
+8871. **Name:** David Yamamoto
+   - **Skills:** DevOps, SQL, C#, Machine Learning
+   - **Experience:** Junior Scientist at InnovativeTech
+   - **Education:** Bachelor in Computer Science from Inno Institute
+   - **References:** Leo Chen, Analyst, grace_singh@example.com
+Leo Wang, Designer, zane_cruz@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** eva_brown@example.com, Village, Inno Haven
+   - **Projects:** Developed the Cutting-edge System for Solving User Experience
+

@@ -1,0 +1,10 @@
+9540. **Name:** Frank Silva
+   - **Skills:** IoT, Network Administration, UI/UX Design, JavaScript
+   - **Experience:** Lead Engineer at CreativeMinds
+   - **Education:** Ph.D. in Business Administration from Data Science School
+   - **References:** Henry Lopez, Developer, xena_suzuki@example.com
+Leo White, Engineer, nathan_wu@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** sam_chen@example.com, City, Scienceburg
+   - **Projects:** Contributed to the Revolutionary Project for Solving Data Analysis
+

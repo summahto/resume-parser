@@ -1,0 +1,10 @@
+6285. **Name:** Frank Lee
+   - **Skills:** Python, Docker, AR/VR Development, Blockchain
+   - **Experience:** Lead Scientist at CreativeMinds
+   - **Education:** Master in Physics from Tech University
+   - **References:** Walter Rodriguez, Engineer, alice_taylor@example.com
+Charlie Jackson, Coordinator, quinn_wang@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** yuki_miller@example.com, Town, Techland
+   - **Projects:** Contributed to the Innovative Project for Enhancing Business Processes
+

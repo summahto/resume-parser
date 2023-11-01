@@ -1,0 +1,10 @@
+6396. **Name:** Leo Wang
+   - **Skills:** iOS Development, Cloud Computing, Swift, Git
+   - **Experience:** Junior Developer at DigitalSolutions
+   - **Education:** Ph.D. in Data Science from Creative Arts College
+   - **References:** Frank Wang, Lead, olivia_hernandez@example.com
+Alice Jackson, Scientist, jack_suzuki@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** yuki_wang@example.com, City, Techland
+   - **Projects:** Developed the Groundbreaking System for Streamlining Collaboration
+

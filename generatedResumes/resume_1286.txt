@@ -1,0 +1,10 @@
+1286. **Name:** Ivy Miller
+   - **Skills:** Node.js, Vue.js, UI/UX Design, Kubernetes
+   - **Experience:** Lead Developer at DataExperts
+   - **Education:** Master in Art from Tech University
+   - **References:** Victoria López, Coordinator, sam_taylor@example.com
+Tina Nguyen, Designer, david_jones@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** olivia_cruz@example.com, City, Techland
+   - **Projects:** Led the Innovative Platform for Solving User Experience
+

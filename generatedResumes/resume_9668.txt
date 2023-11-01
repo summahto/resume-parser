@@ -1,0 +1,10 @@
+9668. **Name:** David Chen
+   - **Skills:** React, Android Development, Project Management, UI/UX Design
+   - **Experience:** Junior Engineer at InnoSolutions
+   - **Education:** Master in Data Science from Data Science School
+   - **References:** Xena Sato, Coordinator, sam_lopez@example.com
+Victoria Garcia, CTO, rachel_taylor@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** charlie_garcia@example.com, City, Techtopia
+   - **Projects:** Developed the Cutting-edge Project for Solving Problem-solving
+

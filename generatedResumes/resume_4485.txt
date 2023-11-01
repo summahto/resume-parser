@@ -1,0 +1,10 @@
+4485. **Name:** Olivia Jackson
+   - **Skills:** IoT, Graphic Design, Big Data, Java
+   - **Experience:** Senior Analyst at DataExperts
+   - **Education:** Ph.D. in Art from Inno Institute
+   - **References:** Frank Nguyen, Director, frank_sato@example.com
+Charlie White, Developer, rachel_gupta@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** ivy_miller@example.com, Town, Innoville
+   - **Projects:** Contributed to the Innovative Project for Streamlining Collaboration
+

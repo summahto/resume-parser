@@ -1,0 +1,10 @@
+4038. **Name:** Sam White
+   - **Skills:** Machine Learning, C#, React, JavaScript
+   - **Experience:** Junior Designer at DataExperts
+   - **Education:** Bachelor in Engineering from Data Science School
+   - **References:** Leo Davis, Scientist, jack_lee@example.com
+Henry Johnson, Engineer, ulysses_jackson@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** leo_brown@example.com, Village, Artopia
+   - **Projects:** Developed the Cutting-edge Platform for Enhancing Problem-solving
+

@@ -1,0 +1,10 @@
+5376. **Name:** Yuki Patel
+   - **Skills:** UI/UX Design, C#, Git, Machine Learning
+   - **Experience:** Junior Manager at DataExperts
+   - **Education:** Ph.D. in Business Administration from Creative Arts College
+   - **References:** Nathan Kim, Director, quinn_white@example.com
+Patrick Taylor, Scientist, sam_jones@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** nathan_lee@example.com, Village, Green Valley
+   - **Projects:** Developed the Groundbreaking Framework for Optimizing User Experience
+

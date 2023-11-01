@@ -1,0 +1,10 @@
+3769. **Name:** Olivia Gupta
+   - **Skills:** DevOps, Data Analysis, Node.js, Project Management
+   - **Experience:** Lead Scientist at CreativeSolutions
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Katherine Gupta, CTO, ulysses_lopez@example.com
+Sam Garcia, Coordinator, sam_silva@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** henry_jones@example.com, Town, Scienceburg
+   - **Projects:** Developed the Cutting-edge Platform for Solving Business Processes
+

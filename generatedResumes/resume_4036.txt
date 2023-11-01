@@ -1,0 +1,10 @@
+4036. **Name:** Olivia Wang
+   - **Skills:** Git, C#, Java, Blockchain
+   - **Experience:** Senior Designer at CreativeMinds
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Eva Kumar, Engineer, alice_miller@example.com
+Tina Brown, Analyst, eva_gupta@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** leo_suzuki@example.com, Village, Techland
+   - **Projects:** Developed the Revolutionary Project for Enhancing Problem-solving
+

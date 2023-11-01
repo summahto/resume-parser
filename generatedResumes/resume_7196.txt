@@ -1,0 +1,10 @@
+7196. **Name:** Alice Cruz
+   - **Skills:** IoT, Network Administration, Java, Angular
+   - **Experience:** Lead Manager at InnovativeTech
+   - **Education:** Bachelor in Computer Science from Physics Academy
+   - **References:** Quinn Gonzalez, CEO, frank_white@example.com
+Charlie Jackson, Engineer, sam_silva@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** olivia_jones@example.com, City, Green Valley
+   - **Projects:** Contributed to the Revolutionary Project for Streamlining Data Analysis
+

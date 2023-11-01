@@ -1,0 +1,10 @@
+7523. **Name:** Charlie Cruz
+   - **Skills:** Java, C#, DevOps, IoT
+   - **Experience:** Lead Designer at DataExperts
+   - **Education:** Master in Computer Science from Business School
+   - **References:** Ulysses Chen, Engineer, patrick_white@example.com
+Ivy Lee, Manager, alice_rodriguez@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** bob_kumar@example.com, City, Techtopia
+   - **Projects:** Led the Groundbreaking Framework for Enhancing User Experience
+

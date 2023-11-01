@@ -1,0 +1,10 @@
+894. **Name:** Yuki Jackson
+   - **Skills:** IoT, Android Development, Docker, C#
+   - **Experience:** Senior Scientist at CreativeMinds
+   - **Education:** Master in Art from Business School
+   - **References:** Mia Kim, Manager, patrick_garcia@example.com
+Alice Brown, Manager, grace_kim@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** jack_kim@example.com, Town, Artopia
+   - **Projects:** Developed the Revolutionary App for Streamlining Data Analysis
+

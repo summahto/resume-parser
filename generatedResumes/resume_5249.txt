@@ -1,0 +1,10 @@
+5249. **Name:** Leo Jackson
+   - **Skills:** Agile, Kubernetes, Network Administration, Big Data
+   - **Experience:** Junior Scientist at TechInnovate
+   - **Education:** Master in Business Administration from Creative Arts College
+   - **References:** Charlie Kumar, Lead, david_lee@example.com
+Frank Lopez, CTO, ulysses_gonzalez@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** ivy_smith@example.com, Village, Inno Haven
+   - **Projects:** Contributed to the Groundbreaking App for Optimizing Problem-solving
+

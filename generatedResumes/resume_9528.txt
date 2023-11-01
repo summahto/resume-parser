@@ -1,0 +1,10 @@
+9528. **Name:** Nathan Brown
+   - **Skills:** Docker, Graphic Design, Angular, HTML
+   - **Experience:** Junior Developer at DigitalSolutions
+   - **Education:** Bachelor in Computer Science from Business School
+   - **References:** Ivy White, CEO, quinn_nguyen@example.com
+Ulysses Wu, CEO, ulysses_johnson@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** jack_singh@example.com, City, Green Valley
+   - **Projects:** Developed the Revolutionary Project for Optimizing Business Processes
+

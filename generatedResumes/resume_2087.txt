@@ -1,0 +1,10 @@
+2087. **Name:** Zane Lopez
+   - **Skills:** IoT, Network Administration, C#, Agile
+   - **Experience:** Lead Scientist at CreativeSolutions
+   - **Education:** Ph.D. in Computer Science from Inno Institute
+   - **References:** Sam Chen, Coordinator, tina_nguyen@example.com
+Olivia Wang, Lead, rachel_lee@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** charlie_wu@example.com, City, Techtopia
+   - **Projects:** Contributed to the Revolutionary System for Optimizing Business Processes
+

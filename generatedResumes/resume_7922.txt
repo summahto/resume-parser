@@ -1,0 +1,10 @@
+7922. **Name:** Leo Patel
+   - **Skills:** Big Data, Agile, iOS Development, Blockchain
+   - **Experience:** Junior Analyst at DataInnovators
+   - **Education:** Master in Computer Science from Tech University
+   - **References:** Walter Cruz, Developer, patrick_kim@example.com
+Jack Lee, Designer, patrick_chen@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** frank_white@example.com, City, Green Valley
+   - **Projects:** Led the Innovative System for Optimizing Collaboration
+

@@ -1,0 +1,10 @@
+1349. **Name:** Bob Nguyen
+   - **Skills:** Blockchain, IoT, AR/VR Development, DevOps
+   - **Experience:** Senior Designer at CodeCrafters
+   - **Education:** Ph.D. in Computer Science from Business School
+   - **References:** Jack Gupta, Analyst, bob_johnson@example.com
+Ivy Brown, Engineer, quinn_jackson@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** ulysses_wang@example.com, Village, Data City
+   - **Projects:** Contributed to the Revolutionary System for Enhancing Collaboration
+

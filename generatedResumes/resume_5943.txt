@@ -1,0 +1,10 @@
+5943. **Name:** Ivy López
+   - **Skills:** iOS Development, SQL, Swift, Git
+   - **Experience:** Senior Designer at CreativeSolutions
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Walter Nguyen, Designer, sam_yamamoto@example.com
+Eva Cruz, Director, bob_patel@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** katherine_davis@example.com, Town, Green Valley
+   - **Projects:** Developed the Cutting-edge Project for Optimizing Data Analysis
+

@@ -1,0 +1,10 @@
+9133. **Name:** Charlie Miller
+   - **Skills:** Big Data, Agile, Cloud Computing, Android Development
+   - **Experience:** Junior Manager at DigitalSolutions
+   - **Education:** Master in Physics from Business School
+   - **References:** Tina Wu, Coordinator, walter_taylor@example.com
+Quinn Lee, Coordinator, mia_wu@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** david_wang@example.com, City, Artopia
+   - **Projects:** Led the Revolutionary Platform for Streamlining Data Analysis
+

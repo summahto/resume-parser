@@ -1,0 +1,10 @@
+8149. **Name:** Eva Kumar
+   - **Skills:** Data Analysis, C#, Node.js, Vue.js
+   - **Experience:** Senior Designer at DigitalSolutions
+   - **Education:** Master in Computer Science from Creative Arts College
+   - **References:** Leo White, Director, david_white@example.com
+Olivia Garcia, Developer, xena_miller@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** frank_wang@example.com, Town, Data City
+   - **Projects:** Developed the Revolutionary System for Optimizing Data Analysis
+

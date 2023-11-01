@@ -1,0 +1,10 @@
+4161. **Name:** Quinn Lee
+   - **Skills:** SQL, Network Administration, Project Management, HTML
+   - **Experience:** Junior Scientist at InnoSolutions
+   - **Education:** Master in Business Administration from Physics Academy
+   - **References:** Bob White, Analyst, walter_smith@example.com
+Walter Lopez, Designer, henry_patel@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** victoria_wu@example.com, Village, Inno Haven
+   - **Projects:** Contributed to the Cutting-edge Framework for Streamlining Collaboration
+

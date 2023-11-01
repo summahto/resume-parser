@@ -1,0 +1,10 @@
+1445. **Name:** Rachel Miller
+   - **Skills:** DevOps, AR/VR Development, Swift, UI/UX Design
+   - **Experience:** Junior Analyst at DigitalSolutions
+   - **Education:** Bachelor in Engineering from Tech University
+   - **References:** Nathan Smith, Analyst, ivy_wu@example.com
+Sam Patel, Designer, victoria_wang@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** rachel_cruz@example.com, Town, Inno Haven
+   - **Projects:** Led the Cutting-edge Project for Optimizing Collaboration
+

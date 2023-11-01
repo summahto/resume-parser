@@ -1,0 +1,10 @@
+5960. **Name:** Bob Nguyen
+   - **Skills:** Graphic Design, Docker, C#, Network Administration
+   - **Experience:** Senior Manager at CreativeMinds
+   - **Education:** Ph.D. in Engineering from Data Science School
+   - **References:** Walter Lopez, Analyst, walter_nguyen@example.com
+Henry White, Coordinator, xena_wu@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** olivia_rodriguez@example.com, Village, Artopia
+   - **Projects:** Developed the Groundbreaking App for Optimizing Problem-solving
+

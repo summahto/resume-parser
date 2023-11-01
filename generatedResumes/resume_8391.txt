@@ -1,0 +1,10 @@
+8391. **Name:** Sam Kumar
+   - **Skills:** C#, React, Big Data, Swift
+   - **Experience:** Lead Engineer at DataExperts
+   - **Education:** Ph.D. in Computer Science from Creative Arts College
+   - **References:** Tina Sato, Lead, katherine_garcia@example.com
+Quinn Lopez, Analyst, tina_lee@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** quinn_lee@example.com, Town, Techland
+   - **Projects:** Led the Cutting-edge App for Solving Problem-solving
+

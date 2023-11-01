@@ -1,0 +1,10 @@
+218. **Name:** Leo Kumar
+   - **Skills:** Android Development, Graphic Design, Python, JavaScript
+   - **Experience:** Senior Designer at TechInnovate
+   - **Education:** Bachelor in Art from Inno Institute
+   - **References:** Henry Brown, Scientist, david_smith@example.com
+Ivy White, Lead, rachel_silva@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** rachel_silva@example.com, Town, Green Valley
+   - **Projects:** Developed the Cutting-edge System for Streamlining Business Processes
+

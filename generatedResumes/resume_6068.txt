@@ -1,0 +1,10 @@
+6068. **Name:** Katherine Lee
+   - **Skills:** Cloud Computing, UI/UX Design, Machine Learning, Network Administration
+   - **Experience:** Junior Designer at DigitalSolutions
+   - **Education:** Master in Engineering from Business School
+   - **References:** Frank Lopez, CEO, alice_garcia@example.com
+Alice Chen, Designer, katherine_cruz@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** olivia_lopez@example.com, City, Techland
+   - **Projects:** Developed the Groundbreaking Project for Enhancing Data Analysis
+

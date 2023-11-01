@@ -1,0 +1,10 @@
+5138. **Name:** Bob Jackson
+   - **Skills:** Angular, Vue.js, Kubernetes, Project Management
+   - **Experience:** Junior Designer at CodeCrafters
+   - **Education:** Master in Business Administration from Tech University
+   - **References:** Walter Rodriguez, Engineer, nathan_lee@example.com
+Katherine Garcia, Engineer, bob_cruz@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** quinn_li@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Innovative App for Optimizing User Experience
+

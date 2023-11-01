@@ -1,0 +1,10 @@
+6886. **Name:** Quinn Nguyen
+   - **Skills:** UI/UX Design, Graphic Design, Agile, SQL
+   - **Experience:** Junior Designer at CreativeSolutions
+   - **Education:** Bachelor in Data Science from Inno Institute
+   - **References:** Ulysses Johnson, Manager, zane_taylor@example.com
+Katherine Silva, Engineer, bob_lee@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** zane_garcia@example.com, City, Innovation Meadows
+   - **Projects:** Contributed to the Revolutionary Platform for Optimizing Business Processes
+

@@ -1,0 +1,10 @@
+5169. **Name:** Nathan Lee
+   - **Skills:** Big Data, Docker, Project Management, Network Administration
+   - **Experience:** Lead Engineer at CreativeSolutions
+   - **Education:** Ph.D. in Physics from Business School
+   - **References:** Henry Yamamoto, Scientist, charlie_chen@example.com
+Ivy Lee, Scientist, leo_silva@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** leo_jackson@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Cutting-edge Platform for Enhancing User Experience
+

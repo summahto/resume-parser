@@ -1,0 +1,10 @@
+2503. **Name:** David Lee
+   - **Skills:** IoT, Big Data, Java, Git
+   - **Experience:** Junior Scientist at CreativeSolutions
+   - **Education:** Bachelor in Physics from Tech University
+   - **References:** Yuki Smith, Scientist, ivy_miller@example.com
+Ivy Johnson, Scientist, patrick_brown@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** quinn_jones@example.com, Town, Green Valley
+   - **Projects:** Contributed to the Revolutionary App for Solving User Experience
+

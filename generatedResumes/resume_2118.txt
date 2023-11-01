@@ -1,0 +1,10 @@
+2118. **Name:** Zane White
+   - **Skills:** Big Data, Git, Docker, DevOps
+   - **Experience:** Lead Scientist at InnovativeTech
+   - **Education:** Ph.D. in Art from Inno Institute
+   - **References:** David Rodriguez, Engineer, eva_lópez@example.com
+Bob Chen, Engineer, david_rodriguez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** victoria_wu@example.com, Town, Scienceburg
+   - **Projects:** Led the Innovative Framework for Solving Collaboration
+

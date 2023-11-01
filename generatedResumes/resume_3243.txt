@@ -1,0 +1,10 @@
+3243. **Name:** David Rodriguez
+   - **Skills:** C#, SQL, Swift, Angular
+   - **Experience:** Junior Engineer at DataExperts
+   - **Education:** Ph.D. in Computer Science from Business School
+   - **References:** Frank Sato, Developer, henry_jackson@example.com
+Nathan Wu, Designer, olivia_wu@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** katherine_lopez@example.com, Town, Inno Haven
+   - **Projects:** Led the Cutting-edge Platform for Solving Collaboration
+

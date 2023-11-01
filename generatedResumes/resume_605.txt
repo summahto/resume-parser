@@ -1,0 +1,10 @@
+605. **Name:** Frank Wu
+   - **Skills:** Big Data, Java, DevOps, IoT
+   - **Experience:** Senior Analyst at CreativeSolutions
+   - **Education:** Ph.D. in Art from Tech University
+   - **References:** David Chen, CTO, ivy_taylor@example.com
+Henry Wu, Coordinator, eva_cruz@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** ivy_yamamoto@example.com, Village, Techtopia
+   - **Projects:** Developed the Revolutionary Platform for Solving Problem-solving
+

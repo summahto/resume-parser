@@ -1,0 +1,10 @@
+5356. **Name:** David Nguyen
+   - **Skills:** IoT, HTML, SQL, Agile
+   - **Experience:** Senior Developer at CreativeSolutions
+   - **Education:** Master in Physics from Inno Institute
+   - **References:** Nathan Jones, Engineer, david_nguyen@example.com
+Alice White, Scientist, charlie_lee@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** nathan_white@example.com, City, Inno Haven
+   - **Projects:** Contributed to the Innovative Project for Solving Problem-solving
+

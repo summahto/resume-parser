@@ -1,0 +1,10 @@
+3605. **Name:** Frank Rodriguez
+   - **Skills:** Swift, IoT, DevOps, Cybersecurity
+   - **Experience:** Junior Analyst at CodeCrafters
+   - **Education:** Master in Engineering from Creative Arts College
+   - **References:** Olivia Nguyen, CEO, quinn_kumar@example.com
+Tina Lee, Designer, bob_lopez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** bob_kumar@example.com, Village, Inno Haven
+   - **Projects:** Contributed to the Innovative System for Enhancing Business Processes
+

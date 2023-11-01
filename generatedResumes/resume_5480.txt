@@ -1,0 +1,10 @@
+5480. **Name:** Charlie Hernandez
+   - **Skills:** Cloud Computing, IoT, Angular, Vue.js
+   - **Experience:** Senior Scientist at InnovativeTech
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Quinn Chen, Engineer, sam_gupta@example.com
+Tina Chen, Engineer, zane_lópez@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** eva_garcia@example.com, Village, Techtopia
+   - **Projects:** Contributed to the Innovative Platform for Enhancing User Experience
+

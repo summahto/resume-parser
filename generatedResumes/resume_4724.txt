@@ -1,0 +1,10 @@
+4724. **Name:** Ivy Kim
+   - **Skills:** Agile, IoT, Graphic Design, Machine Learning
+   - **Experience:** Junior Developer at DigitalSolutions
+   - **Education:** Ph.D. in Engineering from Data Science School
+   - **References:** Rachel Kumar, Manager, alice_jackson@example.com
+Charlie Kim, Lead, victoria_davis@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** walter_wang@example.com, Town, Artopia
+   - **Projects:** Developed the Innovative App for Solving Business Processes
+

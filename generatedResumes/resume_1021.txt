@@ -1,0 +1,10 @@
+1021. **Name:** Jack Lopez
+   - **Skills:** Graphic Design, C#, Cybersecurity, iOS Development
+   - **Experience:** Lead Engineer at InnovativeTech
+   - **Education:** Ph.D. in Business Administration from Creative Arts College
+   - **References:** Patrick Wu, Developer, katherine_singh@example.com
+Rachel Wang, Developer, david_jones@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** victoria_garcia@example.com, Village, Techtopia
+   - **Projects:** Developed the Cutting-edge App for Optimizing Collaboration
+

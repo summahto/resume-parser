@@ -1,0 +1,10 @@
+1606. **Name:** Xena Gupta
+   - **Skills:** Java, Swift, Big Data, Python
+   - **Experience:** Junior Scientist at InnoSolutions
+   - **Education:** Ph.D. in Engineering from Creative Arts College
+   - **References:** Frank Smith, Engineer, tina_wu@example.com
+Charlie Jackson, Manager, frank_lopez@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** mia_nguyen@example.com, Town, Data Haven
+   - **Projects:** Led the Cutting-edge App for Streamlining Collaboration
+

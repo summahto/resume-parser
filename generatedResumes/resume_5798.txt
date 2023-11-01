@@ -1,0 +1,10 @@
+5798. **Name:** Katherine Gupta
+   - **Skills:** DevOps, Git, JavaScript, IoT
+   - **Experience:** Senior Analyst at CodeCrafters
+   - **Education:** Master in Data Science from Creative Arts College
+   - **References:** Tina Singh, Designer, leo_silva@example.com
+Grace Lee, Analyst, frank_davis@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** grace_lee@example.com, Town, Data City
+   - **Projects:** Contributed to the Innovative Platform for Enhancing Problem-solving
+

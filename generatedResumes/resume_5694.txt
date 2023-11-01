@@ -1,0 +1,10 @@
+5694. **Name:** Sam Garcia
+   - **Skills:** Cybersecurity, Network Administration, UI/UX Design, AR/VR Development
+   - **Experience:** Lead Engineer at TechCorp
+   - **Education:** Bachelor in Data Science from Inno Institute
+   - **References:** Jack Nguyen, Lead, quinn_müller@example.com
+Quinn Nguyen, Coordinator, ivy_smith@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** charlie_garcia@example.com, Town, Scienceburg
+   - **Projects:** Led the Cutting-edge Platform for Solving Business Processes
+

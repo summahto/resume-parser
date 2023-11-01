@@ -1,0 +1,10 @@
+2850. **Name:** Leo Wu
+   - **Skills:** React, C#, HTML, Project Management
+   - **Experience:** Junior Scientist at CodeCrafters
+   - **Education:** Bachelor in Business Administration from Physics Academy
+   - **References:** Grace Gonzalez, Manager, olivia_silva@example.com
+Frank Garcia, Coordinator, victoria_silva@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** rachel_garcia@example.com, Town, Inno Haven
+   - **Projects:** Led the Cutting-edge Project for Streamlining Collaboration
+

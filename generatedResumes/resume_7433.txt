@@ -1,0 +1,10 @@
+7433. **Name:** Charlie Jackson
+   - **Skills:** Kubernetes, UI/UX Design, Swift, Angular
+   - **Experience:** Junior Analyst at InnovativeTech
+   - **Education:** Bachelor in Art from Creative Arts College
+   - **References:** Henry Chen, Lead, jack_wu@example.com
+David Patel, Coordinator, eva_lee@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** katherine_cruz@example.com, Town, Scienceburg
+   - **Projects:** Contributed to the Revolutionary System for Streamlining Problem-solving
+

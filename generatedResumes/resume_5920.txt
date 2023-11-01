@@ -1,0 +1,10 @@
+5920. **Name:** Katherine Yamamoto
+   - **Skills:** Docker, Data Analysis, Python, UI/UX Design
+   - **Experience:** Junior Analyst at CreativeMinds
+   - **Education:** Ph.D. in Engineering from Inno Institute
+   - **References:** Ulysses Silva, Designer, bob_brown@example.com
+Bob Kumar, Developer, victoria_patel@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** charlie_wang@example.com, City, Green Valley
+   - **Projects:** Developed the Revolutionary Framework for Streamlining Data Analysis
+

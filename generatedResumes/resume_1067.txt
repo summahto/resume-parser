@@ -1,0 +1,10 @@
+1067. **Name:** Olivia Cruz
+   - **Skills:** Machine Learning, Docker, AR/VR Development, Project Management
+   - **Experience:** Junior Developer at InnovativeTech
+   - **Education:** Master in Data Science from Data Science School
+   - **References:** Ulysses Brown, Developer, katherine_patel@example.com
+Olivia Patel, Scientist, xena_nguyen@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** charlie_cruz@example.com, City, Data Haven
+   - **Projects:** Contributed to the Innovative Framework for Streamlining Problem-solving
+

@@ -1,0 +1,10 @@
+6790. **Name:** Victoria Rodriguez
+   - **Skills:** Cybersecurity, Java, Python, IoT
+   - **Experience:** Senior Scientist at TechCorp
+   - **Education:** Master in Business Administration from Business School
+   - **References:** Jack Garcia, Designer, charlie_nguyen@example.com
+Sam Nguyen, Coordinator, eva_silva@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** alice_lópez@example.com, Town, Inno Haven
+   - **Projects:** Led the Innovative App for Streamlining User Experience
+

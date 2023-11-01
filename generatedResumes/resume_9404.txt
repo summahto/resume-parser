@@ -1,0 +1,10 @@
+9404. **Name:** Quinn Chen
+   - **Skills:** Project Management, SQL, Angular, C#
+   - **Experience:** Lead Developer at CodeCrafters
+   - **Education:** Bachelor in Physics from Physics Academy
+   - **References:** Eva Jones, Lead, mia_rodriguez@example.com
+Leo Wu, CTO, victoria_jackson@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** xena_gupta@example.com, Village, Innovation Meadows
+   - **Projects:** Led the Revolutionary App for Optimizing Business Processes
+

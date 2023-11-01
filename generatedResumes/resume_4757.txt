@@ -1,0 +1,10 @@
+4757. **Name:** Nathan White
+   - **Skills:** Cloud Computing, Cybersecurity, Android Development, SQL
+   - **Experience:** Junior Developer at InnoSolutions
+   - **Education:** Master in Art from Physics Academy
+   - **References:** Leo Kumar, Engineer, frank_jackson@example.com
+Tina White, Developer, alice_silva@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** sam_smith@example.com, City, Innovation Meadows
+   - **Projects:** Led the Revolutionary App for Solving User Experience
+

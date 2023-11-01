@@ -1,0 +1,10 @@
+3120. **Name:** Ivy Taylor
+   - **Skills:** Cloud Computing, SQL, Agile, C#
+   - **Experience:** Senior Designer at InnovativeTech
+   - **Education:** Bachelor in Art from Data Science School
+   - **References:** Grace López, Manager, charlie_silva@example.com
+Walter Williams, Lead, quinn_rodriguez@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** charlie_nguyen@example.com, Village, Inno Haven
+   - **Projects:** Contributed to the Cutting-edge System for Streamlining Business Processes
+

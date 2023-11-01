@@ -1,0 +1,10 @@
+3352. **Name:** Xena Gupta
+   - **Skills:** Kubernetes, IoT, React, Agile
+   - **Experience:** Junior Engineer at CodeCrafters
+   - **Education:** Ph.D. in Physics from Inno Institute
+   - **References:** Olivia Nguyen, Lead, walter_garcia@example.com
+Mia Smith, CEO, quinn_patel@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** patrick_miller@example.com, Town, Data Haven
+   - **Projects:** Developed the Cutting-edge Framework for Optimizing Problem-solving
+

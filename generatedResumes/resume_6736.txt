@@ -1,0 +1,10 @@
+6736. **Name:** Grace Chen
+   - **Skills:** HTML, Android Development, DevOps, iOS Development
+   - **Experience:** Senior Developer at TechCorp
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Tina Li, Developer, jack_nguyen@example.com
+Ivy Jackson, Designer, jack_kumar@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** sam_kim@example.com, Village, Data City
+   - **Projects:** Contributed to the Revolutionary System for Streamlining User Experience
+

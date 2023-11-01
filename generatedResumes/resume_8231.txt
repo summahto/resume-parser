@@ -1,0 +1,10 @@
+8231. **Name:** Eva Lee
+   - **Skills:** iOS Development, Angular, JavaScript, Agile
+   - **Experience:** Junior Manager at InnovativeTech
+   - **Education:** Master in Business Administration from Tech University
+   - **References:** Bob Lee, Designer, bob_silva@example.com
+Sam Kumar, Scientist, alice_silva@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** grace_lopez@example.com, Village, Artopia
+   - **Projects:** Developed the Cutting-edge Framework for Optimizing Problem-solving
+

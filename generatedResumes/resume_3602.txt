@@ -1,0 +1,10 @@
+3602. **Name:** Mia Kim
+   - **Skills:** UI/UX Design, Git, Network Administration, CSS
+   - **Experience:** Junior Manager at DigitalSolutions
+   - **Education:** Bachelor in Art from Creative Arts College
+   - **References:** Yuki Kumar, CTO, grace_miller@example.com
+Eva Rodriguez, Developer, charlie_cruz@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** ivy_lopez@example.com, Town, Scienceburg
+   - **Projects:** Contributed to the Revolutionary Project for Enhancing Data Analysis
+

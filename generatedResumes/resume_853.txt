@@ -1,0 +1,10 @@
+853. **Name:** Eva Kim
+   - **Skills:** Graphic Design, Big Data, Blockchain, C#
+   - **Experience:** Junior Developer at DataInnovators
+   - **Education:** Master in Art from Creative Arts College
+   - **References:** Frank White, CTO, rachel_chen@example.com
+Nathan Jackson, Director, henry_nguyen@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** victoria_kim@example.com, City, Innovation Meadows
+   - **Projects:** Contributed to the Cutting-edge System for Optimizing User Experience
+

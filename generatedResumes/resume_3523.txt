@@ -1,0 +1,10 @@
+3523. **Name:** Tina Cruz
+   - **Skills:** Python, Agile, HTML, JavaScript
+   - **Experience:** Senior Developer at DataInnovators
+   - **Education:** Master in Business Administration from Inno Institute
+   - **References:** Ivy Sato, Coordinator, frank_brown@example.com
+David Hernandez, Lead, sam_garcia@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** patrick_smith@example.com, Village, Inno Haven
+   - **Projects:** Contributed to the Innovative Project for Streamlining Data Analysis
+

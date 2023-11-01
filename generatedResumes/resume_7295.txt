@@ -1,0 +1,10 @@
+7295. **Name:** Nathan Nguyen
+   - **Skills:** Blockchain, C#, UI/UX Design, iOS Development
+   - **Experience:** Senior Developer at DataExperts
+   - **Education:** Master in Physics from Business School
+   - **References:** Leo Taylor, Engineer, mia_patel@example.com
+Leo Nguyen, Manager, charlie_kumar@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** charlie_wu@example.com, Village, Inno Haven
+   - **Projects:** Contributed to the Cutting-edge Platform for Enhancing User Experience
+

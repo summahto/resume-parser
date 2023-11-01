@@ -1,0 +1,10 @@
+3886. **Name:** Tina Garcia
+   - **Skills:** Big Data, Java, Agile, Android Development
+   - **Experience:** Senior Engineer at DataInnovators
+   - **Education:** Master in Business Administration from Creative Arts College
+   - **References:** Jack Jones, Developer, alice_wu@example.com
+Bob Lopez, Designer, xena_brown@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** rachel_nguyen@example.com, Town, Innovation Meadows
+   - **Projects:** Led the Revolutionary App for Streamlining Data Analysis
+

@@ -1,0 +1,10 @@
+8083. **Name:** Bob Cruz
+   - **Skills:** Blockchain, Angular, C#, Git
+   - **Experience:** Senior Scientist at DigitalSolutions
+   - **Education:** Ph.D. in Data Science from Data Science School
+   - **References:** Zane Nguyen, Engineer, alice_brown@example.com
+Mia Nguyen, Analyst, frank_jackson@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** victoria_lee@example.com, Village, Data Haven
+   - **Projects:** Contributed to the Cutting-edge Framework for Solving Business Processes
+

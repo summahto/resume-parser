@@ -1,0 +1,10 @@
+486. **Name:** Charlie Nguyen
+   - **Skills:** Git, Java, UI/UX Design, React
+   - **Experience:** Junior Engineer at TechInnovate
+   - **Education:** Ph.D. in Art from Physics Academy
+   - **References:** Bob Wu, CTO, david_jackson@example.com
+Alice Lee, Analyst, zane_gupta@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** david_gupta@example.com, Town, Innoville
+   - **Projects:** Contributed to the Groundbreaking App for Solving Problem-solving
+

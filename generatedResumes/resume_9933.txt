@@ -1,0 +1,10 @@
+9933. **Name:** Jack López
+   - **Skills:** JavaScript, iOS Development, Machine Learning, HTML
+   - **Experience:** Lead Analyst at CodeCrafters
+   - **Education:** Bachelor in Physics from Tech University
+   - **References:** Katherine Brown, Engineer, david_brown@example.com
+Henry Kim, Analyst, leo_jones@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** david_sato@example.com, City, Artopia
+   - **Projects:** Led the Revolutionary Framework for Streamlining Collaboration
+

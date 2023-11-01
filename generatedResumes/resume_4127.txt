@@ -1,0 +1,10 @@
+4127. **Name:** Grace Garcia
+   - **Skills:** SQL, iOS Development, CSS, Project Management
+   - **Experience:** Lead Engineer at CodeCrafters
+   - **Education:** Bachelor in Physics from Business School
+   - **References:** Yuki Lee, Scientist, rachel_taylor@example.com
+David Patel, CEO, yuki_white@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** tina_chen@example.com, Town, Data City
+   - **Projects:** Developed the Cutting-edge Framework for Enhancing Problem-solving
+

@@ -1,0 +1,10 @@
+5933. **Name:** Jack Rodriguez
+   - **Skills:** Kubernetes, Project Management, Android Development, Java
+   - **Experience:** Junior Designer at CreativeSolutions
+   - **Education:** Bachelor in Computer Science from Inno Institute
+   - **References:** Yuki Jones, Developer, charlie_kumar@example.com
+Ulysses Miller, Scientist, tina_kim@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** eva_chen@example.com, Town, Data Haven
+   - **Projects:** Led the Innovative App for Streamlining Business Processes
+

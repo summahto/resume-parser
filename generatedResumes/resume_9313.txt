@@ -1,0 +1,10 @@
+9313. **Name:** Katherine Garcia
+   - **Skills:** Vue.js, Git, DevOps, Angular
+   - **Experience:** Senior Designer at InnoSolutions
+   - **Education:** Master in Computer Science from Data Science School
+   - **References:** Jack White, Designer, zane_brown@example.com
+Olivia Lee, Analyst, rachel_white@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** grace_cruz@example.com, Village, Scienceburg
+   - **Projects:** Contributed to the Cutting-edge Platform for Solving User Experience
+

@@ -1,0 +1,10 @@
+4382. **Name:** Jack Gupta
+   - **Skills:** React, Docker, Big Data, Project Management
+   - **Experience:** Junior Engineer at CodeCrafters
+   - **Education:** Master in Business Administration from Inno Institute
+   - **References:** Quinn Wu, Designer, patrick_williams@example.com
+Yuki Suzuki, Designer, henry_white@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** walter_taylor@example.com, Town, Data Haven
+   - **Projects:** Developed the Innovative Framework for Optimizing Problem-solving
+

@@ -1,0 +1,10 @@
+3443. **Name:** Leo Garcia
+   - **Skills:** UI/UX Design, Android Development, Kubernetes, HTML
+   - **Experience:** Junior Analyst at TechCorp
+   - **Education:** Ph.D. in Computer Science from Tech University
+   - **References:** Quinn Smith, Designer, bob_jones@example.com
+Charlie Wang, Coordinator, ulysses_hernandez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** ulysses_jackson@example.com, City, Scienceburg
+   - **Projects:** Led the Groundbreaking App for Solving Problem-solving
+

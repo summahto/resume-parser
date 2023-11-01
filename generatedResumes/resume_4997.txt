@@ -1,0 +1,10 @@
+4997. **Name:** Charlie Hernandez
+   - **Skills:** SQL, Vue.js, HTML, Cloud Computing
+   - **Experience:** Junior Designer at InnovativeTech
+   - **Education:** Ph.D. in Physics from Creative Arts College
+   - **References:** Leo Li, Scientist, alice_lopez@example.com
+Jack Cruz, CTO, quinn_lee@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** alice_lopez@example.com, City, Techtopia
+   - **Projects:** Developed the Innovative Framework for Solving User Experience
+

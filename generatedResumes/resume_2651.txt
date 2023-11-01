@@ -1,0 +1,10 @@
+2651. **Name:** Yuki Lopez
+   - **Skills:** Project Management, JavaScript, Vue.js, AR/VR Development
+   - **Experience:** Junior Scientist at DigitalSolutions
+   - **Education:** Master in Engineering from Tech University
+   - **References:** Charlie Patel, Developer, rachel_lee@example.com
+Ivy Lee, Coordinator, tina_jackson@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** frank_jackson@example.com, Village, Inno Haven
+   - **Projects:** Contributed to the Innovative Platform for Solving Data Analysis
+

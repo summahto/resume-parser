@@ -1,0 +1,10 @@
+5363. **Name:** Charlie Cruz
+   - **Skills:** Angular, Node.js, C#, Network Administration
+   - **Experience:** Lead Manager at DataInnovators
+   - **Education:** Bachelor in Engineering from Business School
+   - **References:** Bob Kumar, Scientist, patrick_smith@example.com
+Sam White, Engineer, bob_silva@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** yuki_miller@example.com, Town, Artopia
+   - **Projects:** Led the Innovative System for Enhancing Collaboration
+

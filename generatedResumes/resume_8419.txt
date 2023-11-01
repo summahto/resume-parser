@@ -1,0 +1,10 @@
+8419. **Name:** Xena Wang
+   - **Skills:** Angular, Python, Agile, Project Management
+   - **Experience:** Lead Scientist at InnoSolutions
+   - **Education:** Ph.D. in Business Administration from Data Science School
+   - **References:** Katherine Kumar, Director, nathan_patel@example.com
+Leo Cruz, Designer, jack_nguyen@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** olivia_wu@example.com, Village, Techland
+   - **Projects:** Developed the Cutting-edge System for Streamlining Data Analysis
+

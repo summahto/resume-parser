@@ -1,0 +1,10 @@
+4871. **Name:** David Kumar
+   - **Skills:** Project Management, UI/UX Design, Angular, Blockchain
+   - **Experience:** Junior Developer at CreativeMinds
+   - **Education:** Bachelor in Business Administration from Business School
+   - **References:** Victoria Miller, Analyst, sam_rodriguez@example.com
+Nathan Jackson, Coordinator, alice_jackson@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** sam_wang@example.com, Town, Green Valley
+   - **Projects:** Contributed to the Groundbreaking Project for Solving Data Analysis
+

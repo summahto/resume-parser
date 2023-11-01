@@ -1,0 +1,10 @@
+9586. **Name:** Jack White
+   - **Skills:** SQL, Machine Learning, Node.js, UI/UX Design
+   - **Experience:** Lead Developer at TechCorp
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** Tina Yamamoto, Manager, alice_jones@example.com
+Ivy Miller, Coordinator, rachel_rodriguez@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** ivy_brown@example.com, City, Techtopia
+   - **Projects:** Developed the Revolutionary Project for Solving Collaboration
+

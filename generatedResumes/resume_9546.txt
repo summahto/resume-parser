@@ -1,0 +1,10 @@
+9546. **Name:** Jack Jackson
+   - **Skills:** JavaScript, Graphic Design, IoT, Vue.js
+   - **Experience:** Junior Analyst at TechCorp
+   - **Education:** Ph.D. in Business Administration from Inno Institute
+   - **References:** Grace Garcia, Coordinator, nathan_wu@example.com
+Zane Kim, Coordinator, grace_kumar@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** olivia_davis@example.com, Town, Inno Haven
+   - **Projects:** Developed the Innovative Framework for Optimizing Problem-solving
+

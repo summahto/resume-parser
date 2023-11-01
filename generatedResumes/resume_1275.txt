@@ -1,0 +1,10 @@
+1275. **Name:** Patrick Wu
+   - **Skills:** Big Data, Python, Blockchain, SQL
+   - **Experience:** Lead Scientist at DataInnovators
+   - **Education:** Ph.D. in Art from Inno Institute
+   - **References:** Yuki Patel, CTO, charlie_kim@example.com
+Charlie Wang, Coordinator, quinn_johnson@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** alice_garcia@example.com, Village, Green Valley
+   - **Projects:** Led the Cutting-edge Framework for Optimizing Problem-solving
+

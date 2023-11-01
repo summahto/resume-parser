@@ -1,0 +1,10 @@
+2628. **Name:** Eva Chen
+   - **Skills:** AR/VR Development, React, Data Analysis, UI/UX Design
+   - **Experience:** Senior Analyst at CodeCrafters
+   - **Education:** Ph.D. in Art from Physics Academy
+   - **References:** Ulysses Li, Scientist, tina_patel@example.com
+Mia Cruz, Lead, ulysses_yamamoto@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** yuki_johnson@example.com, City, Artopia
+   - **Projects:** Developed the Groundbreaking Project for Streamlining Data Analysis
+

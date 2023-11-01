@@ -1,0 +1,10 @@
+5958. **Name:** Henry Gupta
+   - **Skills:** Big Data, iOS Development, Python, DevOps
+   - **Experience:** Junior Manager at InnovativeTech
+   - **Education:** Bachelor in Physics from Creative Arts College
+   - **References:** Jack Kumar, Lead, katherine_jones@example.com
+David Miller, Director, jack_lopez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** katherine_rodriguez@example.com, City, Techtopia
+   - **Projects:** Led the Revolutionary System for Solving User Experience
+

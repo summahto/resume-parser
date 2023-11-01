@@ -1,0 +1,10 @@
+1360. **Name:** Mia Gupta
+   - **Skills:** IoT, React, SQL, Blockchain
+   - **Experience:** Senior Designer at CreativeMinds
+   - **Education:** Master in Engineering from Physics Academy
+   - **References:** David Brown, Scientist, zane_cruz@example.com
+Xena Jackson, Developer, yuki_gupta@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** charlie_wu@example.com, Village, Innoville
+   - **Projects:** Contributed to the Revolutionary App for Streamlining Problem-solving
+

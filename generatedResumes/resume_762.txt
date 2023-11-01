@@ -1,0 +1,10 @@
+762. **Name:** David Cruz
+   - **Skills:** Vue.js, Node.js, Graphic Design, Java
+   - **Experience:** Junior Developer at CreativeSolutions
+   - **Education:** Ph.D. in Engineering from Data Science School
+   - **References:** Frank Li, Engineer, mia_lópez@example.com
+Leo Miller, Engineer, nathan_nguyen@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** ulysses_li@example.com, City, Green Valley
+   - **Projects:** Developed the Cutting-edge App for Optimizing User Experience
+

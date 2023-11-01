@@ -1,0 +1,10 @@
+8991. **Name:** Xena Singh
+   - **Skills:** React, Network Administration, C#, HTML
+   - **Experience:** Junior Designer at TechInnovate
+   - **Education:** Master in Art from Creative Arts College
+   - **References:** Ulysses Chen, Designer, ivy_cruz@example.com
+Sam Singh, Manager, jack_cruz@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** xena_lópez@example.com, Village, Green Valley
+   - **Projects:** Developed the Cutting-edge System for Enhancing Collaboration
+

@@ -1,0 +1,10 @@
+3478. **Name:** Mia White
+   - **Skills:** iOS Development, AR/VR Development, Project Management, Big Data
+   - **Experience:** Lead Manager at CreativeSolutions
+   - **Education:** Bachelor in Computer Science from Tech University
+   - **References:** Eva Jones, Scientist, victoria_sato@example.com
+Quinn Cruz, Scientist, walter_wu@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** bob_jackson@example.com, Town, Inno Haven
+   - **Projects:** Developed the Groundbreaking System for Solving User Experience
+

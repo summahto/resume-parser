@@ -1,0 +1,10 @@
+8477. **Name:** Quinn Kumar
+   - **Skills:** Big Data, Git, Cloud Computing, Python
+   - **Experience:** Senior Scientist at InnoSolutions
+   - **Education:** Ph.D. in Engineering from Data Science School
+   - **References:** Ivy Jones, Designer, leo_miller@example.com
+Grace Brown, Director, grace_smith@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** yuki_kumar@example.com, Town, Innoville
+   - **Projects:** Led the Groundbreaking Project for Enhancing Problem-solving
+

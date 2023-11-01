@@ -1,0 +1,10 @@
+1004. **Name:** Xena Cruz
+   - **Skills:** Network Administration, IoT, Graphic Design, AR/VR Development
+   - **Experience:** Lead Developer at CodeCrafters
+   - **Education:** Master in Computer Science from Data Science School
+   - **References:** Rachel Rodriguez, Designer, sam_silva@example.com
+Frank Lopez, CTO, ulysses_lee@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** ulysses_garcia@example.com, Town, Innovation Meadows
+   - **Projects:** Led the Cutting-edge Project for Streamlining Business Processes
+

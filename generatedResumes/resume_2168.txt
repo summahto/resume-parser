@@ -1,0 +1,10 @@
+2168. **Name:** Yuki Nguyen
+   - **Skills:** Angular, JavaScript, Network Administration, CSS
+   - **Experience:** Lead Designer at CodeCrafters
+   - **Education:** Ph.D. in Computer Science from Data Science School
+   - **References:** Katherine Cruz, Lead, olivia_wu@example.com
+Alice Rodriguez, Developer, ivy_jones@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** alice_davis@example.com, City, Techland
+   - **Projects:** Developed the Cutting-edge App for Solving Data Analysis
+

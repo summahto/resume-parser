@@ -1,0 +1,10 @@
+6102. **Name:** Mia Kumar
+   - **Skills:** Project Management, HTML, C#, Node.js
+   - **Experience:** Senior Engineer at CreativeSolutions
+   - **Education:** Master in Physics from Data Science School
+   - **References:** Alice Gupta, Designer, rachel_wang@example.com
+Frank Lee, Lead, mia_silva@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** patrick_brown@example.com, Town, Techland
+   - **Projects:** Developed the Cutting-edge System for Enhancing Collaboration
+

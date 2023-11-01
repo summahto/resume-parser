@@ -1,0 +1,10 @@
+5523. **Name:** Tina Wu
+   - **Skills:** Cloud Computing, JavaScript, Agile, Graphic Design
+   - **Experience:** Senior Scientist at TechInnovate
+   - **Education:** Ph.D. in Business Administration from Inno Institute
+   - **References:** Katherine Jackson, Coordinator, ivy_miller@example.com
+Tina Rodriguez, Coordinator, quinn_lee@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** mia_cruz@example.com, City, Inno Haven
+   - **Projects:** Led the Cutting-edge App for Streamlining Data Analysis
+

@@ -1,0 +1,10 @@
+519. **Name:** Mia Silva
+   - **Skills:** Angular, Java, Graphic Design, Blockchain
+   - **Experience:** Junior Scientist at DataExperts
+   - **Education:** Ph.D. in Computer Science from Data Science School
+   - **References:** David Nguyen, CTO, xena_white@example.com
+Quinn Jackson, CTO, leo_jackson@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** leo_miller@example.com, Town, Innoville
+   - **Projects:** Led the Groundbreaking App for Solving Collaboration
+

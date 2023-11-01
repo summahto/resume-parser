@@ -1,0 +1,10 @@
+3875. **Name:** Charlie Brown
+   - **Skills:** CSS, Network Administration, Cloud Computing, Node.js
+   - **Experience:** Junior Developer at CodeCrafters
+   - **Education:** Master in Art from Creative Arts College
+   - **References:** Katherine Nguyen, Lead, frank_smith@example.com
+Sam Smith, Developer, david_silva@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** alice_wang@example.com, Village, Data City
+   - **Projects:** Contributed to the Revolutionary Project for Streamlining Business Processes
+

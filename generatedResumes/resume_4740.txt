@@ -1,0 +1,10 @@
+4740. **Name:** Alice Gupta
+   - **Skills:** Graphic Design, Blockchain, HTML, Swift
+   - **Experience:** Lead Designer at CodeCrafters
+   - **Education:** Master in Data Science from Data Science School
+   - **References:** Ivy Nguyen, CTO, walter_chen@example.com
+Victoria Silva, CEO, charlie_smith@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** mia_williams@example.com, Town, Techland
+   - **Projects:** Developed the Cutting-edge App for Optimizing Data Analysis
+

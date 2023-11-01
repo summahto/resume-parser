@@ -1,0 +1,10 @@
+9469. **Name:** Yuki Garcia
+   - **Skills:** UI/UX Design, Java, SQL, Vue.js
+   - **Experience:** Lead Engineer at TechCorp
+   - **Education:** Bachelor in Physics from Physics Academy
+   - **References:** Alice Garcia, Manager, zane_smith@example.com
+Olivia Garcia, Manager, alice_silva@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** zane_smith@example.com, City, Data Haven
+   - **Projects:** Developed the Groundbreaking App for Solving Collaboration
+

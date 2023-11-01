@@ -1,0 +1,10 @@
+6759. **Name:** David Kumar
+   - **Skills:** Kubernetes, Machine Learning, AR/VR Development, C#
+   - **Experience:** Senior Analyst at DigitalSolutions
+   - **Education:** Ph.D. in Data Science from Data Science School
+   - **References:** Mia Suzuki, Developer, xena_white@example.com
+Katherine Patel, CTO, alice_gupta@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** sam_brown@example.com, City, Innovation Meadows
+   - **Projects:** Contributed to the Innovative App for Streamlining User Experience
+

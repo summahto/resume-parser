@@ -1,0 +1,10 @@
+8939. **Name:** Leo Sato
+   - **Skills:** Node.js, Project Management, Graphic Design, JavaScript
+   - **Experience:** Junior Engineer at InnoSolutions
+   - **Education:** Master in Computer Science from Creative Arts College
+   - **References:** Sam Wang, Manager, patrick_white@example.com
+Leo Williams, Manager, katherine_cruz@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** rachel_brown@example.com, Town, Techland
+   - **Projects:** Contributed to the Innovative System for Streamlining Business Processes
+

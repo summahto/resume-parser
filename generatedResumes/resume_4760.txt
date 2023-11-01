@@ -1,0 +1,10 @@
+4760. **Name:** Jack Silva
+   - **Skills:** Java, DevOps, SQL, Agile
+   - **Experience:** Junior Scientist at CreativeMinds
+   - **Education:** Ph.D. in Data Science from Data Science School
+   - **References:** Ulysses Lee, Manager, alice_silva@example.com
+Quinn Taylor, Coordinator, olivia_taylor@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** nathan_rodriguez@example.com, City, Techtopia
+   - **Projects:** Led the Groundbreaking System for Optimizing Collaboration
+

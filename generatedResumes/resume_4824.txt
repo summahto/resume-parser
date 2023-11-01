@@ -1,0 +1,10 @@
+4824. **Name:** David Kumar
+   - **Skills:** Data Analysis, Project Management, Node.js, JavaScript
+   - **Experience:** Senior Engineer at DataInnovators
+   - **Education:** Master in Art from Data Science School
+   - **References:** Quinn Johnson, Manager, henry_kumar@example.com
+Henry Johnson, CTO, david_lee@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** tina_rodriguez@example.com, Town, Scienceburg
+   - **Projects:** Led the Innovative Platform for Optimizing Collaboration
+

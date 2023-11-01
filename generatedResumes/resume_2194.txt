@@ -1,0 +1,10 @@
+2194. **Name:** Xena Gupta
+   - **Skills:** Swift, Data Analysis, Docker, Machine Learning
+   - **Experience:** Junior Scientist at CodeCrafters
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** Mia Kumar, CEO, charlie_nguyen@example.com
+Quinn White, Analyst, xena_taylor@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** leo_gupta@example.com, Town, Techtopia
+   - **Projects:** Led the Innovative Project for Enhancing Business Processes
+

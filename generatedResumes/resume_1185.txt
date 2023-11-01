@@ -1,0 +1,10 @@
+1185. **Name:** David Chen
+   - **Skills:** UI/UX Design, Docker, Angular, Machine Learning
+   - **Experience:** Senior Designer at CodeCrafters
+   - **Education:** Ph.D. in Computer Science from Business School
+   - **References:** Tina Garcia, CEO, eva_lopez@example.com
+Eva Rodriguez, Coordinator, yuki_williams@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** quinn_kumar@example.com, Village, Techtopia
+   - **Projects:** Led the Groundbreaking Project for Solving Problem-solving
+

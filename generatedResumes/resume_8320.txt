@@ -1,0 +1,10 @@
+8320. **Name:** Ivy Nguyen
+   - **Skills:** Vue.js, Kubernetes, Graphic Design, Swift
+   - **Experience:** Junior Scientist at DataExperts
+   - **Education:** Ph.D. in Computer Science from Inno Institute
+   - **References:** Olivia Chen, Engineer, katherine_smith@example.com
+Sam Lopez, Developer, nathan_brown@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** bob_gupta@example.com, Town, Artopia
+   - **Projects:** Led the Cutting-edge Platform for Optimizing Collaboration
+

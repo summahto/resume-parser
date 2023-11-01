@@ -1,0 +1,10 @@
+575. **Name:** Tina Wu
+   - **Skills:** Graphic Design, Big Data, Vue.js, Python
+   - **Experience:** Senior Manager at CreativeSolutions
+   - **Education:** Bachelor in Business Administration from Inno Institute
+   - **References:** Quinn Kumar, Lead, david_cruz@example.com
+Yuki Cruz, Coordinator, ivy_miller@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** ulysses_jackson@example.com, Town, Innoville
+   - **Projects:** Contributed to the Cutting-edge Platform for Enhancing Data Analysis
+

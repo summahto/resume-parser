@@ -1,0 +1,10 @@
+1814. **Name:** Bob Garcia
+   - **Skills:** Node.js, IoT, React, Kubernetes
+   - **Experience:** Junior Designer at DigitalSolutions
+   - **Education:** Master in Art from Business School
+   - **References:** Eva Lopez, Designer, rachel_jackson@example.com
+Grace Kim, Manager, jack_patel@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** katherine_rodriguez@example.com, Village, Green Valley
+   - **Projects:** Led the Innovative System for Streamlining Business Processes
+

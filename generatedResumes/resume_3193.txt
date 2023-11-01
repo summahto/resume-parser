@@ -1,0 +1,10 @@
+3193. **Name:** Victoria Gupta
+   - **Skills:** Big Data, Node.js, Network Administration, React
+   - **Experience:** Senior Manager at CreativeSolutions
+   - **Education:** Bachelor in Business Administration from Inno Institute
+   - **References:** Tina Miller, Analyst, mia_nguyen@example.com
+Frank Lee, Designer, xena_wang@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** rachel_gupta@example.com, Village, Inno Haven
+   - **Projects:** Developed the Cutting-edge Platform for Solving User Experience
+

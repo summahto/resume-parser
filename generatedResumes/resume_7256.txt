@@ -1,0 +1,10 @@
+7256. **Name:** Alice Garcia
+   - **Skills:** SQL, Data Analysis, Big Data, IoT
+   - **Experience:** Lead Engineer at CodeCrafters
+   - **Education:** Master in Physics from Data Science School
+   - **References:** Patrick Singh, Coordinator, ivy_silva@example.com
+Zane Jones, Coordinator, tina_yamamoto@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** walter_johnson@example.com, Village, Inno Haven
+   - **Projects:** Contributed to the Groundbreaking Platform for Optimizing Collaboration
+

@@ -1,0 +1,10 @@
+2714. **Name:** Frank Jackson
+   - **Skills:** Python, Agile, DevOps, Node.js
+   - **Experience:** Lead Analyst at TechCorp
+   - **Education:** Master in Computer Science from Data Science School
+   - **References:** Jack Smith, Designer, zane_cruz@example.com
+Ivy Wang, Analyst, henry_garcia@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** grace_gupta@example.com, Town, Innovation Meadows
+   - **Projects:** Contributed to the Groundbreaking Project for Enhancing User Experience
+

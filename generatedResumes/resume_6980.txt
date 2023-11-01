@@ -1,0 +1,10 @@
+6980. **Name:** Nathan Kumar
+   - **Skills:** CSS, Android Development, SQL, IoT
+   - **Experience:** Lead Scientist at CodeCrafters
+   - **Education:** Ph.D. in Data Science from Data Science School
+   - **References:** Mia Silva, Lead, eva_wu@example.com
+Ulysses Cruz, Scientist, walter_suzuki@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** sam_rodriguez@example.com, Town, Scienceburg
+   - **Projects:** Developed the Innovative Project for Enhancing Collaboration
+

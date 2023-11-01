@@ -1,0 +1,10 @@
+4124. **Name:** Xena Jackson
+   - **Skills:** Angular, Swift, Graphic Design, C#
+   - **Experience:** Lead Designer at InnovativeTech
+   - **Education:** Master in Physics from Creative Arts College
+   - **References:** Zane Patel, CTO, zane_kim@example.com
+Charlie Garcia, CEO, xena_sato@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** rachel_wu@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Groundbreaking Framework for Solving Business Processes
+

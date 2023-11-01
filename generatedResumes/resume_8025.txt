@@ -1,0 +1,10 @@
+8025. **Name:** Jack White
+   - **Skills:** HTML, Vue.js, Java, IoT
+   - **Experience:** Junior Scientist at CodeCrafters
+   - **Education:** Bachelor in Physics from Tech University
+   - **References:** Rachel Chen, Designer, nathan_nguyen@example.com
+Yuki Davis, Coordinator, david_chen@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** nathan_kumar@example.com, Village, Artopia
+   - **Projects:** Contributed to the Revolutionary System for Solving Business Processes
+

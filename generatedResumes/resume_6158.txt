@@ -1,0 +1,10 @@
+6158. **Name:** Jack Lopez
+   - **Skills:** Angular, HTML, Cloud Computing, React
+   - **Experience:** Senior Manager at CreativeSolutions
+   - **Education:** Ph.D. in Data Science from Inno Institute
+   - **References:** Xena White, Director, quinn_wu@example.com
+Ulysses Sato, Developer, xena_jackson@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** bob_gupta@example.com, Village, Green Valley
+   - **Projects:** Developed the Innovative Platform for Optimizing Collaboration
+

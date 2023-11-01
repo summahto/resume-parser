@@ -1,0 +1,10 @@
+6191. **Name:** Victoria Nguyen
+   - **Skills:** Android Development, Kubernetes, Blockchain, Angular
+   - **Experience:** Senior Analyst at CreativeMinds
+   - **Education:** Bachelor in Data Science from Tech University
+   - **References:** Sam Jones, Designer, victoria_jackson@example.com
+Sam Lee, Coordinator, frank_taylor@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** walter_garcia@example.com, City, Techland
+   - **Projects:** Contributed to the Innovative Platform for Optimizing Problem-solving
+

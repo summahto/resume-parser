@@ -1,0 +1,10 @@
+3384. **Name:** Mia Chen
+   - **Skills:** Machine Learning, Angular, Vue.js, Swift
+   - **Experience:** Senior Engineer at DataExperts
+   - **Education:** Master in Data Science from Inno Institute
+   - **References:** Jack Silva, Lead, grace_miller@example.com
+Frank Lee, Director, nathan_patel@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** bob_lee@example.com, Town, Scienceburg
+   - **Projects:** Developed the Cutting-edge App for Optimizing Problem-solving
+

@@ -1,0 +1,10 @@
+995. **Name:** Yuki Kumar
+   - **Skills:** DevOps, Angular, SQL, Vue.js
+   - **Experience:** Junior Engineer at DataInnovators
+   - **Education:** Ph.D. in Data Science from Business School
+   - **References:** Katherine Rodriguez, Director, charlie_hernandez@example.com
+David Williams, Designer, tina_rodriguez@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** xena_wu@example.com, Town, Artopia
+   - **Projects:** Led the Cutting-edge App for Optimizing Collaboration
+

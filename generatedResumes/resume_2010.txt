@@ -1,0 +1,10 @@
+2010. **Name:** Xena Lee
+   - **Skills:** UI/UX Design, Node.js, Big Data, Android Development
+   - **Experience:** Senior Engineer at InnovativeTech
+   - **Education:** Ph.D. in Business Administration from Inno Institute
+   - **References:** Xena Patel, Lead, frank_patel@example.com
+Ivy López, Designer, leo_lópez@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** rachel_kumar@example.com, Village, Green Valley
+   - **Projects:** Led the Cutting-edge App for Streamlining Business Processes
+

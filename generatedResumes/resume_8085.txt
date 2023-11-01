@@ -1,0 +1,10 @@
+8085. **Name:** Nathan Jackson
+   - **Skills:** Agile, Big Data, AR/VR Development, Vue.js
+   - **Experience:** Senior Manager at TechCorp
+   - **Education:** Master in Computer Science from Business School
+   - **References:** Ivy Wang, Director, frank_chen@example.com
+Leo Cruz, Developer, rachel_jones@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** sam_kumar@example.com, City, Green Valley
+   - **Projects:** Developed the Revolutionary Framework for Solving Business Processes
+

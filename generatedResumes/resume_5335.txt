@@ -1,0 +1,10 @@
+5335. **Name:** Leo Taylor
+   - **Skills:** Data Analysis, C#, Docker, SQL
+   - **Experience:** Lead Scientist at DigitalSolutions
+   - **Education:** Ph.D. in Art from Business School
+   - **References:** Sam Kim, Lead, bob_cruz@example.com
+Ulysses Miller, Director, olivia_garcia@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** david_lee@example.com, Town, Innoville
+   - **Projects:** Developed the Innovative Project for Streamlining Data Analysis
+

@@ -1,0 +1,10 @@
+600. **Name:** Yuki Gupta
+   - **Skills:** Swift, Big Data, HTML, Angular
+   - **Experience:** Lead Scientist at DataExperts
+   - **Education:** Ph.D. in Art from Business School
+   - **References:** Eva Smith, Scientist, olivia_gupta@example.com
+Nathan Jones, Designer, grace_wu@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** grace_garcia@example.com, City, Scienceburg
+   - **Projects:** Developed the Cutting-edge Platform for Optimizing Data Analysis
+

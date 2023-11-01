@@ -1,0 +1,10 @@
+8677. **Name:** Xena Wang
+   - **Skills:** SQL, Blockchain, Graphic Design, Swift
+   - **Experience:** Junior Manager at CodeCrafters
+   - **Education:** Ph.D. in Physics from Creative Arts College
+   - **References:** Ulysses Lee, Lead, quinn_wang@example.com
+Nathan Jackson, Analyst, katherine_davis@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** ulysses_white@example.com, Village, Techland
+   - **Projects:** Led the Revolutionary Framework for Streamlining Data Analysis
+

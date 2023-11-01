@@ -1,0 +1,10 @@
+8842. **Name:** Zane Chen
+   - **Skills:** Node.js, Angular, React, Project Management
+   - **Experience:** Junior Designer at CreativeMinds
+   - **Education:** Master in Computer Science from Inno Institute
+   - **References:** Bob Jackson, Director, katherine_cruz@example.com
+Katherine Lee, Manager, ivy_wu@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** eva_cruz@example.com, Town, Scienceburg
+   - **Projects:** Developed the Groundbreaking Platform for Streamlining Collaboration
+

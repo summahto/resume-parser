@@ -1,0 +1,10 @@
+5900. **Name:** Eva Wang
+   - **Skills:** SQL, Android Development, Kubernetes, IoT
+   - **Experience:** Lead Scientist at DataInnovators
+   - **Education:** Master in Engineering from Inno Institute
+   - **References:** Yuki Wang, Lead, patrick_chen@example.com
+Nathan Chen, Manager, grace_chen@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** walter_lee@example.com, City, Data Haven
+   - **Projects:** Developed the Innovative Project for Streamlining Business Processes
+

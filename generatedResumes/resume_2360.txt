@@ -1,0 +1,10 @@
+2360. **Name:** Mia Miller
+   - **Skills:** Node.js, iOS Development, IoT, Vue.js
+   - **Experience:** Senior Developer at DataExperts
+   - **Education:** Master in Physics from Data Science School
+   - **References:** Bob Kumar, Designer, tina_lópez@example.com
+Ivy Gupta, Developer, quinn_silva@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** quinn_brown@example.com, City, Innoville
+   - **Projects:** Developed the Revolutionary System for Optimizing Data Analysis
+

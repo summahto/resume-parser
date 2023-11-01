@@ -1,0 +1,10 @@
+776. **Name:** David Chen
+   - **Skills:** Kubernetes, Big Data, HTML, C#
+   - **Experience:** Senior Analyst at InnovativeTech
+   - **Education:** Master in Data Science from Inno Institute
+   - **References:** Sam Rodriguez, CEO, olivia_taylor@example.com
+Leo White, Analyst, jack_cruz@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** henry_yamamoto@example.com, City, Scienceburg
+   - **Projects:** Developed the Cutting-edge Platform for Enhancing Data Analysis
+

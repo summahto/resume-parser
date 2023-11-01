@@ -1,0 +1,10 @@
+684. **Name:** Alice Nguyen
+   - **Skills:** UI/UX Design, Agile, Node.js, JavaScript
+   - **Experience:** Lead Engineer at CodeCrafters
+   - **Education:** Bachelor in Data Science from Inno Institute
+   - **References:** Tina Patel, Developer, tina_lopez@example.com
+Nathan Wang, Coordinator, sam_chen@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** nathan_lee@example.com, Village, Inno Haven
+   - **Projects:** Contributed to the Revolutionary System for Solving Data Analysis
+

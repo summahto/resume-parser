@@ -1,0 +1,10 @@
+700. **Name:** Xena Chen
+   - **Skills:** Network Administration, SQL, UI/UX Design, Cloud Computing
+   - **Experience:** Senior Analyst at DataExperts
+   - **Education:** Bachelor in Physics from Physics Academy
+   - **References:** Walter Jones, Scientist, mia_white@example.com
+David Sato, Lead, jack_jackson@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** frank_kumar@example.com, Town, Data Haven
+   - **Projects:** Contributed to the Cutting-edge Platform for Optimizing Business Processes
+

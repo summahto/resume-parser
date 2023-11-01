@@ -1,0 +1,10 @@
+1536. **Name:** Leo Jones
+   - **Skills:** Graphic Design, Big Data, Python, DevOps
+   - **Experience:** Lead Manager at InnoSolutions
+   - **Education:** Ph.D. in Data Science from Business School
+   - **References:** Eva Chen, Director, david_wu@example.com
+Ivy Garcia, CTO, david_wu@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** tina_patel@example.com, Town, Artopia
+   - **Projects:** Contributed to the Innovative System for Streamlining Collaboration
+

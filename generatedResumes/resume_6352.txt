@@ -1,0 +1,10 @@
+6352. **Name:** Yuki Hernandez
+   - **Skills:** Git, Vue.js, Cybersecurity, Cloud Computing
+   - **Experience:** Junior Engineer at DataExperts
+   - **Education:** Bachelor in Engineering from Business School
+   - **References:** Grace López, Analyst, frank_wang@example.com
+Frank Miller, Scientist, sam_brown@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** bob_brown@example.com, Village, Inno Haven
+   - **Projects:** Contributed to the Cutting-edge Project for Optimizing Problem-solving
+

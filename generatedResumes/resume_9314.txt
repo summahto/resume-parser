@@ -1,0 +1,10 @@
+9314. **Name:** Jack Kumar
+   - **Skills:** UI/UX Design, Blockchain, Network Administration, IoT
+   - **Experience:** Lead Scientist at DataInnovators
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Ivy Garcia, Developer, tina_williams@example.com
+Rachel Chen, Designer, olivia_nguyen@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** walter_lee@example.com, Town, Innoville
+   - **Projects:** Contributed to the Cutting-edge System for Optimizing User Experience
+

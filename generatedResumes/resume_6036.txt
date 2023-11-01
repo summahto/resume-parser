@@ -1,0 +1,10 @@
+6036. **Name:** Patrick Cruz
+   - **Skills:** CSS, Graphic Design, Swift, Android Development
+   - **Experience:** Junior Scientist at DataInnovators
+   - **Education:** Bachelor in Business Administration from Physics Academy
+   - **References:** Sam Chen, Developer, charlie_gupta@example.com
+Eva Kim, CEO, ivy_wang@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** sam_yamamoto@example.com, City, Green Valley
+   - **Projects:** Contributed to the Revolutionary Project for Solving Data Analysis
+

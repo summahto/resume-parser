@@ -1,0 +1,10 @@
+8546. **Name:** Bob Garcia
+   - **Skills:** UI/UX Design, Java, React, Big Data
+   - **Experience:** Lead Manager at CodeCrafters
+   - **Education:** Master in Computer Science from Data Science School
+   - **References:** Nathan López, Analyst, walter_silva@example.com
+Zane Cruz, Director, david_wang@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** olivia_white@example.com, Town, Inno Haven
+   - **Projects:** Led the Cutting-edge Framework for Solving Collaboration
+

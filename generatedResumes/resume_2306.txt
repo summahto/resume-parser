@@ -1,0 +1,10 @@
+2306. **Name:** Katherine White
+   - **Skills:** Java, Kubernetes, C#, Git
+   - **Experience:** Junior Designer at CodeCrafters
+   - **Education:** Ph.D. in Art from Physics Academy
+   - **References:** Tina Wu, Manager, bob_jones@example.com
+Xena Lee, Lead, henry_silva@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** charlie_lee@example.com, Village, Scienceburg
+   - **Projects:** Contributed to the Groundbreaking Project for Solving Data Analysis
+

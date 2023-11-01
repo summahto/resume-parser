@@ -1,0 +1,10 @@
+3530. **Name:** Leo White
+   - **Skills:** AR/VR Development, Cybersecurity, Android Development, CSS
+   - **Experience:** Lead Developer at CodeCrafters
+   - **Education:** Bachelor in Art from Inno Institute
+   - **References:** Walter Wu, Manager, zane_jackson@example.com
+Tina Silva, Developer, rachel_silva@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** frank_singh@example.com, Town, Artopia
+   - **Projects:** Contributed to the Innovative Framework for Optimizing Problem-solving
+

@@ -1,0 +1,10 @@
+4960. **Name:** Yuki Jones
+   - **Skills:** AR/VR Development, Data Analysis, Kubernetes, Machine Learning
+   - **Experience:** Senior Scientist at InnovativeTech
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** Alice White, Scientist, ivy_wang@example.com
+David Lee, Coordinator, ivy_gupta@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** tina_rodriguez@example.com, City, Data City
+   - **Projects:** Led the Groundbreaking Project for Streamlining Problem-solving
+

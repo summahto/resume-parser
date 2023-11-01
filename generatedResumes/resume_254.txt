@@ -1,0 +1,10 @@
+254. **Name:** Zane Miller
+   - **Skills:** Angular, React, Swift, Agile
+   - **Experience:** Junior Scientist at CreativeMinds
+   - **Education:** Ph.D. in Physics from Creative Arts College
+   - **References:** Nathan Chen, Engineer, rachel_wu@example.com
+Leo Lopez, Manager, ulysses_gonzalez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** alice_kumar@example.com, Village, Inno Haven
+   - **Projects:** Developed the Revolutionary Platform for Streamlining Data Analysis
+

@@ -1,0 +1,10 @@
+4170. **Name:** Jack Kumar
+   - **Skills:** Project Management, AR/VR Development, JavaScript, Node.js
+   - **Experience:** Lead Manager at DataInnovators
+   - **Education:** Master in Data Science from Data Science School
+   - **References:** Ulysses Lopez, CTO, leo_taylor@example.com
+Sam Rodriguez, Analyst, ivy_patel@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** bob_jones@example.com, Town, Techland
+   - **Projects:** Developed the Innovative Platform for Solving Data Analysis
+

@@ -1,0 +1,10 @@
+9966. **Name:** Ivy Kumar
+   - **Skills:** HTML, React, Python, DevOps
+   - **Experience:** Senior Designer at InnoSolutions
+   - **Education:** Ph.D. in Physics from Creative Arts College
+   - **References:** Leo Garcia, Engineer, katherine_garcia@example.com
+David Silva, Coordinator, zane_wang@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** ulysses_jones@example.com, Town, Artopia
+   - **Projects:** Led the Cutting-edge System for Optimizing Problem-solving
+

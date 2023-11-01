@@ -1,0 +1,10 @@
+6291. **Name:** Olivia Jackson
+   - **Skills:** Java, Git, UI/UX Design, Graphic Design
+   - **Experience:** Junior Manager at CreativeMinds
+   - **Education:** Ph.D. in Computer Science from Data Science School
+   - **References:** Henry Chen, Scientist, zane_smith@example.com
+Nathan Lee, Lead, ulysses_lee@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** quinn_rodriguez@example.com, Village, Techland
+   - **Projects:** Contributed to the Innovative System for Streamlining Business Processes
+

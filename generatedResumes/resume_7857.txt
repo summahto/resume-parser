@@ -1,0 +1,10 @@
+7857. **Name:** Charlie Kumar
+   - **Skills:** Angular, React, Swift, Docker
+   - **Experience:** Senior Designer at DigitalSolutions
+   - **Education:** Ph.D. in Data Science from Creative Arts College
+   - **References:** Henry Cruz, CTO, xena_white@example.com
+Zane Miller, Lead, quinn_müller@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** david_cruz@example.com, Village, Scienceburg
+   - **Projects:** Developed the Groundbreaking App for Enhancing Collaboration
+

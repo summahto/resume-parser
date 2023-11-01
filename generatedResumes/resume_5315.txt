@@ -1,0 +1,10 @@
+5315. **Name:** Victoria Nguyen
+   - **Skills:** Swift, Java, Machine Learning, Graphic Design
+   - **Experience:** Lead Manager at CreativeMinds
+   - **Education:** Master in Art from Tech University
+   - **References:** Patrick Cruz, CTO, mia_li@example.com
+Mia Silva, Director, patrick_brown@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** sam_lee@example.com, Village, Data City
+   - **Projects:** Developed the Cutting-edge Framework for Optimizing Data Analysis
+

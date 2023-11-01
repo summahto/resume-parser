@@ -1,0 +1,10 @@
+2348. **Name:** Walter Jackson
+   - **Skills:** UI/UX Design, Graphic Design, Data Analysis, IoT
+   - **Experience:** Senior Manager at DigitalSolutions
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Sam Cruz, Director, jack_chen@example.com
+Grace Chen, Manager, alice_gupta@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** henry_brown@example.com, Village, Techtopia
+   - **Projects:** Led the Groundbreaking System for Enhancing User Experience
+

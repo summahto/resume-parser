@@ -1,0 +1,10 @@
+3437. **Name:** Xena Taylor
+   - **Skills:** CSS, Big Data, AR/VR Development, UI/UX Design
+   - **Experience:** Junior Designer at TechCorp
+   - **Education:** Master in Business Administration from Inno Institute
+   - **References:** Yuki Garcia, Lead, mia_silva@example.com
+Grace Garcia, CTO, walter_kumar@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** tina_nguyen@example.com, Village, Artopia
+   - **Projects:** Led the Groundbreaking App for Solving Business Processes
+

@@ -1,0 +1,10 @@
+2896. **Name:** Sam Cruz
+   - **Skills:** Graphic Design, Angular, CSS, React
+   - **Experience:** Junior Developer at InnovativeTech
+   - **Education:** Ph.D. in Business Administration from Business School
+   - **References:** Ulysses Kumar, Engineer, leo_silva@example.com
+Charlie Jones, Scientist, frank_yamamoto@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** eva_rodriguez@example.com, City, Artopia
+   - **Projects:** Led the Innovative System for Solving Business Processes
+

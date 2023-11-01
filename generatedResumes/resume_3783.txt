@@ -1,0 +1,10 @@
+3783. **Name:** Xena Wu
+   - **Skills:** Android Development, React, Docker, Machine Learning
+   - **Experience:** Senior Designer at CreativeMinds
+   - **Education:** Master in Art from Data Science School
+   - **References:** Eva Smith, Coordinator, bob_lopez@example.com
+Yuki Lee, Analyst, walter_li@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** patrick_wu@example.com, City, Scienceburg
+   - **Projects:** Developed the Innovative System for Enhancing Collaboration
+

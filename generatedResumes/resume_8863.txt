@@ -1,0 +1,10 @@
+8863. **Name:** Ulysses Chen
+   - **Skills:** Project Management, Kubernetes, C#, SQL
+   - **Experience:** Junior Engineer at CreativeSolutions
+   - **Education:** Ph.D. in Art from Inno Institute
+   - **References:** Leo Silva, CEO, bob_jackson@example.com
+David Sato, Designer, zane_cruz@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** grace_singh@example.com, City, Artopia
+   - **Projects:** Contributed to the Innovative App for Solving Collaboration
+

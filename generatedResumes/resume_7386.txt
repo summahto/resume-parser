@@ -1,0 +1,10 @@
+7386. **Name:** Ivy Chen
+   - **Skills:** Python, Project Management, AR/VR Development, Angular
+   - **Experience:** Junior Scientist at CreativeSolutions
+   - **Education:** Bachelor in Art from Data Science School
+   - **References:** Eva Yamamoto, Developer, rachel_garcia@example.com
+Henry White, Designer, olivia_wang@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** jack_nguyen@example.com, City, Techtopia
+   - **Projects:** Led the Innovative Project for Solving Problem-solving
+

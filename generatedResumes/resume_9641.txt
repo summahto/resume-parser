@@ -1,0 +1,10 @@
+9641. **Name:** Rachel Rodriguez
+   - **Skills:** IoT, Node.js, Git, Swift
+   - **Experience:** Junior Scientist at InnoSolutions
+   - **Education:** Bachelor in Physics from Physics Academy
+   - **References:** Quinn Jones, CTO, frank_smith@example.com
+Walter Garcia, Manager, patrick_white@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** victoria_chen@example.com, Village, Innovation Meadows
+   - **Projects:** Led the Groundbreaking Platform for Solving Collaboration
+

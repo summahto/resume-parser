@@ -1,0 +1,10 @@
+2871. **Name:** Ivy López
+   - **Skills:** DevOps, Python, HTML, Network Administration
+   - **Experience:** Senior Manager at TechInnovate
+   - **Education:** Master in Engineering from Inno Institute
+   - **References:** Ulysses Nguyen, Scientist, charlie_patel@example.com
+Sam Johnson, Developer, charlie_lópez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** tina_white@example.com, Village, Inno Haven
+   - **Projects:** Developed the Cutting-edge Project for Streamlining Problem-solving
+

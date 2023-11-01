@@ -1,0 +1,10 @@
+4524. **Name:** Charlie Wu
+   - **Skills:** AR/VR Development, Python, SQL, Graphic Design
+   - **Experience:** Lead Designer at CodeCrafters
+   - **Education:** Master in Art from Physics Academy
+   - **References:** Grace Garcia, CTO, charlie_nguyen@example.com
+Xena Jackson, Manager, ivy_miller@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** charlie_rodriguez@example.com, Town, Inno Haven
+   - **Projects:** Developed the Groundbreaking Project for Enhancing Collaboration
+

@@ -1,0 +1,10 @@
+6398. **Name:** Yuki Cruz
+   - **Skills:** Docker, IoT, SQL, Java
+   - **Experience:** Senior Manager at InnovativeTech
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Xena Sato, Scientist, zane_garcia@example.com
+Walter Taylor, Lead, frank_wu@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** xena_kim@example.com, Village, Techtopia
+   - **Projects:** Developed the Cutting-edge Project for Enhancing Data Analysis
+

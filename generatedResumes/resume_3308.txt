@@ -1,0 +1,10 @@
+3308. **Name:** Henry Nguyen
+   - **Skills:** Swift, UI/UX Design, SQL, Graphic Design
+   - **Experience:** Senior Manager at CreativeMinds
+   - **Education:** Ph.D. in Art from Inno Institute
+   - **References:** Olivia Cruz, Designer, frank_lopez@example.com
+Victoria Chen, Manager, henry_suzuki@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** quinn_lopez@example.com, City, Techland
+   - **Projects:** Developed the Innovative Framework for Optimizing Data Analysis
+

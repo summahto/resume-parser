@@ -1,0 +1,10 @@
+2611. **Name:** Rachel Garcia
+   - **Skills:** Network Administration, AR/VR Development, Project Management, Android Development
+   - **Experience:** Lead Manager at InnoSolutions
+   - **Education:** Ph.D. in Data Science from Inno Institute
+   - **References:** Katherine Kumar, CTO, henry_lee@example.com
+Victoria Wu, CEO, olivia_lópez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** leo_white@example.com, Village, Data City
+   - **Projects:** Developed the Innovative System for Solving User Experience
+

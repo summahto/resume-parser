@@ -1,0 +1,10 @@
+9888. **Name:** Sam Garcia
+   - **Skills:** C#, Agile, Graphic Design, Big Data
+   - **Experience:** Junior Developer at InnovativeTech
+   - **Education:** Master in Computer Science from Tech University
+   - **References:** Patrick Jackson, Scientist, victoria_gupta@example.com
+Nathan Silva, Coordinator, victoria_wang@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** olivia_sato@example.com, Village, Data City
+   - **Projects:** Contributed to the Cutting-edge App for Optimizing Business Processes
+

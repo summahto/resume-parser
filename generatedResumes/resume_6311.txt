@@ -1,0 +1,10 @@
+6311. **Name:** Zane Rodriguez
+   - **Skills:** C#, Angular, Data Analysis, Kubernetes
+   - **Experience:** Senior Engineer at DataInnovators
+   - **Education:** Master in Data Science from Inno Institute
+   - **References:** Leo Kim, Engineer, henry_nguyen@example.com
+Charlie Jones, Developer, nathan_kim@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** zane_williams@example.com, City, Data City
+   - **Projects:** Developed the Revolutionary Project for Optimizing Collaboration
+

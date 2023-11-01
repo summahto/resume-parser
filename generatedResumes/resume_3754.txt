@@ -1,0 +1,10 @@
+3754. **Name:** Ivy White
+   - **Skills:** Blockchain, Data Analysis, Python, HTML
+   - **Experience:** Junior Manager at CreativeSolutions
+   - **Education:** Ph.D. in Art from Inno Institute
+   - **References:** Eva Chen, Manager, zane_nguyen@example.com
+Quinn Kumar, CEO, david_brown@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** nathan_jones@example.com, City, Techtopia
+   - **Projects:** Contributed to the Cutting-edge Project for Optimizing Collaboration
+

@@ -1,0 +1,10 @@
+5819. **Name:** Mia Jackson
+   - **Skills:** Docker, Machine Learning, Blockchain, Angular
+   - **Experience:** Senior Designer at DataExperts
+   - **Education:** Bachelor in Data Science from Inno Institute
+   - **References:** Bob Brown, Scientist, sam_cruz@example.com
+Zane Rodriguez, Lead, ulysses_gupta@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** grace_lee@example.com, Town, Inno Haven
+   - **Projects:** Led the Groundbreaking App for Solving Problem-solving
+

@@ -1,0 +1,10 @@
+5500. **Name:** Grace Brown
+   - **Skills:** Graphic Design, C#, Cybersecurity, IoT
+   - **Experience:** Senior Designer at InnoSolutions
+   - **Education:** Bachelor in Computer Science from Inno Institute
+   - **References:** Patrick Jones, Developer, jack_cruz@example.com
+David Nguyen, Engineer, olivia_white@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** bob_lee@example.com, City, Techland
+   - **Projects:** Developed the Innovative App for Streamlining Collaboration
+

@@ -1,0 +1,10 @@
+2863. **Name:** Yuki Rodriguez
+   - **Skills:** Agile, Big Data, iOS Development, Node.js
+   - **Experience:** Junior Analyst at DataInnovators
+   - **Education:** Bachelor in Art from Inno Institute
+   - **References:** Walter Nguyen, Coordinator, charlie_williams@example.com
+Leo Nguyen, CEO, leo_cruz@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** frank_brown@example.com, Village, Data City
+   - **Projects:** Led the Revolutionary App for Optimizing User Experience
+

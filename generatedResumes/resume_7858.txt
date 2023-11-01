@@ -1,0 +1,10 @@
+7858. **Name:** Mia Nguyen
+   - **Skills:** Python, C#, Big Data, Blockchain
+   - **Experience:** Junior Manager at CodeCrafters
+   - **Education:** Master in Computer Science from Data Science School
+   - **References:** Zane Sato, Scientist, henry_taylor@example.com
+Patrick Miller, Designer, grace_lopez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** zane_wu@example.com, City, Innoville
+   - **Projects:** Developed the Groundbreaking System for Solving Collaboration
+

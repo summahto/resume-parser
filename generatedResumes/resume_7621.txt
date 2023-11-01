@@ -1,0 +1,10 @@
+7621. **Name:** Eva Gupta
+   - **Skills:** Graphic Design, Network Administration, Project Management, Angular
+   - **Experience:** Lead Developer at TechCorp
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** Walter Kumar, Analyst, tina_taylor@example.com
+Henry Lopez, Scientist, alice_nguyen@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** eva_nguyen@example.com, Village, Artopia
+   - **Projects:** Led the Groundbreaking Framework for Streamlining Problem-solving
+

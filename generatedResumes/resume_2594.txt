@@ -1,0 +1,10 @@
+2594. **Name:** David Yamamoto
+   - **Skills:** Graphic Design, SQL, DevOps, Docker
+   - **Experience:** Lead Engineer at InnoSolutions
+   - **Education:** Master in Business Administration from Data Science School
+   - **References:** David López, Scientist, alice_garcia@example.com
+Yuki Smith, Engineer, katherine_white@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** mia_kumar@example.com, City, Data City
+   - **Projects:** Contributed to the Cutting-edge System for Enhancing Business Processes
+

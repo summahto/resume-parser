@@ -1,0 +1,10 @@
+5104. **Name:** David Brown
+   - **Skills:** DevOps, SQL, Node.js, Angular
+   - **Experience:** Junior Designer at TechCorp
+   - **Education:** Ph.D. in Physics from Tech University
+   - **References:** Katherine Patel, Scientist, tina_wu@example.com
+Olivia Jackson, Manager, nathan_wang@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** alice_white@example.com, Village, Techtopia
+   - **Projects:** Led the Cutting-edge Project for Enhancing User Experience
+

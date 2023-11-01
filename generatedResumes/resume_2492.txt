@@ -1,0 +1,10 @@
+2492. **Name:** Grace Garcia
+   - **Skills:** HTML, UI/UX Design, Network Administration, IoT
+   - **Experience:** Senior Manager at CodeCrafters
+   - **Education:** Bachelor in Engineering from Creative Arts College
+   - **References:** Ivy Wang, Manager, victoria_jackson@example.com
+Grace Kumar, CTO, henry_cruz@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** ivy_white@example.com, City, Innoville
+   - **Projects:** Led the Cutting-edge Platform for Solving Data Analysis
+

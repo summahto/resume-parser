@@ -1,0 +1,10 @@
+6583. **Name:** Tina Jones
+   - **Skills:** Cloud Computing, DevOps, Data Analysis, iOS Development
+   - **Experience:** Senior Scientist at CreativeMinds
+   - **Education:** Bachelor in Engineering from Creative Arts College
+   - **References:** Mia Wang, Developer, tina_rodriguez@example.com
+Zane Cruz, Analyst, frank_wu@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** olivia_wu@example.com, Town, Scienceburg
+   - **Projects:** Developed the Revolutionary System for Solving Collaboration
+

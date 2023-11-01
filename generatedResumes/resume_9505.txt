@@ -1,0 +1,10 @@
+9505. **Name:** Olivia Jackson
+   - **Skills:** Big Data, UI/UX Design, React, AR/VR Development
+   - **Experience:** Senior Scientist at DataInnovators
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** Mia Rodriguez, Scientist, victoria_white@example.com
+Quinn White, CEO, walter_williams@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** mia_yamamoto@example.com, Town, Scienceburg
+   - **Projects:** Contributed to the Revolutionary System for Optimizing Business Processes
+

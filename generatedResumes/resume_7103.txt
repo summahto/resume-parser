@@ -1,0 +1,10 @@
+7103. **Name:** Zane Jackson
+   - **Skills:** UI/UX Design, iOS Development, Data Analysis, Machine Learning
+   - **Experience:** Junior Manager at InnovativeTech
+   - **Education:** Bachelor in Engineering from Creative Arts College
+   - **References:** Grace Brown, Designer, grace_smith@example.com
+Olivia Müller, Director, olivia_brown@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** jack_nguyen@example.com, Town, Green Valley
+   - **Projects:** Led the Innovative Project for Optimizing Collaboration
+

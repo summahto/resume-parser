@@ -1,0 +1,10 @@
+2569. **Name:** Patrick Chen
+   - **Skills:** Cloud Computing, Docker, Angular, SQL
+   - **Experience:** Junior Manager at DigitalSolutions
+   - **Education:** Bachelor in Engineering from Physics Academy
+   - **References:** Katherine Garcia, CEO, sam_garcia@example.com
+Sam Lopez, Director, mia_miller@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** walter_cruz@example.com, City, Techland
+   - **Projects:** Contributed to the Revolutionary System for Streamlining Business Processes
+

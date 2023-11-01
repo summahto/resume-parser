@@ -1,0 +1,10 @@
+8896. **Name:** Ivy Wu
+   - **Skills:** Graphic Design, Git, Android Development, AR/VR Development
+   - **Experience:** Senior Developer at CreativeSolutions
+   - **Education:** Bachelor in Business Administration from Data Science School
+   - **References:** Ivy Jones, Director, olivia_suzuki@example.com
+Bob Kumar, Developer, victoria_nguyen@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** sam_garcia@example.com, Town, Inno Haven
+   - **Projects:** Led the Cutting-edge Project for Solving Collaboration
+

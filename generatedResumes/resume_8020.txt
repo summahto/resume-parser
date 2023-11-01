@@ -1,0 +1,10 @@
+8020. **Name:** Yuki Kumar
+   - **Skills:** Data Analysis, DevOps, Swift, Angular
+   - **Experience:** Junior Engineer at InnoSolutions
+   - **Education:** Bachelor in Business Administration from Inno Institute
+   - **References:** David Gonzalez, CTO, david_taylor@example.com
+Zane Smith, Lead, tina_lee@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** david_brown@example.com, Village, Inno Haven
+   - **Projects:** Led the Cutting-edge Framework for Optimizing Business Processes
+

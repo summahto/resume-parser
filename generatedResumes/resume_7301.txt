@@ -1,0 +1,10 @@
+7301. **Name:** Xena Brown
+   - **Skills:** Agile, Docker, Data Analysis, iOS Development
+   - **Experience:** Senior Engineer at CreativeSolutions
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Alice Rodriguez, Director, grace_lee@example.com
+Xena Lee, CTO, xena_lee@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** frank_rodriguez@example.com, Town, Techtopia
+   - **Projects:** Led the Cutting-edge Platform for Optimizing Collaboration
+

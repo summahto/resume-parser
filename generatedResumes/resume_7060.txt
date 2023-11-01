@@ -1,0 +1,10 @@
+7060. **Name:** Leo Kumar
+   - **Skills:** Network Administration, Java, JavaScript, Agile
+   - **Experience:** Lead Scientist at DataExperts
+   - **Education:** Master in Engineering from Tech University
+   - **References:** Quinn Brown, CTO, yuki_wu@example.com
+Eva Wu, Coordinator, yuki_smith@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** nathan_miller@example.com, City, Artopia
+   - **Projects:** Developed the Innovative Framework for Enhancing Data Analysis
+

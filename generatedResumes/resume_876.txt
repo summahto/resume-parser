@@ -1,0 +1,10 @@
+876. **Name:** Frank Davis
+   - **Skills:** Java, AR/VR Development, IoT, iOS Development
+   - **Experience:** Lead Analyst at DataExperts
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** Charlie Lee, CEO, eva_kumar@example.com
+Ivy Nguyen, CTO, bob_lee@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** ulysses_jackson@example.com, Village, Inno Haven
+   - **Projects:** Developed the Innovative App for Solving Collaboration
+

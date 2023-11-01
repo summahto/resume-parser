@@ -1,0 +1,10 @@
+3381. **Name:** Mia White
+   - **Skills:** AR/VR Development, HTML, Vue.js, CSS
+   - **Experience:** Lead Developer at TechCorp
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Quinn Chen, Manager, xena_white@example.com
+Patrick Singh, Lead, david_williams@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** bob_nguyen@example.com, City, Data City
+   - **Projects:** Developed the Innovative Platform for Streamlining User Experience
+

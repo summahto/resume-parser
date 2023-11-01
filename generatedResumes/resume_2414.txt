@@ -1,0 +1,10 @@
+2414. **Name:** Eva Wu
+   - **Skills:** Project Management, Blockchain, Android Development, Swift
+   - **Experience:** Junior Developer at CodeCrafters
+   - **Education:** Bachelor in Engineering from Inno Institute
+   - **References:** Henry Patel, Coordinator, jack_kumar@example.com
+Victoria Smith, Lead, charlie_kumar@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** mia_lópez@example.com, City, Techtopia
+   - **Projects:** Led the Cutting-edge System for Enhancing Business Processes
+

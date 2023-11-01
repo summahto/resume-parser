@@ -1,0 +1,10 @@
+5240. **Name:** Bob Cruz
+   - **Skills:** Android Development, Vue.js, UI/UX Design, iOS Development
+   - **Experience:** Junior Engineer at TechCorp
+   - **Education:** Bachelor in Physics from Physics Academy
+   - **References:** Rachel Lopez, Engineer, olivia_davis@example.com
+Eva Jones, Scientist, ivy_rodriguez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** sam_kumar@example.com, Village, Green Valley
+   - **Projects:** Led the Cutting-edge System for Streamlining Problem-solving
+

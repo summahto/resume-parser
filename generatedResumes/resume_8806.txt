@@ -1,0 +1,10 @@
+8806. **Name:** Alice Garcia
+   - **Skills:** Angular, Swift, SQL, Big Data
+   - **Experience:** Senior Analyst at TechCorp
+   - **Education:** Master in Data Science from Inno Institute
+   - **References:** Alice Miller, Designer, katherine_wu@example.com
+Charlie Lee, Scientist, henry_jackson@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** patrick_kumar@example.com, Town, Techland
+   - **Projects:** Led the Revolutionary Framework for Enhancing Data Analysis
+

@@ -1,0 +1,10 @@
+8151. **Name:** Ulysses Gonzalez
+   - **Skills:** Swift, IoT, Graphic Design, Android Development
+   - **Experience:** Senior Manager at CreativeMinds
+   - **Education:** Master in Art from Business School
+   - **References:** Alice Chen, Coordinator, alice_wu@example.com
+Katherine Rodriguez, Director, rachel_yamamoto@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** jack_smith@example.com, Village, Techtopia
+   - **Projects:** Developed the Cutting-edge Platform for Solving Collaboration
+

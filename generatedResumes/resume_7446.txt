@@ -1,0 +1,10 @@
+7446. **Name:** Eva Wu
+   - **Skills:** Android Development, Agile, iOS Development, Java
+   - **Experience:** Senior Engineer at CreativeSolutions
+   - **Education:** Ph.D. in Business Administration from Business School
+   - **References:** Patrick Nguyen, Lead, eva_miller@example.com
+Patrick Wang, Developer, jack_brown@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** yuki_jones@example.com, City, Scienceburg
+   - **Projects:** Led the Revolutionary Project for Streamlining Data Analysis
+

@@ -1,0 +1,10 @@
+9704. **Name:** Sam Rodriguez
+   - **Skills:** C#, Docker, Kubernetes, Big Data
+   - **Experience:** Junior Designer at TechCorp
+   - **Education:** Ph.D. in Art from Creative Arts College
+   - **References:** Ivy Miller, Engineer, alice_nguyen@example.com
+Alice Rodriguez, Scientist, zane_smith@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** ulysses_jackson@example.com, Village, Data Haven
+   - **Projects:** Led the Innovative Project for Solving Data Analysis
+

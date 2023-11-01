@@ -1,0 +1,10 @@
+195. **Name:** Olivia Gupta
+   - **Skills:** Graphic Design, Git, Vue.js, UI/UX Design
+   - **Experience:** Lead Developer at CreativeSolutions
+   - **Education:** Bachelor in Physics from Inno Institute
+   - **References:** Charlie Lee, Manager, charlie_lopez@example.com
+Charlie Taylor, Manager, sam_patel@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** eva_white@example.com, Town, Innoville
+   - **Projects:** Developed the Innovative Platform for Optimizing Collaboration
+

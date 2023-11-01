@@ -1,0 +1,10 @@
+4007. **Name:** Tina Patel
+   - **Skills:** Graphic Design, IoT, Kubernetes, Vue.js
+   - **Experience:** Senior Designer at TechInnovate
+   - **Education:** Bachelor in Art from Inno Institute
+   - **References:** David Smith, Engineer, charlie_kim@example.com
+Sam Nguyen, Coordinator, charlie_cruz@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** ulysses_rodriguez@example.com, City, Artopia
+   - **Projects:** Developed the Revolutionary Project for Enhancing User Experience
+

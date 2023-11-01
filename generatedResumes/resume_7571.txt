@@ -1,0 +1,10 @@
+7571. **Name:** Quinn Lopez
+   - **Skills:** HTML, IoT, Android Development, iOS Development
+   - **Experience:** Senior Developer at CreativeSolutions
+   - **Education:** Master in Engineering from Inno Institute
+   - **References:** Ulysses Gupta, Director, henry_smith@example.com
+Zane Cruz, Director, grace_white@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** ivy_cruz@example.com, Village, Data City
+   - **Projects:** Developed the Innovative Framework for Streamlining Data Analysis
+

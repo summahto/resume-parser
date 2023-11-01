@@ -1,0 +1,10 @@
+6483. **Name:** Ulysses Gupta
+   - **Skills:** Java, Git, Android Development, Node.js
+   - **Experience:** Senior Manager at CreativeSolutions
+   - **Education:** Ph.D. in Engineering from Business School
+   - **References:** Leo Lopez, Developer, walter_kumar@example.com
+Quinn Kumar, Scientist, bob_silva@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** victoria_rodriguez@example.com, City, Innovation Meadows
+   - **Projects:** Contributed to the Cutting-edge Project for Streamlining Business Processes
+

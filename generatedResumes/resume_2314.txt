@@ -1,0 +1,10 @@
+2314. **Name:** Olivia Cruz
+   - **Skills:** Cloud Computing, Project Management, Agile, CSS
+   - **Experience:** Senior Manager at DataExperts
+   - **Education:** Ph.D. in Business Administration from Creative Arts College
+   - **References:** Yuki Davis, Lead, tina_wang@example.com
+Nathan Wang, Lead, olivia_sato@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** mia_gupta@example.com, Village, Data City
+   - **Projects:** Led the Cutting-edge Platform for Enhancing Data Analysis
+

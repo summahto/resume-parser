@@ -1,0 +1,10 @@
+1039. **Name:** Eva Lee
+   - **Skills:** C#, SQL, IoT, Machine Learning
+   - **Experience:** Senior Manager at TechCorp
+   - **Education:** Bachelor in Art from Inno Institute
+   - **References:** Zane Lee, CEO, zane_kumar@example.com
+Jack Kim, Engineer, jack_singh@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** bob_taylor@example.com, City, Artopia
+   - **Projects:** Developed the Revolutionary Framework for Enhancing Data Analysis
+

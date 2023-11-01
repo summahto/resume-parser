@@ -1,0 +1,10 @@
+2191. **Name:** Charlie Taylor
+   - **Skills:** iOS Development, Cybersecurity, React, Graphic Design
+   - **Experience:** Junior Designer at TechCorp
+   - **Education:** Master in Art from Inno Institute
+   - **References:** Bob Gupta, CEO, zane_wu@example.com
+Zane Smith, CTO, tina_wang@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** katherine_white@example.com, City, Techtopia
+   - **Projects:** Led the Groundbreaking Platform for Solving User Experience
+

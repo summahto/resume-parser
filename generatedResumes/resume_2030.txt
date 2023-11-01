@@ -1,0 +1,10 @@
+2030. **Name:** Xena White
+   - **Skills:** Project Management, Cybersecurity, Big Data, IoT
+   - **Experience:** Lead Designer at CreativeMinds
+   - **Education:** Bachelor in Physics from Inno Institute
+   - **References:** Olivia López, Designer, ulysses_lee@example.com
+Leo Lopez, Manager, ivy_lópez@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** xena_kumar@example.com, Village, Scienceburg
+   - **Projects:** Contributed to the Groundbreaking System for Streamlining Collaboration
+

@@ -1,0 +1,10 @@
+8869. **Name:** Rachel Rodriguez
+   - **Skills:** C#, AR/VR Development, Python, Project Management
+   - **Experience:** Junior Manager at CreativeMinds
+   - **Education:** Bachelor in Engineering from Inno Institute
+   - **References:** Mia Sato, Designer, yuki_jackson@example.com
+Frank Silva, CEO, zane_nguyen@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** mia_nguyen@example.com, City, Scienceburg
+   - **Projects:** Developed the Cutting-edge App for Solving Problem-solving
+

@@ -1,0 +1,10 @@
+2741. **Name:** Tina Miller
+   - **Skills:** iOS Development, UI/UX Design, React, Python
+   - **Experience:** Lead Developer at DataInnovators
+   - **Education:** Master in Data Science from Business School
+   - **References:** Frank Garcia, Coordinator, ulysses_chen@example.com
+David Kumar, Director, nathan_kumar@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** sam_lopez@example.com, City, Scienceburg
+   - **Projects:** Contributed to the Innovative System for Optimizing User Experience
+

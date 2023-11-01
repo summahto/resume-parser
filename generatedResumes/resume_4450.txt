@@ -1,0 +1,10 @@
+4450. **Name:** Charlie Garcia
+   - **Skills:** C#, JavaScript, IoT, Git
+   - **Experience:** Junior Engineer at TechCorp
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Olivia Chen, Engineer, victoria_wu@example.com
+Quinn Miller, CTO, alice_lee@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** walter_cruz@example.com, Village, Scienceburg
+   - **Projects:** Contributed to the Innovative App for Solving Problem-solving
+

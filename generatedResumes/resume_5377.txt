@@ -1,0 +1,10 @@
+5377. **Name:** Zane Gupta
+   - **Skills:** Git, Node.js, Data Analysis, Docker
+   - **Experience:** Lead Engineer at TechCorp
+   - **Education:** Bachelor in Engineering from Tech University
+   - **References:** Rachel Yamamoto, Manager, bob_williams@example.com
+Olivia Jones, Manager, leo_silva@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** alice_chen@example.com, City, Artopia
+   - **Projects:** Contributed to the Cutting-edge Project for Solving Business Processes
+

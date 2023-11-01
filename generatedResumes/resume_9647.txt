@@ -1,0 +1,10 @@
+9647. **Name:** Quinn Chen
+   - **Skills:** HTML, Big Data, Angular, Graphic Design
+   - **Experience:** Senior Scientist at CodeCrafters
+   - **Education:** Ph.D. in Data Science from Business School
+   - **References:** Eva Smith, Developer, david_cruz@example.com
+Patrick Yamamoto, Scientist, quinn_jackson@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** sam_lee@example.com, Town, Techtopia
+   - **Projects:** Contributed to the Revolutionary Project for Optimizing Problem-solving
+

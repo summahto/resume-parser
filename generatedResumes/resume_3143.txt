@@ -1,0 +1,10 @@
+3143. **Name:** Xena Brown
+   - **Skills:** React, JavaScript, Angular, Blockchain
+   - **Experience:** Junior Scientist at InnoSolutions
+   - **Education:** Bachelor in Business Administration from Data Science School
+   - **References:** Nathan Lee, Analyst, alice_lee@example.com
+Alice Gonzalez, Manager, bob_chen@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** nathan_nguyen@example.com, Village, Scienceburg
+   - **Projects:** Developed the Cutting-edge Framework for Enhancing User Experience
+

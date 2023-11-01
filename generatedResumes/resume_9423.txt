@@ -1,0 +1,10 @@
+9423. **Name:** Ivy Kumar
+   - **Skills:** Project Management, Git, Java, Docker
+   - **Experience:** Junior Analyst at CreativeSolutions
+   - **Education:** Ph.D. in Engineering from Creative Arts College
+   - **References:** Nathan Nguyen, Scientist, mia_taylor@example.com
+Quinn Smith, Designer, olivia_lopez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** leo_white@example.com, City, Innovation Meadows
+   - **Projects:** Developed the Innovative App for Streamlining Business Processes
+

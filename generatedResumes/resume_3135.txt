@@ -1,0 +1,10 @@
+3135. **Name:** Rachel Gupta
+   - **Skills:** Python, Network Administration, Project Management, AR/VR Development
+   - **Experience:** Senior Manager at InnovativeTech
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Xena Wu, Coordinator, quinn_jackson@example.com
+Jack Lee, Scientist, ulysses_cruz@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** eva_silva@example.com, Village, Innoville
+   - **Projects:** Led the Innovative Project for Optimizing User Experience
+

@@ -1,0 +1,10 @@
+187. **Name:** Charlie Cruz
+   - **Skills:** Machine Learning, Cybersecurity, Agile, UI/UX Design
+   - **Experience:** Senior Analyst at CreativeMinds
+   - **Education:** Bachelor in Computer Science from Physics Academy
+   - **References:** Ulysses Wu, CEO, alice_lee@example.com
+Jack Lee, Lead, yuki_williams@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** katherine_yamamoto@example.com, Town, Innovation Meadows
+   - **Projects:** Led the Revolutionary Platform for Streamlining Collaboration
+

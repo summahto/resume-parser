@@ -1,0 +1,10 @@
+6358. **Name:** Mia Wang
+   - **Skills:** Project Management, Graphic Design, Angular, HTML
+   - **Experience:** Junior Scientist at DataInnovators
+   - **Education:** Master in Physics from Business School
+   - **References:** Leo Nguyen, Scientist, yuki_taylor@example.com
+David Taylor, Director, ulysses_white@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** ivy_silva@example.com, Village, Inno Haven
+   - **Projects:** Led the Groundbreaking Framework for Solving Problem-solving
+

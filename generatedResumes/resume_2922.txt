@@ -1,0 +1,10 @@
+2922. **Name:** Rachel Gupta
+   - **Skills:** Java, SQL, Kubernetes, CSS
+   - **Experience:** Senior Analyst at InnovativeTech
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** Bob Brown, Coordinator, bob_lee@example.com
+Tina Taylor, Designer, eva_wang@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** jack_garcia@example.com, Town, Scienceburg
+   - **Projects:** Contributed to the Cutting-edge Project for Optimizing User Experience
+

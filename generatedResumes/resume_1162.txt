@@ -1,0 +1,10 @@
+1162. **Name:** Leo Hernandez
+   - **Skills:** HTML, Blockchain, Angular, Data Analysis
+   - **Experience:** Senior Manager at TechCorp
+   - **Education:** Bachelor in Art from Inno Institute
+   - **References:** Alice Silva, CTO, rachel_smith@example.com
+Leo Lee, Engineer, walter_taylor@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** ulysses_brown@example.com, Village, Green Valley
+   - **Projects:** Contributed to the Cutting-edge Platform for Enhancing User Experience
+

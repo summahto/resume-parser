@@ -1,0 +1,10 @@
+1395. **Name:** David Brown
+   - **Skills:** C#, AR/VR Development, Network Administration, Big Data
+   - **Experience:** Lead Scientist at DataInnovators
+   - **Education:** Bachelor in Art from Tech University
+   - **References:** Charlie Silva, Director, ulysses_jackson@example.com
+Grace Cruz, Engineer, katherine_lópez@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** grace_rodriguez@example.com, Village, Inno Haven
+   - **Projects:** Contributed to the Innovative System for Solving Problem-solving
+

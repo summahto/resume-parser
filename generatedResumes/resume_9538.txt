@@ -1,0 +1,10 @@
+9538. **Name:** Ivy Miller
+   - **Skills:** HTML, Graphic Design, C#, Data Analysis
+   - **Experience:** Lead Designer at InnovativeTech
+   - **Education:** Ph.D. in Business Administration from Data Science School
+   - **References:** Henry Lee, CEO, charlie_yamamoto@example.com
+Walter Cruz, Coordinator, eva_brown@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** david_wu@example.com, Village, Data City
+   - **Projects:** Contributed to the Cutting-edge Framework for Optimizing Business Processes
+

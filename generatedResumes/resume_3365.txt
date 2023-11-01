@@ -1,0 +1,10 @@
+3365. **Name:** Mia Lopez
+   - **Skills:** UI/UX Design, Cybersecurity, DevOps, Cloud Computing
+   - **Experience:** Junior Manager at CreativeSolutions
+   - **Education:** Bachelor in Computer Science from Business School
+   - **References:** Nathan Lopez, Developer, sam_brown@example.com
+Ulysses Hernandez, Designer, ulysses_lee@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** katherine_white@example.com, Town, Data Haven
+   - **Projects:** Developed the Innovative Project for Solving Data Analysis
+

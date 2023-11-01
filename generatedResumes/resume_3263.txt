@@ -1,0 +1,10 @@
+3263. **Name:** Leo Garcia
+   - **Skills:** Network Administration, Node.js, Vue.js, Blockchain
+   - **Experience:** Junior Engineer at InnoSolutions
+   - **Education:** Master in Computer Science from Tech University
+   - **References:** Victoria Rodriguez, Manager, mia_miller@example.com
+Nathan Miller, Director, quinn_jones@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** eva_smith@example.com, Town, Inno Haven
+   - **Projects:** Led the Cutting-edge Platform for Enhancing Collaboration
+

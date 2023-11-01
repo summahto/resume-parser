@@ -1,0 +1,10 @@
+4238. **Name:** Leo Kumar
+   - **Skills:** Vue.js, Cybersecurity, JavaScript, Data Analysis
+   - **Experience:** Senior Scientist at CodeCrafters
+   - **Education:** Ph.D. in Computer Science from Inno Institute
+   - **References:** Henry Jackson, Director, nathan_wu@example.com
+Walter Gupta, Lead, ulysses_patel@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** tina_cruz@example.com, Town, Green Valley
+   - **Projects:** Contributed to the Innovative Project for Solving Collaboration
+

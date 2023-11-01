@@ -1,0 +1,10 @@
+6955. **Name:** Charlie Nguyen
+   - **Skills:** Swift, iOS Development, Project Management, C#
+   - **Experience:** Junior Engineer at InnoSolutions
+   - **Education:** Master in Engineering from Data Science School
+   - **References:** Rachel Cruz, Coordinator, ivy_lopez@example.com
+Ivy Smith, Developer, frank_taylor@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** jack_lee@example.com, City, Data Haven
+   - **Projects:** Led the Innovative System for Enhancing Data Analysis
+

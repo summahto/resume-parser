@@ -1,0 +1,10 @@
+2735. **Name:** Alice Nguyen
+   - **Skills:** Cloud Computing, Big Data, Node.js, DevOps
+   - **Experience:** Lead Developer at DataExperts
+   - **Education:** Bachelor in Computer Science from Business School
+   - **References:** Grace Taylor, Director, nathan_taylor@example.com
+Zane Patel, CTO, tina_jones@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** charlie_rodriguez@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Revolutionary App for Solving User Experience
+

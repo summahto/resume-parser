@@ -1,0 +1,10 @@
+5975. **Name:** Frank Kumar
+   - **Skills:** Vue.js, Android Development, SQL, Big Data
+   - **Experience:** Lead Analyst at DataInnovators
+   - **Education:** Ph.D. in Computer Science from Data Science School
+   - **References:** Mia Taylor, Designer, david_lee@example.com
+Ivy Wu, Director, patrick_wang@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** yuki_jackson@example.com, City, Inno Haven
+   - **Projects:** Led the Innovative Project for Optimizing Problem-solving
+

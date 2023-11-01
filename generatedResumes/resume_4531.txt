@@ -1,0 +1,10 @@
+4531. **Name:** Charlie Wu
+   - **Skills:** Node.js, Data Analysis, Java, Network Administration
+   - **Experience:** Senior Engineer at CreativeMinds
+   - **Education:** Master in Art from Creative Arts College
+   - **References:** Sam Singh, Coordinator, tina_brown@example.com
+Ulysses Kumar, CEO, rachel_cruz@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** henry_jones@example.com, Town, Data City
+   - **Projects:** Contributed to the Innovative Framework for Streamlining Business Processes
+

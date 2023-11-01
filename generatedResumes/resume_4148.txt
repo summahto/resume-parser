@@ -1,0 +1,10 @@
+4148. **Name:** Henry Wu
+   - **Skills:** Docker, C#, iOS Development, Graphic Design
+   - **Experience:** Senior Designer at TechInnovate
+   - **Education:** Master in Business Administration from Data Science School
+   - **References:** Henry Jackson, Lead, sam_yamamoto@example.com
+Walter Taylor, Designer, tina_cruz@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** frank_brown@example.com, Town, Techland
+   - **Projects:** Contributed to the Cutting-edge App for Solving Data Analysis
+

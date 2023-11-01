@@ -1,0 +1,10 @@
+5331. **Name:** Xena Gupta
+   - **Skills:** SQL, Python, Blockchain, Java
+   - **Experience:** Junior Analyst at DataInnovators
+   - **Education:** Bachelor in Data Science from Creative Arts College
+   - **References:** Ulysses Kumar, Designer, quinn_wu@example.com
+Leo Yamamoto, Director, yuki_smith@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** ulysses_taylor@example.com, City, Scienceburg
+   - **Projects:** Led the Innovative App for Solving Collaboration
+

@@ -1,0 +1,10 @@
+5478. **Name:** David Singh
+   - **Skills:** Swift, JavaScript, AR/VR Development, Node.js
+   - **Experience:** Senior Developer at CreativeMinds
+   - **Education:** Bachelor in Physics from Business School
+   - **References:** Olivia Cruz, Lead, henry_wu@example.com
+Walter White, Lead, patrick_kumar@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** henry_brown@example.com, City, Scienceburg
+   - **Projects:** Contributed to the Revolutionary Project for Enhancing Collaboration
+

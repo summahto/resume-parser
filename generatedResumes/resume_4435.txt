@@ -1,0 +1,10 @@
+4435. **Name:** Quinn Cruz
+   - **Skills:** HTML, AR/VR Development, Java, Node.js
+   - **Experience:** Junior Analyst at CreativeMinds
+   - **Education:** Bachelor in Business Administration from Data Science School
+   - **References:** Tina Smith, Director, grace_sato@example.com
+Charlie Kumar, Scientist, eva_kumar@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** sam_miller@example.com, Village, Innovation Meadows
+   - **Projects:** Developed the Cutting-edge App for Enhancing Problem-solving
+

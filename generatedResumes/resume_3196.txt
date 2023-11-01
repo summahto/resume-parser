@@ -1,0 +1,10 @@
+3196. **Name:** Ivy Chen
+   - **Skills:** IoT, Big Data, Java, UI/UX Design
+   - **Experience:** Senior Analyst at CodeCrafters
+   - **Education:** Ph.D. in Physics from Data Science School
+   - **References:** Tina Lee, Analyst, eva_jones@example.com
+Tina Brown, Designer, tina_gupta@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** frank_garcia@example.com, Village, Data Haven
+   - **Projects:** Contributed to the Cutting-edge App for Optimizing Problem-solving
+

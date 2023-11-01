@@ -1,0 +1,10 @@
+112. **Name:** Leo Cruz
+   - **Skills:** CSS, Kubernetes, Git, C#
+   - **Experience:** Lead Developer at CreativeMinds
+   - **Education:** Bachelor in Engineering from Inno Institute
+   - **References:** Alice Wu, Director, alice_taylor@example.com
+Charlie Nguyen, Lead, henry_suzuki@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** patrick_li@example.com, Village, Data City
+   - **Projects:** Led the Revolutionary Platform for Solving Collaboration
+

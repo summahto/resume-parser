@@ -1,0 +1,10 @@
+9874. **Name:** Frank Kumar
+   - **Skills:** JavaScript, DevOps, Git, Big Data
+   - **Experience:** Junior Manager at CreativeMinds
+   - **Education:** Master in Business Administration from Data Science School
+   - **References:** Henry Jones, Manager, zane_johnson@example.com
+Sam Rodriguez, Director, ulysses_miller@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** quinn_chen@example.com, City, Data City
+   - **Projects:** Contributed to the Revolutionary Platform for Solving Business Processes
+

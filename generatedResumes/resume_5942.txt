@@ -1,0 +1,10 @@
+5942. **Name:** Ivy Gupta
+   - **Skills:** Android Development, AR/VR Development, Cybersecurity, Git
+   - **Experience:** Senior Scientist at InnovativeTech
+   - **Education:** Ph.D. in Business Administration from Tech University
+   - **References:** Mia Wang, CTO, bob_nguyen@example.com
+Ulysses Johnson, Manager, victoria_silva@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** frank_kumar@example.com, Village, Artopia
+   - **Projects:** Developed the Innovative Project for Optimizing User Experience
+

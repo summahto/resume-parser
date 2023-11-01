@@ -1,0 +1,10 @@
+80. **Name:** Katherine Jackson
+   - **Skills:** HTML, IoT, JavaScript, Docker
+   - **Experience:** Senior Engineer at InnovativeTech
+   - **Education:** Master in Engineering from Data Science School
+   - **References:** Zane Nguyen, Analyst, zane_white@example.com
+Leo Nguyen, Manager, david_wu@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** david_nguyen@example.com, Village, Inno Haven
+   - **Projects:** Contributed to the Cutting-edge System for Enhancing Business Processes
+

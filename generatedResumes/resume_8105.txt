@@ -1,0 +1,10 @@
+8105. **Name:** Ulysses Taylor
+   - **Skills:** UI/UX Design, Java, Git, SQL
+   - **Experience:** Senior Designer at InnoSolutions
+   - **Education:** Bachelor in Engineering from Creative Arts College
+   - **References:** Sam Chen, Designer, tina_nguyen@example.com
+Victoria Wang, Director, eva_lopez@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** ulysses_garcia@example.com, City, Artopia
+   - **Projects:** Led the Cutting-edge App for Streamlining User Experience
+

@@ -1,0 +1,10 @@
+1061. **Name:** Charlie Taylor
+   - **Skills:** HTML, Cloud Computing, Cybersecurity, Android Development
+   - **Experience:** Senior Manager at CodeCrafters
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** David Patel, Engineer, frank_wu@example.com
+Leo Gonzalez, Engineer, david_brown@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** sam_patel@example.com, Town, Inno Haven
+   - **Projects:** Led the Groundbreaking App for Optimizing User Experience
+

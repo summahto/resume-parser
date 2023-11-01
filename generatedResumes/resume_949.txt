@@ -1,0 +1,10 @@
+949. **Name:** Charlie Jones
+   - **Skills:** C#, Docker, Data Analysis, Git
+   - **Experience:** Junior Analyst at TechCorp
+   - **Education:** Ph.D. in Art from Creative Arts College
+   - **References:** Yuki Wang, CTO, rachel_singh@example.com
+Ulysses Lopez, Developer, bob_cruz@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** yuki_jackson@example.com, City, Techtopia
+   - **Projects:** Led the Cutting-edge Framework for Enhancing Business Processes
+

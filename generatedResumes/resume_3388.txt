@@ -1,0 +1,10 @@
+3388. **Name:** Eva Gupta
+   - **Skills:** Git, Swift, Big Data, Blockchain
+   - **Experience:** Junior Scientist at DataExperts
+   - **Education:** Master in Physics from Physics Academy
+   - **References:** Xena Cruz, Designer, walter_li@example.com
+Eva Nguyen, Manager, david_kumar@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** patrick_cruz@example.com, Town, Techland
+   - **Projects:** Developed the Revolutionary Project for Enhancing Collaboration
+

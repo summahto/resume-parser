@@ -1,0 +1,10 @@
+3895. **Name:** Grace Kim
+   - **Skills:** Docker, UI/UX Design, Android Development, CSS
+   - **Experience:** Junior Manager at DataExperts
+   - **Education:** Bachelor in Engineering from Data Science School
+   - **References:** Grace White, Engineer, katherine_kumar@example.com
+Olivia Lee, Analyst, ulysses_patel@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** patrick_lee@example.com, Town, Scienceburg
+   - **Projects:** Led the Groundbreaking System for Streamlining Business Processes
+

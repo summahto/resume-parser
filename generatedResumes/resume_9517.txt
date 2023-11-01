@@ -1,0 +1,10 @@
+9517. **Name:** Charlie Chen
+   - **Skills:** AR/VR Development, Data Analysis, Agile, Cloud Computing
+   - **Experience:** Senior Scientist at DataInnovators
+   - **Education:** Ph.D. in Computer Science from Data Science School
+   - **References:** Alice Gupta, Analyst, katherine_jones@example.com
+David López, Analyst, patrick_johnson@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** tina_patel@example.com, City, Scienceburg
+   - **Projects:** Contributed to the Groundbreaking System for Enhancing Data Analysis
+

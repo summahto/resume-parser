@@ -1,0 +1,10 @@
+9900. **Name:** Jack Rodriguez
+   - **Skills:** Angular, Blockchain, Swift, Graphic Design
+   - **Experience:** Junior Manager at DataInnovators
+   - **Education:** Bachelor in Computer Science from Physics Academy
+   - **References:** Yuki Lopez, Director, olivia_wu@example.com
+Mia Miller, Director, jack_wu@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** sam_silva@example.com, City, Innoville
+   - **Projects:** Contributed to the Innovative System for Optimizing Data Analysis
+

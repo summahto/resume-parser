@@ -1,0 +1,10 @@
+6908. **Name:** Quinn Lee
+   - **Skills:** IoT, Angular, Blockchain, Machine Learning
+   - **Experience:** Lead Engineer at DataExperts
+   - **Education:** Ph.D. in Physics from Inno Institute
+   - **References:** Sam Gupta, Engineer, charlie_brown@example.com
+Grace Smith, Lead, mia_white@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** bob_miller@example.com, City, Innovation Meadows
+   - **Projects:** Contributed to the Innovative Platform for Enhancing Business Processes
+

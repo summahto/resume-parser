@@ -1,0 +1,10 @@
+5091. **Name:** David Rodriguez
+   - **Skills:** Kubernetes, UI/UX Design, CSS, Cloud Computing
+   - **Experience:** Junior Designer at DigitalSolutions
+   - **Education:** Bachelor in Art from Tech University
+   - **References:** Ivy Cruz, CEO, grace_kumar@example.com
+Zane Kim, Designer, sam_garcia@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** grace_cruz@example.com, Village, Techtopia
+   - **Projects:** Developed the Revolutionary Framework for Optimizing Problem-solving
+

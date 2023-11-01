@@ -1,0 +1,10 @@
+4098. **Name:** Katherine Smith
+   - **Skills:** UI/UX Design, Kubernetes, Swift, Agile
+   - **Experience:** Senior Analyst at CodeCrafters
+   - **Education:** Bachelor in Business Administration from Business School
+   - **References:** Xena Lopez, Director, zane_jones@example.com
+Sam Jones, Designer, victoria_kim@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** bob_brown@example.com, Village, Data City
+   - **Projects:** Led the Revolutionary App for Enhancing Collaboration
+

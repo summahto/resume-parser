@@ -1,0 +1,10 @@
+7688. **Name:** Frank Cruz
+   - **Skills:** AR/VR Development, C#, CSS, Android Development
+   - **Experience:** Junior Scientist at InnoSolutions
+   - **Education:** Bachelor in Business Administration from Business School
+   - **References:** Zane Williams, Scientist, eva_jones@example.com
+Nathan Garcia, Designer, xena_wu@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** olivia_jones@example.com, Town, Techland
+   - **Projects:** Contributed to the Innovative Project for Optimizing Data Analysis
+

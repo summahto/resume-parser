@@ -1,0 +1,10 @@
+3020. **Name:** David Garcia
+   - **Skills:** Data Analysis, Docker, Kubernetes, Cybersecurity
+   - **Experience:** Senior Engineer at CreativeSolutions
+   - **Education:** Bachelor in Engineering from Business School
+   - **References:** Rachel Patel, CEO, david_cruz@example.com
+David Taylor, Analyst, xena_wu@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** yuki_chen@example.com, Village, Innovation Meadows
+   - **Projects:** Contributed to the Cutting-edge Project for Solving Collaboration
+

@@ -1,0 +1,10 @@
+2393. **Name:** Katherine Silva
+   - **Skills:** Git, C#, JavaScript, Node.js
+   - **Experience:** Junior Designer at TechCorp
+   - **Education:** Ph.D. in Data Science from Physics Academy
+   - **References:** Mia White, Designer, leo_nguyen@example.com
+Alice Wu, Lead, frank_gupta@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** frank_cruz@example.com, Town, Techland
+   - **Projects:** Developed the Innovative App for Enhancing User Experience
+

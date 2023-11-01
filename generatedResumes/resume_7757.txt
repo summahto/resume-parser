@@ -1,0 +1,10 @@
+7757. **Name:** Mia Lopez
+   - **Skills:** React, UI/UX Design, iOS Development, Python
+   - **Experience:** Junior Engineer at InnovativeTech
+   - **Education:** Bachelor in Physics from Inno Institute
+   - **References:** Henry Rodriguez, CTO, henry_smith@example.com
+Ulysses Silva, Coordinator, xena_kumar@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** katherine_wu@example.com, Village, Innovation Meadows
+   - **Projects:** Developed the Groundbreaking Project for Streamlining User Experience
+

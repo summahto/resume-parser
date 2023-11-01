@@ -1,0 +1,10 @@
+6991. **Name:** Nathan Patel
+   - **Skills:** IoT, Docker, Android Development, Kubernetes
+   - **Experience:** Junior Designer at DigitalSolutions
+   - **Education:** Bachelor in Art from Business School
+   - **References:** Nathan Patel, Coordinator, charlie_rodriguez@example.com
+Frank Smith, Designer, tina_white@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** ulysses_smith@example.com, City, Scienceburg
+   - **Projects:** Developed the Innovative System for Streamlining Problem-solving
+

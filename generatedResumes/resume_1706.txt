@@ -1,0 +1,10 @@
+1706. **Name:** Nathan White
+   - **Skills:** Node.js, Android Development, Big Data, SQL
+   - **Experience:** Senior Designer at TechCorp
+   - **Education:** Bachelor in Art from Physics Academy
+   - **References:** Yuki Lopez, Developer, quinn_taylor@example.com
+Nathan Cruz, Analyst, olivia_nguyen@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** sam_jones@example.com, Town, Innoville
+   - **Projects:** Contributed to the Revolutionary Framework for Streamlining Data Analysis
+

@@ -1,0 +1,10 @@
+9509. **Name:** Nathan Kumar
+   - **Skills:** Project Management, AR/VR Development, Node.js, React
+   - **Experience:** Lead Manager at DataInnovators
+   - **Education:** Ph.D. in Art from Tech University
+   - **References:** Leo Davis, Scientist, leo_miller@example.com
+Yuki Gupta, Designer, david_miller@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** quinn_jones@example.com, City, Scienceburg
+   - **Projects:** Developed the Cutting-edge System for Enhancing Data Analysis
+

@@ -1,0 +1,10 @@
+609. **Name:** Zane Cruz
+   - **Skills:** IoT, HTML, JavaScript, Python
+   - **Experience:** Junior Engineer at TechInnovate
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** Nathan Brown, CTO, eva_cruz@example.com
+Patrick Cruz, Director, victoria_wu@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** alice_white@example.com, Village, Techland
+   - **Projects:** Contributed to the Groundbreaking App for Streamlining Problem-solving
+

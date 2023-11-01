@@ -1,0 +1,10 @@
+8436. **Name:** Ivy Kumar
+   - **Skills:** Vue.js, SQL, React, JavaScript
+   - **Experience:** Lead Designer at DataExperts
+   - **Education:** Master in Business Administration from Physics Academy
+   - **References:** Henry Brown, Analyst, bob_chen@example.com
+Xena Gupta, Manager, victoria_wang@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** katherine_sato@example.com, Town, Innovation Meadows
+   - **Projects:** Developed the Revolutionary Project for Streamlining Data Analysis
+

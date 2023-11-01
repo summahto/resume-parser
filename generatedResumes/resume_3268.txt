@@ -1,0 +1,10 @@
+3268. **Name:** Henry Cruz
+   - **Skills:** IoT, Angular, Python, iOS Development
+   - **Experience:** Senior Scientist at DataInnovators
+   - **Education:** Ph.D. in Data Science from Inno Institute
+   - **References:** Bob Singh, Lead, frank_singh@example.com
+Henry Jones, Developer, xena_miller@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** frank_taylor@example.com, Town, Green Valley
+   - **Projects:** Developed the Revolutionary App for Enhancing Data Analysis
+

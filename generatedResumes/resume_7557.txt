@@ -1,0 +1,10 @@
+7557. **Name:** Leo Rodriguez
+   - **Skills:** UI/UX Design, AR/VR Development, Docker, React
+   - **Experience:** Senior Engineer at TechCorp
+   - **Education:** Bachelor in Engineering from Physics Academy
+   - **References:** Katherine Lopez, Analyst, olivia_davis@example.com
+Victoria Hernandez, Coordinator, olivia_li@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** bob_brown@example.com, Village, Techtopia
+   - **Projects:** Contributed to the Groundbreaking Platform for Optimizing Business Processes
+

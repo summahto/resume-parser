@@ -1,0 +1,10 @@
+387. **Name:** Tina Chen
+   - **Skills:** Cloud Computing, Swift, DevOps, Docker
+   - **Experience:** Senior Analyst at CreativeMinds
+   - **Education:** Ph.D. in Business Administration from Tech University
+   - **References:** Rachel Brown, CTO, eva_taylor@example.com
+Xena Lee, Manager, david_garcia@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** tina_white@example.com, City, Green Valley
+   - **Projects:** Contributed to the Cutting-edge Platform for Optimizing Collaboration
+

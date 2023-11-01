@@ -1,0 +1,10 @@
+9506. **Name:** Olivia Wang
+   - **Skills:** SQL, iOS Development, JavaScript, Network Administration
+   - **Experience:** Senior Analyst at DataInnovators
+   - **Education:** Master in Art from Data Science School
+   - **References:** Jack Kumar, Scientist, ulysses_kumar@example.com
+Xena Jackson, Coordinator, eva_nguyen@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** grace_jackson@example.com, Village, Data Haven
+   - **Projects:** Developed the Groundbreaking Project for Streamlining Business Processes
+

@@ -1,0 +1,10 @@
+9114. **Name:** Mia Lee
+   - **Skills:** Network Administration, Big Data, Angular, Project Management
+   - **Experience:** Senior Manager at CreativeMinds
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** Tina Brown, Developer, xena_gonzalez@example.com
+David White, Lead, frank_lee@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** mia_lee@example.com, Village, Techtopia
+   - **Projects:** Led the Revolutionary Framework for Solving Collaboration
+

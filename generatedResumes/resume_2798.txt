@@ -1,0 +1,10 @@
+2798. **Name:** Henry Patel
+   - **Skills:** Docker, Git, Python, iOS Development
+   - **Experience:** Junior Developer at DataExperts
+   - **Education:** Ph.D. in Computer Science from Creative Arts College
+   - **References:** Bob Yamamoto, Developer, frank_gupta@example.com
+Quinn White, Scientist, leo_lee@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** patrick_kumar@example.com, Town, Green Valley
+   - **Projects:** Led the Groundbreaking Platform for Streamlining Problem-solving
+

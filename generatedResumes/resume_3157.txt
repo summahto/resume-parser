@@ -1,0 +1,10 @@
+3157. **Name:** Olivia Smith
+   - **Skills:** Agile, Data Analysis, Graphic Design, React
+   - **Experience:** Junior Manager at DataInnovators
+   - **Education:** Bachelor in Engineering from Physics Academy
+   - **References:** Jack Kumar, Manager, xena_kumar@example.com
+Nathan Garcia, Manager, grace_patel@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** charlie_lopez@example.com, Village, Scienceburg
+   - **Projects:** Contributed to the Revolutionary System for Solving User Experience
+

@@ -1,0 +1,10 @@
+7823. **Name:** Alice Nguyen
+   - **Skills:** Android Development, AR/VR Development, Swift, Graphic Design
+   - **Experience:** Senior Developer at CreativeMinds
+   - **Education:** Bachelor in Computer Science from Tech University
+   - **References:** Katherine Jackson, Lead, rachel_jones@example.com
+Grace Singh, CTO, katherine_chen@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** alice_wu@example.com, Town, Data City
+   - **Projects:** Developed the Revolutionary Project for Solving Problem-solving
+

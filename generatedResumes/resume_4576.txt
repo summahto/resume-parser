@@ -1,0 +1,10 @@
+4576. **Name:** Nathan Garcia
+   - **Skills:** Machine Learning, IoT, SQL, Cloud Computing
+   - **Experience:** Lead Scientist at DigitalSolutions
+   - **Education:** Master in Physics from Business School
+   - **References:** Bob Lee, CTO, sam_chen@example.com
+Henry White, Coordinator, sam_garcia@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** charlie_garcia@example.com, City, Artopia
+   - **Projects:** Contributed to the Revolutionary Platform for Streamlining Business Processes
+

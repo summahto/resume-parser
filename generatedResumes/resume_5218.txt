@@ -1,0 +1,10 @@
+5218. **Name:** Charlie Gupta
+   - **Skills:** Machine Learning, Android Development, CSS, UI/UX Design
+   - **Experience:** Junior Scientist at DigitalSolutions
+   - **Education:** Bachelor in Business Administration from Inno Institute
+   - **References:** David López, Scientist, mia_jackson@example.com
+Jack Nguyen, Coordinator, david_silva@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** charlie_wu@example.com, City, Techtopia
+   - **Projects:** Contributed to the Revolutionary System for Solving Business Processes
+

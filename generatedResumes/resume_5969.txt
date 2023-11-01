@@ -1,0 +1,10 @@
+5969. **Name:** Mia Kumar
+   - **Skills:** DevOps, iOS Development, Project Management, React
+   - **Experience:** Senior Designer at InnovativeTech
+   - **Education:** Master in Computer Science from Data Science School
+   - **References:** David Wu, Designer, zane_lee@example.com
+Ivy White, Coordinator, ivy_lopez@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** ulysses_williams@example.com, Village, Artopia
+   - **Projects:** Developed the Groundbreaking Framework for Optimizing Collaboration
+

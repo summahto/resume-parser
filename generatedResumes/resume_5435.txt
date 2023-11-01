@@ -1,0 +1,10 @@
+5435. **Name:** Frank Lee
+   - **Skills:** CSS, Cybersecurity, Git, UI/UX Design
+   - **Experience:** Junior Developer at DataExperts
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Nathan Kumar, Analyst, eva_miller@example.com
+Eva Kumar, CTO, victoria_jackson@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** katherine_kumar@example.com, Village, Techland
+   - **Projects:** Contributed to the Revolutionary Platform for Streamlining Problem-solving
+

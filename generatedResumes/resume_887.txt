@@ -1,0 +1,10 @@
+887. **Name:** Leo Gupta
+   - **Skills:** Kubernetes, Data Analysis, JavaScript, CSS
+   - **Experience:** Junior Developer at InnovativeTech
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** Grace Nguyen, Engineer, frank_lee@example.com
+David Gupta, Engineer, bob_müller@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** walter_müller@example.com, Town, Innoville
+   - **Projects:** Led the Innovative Platform for Optimizing Collaboration
+

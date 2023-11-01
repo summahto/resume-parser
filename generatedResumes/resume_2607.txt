@@ -1,0 +1,10 @@
+2607. **Name:** Zane Lee
+   - **Skills:** Machine Learning, Big Data, UI/UX Design, AR/VR Development
+   - **Experience:** Senior Scientist at DigitalSolutions
+   - **Education:** Master in Art from Data Science School
+   - **References:** Sam Kim, Scientist, ivy_cruz@example.com
+Yuki Lee, CTO, nathan_nguyen@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** leo_wu@example.com, City, Inno Haven
+   - **Projects:** Developed the Revolutionary App for Optimizing Collaboration
+

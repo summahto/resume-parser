@@ -1,0 +1,10 @@
+5096. **Name:** Bob Wu
+   - **Skills:** Python, Swift, iOS Development, Angular
+   - **Experience:** Senior Developer at DataExperts
+   - **Education:** Ph.D. in Engineering from Creative Arts College
+   - **References:** Ulysses Gupta, Engineer, walter_nguyen@example.com
+Henry Smith, Designer, katherine_suzuki@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** frank_kim@example.com, Village, Data City
+   - **Projects:** Developed the Revolutionary System for Streamlining Problem-solving
+

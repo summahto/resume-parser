@@ -1,0 +1,10 @@
+1002. **Name:** Ivy Taylor
+   - **Skills:** Kubernetes, HTML, Cloud Computing, IoT
+   - **Experience:** Junior Developer at InnoSolutions
+   - **Education:** Master in Art from Business School
+   - **References:** Alice Smith, Designer, charlie_patel@example.com
+Xena White, Scientist, yuki_lee@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** patrick_lee@example.com, Village, Innoville
+   - **Projects:** Led the Revolutionary Framework for Optimizing Data Analysis
+

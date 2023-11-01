@@ -1,0 +1,10 @@
+7140. **Name:** Patrick Lopez
+   - **Skills:** IoT, Angular, Docker, iOS Development
+   - **Experience:** Lead Developer at DataExperts
+   - **Education:** Bachelor in Engineering from Creative Arts College
+   - **References:** Olivia Lee, Coordinator, zane_lee@example.com
+Olivia Garcia, CTO, sam_wu@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** mia_lopez@example.com, Village, Innovation Meadows
+   - **Projects:** Led the Innovative Platform for Streamlining Business Processes
+

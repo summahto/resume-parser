@@ -1,0 +1,10 @@
+6601. **Name:** Yuki Jackson
+   - **Skills:** JavaScript, IoT, React, Vue.js
+   - **Experience:** Lead Manager at DigitalSolutions
+   - **Education:** Master in Engineering from Business School
+   - **References:** Rachel Chen, Engineer, leo_miller@example.com
+Henry Jackson, Engineer, henry_rodriguez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** walter_white@example.com, Village, Data City
+   - **Projects:** Developed the Cutting-edge App for Solving Business Processes
+

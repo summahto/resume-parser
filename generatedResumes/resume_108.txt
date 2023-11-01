@@ -1,0 +1,10 @@
+108. **Name:** Leo Yamamoto
+   - **Skills:** Angular, Git, Blockchain, IoT
+   - **Experience:** Junior Engineer at CreativeMinds
+   - **Education:** Ph.D. in Business Administration from Tech University
+   - **References:** Grace Wang, Lead, ulysses_chen@example.com
+Patrick Miller, CTO, walter_rodriguez@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** patrick_cruz@example.com, Village, Scienceburg
+   - **Projects:** Led the Groundbreaking System for Optimizing Problem-solving
+

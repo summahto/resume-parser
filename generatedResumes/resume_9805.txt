@@ -1,0 +1,10 @@
+9805. **Name:** Olivia Nguyen
+   - **Skills:** Swift, Git, Java, Data Analysis
+   - **Experience:** Lead Manager at CodeCrafters
+   - **Education:** Ph.D. in Data Science from Data Science School
+   - **References:** Rachel Kumar, Developer, charlie_rodriguez@example.com
+Rachel Smith, Engineer, rachel_white@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** nathan_miller@example.com, City, Green Valley
+   - **Projects:** Led the Groundbreaking Project for Enhancing Problem-solving
+

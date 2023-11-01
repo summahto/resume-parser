@@ -1,0 +1,10 @@
+9652. **Name:** Jack Rodriguez
+   - **Skills:** Git, Angular, C#, Cybersecurity
+   - **Experience:** Senior Scientist at TechInnovate
+   - **Education:** Bachelor in Business Administration from Data Science School
+   - **References:** David White, CTO, mia_kumar@example.com
+Yuki Jones, CEO, alice_kumar@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** frank_wu@example.com, Town, Artopia
+   - **Projects:** Contributed to the Cutting-edge App for Streamlining User Experience
+

@@ -1,0 +1,10 @@
+6120. **Name:** Eva Rodriguez
+   - **Skills:** HTML, Agile, Swift, Kubernetes
+   - **Experience:** Junior Designer at CreativeMinds
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** Quinn Li, Developer, zane_lópez@example.com
+Yuki Wang, CEO, grace_jackson@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** olivia_wu@example.com, Village, Inno Haven
+   - **Projects:** Developed the Revolutionary Project for Enhancing Collaboration
+

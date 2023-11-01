@@ -1,0 +1,10 @@
+4817. **Name:** Charlie Jackson
+   - **Skills:** SQL, AR/VR Development, Agile, Android Development
+   - **Experience:** Junior Designer at CreativeMinds
+   - **Education:** Bachelor in Business Administration from Physics Academy
+   - **References:** Zane Gonzalez, CTO, xena_lee@example.com
+Nathan Gonzalez, Scientist, mia_nguyen@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** sam_rodriguez@example.com, Village, Artopia
+   - **Projects:** Led the Innovative App for Streamlining Problem-solving
+

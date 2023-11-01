@@ -1,0 +1,10 @@
+5465. **Name:** Nathan Chen
+   - **Skills:** Swift, Data Analysis, Machine Learning, Android Development
+   - **Experience:** Senior Analyst at InnovativeTech
+   - **Education:** Master in Art from Business School
+   - **References:** Zane Chen, Developer, yuki_brown@example.com
+Zane Nguyen, Engineer, alice_wang@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** walter_wu@example.com, Town, Data Haven
+   - **Projects:** Contributed to the Innovative Framework for Enhancing User Experience
+

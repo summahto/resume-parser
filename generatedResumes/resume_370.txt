@@ -1,0 +1,10 @@
+370. **Name:** Yuki Chen
+   - **Skills:** Cybersecurity, Vue.js, Docker, SQL
+   - **Experience:** Senior Designer at CreativeMinds
+   - **Education:** Ph.D. in Business Administration from Data Science School
+   - **References:** Bob Brown, Director, yuki_chen@example.com
+Bob Lopez, Manager, david_nguyen@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** ulysses_nguyen@example.com, City, Inno Haven
+   - **Projects:** Contributed to the Innovative Framework for Enhancing Problem-solving
+

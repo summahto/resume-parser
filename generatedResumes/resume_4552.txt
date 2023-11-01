@@ -1,0 +1,10 @@
+4552. **Name:** Katherine White
+   - **Skills:** Node.js, iOS Development, Angular, IoT
+   - **Experience:** Junior Developer at InnovativeTech
+   - **Education:** Ph.D. in Business Administration from Inno Institute
+   - **References:** David White, CTO, yuki_rodriguez@example.com
+Eva Smith, Lead, yuki_wu@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** eva_gupta@example.com, Village, Data Haven
+   - **Projects:** Contributed to the Cutting-edge Project for Optimizing Problem-solving
+

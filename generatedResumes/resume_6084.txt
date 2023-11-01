@@ -1,0 +1,10 @@
+6084. **Name:** Walter Lopez
+   - **Skills:** Big Data, Project Management, UI/UX Design, CSS
+   - **Experience:** Junior Developer at DataInnovators
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Patrick Nguyen, Lead, tina_lopez@example.com
+Ulysses Gonzalez, Engineer, tina_wang@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** frank_rodriguez@example.com, Village, Scienceburg
+   - **Projects:** Developed the Cutting-edge Project for Solving Data Analysis
+

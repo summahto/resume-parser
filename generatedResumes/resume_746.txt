@@ -1,0 +1,10 @@
+746. **Name:** Leo Patel
+   - **Skills:** Kubernetes, AR/VR Development, Swift, Docker
+   - **Experience:** Junior Developer at TechCorp
+   - **Education:** Bachelor in Business Administration from Business School
+   - **References:** Henry Silva, Designer, grace_li@example.com
+Katherine Rodriguez, Coordinator, bob_wang@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** victoria_cruz@example.com, City, Innovation Meadows
+   - **Projects:** Developed the Innovative App for Solving Business Processes
+

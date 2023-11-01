@@ -1,0 +1,10 @@
+7486. **Name:** Jack White
+   - **Skills:** iOS Development, IoT, Docker, Git
+   - **Experience:** Junior Scientist at CreativeSolutions
+   - **Education:** Master in Computer Science from Tech University
+   - **References:** Henry Kim, Engineer, rachel_nguyen@example.com
+Charlie Gupta, CEO, jack_smith@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** rachel_brown@example.com, Village, Artopia
+   - **Projects:** Contributed to the Innovative System for Enhancing User Experience
+

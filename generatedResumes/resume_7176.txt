@@ -1,0 +1,10 @@
+7176. **Name:** Tina Smith
+   - **Skills:** HTML, Android Development, C#, IoT
+   - **Experience:** Junior Designer at TechCorp
+   - **Education:** Bachelor in Art from Tech University
+   - **References:** Quinn Lee, Coordinator, alice_lee@example.com
+Jack Chen, Manager, walter_smith@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** yuki_lee@example.com, Town, Scienceburg
+   - **Projects:** Developed the Groundbreaking Framework for Optimizing Business Processes
+

@@ -1,0 +1,10 @@
+8971. **Name:** Olivia Gupta
+   - **Skills:** UI/UX Design, HTML, Data Analysis, Project Management
+   - **Experience:** Junior Engineer at InnoSolutions
+   - **Education:** Master in Computer Science from Inno Institute
+   - **References:** Leo Gupta, Director, zane_smith@example.com
+Eva Taylor, Director, nathan_lopez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** ivy_jackson@example.com, City, Innovation Meadows
+   - **Projects:** Led the Innovative System for Streamlining Data Analysis
+

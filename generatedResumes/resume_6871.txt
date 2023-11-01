@@ -1,0 +1,10 @@
+6871. **Name:** Jack Lopez
+   - **Skills:** Cybersecurity, Angular, HTML, UI/UX Design
+   - **Experience:** Senior Developer at DataExperts
+   - **Education:** Master in Business Administration from Business School
+   - **References:** Bob Lee, Lead, zane_johnson@example.com
+Charlie Suzuki, CEO, patrick_lee@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** david_jones@example.com, Village, Artopia
+   - **Projects:** Led the Cutting-edge Framework for Streamlining Data Analysis
+

@@ -1,0 +1,10 @@
+7169. **Name:** Leo Garcia
+   - **Skills:** SQL, Java, Cybersecurity, Graphic Design
+   - **Experience:** Lead Developer at InnovativeTech
+   - **Education:** Ph.D. in Business Administration from Creative Arts College
+   - **References:** Charlie Kumar, Lead, nathan_silva@example.com
+Charlie Smith, Coordinator, yuki_silva@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** frank_silva@example.com, City, Innovation Meadows
+   - **Projects:** Contributed to the Cutting-edge Framework for Enhancing Business Processes
+

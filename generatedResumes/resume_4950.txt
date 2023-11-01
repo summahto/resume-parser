@@ -1,0 +1,10 @@
+4950. **Name:** Nathan Miller
+   - **Skills:** AR/VR Development, Docker, Angular, Node.js
+   - **Experience:** Senior Scientist at CreativeMinds
+   - **Education:** Master in Business Administration from Tech University
+   - **References:** Patrick Rodriguez, Designer, david_brown@example.com
+Ulysses Jackson, Developer, grace_taylor@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** grace_brown@example.com, Village, Inno Haven
+   - **Projects:** Contributed to the Innovative Project for Enhancing User Experience
+

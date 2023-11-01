@@ -1,0 +1,10 @@
+5395. **Name:** Henry Rodriguez
+   - **Skills:** React, SQL, Git, Graphic Design
+   - **Experience:** Senior Designer at DigitalSolutions
+   - **Education:** Bachelor in Data Science from Creative Arts College
+   - **References:** Patrick Wu, Coordinator, quinn_miller@example.com
+Tina Jones, CEO, patrick_jones@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** eva_silva@example.com, Town, Innovation Meadows
+   - **Projects:** Led the Cutting-edge App for Solving Collaboration
+

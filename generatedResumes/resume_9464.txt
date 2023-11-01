@@ -1,0 +1,10 @@
+9464. **Name:** Charlie Taylor
+   - **Skills:** Java, Android Development, Python, CSS
+   - **Experience:** Senior Scientist at DataInnovators
+   - **Education:** Ph.D. in Engineering from Tech University
+   - **References:** Grace Brown, CEO, victoria_smith@example.com
+Ulysses Patel, Designer, walter_chen@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** rachel_chen@example.com, City, Green Valley
+   - **Projects:** Led the Groundbreaking Project for Streamlining Data Analysis
+

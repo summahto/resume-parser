@@ -1,0 +1,10 @@
+220. **Name:** Charlie Garcia
+   - **Skills:** Cybersecurity, C#, React, Graphic Design
+   - **Experience:** Senior Designer at CodeCrafters
+   - **Education:** Bachelor in Business Administration from Physics Academy
+   - **References:** Leo Taylor, CTO, tina_taylor@example.com
+David Patel, CTO, olivia_miller@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** olivia_white@example.com, Village, Artopia
+   - **Projects:** Led the Innovative Framework for Optimizing Business Processes
+

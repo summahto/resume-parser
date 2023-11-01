@@ -1,0 +1,10 @@
+7644. **Name:** Walter López
+   - **Skills:** Angular, UI/UX Design, C#, Data Analysis
+   - **Experience:** Lead Engineer at CreativeSolutions
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Eva Kumar, Lead, mia_sato@example.com
+Olivia Wang, Coordinator, walter_wu@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** alice_brown@example.com, City, Artopia
+   - **Projects:** Developed the Cutting-edge Platform for Solving Business Processes
+

@@ -1,0 +1,10 @@
+2309. **Name:** Nathan Kumar
+   - **Skills:** AR/VR Development, Vue.js, C#, Swift
+   - **Experience:** Junior Analyst at CodeCrafters
+   - **Education:** Master in Engineering from Creative Arts College
+   - **References:** Grace Yamamoto, Developer, zane_jones@example.com
+Charlie Cruz, Lead, zane_li@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** zane_jackson@example.com, Town, Techland
+   - **Projects:** Led the Groundbreaking App for Optimizing Problem-solving
+

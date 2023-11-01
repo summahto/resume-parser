@@ -1,0 +1,10 @@
+1702. **Name:** Quinn Lopez
+   - **Skills:** Machine Learning, SQL, Git, CSS
+   - **Experience:** Lead Developer at DataInnovators
+   - **Education:** Ph.D. in Computer Science from Physics Academy
+   - **References:** Quinn Wu, Manager, yuki_nguyen@example.com
+Zane Patel, CTO, alice_wu@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** ulysses_silva@example.com, Village, Artopia
+   - **Projects:** Developed the Cutting-edge App for Solving Business Processes
+

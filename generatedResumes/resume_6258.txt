@@ -1,0 +1,10 @@
+6258. **Name:** Tina Miller
+   - **Skills:** Big Data, Project Management, Agile, Git
+   - **Experience:** Junior Manager at CreativeSolutions
+   - **Education:** Ph.D. in Business Administration from Tech University
+   - **References:** Sam Kumar, Manager, leo_rodriguez@example.com
+Ulysses Brown, CEO, henry_wang@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** mia_wu@example.com, City, Data City
+   - **Projects:** Contributed to the Cutting-edge Framework for Enhancing User Experience
+

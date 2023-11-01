@@ -1,0 +1,10 @@
+9072. **Name:** Leo Jones
+   - **Skills:** iOS Development, Android Development, Cybersecurity, Network Administration
+   - **Experience:** Lead Designer at TechCorp
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** David Wu, Coordinator, mia_kumar@example.com
+David Wang, Coordinator, alice_kumar@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** jack_white@example.com, City, Innoville
+   - **Projects:** Developed the Revolutionary Project for Solving User Experience
+

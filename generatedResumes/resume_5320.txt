@@ -1,0 +1,10 @@
+5320. **Name:** Patrick Patel
+   - **Skills:** Python, Docker, CSS, Blockchain
+   - **Experience:** Senior Scientist at DataExperts
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Ivy Jones, CTO, jack_garcia@example.com
+Patrick Jackson, Coordinator, victoria_yamamoto@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** katherine_smith@example.com, City, Techtopia
+   - **Projects:** Contributed to the Cutting-edge App for Enhancing Business Processes
+

@@ -1,0 +1,10 @@
+4813. **Name:** Yuki López
+   - **Skills:** Agile, Project Management, Python, SQL
+   - **Experience:** Junior Designer at InnoSolutions
+   - **Education:** Ph.D. in Business Administration from Inno Institute
+   - **References:** Xena Miller, Analyst, rachel_lopez@example.com
+Charlie Wang, Analyst, bob_jackson@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** alice_rodriguez@example.com, Village, Innovation Meadows
+   - **Projects:** Contributed to the Cutting-edge System for Optimizing Collaboration
+

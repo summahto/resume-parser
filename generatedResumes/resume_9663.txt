@@ -1,0 +1,10 @@
+9663. **Name:** Quinn Nguyen
+   - **Skills:** Agile, Big Data, Node.js, Project Management
+   - **Experience:** Lead Analyst at TechCorp
+   - **Education:** Master in Engineering from Inno Institute
+   - **References:** Nathan Miller, Scientist, henry_smith@example.com
+Quinn Kumar, Director, bob_gupta@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** sam_lee@example.com, City, Techtopia
+   - **Projects:** Developed the Revolutionary Platform for Enhancing Data Analysis
+

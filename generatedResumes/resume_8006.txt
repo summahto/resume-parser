@@ -1,0 +1,10 @@
+8006. **Name:** Jack Wu
+   - **Skills:** Swift, React, Git, Project Management
+   - **Experience:** Junior Analyst at InnoSolutions
+   - **Education:** Ph.D. in Engineering from Creative Arts College
+   - **References:** Rachel Garcia, Scientist, xena_gupta@example.com
+Mia Chen, CEO, henry_kumar@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** walter_kim@example.com, Town, Techland
+   - **Projects:** Contributed to the Cutting-edge System for Enhancing User Experience
+

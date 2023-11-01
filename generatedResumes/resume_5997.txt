@@ -1,0 +1,10 @@
+5997. **Name:** Sam Silva
+   - **Skills:** Docker, AR/VR Development, Project Management, Big Data
+   - **Experience:** Senior Developer at CreativeSolutions
+   - **Education:** Master in Physics from Physics Academy
+   - **References:** Eva Taylor, CEO, frank_gupta@example.com
+David Brown, CEO, olivia_patel@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** david_gupta@example.com, Town, Innovation Meadows
+   - **Projects:** Developed the Revolutionary System for Optimizing Data Analysis
+

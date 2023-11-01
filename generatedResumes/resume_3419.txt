@@ -1,0 +1,10 @@
+3419. **Name:** Yuki Chen
+   - **Skills:** Vue.js, React, Big Data, Git
+   - **Experience:** Junior Manager at InnovativeTech
+   - **Education:** Master in Physics from Business School
+   - **References:** Leo Hernandez, Lead, tina_cruz@example.com
+Nathan Davis, Director, rachel_nguyen@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** ivy_wang@example.com, Town, Techtopia
+   - **Projects:** Developed the Revolutionary Framework for Enhancing User Experience
+

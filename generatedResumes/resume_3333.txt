@@ -1,0 +1,10 @@
+3333. **Name:** Katherine Gupta
+   - **Skills:** Docker, Data Analysis, Kubernetes, Java
+   - **Experience:** Junior Scientist at InnoSolutions
+   - **Education:** Master in Physics from Inno Institute
+   - **References:** Alice López, Manager, zane_garcia@example.com
+Ivy Patel, Coordinator, xena_garcia@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** quinn_gupta@example.com, Town, Techtopia
+   - **Projects:** Contributed to the Revolutionary Framework for Optimizing Business Processes
+

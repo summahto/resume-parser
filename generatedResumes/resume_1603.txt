@@ -1,0 +1,10 @@
+1603. **Name:** David Lopez
+   - **Skills:** AR/VR Development, Angular, React, Node.js
+   - **Experience:** Senior Engineer at DigitalSolutions
+   - **Education:** Ph.D. in Data Science from Tech University
+   - **References:** Ulysses Chen, Lead, leo_sato@example.com
+Jack Patel, Analyst, charlie_kumar@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** xena_kumar@example.com, Village, Artopia
+   - **Projects:** Developed the Revolutionary System for Enhancing Data Analysis
+

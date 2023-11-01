@@ -1,0 +1,10 @@
+6304. **Name:** Jack Kim
+   - **Skills:** React, Docker, Data Analysis, Vue.js
+   - **Experience:** Junior Designer at CodeCrafters
+   - **Education:** Ph.D. in Computer Science from Business School
+   - **References:** Sam Gupta, Designer, ivy_gupta@example.com
+Jack Kumar, Designer, mia_cruz@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** zane_wang@example.com, Town, Green Valley
+   - **Projects:** Contributed to the Revolutionary Project for Streamlining User Experience
+

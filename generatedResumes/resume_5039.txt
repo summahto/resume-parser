@@ -1,0 +1,10 @@
+5039. **Name:** Mia White
+   - **Skills:** C#, Big Data, AR/VR Development, Cybersecurity
+   - **Experience:** Lead Scientist at CodeCrafters
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** Quinn Wang, Coordinator, ulysses_jackson@example.com
+Tina Gupta, CEO, ivy_lee@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** tina_lee@example.com, Village, Artopia
+   - **Projects:** Contributed to the Cutting-edge Framework for Solving Problem-solving
+

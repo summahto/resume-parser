@@ -1,0 +1,10 @@
+5041. **Name:** Ivy Lee
+   - **Skills:** React, Big Data, IoT, Java
+   - **Experience:** Lead Analyst at DataInnovators
+   - **Education:** Master in Physics from Business School
+   - **References:** Nathan Garcia, Lead, sam_wu@example.com
+Bob Yamamoto, Coordinator, frank_suzuki@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** patrick_kim@example.com, Town, Techland
+   - **Projects:** Developed the Innovative Platform for Streamlining Collaboration
+

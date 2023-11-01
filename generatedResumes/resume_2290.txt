@@ -1,0 +1,10 @@
+2290. **Name:** Ivy Wu
+   - **Skills:** Graphic Design, IoT, Android Development, Agile
+   - **Experience:** Senior Manager at CodeCrafters
+   - **Education:** Ph.D. in Computer Science from Business School
+   - **References:** Tina Jones, Designer, grace_smith@example.com
+Patrick Patel, Director, henry_lopez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** charlie_wu@example.com, Village, Techtopia
+   - **Projects:** Developed the Revolutionary App for Solving Business Processes
+

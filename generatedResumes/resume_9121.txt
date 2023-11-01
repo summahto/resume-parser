@@ -1,0 +1,10 @@
+9121. **Name:** Ulysses Wu
+   - **Skills:** Data Analysis, Git, JavaScript, Cybersecurity
+   - **Experience:** Lead Designer at CodeCrafters
+   - **Education:** Bachelor in Business Administration from Data Science School
+   - **References:** David Patel, Developer, jack_lee@example.com
+Sam López, Manager, mia_white@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** zane_lee@example.com, City, Inno Haven
+   - **Projects:** Developed the Groundbreaking Project for Streamlining Collaboration
+

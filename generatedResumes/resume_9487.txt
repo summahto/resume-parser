@@ -1,0 +1,10 @@
+9487. **Name:** Patrick Garcia
+   - **Skills:** C#, CSS, Graphic Design, React
+   - **Experience:** Senior Developer at TechInnovate
+   - **Education:** Master in Data Science from Creative Arts College
+   - **References:** Frank Jackson, Engineer, katherine_garcia@example.com
+Frank White, CEO, david_wang@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** grace_kumar@example.com, City, Artopia
+   - **Projects:** Led the Innovative App for Optimizing Collaboration
+

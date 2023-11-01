@@ -1,0 +1,10 @@
+3622. **Name:** Victoria Jones
+   - **Skills:** Project Management, Angular, Blockchain, Graphic Design
+   - **Experience:** Lead Developer at DataInnovators
+   - **Education:** Bachelor in Physics from Physics Academy
+   - **References:** Xena Kumar, CTO, zane_garcia@example.com
+Xena Kumar, Scientist, yuki_lópez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** tina_garcia@example.com, City, Scienceburg
+   - **Projects:** Led the Innovative Project for Enhancing Collaboration
+

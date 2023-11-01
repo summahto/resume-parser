@@ -1,0 +1,10 @@
+1996. **Name:** Ivy Patel
+   - **Skills:** Cloud Computing, Git, Python, Blockchain
+   - **Experience:** Junior Analyst at DigitalSolutions
+   - **Education:** Bachelor in Data Science from Data Science School
+   - **References:** Walter Jackson, Lead, bob_silva@example.com
+Rachel White, Developer, frank_smith@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** frank_lee@example.com, City, Inno Haven
+   - **Projects:** Contributed to the Cutting-edge Project for Streamlining Collaboration
+

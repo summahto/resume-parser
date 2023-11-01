@@ -1,0 +1,10 @@
+5407. **Name:** Leo Kumar
+   - **Skills:** Swift, Cybersecurity, Angular, Project Management
+   - **Experience:** Junior Scientist at CodeCrafters
+   - **Education:** Bachelor in Engineering from Tech University
+   - **References:** Walter Taylor, Analyst, nathan_chen@example.com
+Patrick Silva, CEO, patrick_kumar@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** zane_gonzalez@example.com, City, Scienceburg
+   - **Projects:** Developed the Innovative App for Streamlining Problem-solving
+

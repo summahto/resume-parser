@@ -1,0 +1,10 @@
+5545. **Name:** Ivy Davis
+   - **Skills:** Git, CSS, Docker, Network Administration
+   - **Experience:** Lead Designer at InnovativeTech
+   - **Education:** Master in Computer Science from Creative Arts College
+   - **References:** Frank Gupta, Manager, ulysses_gupta@example.com
+Sam Rodriguez, CTO, yuki_brown@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** patrick_wu@example.com, Village, Artopia
+   - **Projects:** Led the Groundbreaking App for Streamlining Business Processes
+

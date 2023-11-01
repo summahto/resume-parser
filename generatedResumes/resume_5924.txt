@@ -1,0 +1,10 @@
+5924. **Name:** Jack Jackson
+   - **Skills:** Blockchain, Angular, Cloud Computing, Network Administration
+   - **Experience:** Lead Analyst at DigitalSolutions
+   - **Education:** Master in Computer Science from Creative Arts College
+   - **References:** Charlie Kumar, Designer, walter_taylor@example.com
+Walter Yamamoto, Director, walter_jones@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** ulysses_patel@example.com, City, Innoville
+   - **Projects:** Contributed to the Cutting-edge Framework for Streamlining Business Processes
+

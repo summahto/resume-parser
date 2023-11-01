@@ -1,0 +1,10 @@
+7958. **Name:** Tina Singh
+   - **Skills:** CSS, Cybersecurity, Swift, iOS Development
+   - **Experience:** Lead Manager at CreativeMinds
+   - **Education:** Master in Business Administration from Inno Institute
+   - **References:** Yuki Rodriguez, Coordinator, sam_nguyen@example.com
+Rachel Jackson, CTO, charlie_rodriguez@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** zane_patel@example.com, City, Techtopia
+   - **Projects:** Led the Innovative Project for Solving Collaboration
+

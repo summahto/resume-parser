@@ -1,0 +1,10 @@
+5181. **Name:** Tina White
+   - **Skills:** Node.js, C#, Python, Project Management
+   - **Experience:** Lead Scientist at TechCorp
+   - **Education:** Master in Business Administration from Business School
+   - **References:** Henry Jones, Analyst, charlie_suzuki@example.com
+Charlie Silva, Lead, sam_cruz@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** zane_singh@example.com, Town, Green Valley
+   - **Projects:** Led the Groundbreaking System for Optimizing Business Processes
+

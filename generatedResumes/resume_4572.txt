@@ -1,0 +1,10 @@
+4572. **Name:** Charlie Singh
+   - **Skills:** Android Development, Network Administration, Docker, Vue.js
+   - **Experience:** Junior Scientist at TechInnovate
+   - **Education:** Bachelor in Engineering from Creative Arts College
+   - **References:** Katherine Jackson, Lead, rachel_rodriguez@example.com
+Quinn Silva, Lead, ivy_singh@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** leo_nguyen@example.com, Village, Inno Haven
+   - **Projects:** Developed the Groundbreaking Framework for Streamlining Business Processes
+

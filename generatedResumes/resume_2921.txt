@@ -1,0 +1,10 @@
+2921. **Name:** Henry Garcia
+   - **Skills:** IoT, Android Development, HTML, UI/UX Design
+   - **Experience:** Lead Developer at TechInnovate
+   - **Education:** Master in Physics from Tech University
+   - **References:** Jack Wu, Manager, zane_miller@example.com
+Bob Chen, Developer, alice_patel@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** sam_garcia@example.com, City, Innoville
+   - **Projects:** Developed the Revolutionary System for Enhancing User Experience
+

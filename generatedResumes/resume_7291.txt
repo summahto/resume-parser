@@ -1,0 +1,10 @@
+7291. **Name:** Victoria Lee
+   - **Skills:** Graphic Design, Vue.js, Big Data, React
+   - **Experience:** Senior Engineer at InnoSolutions
+   - **Education:** Ph.D. in Art from Business School
+   - **References:** Yuki Jackson, Manager, jack_white@example.com
+Nathan Wang, Scientist, henry_white@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** grace_li@example.com, City, Techtopia
+   - **Projects:** Led the Groundbreaking App for Solving Data Analysis
+

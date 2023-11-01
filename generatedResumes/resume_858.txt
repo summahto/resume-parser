@@ -1,0 +1,10 @@
+858. **Name:** Eva Gupta
+   - **Skills:** HTML, Git, Node.js, DevOps
+   - **Experience:** Lead Developer at TechCorp
+   - **Education:** Bachelor in Engineering from Creative Arts College
+   - **References:** Ivy Kumar, Developer, bob_chen@example.com
+Ivy Rodriguez, Engineer, patrick_wang@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** david_white@example.com, Village, Inno Haven
+   - **Projects:** Led the Cutting-edge Project for Solving User Experience
+

@@ -1,0 +1,10 @@
+4315. **Name:** Quinn Silva
+   - **Skills:** IoT, Cybersecurity, Big Data, Python
+   - **Experience:** Junior Developer at DataInnovators
+   - **Education:** Bachelor in Computer Science from Physics Academy
+   - **References:** Bob Davis, CEO, leo_kumar@example.com
+Xena Chen, CEO, quinn_chen@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** grace_chen@example.com, Town, Innoville
+   - **Projects:** Developed the Innovative System for Enhancing Collaboration
+

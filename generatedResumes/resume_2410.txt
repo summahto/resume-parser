@@ -1,0 +1,10 @@
+2410. **Name:** Zane Nguyen
+   - **Skills:** Cloud Computing, CSS, Vue.js, iOS Development
+   - **Experience:** Senior Analyst at CreativeSolutions
+   - **Education:** Master in Data Science from Creative Arts College
+   - **References:** Eva López, Developer, grace_yamamoto@example.com
+Olivia Rodriguez, Engineer, xena_lee@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** henry_lee@example.com, Village, Data Haven
+   - **Projects:** Led the Innovative System for Solving User Experience
+

@@ -1,0 +1,10 @@
+9338. **Name:** Jack Kim
+   - **Skills:** Docker, Angular, Android Development, JavaScript
+   - **Experience:** Junior Developer at InnoSolutions
+   - **Education:** Ph.D. in Computer Science from Data Science School
+   - **References:** Sam Lopez, Designer, victoria_jackson@example.com
+Katherine Miller, CTO, olivia_nguyen@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** olivia_wu@example.com, Town, Techtopia
+   - **Projects:** Contributed to the Cutting-edge App for Streamlining Problem-solving
+

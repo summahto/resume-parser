@@ -1,0 +1,10 @@
+7775. **Name:** Tina Gupta
+   - **Skills:** Kubernetes, Blockchain, JavaScript, Agile
+   - **Experience:** Senior Manager at DataExperts
+   - **Education:** Bachelor in Business Administration from Business School
+   - **References:** Mia Silva, CTO, ivy_gonzalez@example.com
+Rachel López, Scientist, mia_lopez@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** olivia_singh@example.com, City, Data City
+   - **Projects:** Led the Innovative App for Optimizing Data Analysis
+

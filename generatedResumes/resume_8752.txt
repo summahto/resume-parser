@@ -1,0 +1,10 @@
+8752. **Name:** Tina Lopez
+   - **Skills:** Cloud Computing, Docker, Cybersecurity, Project Management
+   - **Experience:** Lead Manager at CodeCrafters
+   - **Education:** Bachelor in Physics from Business School
+   - **References:** Xena Lee, Lead, xena_gupta@example.com
+Ivy Brown, Designer, henry_smith@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** charlie_patel@example.com, Village, Artopia
+   - **Projects:** Led the Revolutionary Project for Enhancing Business Processes
+

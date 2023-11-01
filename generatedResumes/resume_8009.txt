@@ -1,0 +1,10 @@
+8009. **Name:** Victoria Lopez
+   - **Skills:** AR/VR Development, iOS Development, C#, HTML
+   - **Experience:** Senior Scientist at TechCorp
+   - **Education:** Ph.D. in Physics from Inno Institute
+   - **References:** Henry White, Scientist, eva_miller@example.com
+Henry Davis, Analyst, katherine_lopez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** olivia_rodriguez@example.com, City, Innoville
+   - **Projects:** Led the Cutting-edge Project for Enhancing Problem-solving
+

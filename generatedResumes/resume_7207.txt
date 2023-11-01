@@ -1,0 +1,10 @@
+7207. **Name:** Yuki Gupta
+   - **Skills:** Graphic Design, React, Java, JavaScript
+   - **Experience:** Senior Developer at InnovativeTech
+   - **Education:** Bachelor in Physics from Tech University
+   - **References:** Ivy Lee, Lead, nathan_müller@example.com
+Xena Miller, Designer, ivy_miller@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** xena_lee@example.com, Town, Scienceburg
+   - **Projects:** Led the Revolutionary Framework for Optimizing Data Analysis
+

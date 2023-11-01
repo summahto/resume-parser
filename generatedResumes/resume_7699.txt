@@ -1,0 +1,10 @@
+7699. **Name:** Charlie Hernandez
+   - **Skills:** Docker, Graphic Design, Big Data, HTML
+   - **Experience:** Senior Scientist at DataExperts
+   - **Education:** Bachelor in Art from Creative Arts College
+   - **References:** Leo Gupta, CTO, yuki_lopez@example.com
+Leo Lee, Manager, henry_lee@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** olivia_lópez@example.com, Village, Scienceburg
+   - **Projects:** Led the Revolutionary App for Optimizing User Experience
+

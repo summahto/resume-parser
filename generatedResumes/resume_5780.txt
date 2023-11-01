@@ -1,0 +1,10 @@
+5780. **Name:** Tina Wu
+   - **Skills:** Agile, Docker, Android Development, Project Management
+   - **Experience:** Junior Developer at TechCorp
+   - **Education:** Master in Physics from Data Science School
+   - **References:** Olivia Wang, Manager, tina_chen@example.com
+David Kumar, Designer, mia_wu@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** nathan_johnson@example.com, Village, Innovation Meadows
+   - **Projects:** Led the Innovative App for Enhancing Business Processes
+

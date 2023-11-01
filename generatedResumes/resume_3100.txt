@@ -1,0 +1,10 @@
+3100. **Name:** Frank Wang
+   - **Skills:** JavaScript, Node.js, DevOps, Android Development
+   - **Experience:** Junior Developer at CreativeMinds
+   - **Education:** Ph.D. in Computer Science from Creative Arts College
+   - **References:** Frank Gupta, Engineer, jack_kumar@example.com
+Leo Patel, Director, eva_wu@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** patrick_nguyen@example.com, Village, Artopia
+   - **Projects:** Led the Groundbreaking System for Enhancing Problem-solving
+

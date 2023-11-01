@@ -1,0 +1,10 @@
+1653. **Name:** Leo Cruz
+   - **Skills:** Python, Vue.js, Blockchain, SQL
+   - **Experience:** Senior Designer at DataInnovators
+   - **Education:** Ph.D. in Art from Physics Academy
+   - **References:** Charlie Kumar, Scientist, mia_jones@example.com
+Charlie Patel, Lead, charlie_singh@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** grace_wang@example.com, Town, Techtopia
+   - **Projects:** Led the Revolutionary Framework for Optimizing Business Processes
+

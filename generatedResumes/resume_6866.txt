@@ -1,0 +1,10 @@
+6866. **Name:** Ivy Jones
+   - **Skills:** Agile, Network Administration, Python, UI/UX Design
+   - **Experience:** Junior Analyst at DigitalSolutions
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Katherine Nguyen, Designer, david_smith@example.com
+Walter Jones, Developer, quinn_nguyen@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** bob_chen@example.com, Village, Innovation Meadows
+   - **Projects:** Led the Groundbreaking Project for Enhancing User Experience
+

@@ -1,0 +1,10 @@
+6581. **Name:** Jack Lee
+   - **Skills:** UI/UX Design, Docker, HTML, Swift
+   - **Experience:** Lead Developer at CreativeMinds
+   - **Education:** Master in Engineering from Data Science School
+   - **References:** Xena Cruz, Manager, katherine_sato@example.com
+Alice Lopez, Designer, rachel_yamamoto@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** charlie_jackson@example.com, City, Inno Haven
+   - **Projects:** Led the Groundbreaking System for Optimizing Business Processes
+

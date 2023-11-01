@@ -1,0 +1,10 @@
+9921. **Name:** Henry Nguyen
+   - **Skills:** AR/VR Development, Kubernetes, Java, JavaScript
+   - **Experience:** Senior Designer at CreativeMinds
+   - **Education:** Master in Computer Science from Physics Academy
+   - **References:** Leo Jones, Developer, patrick_wang@example.com
+Eva Brown, Lead, victoria_nguyen@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** victoria_cruz@example.com, Village, Artopia
+   - **Projects:** Contributed to the Innovative App for Solving User Experience
+

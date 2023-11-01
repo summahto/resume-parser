@@ -1,0 +1,10 @@
+1960. **Name:** Patrick Cruz
+   - **Skills:** Git, Network Administration, UI/UX Design, Cloud Computing
+   - **Experience:** Lead Designer at CodeCrafters
+   - **Education:** Master in Art from Business School
+   - **References:** Leo Kumar, Director, ivy_lee@example.com
+Ulysses Silva, Designer, rachel_silva@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** leo_li@example.com, Town, Inno Haven
+   - **Projects:** Led the Revolutionary System for Enhancing Business Processes
+

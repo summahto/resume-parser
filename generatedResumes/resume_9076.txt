@@ -1,0 +1,10 @@
+9076. **Name:** Nathan Lee
+   - **Skills:** DevOps, Java, Angular, UI/UX Design
+   - **Experience:** Lead Analyst at CreativeMinds
+   - **Education:** Master in Art from Business School
+   - **References:** Eva Silva, Designer, david_lopez@example.com
+Tina Jackson, Designer, xena_rodriguez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** alice_lopez@example.com, City, Innoville
+   - **Projects:** Developed the Revolutionary App for Optimizing Problem-solving
+

@@ -1,0 +1,10 @@
+389. **Name:** Walter Garcia
+   - **Skills:** SQL, Network Administration, React, Data Analysis
+   - **Experience:** Junior Analyst at DigitalSolutions
+   - **Education:** Master in Business Administration from Inno Institute
+   - **References:** Leo Chen, CTO, xena_suzuki@example.com
+Ivy Silva, Scientist, jack_cruz@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** charlie_rodriguez@example.com, Town, Techland
+   - **Projects:** Developed the Innovative Platform for Streamlining Problem-solving
+

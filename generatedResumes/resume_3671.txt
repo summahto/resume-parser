@@ -1,0 +1,10 @@
+3671. **Name:** Leo Kumar
+   - **Skills:** Docker, HTML, Kubernetes, UI/UX Design
+   - **Experience:** Junior Scientist at CreativeSolutions
+   - **Education:** Master in Computer Science from Inno Institute
+   - **References:** Rachel Lee, Developer, yuki_lópez@example.com
+Yuki Lee, CTO, mia_williams@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** quinn_taylor@example.com, Village, Techland
+   - **Projects:** Contributed to the Innovative Platform for Solving Problem-solving
+

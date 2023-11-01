@@ -1,0 +1,10 @@
+478. **Name:** Leo White
+   - **Skills:** Network Administration, Graphic Design, Cybersecurity, C#
+   - **Experience:** Senior Engineer at DigitalSolutions
+   - **Education:** Bachelor in Business Administration from Tech University
+   - **References:** David Cruz, Coordinator, bob_silva@example.com
+Bob Sato, Coordinator, jack_cruz@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** henry_brown@example.com, Village, Innoville
+   - **Projects:** Contributed to the Groundbreaking App for Enhancing Business Processes
+

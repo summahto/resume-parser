@@ -1,0 +1,10 @@
+1330. **Name:** Eva Nguyen
+   - **Skills:** Docker, Git, Big Data, Blockchain
+   - **Experience:** Junior Developer at DataExperts
+   - **Education:** Master in Computer Science from Business School
+   - **References:** Eva Garcia, Analyst, olivia_smith@example.com
+Ulysses Chen, Developer, henry_patel@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** ulysses_miller@example.com, Village, Green Valley
+   - **Projects:** Led the Cutting-edge Platform for Enhancing User Experience
+

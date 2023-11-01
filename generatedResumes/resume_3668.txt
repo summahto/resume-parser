@@ -1,0 +1,10 @@
+3668. **Name:** Charlie Gupta
+   - **Skills:** Node.js, Python, Data Analysis, DevOps
+   - **Experience:** Senior Designer at CodeCrafters
+   - **Education:** Bachelor in Physics from Physics Academy
+   - **References:** Henry Kumar, Director, walter_white@example.com
+Leo Cruz, Engineer, victoria_sato@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** charlie_taylor@example.com, City, Inno Haven
+   - **Projects:** Developed the Cutting-edge Platform for Solving Business Processes
+

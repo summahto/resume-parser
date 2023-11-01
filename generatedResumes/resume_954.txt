@@ -1,0 +1,10 @@
+954. **Name:** Mia Nguyen
+   - **Skills:** Java, C#, Node.js, Android Development
+   - **Experience:** Lead Manager at CreativeMinds
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Jack Miller, Engineer, leo_kumar@example.com
+Katherine Miller, Analyst, alice_nguyen@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** frank_garcia@example.com, Village, Artopia
+   - **Projects:** Contributed to the Cutting-edge Project for Solving Collaboration
+

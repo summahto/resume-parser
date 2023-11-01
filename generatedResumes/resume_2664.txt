@@ -1,0 +1,10 @@
+2664. **Name:** Victoria Miller
+   - **Skills:** Data Analysis, UI/UX Design, Graphic Design, C#
+   - **Experience:** Lead Scientist at TechInnovate
+   - **Education:** Master in Physics from Inno Institute
+   - **References:** Ulysses Smith, Designer, charlie_garcia@example.com
+Tina Wang, Coordinator, alice_wu@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** charlie_brown@example.com, City, Artopia
+   - **Projects:** Led the Cutting-edge Platform for Enhancing User Experience
+

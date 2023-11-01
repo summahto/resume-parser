@@ -1,0 +1,10 @@
+2070. **Name:** Zane Cruz
+   - **Skills:** Data Analysis, DevOps, IoT, Java
+   - **Experience:** Lead Designer at CreativeMinds
+   - **Education:** Bachelor in Data Science from Data Science School
+   - **References:** Rachel Müller, Manager, olivia_kumar@example.com
+Nathan Lee, Designer, katherine_wang@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** ivy_kumar@example.com, Town, Data Haven
+   - **Projects:** Led the Revolutionary Project for Streamlining Collaboration
+

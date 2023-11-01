@@ -1,0 +1,10 @@
+3577. **Name:** Jack Lee
+   - **Skills:** Project Management, DevOps, IoT, Git
+   - **Experience:** Junior Analyst at InnoSolutions
+   - **Education:** Master in Business Administration from Creative Arts College
+   - **References:** Jack Brown, Director, jack_brown@example.com
+Yuki Rodriguez, Lead, katherine_lee@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** grace_williams@example.com, Village, Data City
+   - **Projects:** Developed the Innovative App for Enhancing User Experience
+

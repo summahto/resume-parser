@@ -1,0 +1,10 @@
+6648. **Name:** Mia Chen
+   - **Skills:** Kubernetes, Python, iOS Development, UI/UX Design
+   - **Experience:** Senior Developer at TechCorp
+   - **Education:** Bachelor in Engineering from Physics Academy
+   - **References:** Henry Wu, Director, jack_chen@example.com
+Ivy Nguyen, Engineer, patrick_taylor@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** quinn_smith@example.com, Village, Artopia
+   - **Projects:** Led the Cutting-edge Project for Optimizing Data Analysis
+

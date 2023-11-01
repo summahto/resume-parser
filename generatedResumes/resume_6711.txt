@@ -1,0 +1,10 @@
+6711. **Name:** Olivia Kim
+   - **Skills:** UI/UX Design, Graphic Design, SQL, Kubernetes
+   - **Experience:** Senior Manager at CreativeMinds
+   - **Education:** Master in Computer Science from Data Science School
+   - **References:** Frank Gupta, Analyst, leo_kim@example.com
+Olivia Patel, Analyst, henry_jackson@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** leo_singh@example.com, Village, Data City
+   - **Projects:** Contributed to the Innovative Platform for Solving Problem-solving
+

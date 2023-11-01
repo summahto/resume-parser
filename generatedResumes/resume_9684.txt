@@ -1,0 +1,10 @@
+9684. **Name:** Charlie Patel
+   - **Skills:** Java, Cybersecurity, Git, Python
+   - **Experience:** Junior Scientist at TechCorp
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** Quinn Gupta, Director, alice_gupta@example.com
+Sam Lee, CEO, zane_smith@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** rachel_singh@example.com, City, Data Haven
+   - **Projects:** Developed the Innovative Platform for Enhancing Collaboration
+

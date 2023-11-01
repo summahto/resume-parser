@@ -1,0 +1,10 @@
+320. **Name:** Xena White
+   - **Skills:** Machine Learning, IoT, Node.js, DevOps
+   - **Experience:** Senior Manager at CreativeSolutions
+   - **Education:** Ph.D. in Computer Science from Creative Arts College
+   - **References:** Leo Taylor, Developer, charlie_hernandez@example.com
+Henry Rodriguez, Engineer, olivia_lópez@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** ivy_jones@example.com, Town, Inno Haven
+   - **Projects:** Developed the Revolutionary Platform for Enhancing Collaboration
+

@@ -1,0 +1,10 @@
+3114. **Name:** Patrick Garcia
+   - **Skills:** Network Administration, Agile, Docker, React
+   - **Experience:** Lead Scientist at DataExperts
+   - **Education:** Ph.D. in Art from Creative Arts College
+   - **References:** Alice Kumar, CEO, charlie_chen@example.com
+Eva Jackson, Coordinator, nathan_garcia@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** sam_kumar@example.com, Town, Scienceburg
+   - **Projects:** Developed the Innovative Platform for Solving Data Analysis
+

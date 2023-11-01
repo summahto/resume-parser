@@ -1,0 +1,10 @@
+4725. **Name:** Nathan Jackson
+   - **Skills:** Java, HTML, Git, Graphic Design
+   - **Experience:** Junior Developer at TechCorp
+   - **Education:** Master in Data Science from Data Science School
+   - **References:** Olivia Brown, Designer, nathan_wang@example.com
+David Lee, Scientist, mia_miller@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** david_white@example.com, Town, Techland
+   - **Projects:** Contributed to the Cutting-edge Framework for Streamlining User Experience
+

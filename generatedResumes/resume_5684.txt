@@ -1,0 +1,10 @@
+5684. **Name:** Charlie Jackson
+   - **Skills:** AR/VR Development, React, HTML, JavaScript
+   - **Experience:** Lead Engineer at InnovativeTech
+   - **Education:** Master in Business Administration from Business School
+   - **References:** Zane Kumar, Director, grace_silva@example.com
+Ulysses Silva, Coordinator, patrick_lee@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** charlie_lee@example.com, Town, Techtopia
+   - **Projects:** Led the Revolutionary Framework for Streamlining User Experience
+

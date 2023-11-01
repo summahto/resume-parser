@@ -1,0 +1,10 @@
+205. **Name:** Jack Jackson
+   - **Skills:** HTML, React, Graphic Design, Java
+   - **Experience:** Senior Analyst at InnoSolutions
+   - **Education:** Master in Computer Science from Creative Arts College
+   - **References:** Ulysses White, Analyst, mia_white@example.com
+Ulysses Wang, Designer, patrick_white@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** zane_nguyen@example.com, Town, Inno Haven
+   - **Projects:** Led the Cutting-edge Project for Solving Collaboration
+

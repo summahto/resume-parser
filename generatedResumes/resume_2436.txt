@@ -1,0 +1,10 @@
+2436. **Name:** Olivia Silva
+   - **Skills:** Kubernetes, Machine Learning, Network Administration, Git
+   - **Experience:** Junior Manager at TechCorp
+   - **Education:** Bachelor in Engineering from Inno Institute
+   - **References:** Yuki Brown, Scientist, grace_yamamoto@example.com
+Alice Wang, CTO, olivia_miller@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** charlie_rodriguez@example.com, Town, Data Haven
+   - **Projects:** Developed the Cutting-edge Project for Optimizing Problem-solving
+

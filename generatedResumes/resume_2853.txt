@@ -1,0 +1,10 @@
+2853. **Name:** Patrick Nguyen
+   - **Skills:** Big Data, Docker, DevOps, Android Development
+   - **Experience:** Senior Analyst at CodeCrafters
+   - **Education:** Master in Computer Science from Creative Arts College
+   - **References:** Mia Cruz, Coordinator, tina_chen@example.com
+David Wu, Developer, grace_chen@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** leo_taylor@example.com, City, Techtopia
+   - **Projects:** Led the Groundbreaking System for Streamlining Data Analysis
+

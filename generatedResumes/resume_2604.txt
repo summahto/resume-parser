@@ -1,0 +1,10 @@
+2604. **Name:** Mia Patel
+   - **Skills:** Network Administration, Swift, C#, JavaScript
+   - **Experience:** Junior Analyst at CreativeMinds
+   - **Education:** Master in Physics from Data Science School
+   - **References:** Sam Jones, CTO, ivy_wu@example.com
+Xena Cruz, Analyst, xena_smith@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** quinn_jones@example.com, Town, Innovation Meadows
+   - **Projects:** Contributed to the Cutting-edge Project for Optimizing Business Processes
+

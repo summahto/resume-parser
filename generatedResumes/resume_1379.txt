@@ -1,0 +1,10 @@
+1379. **Name:** Frank Jackson
+   - **Skills:** Angular, Git, Android Development, Data Analysis
+   - **Experience:** Senior Manager at DataInnovators
+   - **Education:** Bachelor in Business Administration from Tech University
+   - **References:** Sam Kim, Lead, nathan_miller@example.com
+Tina White, Lead, nathan_brown@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** grace_brown@example.com, City, Data City
+   - **Projects:** Led the Innovative System for Enhancing Business Processes
+

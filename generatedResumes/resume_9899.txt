@@ -1,0 +1,10 @@
+9899. **Name:** Tina Chen
+   - **Skills:** Blockchain, Python, C#, Docker
+   - **Experience:** Junior Developer at DataExperts
+   - **Education:** Master in Business Administration from Data Science School
+   - **References:** Charlie Davis, CEO, bob_wang@example.com
+Ivy Cruz, Analyst, henry_smith@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** ivy_chen@example.com, Town, Scienceburg
+   - **Projects:** Contributed to the Innovative Framework for Solving Business Processes
+

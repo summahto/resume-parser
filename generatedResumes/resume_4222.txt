@@ -1,0 +1,10 @@
+4222. **Name:** Charlie Lee
+   - **Skills:** Big Data, Network Administration, SQL, Java
+   - **Experience:** Senior Developer at TechInnovate
+   - **Education:** Bachelor in Computer Science from Physics Academy
+   - **References:** Olivia Wang, Developer, zane_nguyen@example.com
+Ivy Nguyen, Coordinator, xena_miller@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** yuki_garcia@example.com, Village, Scienceburg
+   - **Projects:** Led the Cutting-edge Framework for Enhancing Problem-solving
+

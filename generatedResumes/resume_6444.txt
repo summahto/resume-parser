@@ -1,0 +1,10 @@
+6444. **Name:** Leo Cruz
+   - **Skills:** Vue.js, DevOps, Git, C#
+   - **Experience:** Junior Analyst at TechInnovate
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** Grace Smith, Designer, frank_miller@example.com
+Frank Smith, CTO, charlie_yamamoto@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** grace_chen@example.com, City, Green Valley
+   - **Projects:** Led the Groundbreaking System for Optimizing User Experience
+

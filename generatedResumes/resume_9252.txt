@@ -1,0 +1,10 @@
+9252. **Name:** Ivy Lopez
+   - **Skills:** Swift, Agile, Graphic Design, Node.js
+   - **Experience:** Senior Scientist at DataInnovators
+   - **Education:** Bachelor in Business Administration from Inno Institute
+   - **References:** Nathan Wu, CTO, katherine_chen@example.com
+Xena Wu, Scientist, nathan_gupta@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** mia_kim@example.com, Town, Techtopia
+   - **Projects:** Contributed to the Groundbreaking Platform for Optimizing Problem-solving
+

@@ -1,13 +1,10 @@
-**Name:** Captain Whiskerwhirl
-- **Skills:** Whirlwind Navigation, Tornado Tactics, Stormy Swordplay, C#
-- **Experience:** Captain of the Cyclone Crew, Commander of the Windy Waters
-- **Education:** Tempestuous Training Academy, Galeforce Maritime School
-- **References:**
-- Wind Whisperer, Tornado Tactician, wind.whisperer@email.com
-- Storm Surge, Nautical Navigator, storm.surge@email.com
-- **Volunteering:** Windmill Maintenance for Farmers, Hurricane Relief Efforts
-- **Contact Information:** captain.whiskerwhirl@email.com, Cyclone Cove, Windy Isles
-- **Projects:**
-- Navigated the Whirlwind Regatta for Seafaring Glory
-- Implemented the Wind Energy Initiative for Sustainable Seas
+44. **Name:** Tina Lee
+   - **Skills:** CSS, UI/UX Design, Vue.js, Blockchain
+   - **Experience:** Lead Manager at CreativeMinds
+   - **Education:** Bachelor in Business Administration from Physics Academy
+   - **References:** Sam Smith, CEO, charlie_patel@example.com
+Ivy Miller, Designer, mia_wu@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** tina_jackson@example.com, Town, Scienceburg
+   - **Projects:** Developed the Revolutionary Framework for Streamlining Collaboration
 

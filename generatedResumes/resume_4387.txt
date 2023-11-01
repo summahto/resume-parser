@@ -1,0 +1,10 @@
+4387. **Name:** Eva Smith
+   - **Skills:** Network Administration, Android Development, Docker, iOS Development
+   - **Experience:** Junior Analyst at DigitalSolutions
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Mia López, Director, katherine_lee@example.com
+Jack Silva, Developer, katherine_lópez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** ulysses_lopez@example.com, Village, Green Valley
+   - **Projects:** Contributed to the Groundbreaking Platform for Enhancing Collaboration
+

@@ -1,0 +1,10 @@
+2970. **Name:** Nathan Wu
+   - **Skills:** Agile, Cybersecurity, Cloud Computing, Kubernetes
+   - **Experience:** Junior Engineer at DataExperts
+   - **Education:** Master in Art from Tech University
+   - **References:** David Kumar, Analyst, zane_chen@example.com
+Katherine Garcia, CTO, katherine_miller@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** xena_jones@example.com, City, Artopia
+   - **Projects:** Led the Innovative Framework for Enhancing Data Analysis
+

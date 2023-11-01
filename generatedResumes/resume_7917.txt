@@ -1,0 +1,10 @@
+7917. **Name:** Sam Rodriguez
+   - **Skills:** C#, JavaScript, Git, DevOps
+   - **Experience:** Junior Designer at TechInnovate
+   - **Education:** Master in Art from Inno Institute
+   - **References:** Zane Wang, Designer, katherine_singh@example.com
+Sam Smith, Director, jack_lee@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** david_kumar@example.com, Village, Inno Haven
+   - **Projects:** Developed the Cutting-edge App for Streamlining Business Processes
+

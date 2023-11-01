@@ -1,0 +1,10 @@
+9980. **Name:** Yuki Gupta
+   - **Skills:** Big Data, Python, Agile, Cybersecurity
+   - **Experience:** Senior Analyst at CreativeSolutions
+   - **Education:** Bachelor in Engineering from Creative Arts College
+   - **References:** Nathan Garcia, CEO, yuki_brown@example.com
+Charlie Lee, CEO, sam_wu@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** patrick_kim@example.com, City, Techtopia
+   - **Projects:** Developed the Innovative Platform for Streamlining Problem-solving
+

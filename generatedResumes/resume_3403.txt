@@ -1,0 +1,10 @@
+3403. **Name:** Charlie Kumar
+   - **Skills:** Kubernetes, Cloud Computing, DevOps, Git
+   - **Experience:** Lead Scientist at CreativeMinds
+   - **Education:** Bachelor in Physics from Physics Academy
+   - **References:** Henry Smith, Director, mia_lee@example.com
+Olivia White, Lead, alice_li@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** ulysses_wu@example.com, Village, Innovation Meadows
+   - **Projects:** Led the Cutting-edge System for Solving User Experience
+

@@ -1,0 +1,10 @@
+903. **Name:** Charlie Gupta
+   - **Skills:** Node.js, Docker, Android Development, IoT
+   - **Experience:** Senior Developer at CreativeSolutions
+   - **Education:** Master in Physics from Creative Arts College
+   - **References:** Patrick Silva, Engineer, mia_yamamoto@example.com
+Leo White, Developer, nathan_lopez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** tina_kumar@example.com, City, Artopia
+   - **Projects:** Contributed to the Cutting-edge Platform for Enhancing Collaboration
+

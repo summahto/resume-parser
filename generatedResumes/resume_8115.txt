@@ -1,0 +1,10 @@
+8115. **Name:** Charlie Yamamoto
+   - **Skills:** Swift, JavaScript, Machine Learning, Kubernetes
+   - **Experience:** Junior Engineer at CodeCrafters
+   - **Education:** Ph.D. in Computer Science from Business School
+   - **References:** Charlie Wu, Scientist, henry_patel@example.com
+Tina Brown, Developer, david_lopez@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** charlie_lee@example.com, City, Data City
+   - **Projects:** Developed the Cutting-edge App for Enhancing Problem-solving
+

@@ -1,0 +1,10 @@
+2986. **Name:** David Lee
+   - **Skills:** HTML, C#, AR/VR Development, React
+   - **Experience:** Senior Developer at CreativeMinds
+   - **Education:** Bachelor in Data Science from Tech University
+   - **References:** Ulysses Wu, Developer, zane_kim@example.com
+Alice Gupta, Analyst, sam_taylor@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** sam_chen@example.com, Village, Scienceburg
+   - **Projects:** Developed the Groundbreaking App for Solving Data Analysis
+

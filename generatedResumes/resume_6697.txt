@@ -1,0 +1,10 @@
+6697. **Name:** Xena Jackson
+   - **Skills:** JavaScript, React, Machine Learning, Docker
+   - **Experience:** Junior Engineer at TechInnovate
+   - **Education:** Bachelor in Physics from Inno Institute
+   - **References:** Henry Kim, Lead, sam_lee@example.com
+Henry Taylor, Manager, patrick_kumar@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** leo_jackson@example.com, Village, Data City
+   - **Projects:** Led the Cutting-edge Project for Solving User Experience
+

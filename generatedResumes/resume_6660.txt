@@ -1,0 +1,10 @@
+6660. **Name:** Grace Nguyen
+   - **Skills:** React, Big Data, Cloud Computing, Project Management
+   - **Experience:** Senior Designer at CreativeMinds
+   - **Education:** Master in Art from Tech University
+   - **References:** Alice Yamamoto, Scientist, ivy_miller@example.com
+Rachel Kim, CEO, bob_miller@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** eva_lopez@example.com, Village, Green Valley
+   - **Projects:** Contributed to the Revolutionary Project for Streamlining Data Analysis
+

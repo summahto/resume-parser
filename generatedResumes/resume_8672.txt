@@ -1,0 +1,10 @@
+8672. **Name:** Eva Gupta
+   - **Skills:** Node.js, Swift, React, HTML
+   - **Experience:** Junior Manager at TechInnovate
+   - **Education:** Ph.D. in Business Administration from Business School
+   - **References:** Grace Nguyen, Engineer, mia_nguyen@example.com
+Xena White, Developer, leo_wu@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** david_white@example.com, Town, Artopia
+   - **Projects:** Led the Groundbreaking System for Enhancing Problem-solving
+

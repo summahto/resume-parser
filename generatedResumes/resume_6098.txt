@@ -1,0 +1,10 @@
+6098. **Name:** David Garcia
+   - **Skills:** Machine Learning, Project Management, Graphic Design, IoT
+   - **Experience:** Lead Scientist at DataExperts
+   - **Education:** Ph.D. in Art from Creative Arts College
+   - **References:** Rachel Yamamoto, Scientist, charlie_brown@example.com
+Mia Silva, Lead, grace_rodriguez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** leo_kim@example.com, Village, Data City
+   - **Projects:** Developed the Revolutionary Project for Enhancing User Experience
+

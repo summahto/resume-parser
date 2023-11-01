@@ -1,0 +1,10 @@
+7369. **Name:** Henry Gupta
+   - **Skills:** AR/VR Development, Kubernetes, Graphic Design, Python
+   - **Experience:** Senior Scientist at DataInnovators
+   - **Education:** Master in Computer Science from Business School
+   - **References:** Nathan Chen, Manager, tina_wu@example.com
+Jack Jackson, Developer, ulysses_lopez@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** zane_suzuki@example.com, City, Techland
+   - **Projects:** Led the Innovative App for Solving Business Processes
+

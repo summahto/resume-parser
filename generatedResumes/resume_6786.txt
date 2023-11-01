@@ -1,0 +1,10 @@
+6786. **Name:** Charlie Taylor
+   - **Skills:** Graphic Design, HTML, Swift, Machine Learning
+   - **Experience:** Lead Scientist at DataInnovators
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Quinn Silva, CEO, walter_cruz@example.com
+Rachel Hernandez, Engineer, charlie_davis@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** yuki_jones@example.com, Town, Data Haven
+   - **Projects:** Developed the Innovative Framework for Solving User Experience
+

@@ -1,0 +1,10 @@
+8987. **Name:** Sam Garcia
+   - **Skills:** Node.js, iOS Development, SQL, Project Management
+   - **Experience:** Junior Engineer at InnovativeTech
+   - **Education:** Master in Engineering from Tech University
+   - **References:** Henry Lee, Coordinator, charlie_garcia@example.com
+Victoria Williams, Developer, victoria_lee@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** tina_johnson@example.com, Village, Green Valley
+   - **Projects:** Contributed to the Cutting-edge App for Solving Data Analysis
+

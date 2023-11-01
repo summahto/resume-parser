@@ -1,0 +1,10 @@
+4986. **Name:** Frank Kumar
+   - **Skills:** Cybersecurity, Data Analysis, IoT, Agile
+   - **Experience:** Junior Designer at InnoSolutions
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Jack Miller, Director, tina_smith@example.com
+Jack Sato, Coordinator, grace_cruz@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** bob_kim@example.com, City, Artopia
+   - **Projects:** Developed the Groundbreaking Platform for Solving Data Analysis
+

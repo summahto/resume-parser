@@ -1,0 +1,10 @@
+4300. **Name:** Ivy Gupta
+   - **Skills:** SQL, Git, Vue.js, Docker
+   - **Experience:** Junior Engineer at TechCorp
+   - **Education:** Ph.D. in Business Administration from Creative Arts College
+   - **References:** Quinn Wang, Director, grace_smith@example.com
+Rachel Gonzalez, Analyst, ivy_hernandez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** ivy_garcia@example.com, Village, Data City
+   - **Projects:** Led the Revolutionary Project for Solving Business Processes
+

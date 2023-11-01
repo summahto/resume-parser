@@ -1,0 +1,10 @@
+3513. **Name:** Alice Rodriguez
+   - **Skills:** Angular, HTML, Git, UI/UX Design
+   - **Experience:** Senior Engineer at CreativeSolutions
+   - **Education:** Ph.D. in Business Administration from Data Science School
+   - **References:** Alice Lopez, Analyst, yuki_taylor@example.com
+Yuki Silva, Developer, eva_cruz@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** mia_wu@example.com, Village, Data Haven
+   - **Projects:** Contributed to the Revolutionary Framework for Streamlining User Experience
+

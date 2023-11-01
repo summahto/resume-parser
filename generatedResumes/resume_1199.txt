@@ -1,0 +1,10 @@
+1199. **Name:** Katherine Lopez
+   - **Skills:** Big Data, SQL, Git, C#
+   - **Experience:** Junior Manager at CreativeMinds
+   - **Education:** Master in Data Science from Tech University
+   - **References:** Patrick Johnson, Developer, frank_wu@example.com
+Yuki Chen, Analyst, patrick_lee@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** yuki_lópez@example.com, Town, Inno Haven
+   - **Projects:** Led the Revolutionary Platform for Solving Business Processes
+

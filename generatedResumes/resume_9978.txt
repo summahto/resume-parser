@@ -1,0 +1,10 @@
+9978. **Name:** Frank Kumar
+   - **Skills:** Git, Project Management, AR/VR Development, Python
+   - **Experience:** Senior Scientist at DigitalSolutions
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Zane Patel, Engineer, yuki_singh@example.com
+Xena Miller, Developer, rachel_chen@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** bob_rodriguez@example.com, Town, Innoville
+   - **Projects:** Led the Groundbreaking Framework for Optimizing Business Processes
+

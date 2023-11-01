@@ -1,0 +1,10 @@
+6119. **Name:** Nathan Patel
+   - **Skills:** Cloud Computing, JavaScript, Project Management, Android Development
+   - **Experience:** Senior Manager at CreativeSolutions
+   - **Education:** Ph.D. in Art from Inno Institute
+   - **References:** Ulysses Cruz, Developer, jack_kumar@example.com
+Charlie Garcia, Developer, jack_white@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** rachel_kim@example.com, City, Artopia
+   - **Projects:** Contributed to the Cutting-edge App for Enhancing Data Analysis
+

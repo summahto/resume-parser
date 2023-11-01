@@ -1,0 +1,10 @@
+8156. **Name:** Victoria Taylor
+   - **Skills:** Node.js, JavaScript, C#, HTML
+   - **Experience:** Junior Designer at InnoSolutions
+   - **Education:** Bachelor in Data Science from Creative Arts College
+   - **References:** Ivy Lee, CTO, xena_jackson@example.com
+Henry Brown, Coordinator, olivia_wu@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** olivia_kumar@example.com, City, Artopia
+   - **Projects:** Contributed to the Cutting-edge Project for Enhancing Problem-solving
+

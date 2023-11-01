@@ -1,0 +1,10 @@
+3748. **Name:** Sam López
+   - **Skills:** Cloud Computing, Angular, Cybersecurity, Vue.js
+   - **Experience:** Senior Designer at InnovativeTech
+   - **Education:** Ph.D. in Physics from Data Science School
+   - **References:** Grace Miller, Director, leo_suzuki@example.com
+Yuki Kumar, CTO, victoria_jones@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** victoria_jones@example.com, City, Innoville
+   - **Projects:** Developed the Revolutionary App for Streamlining User Experience
+

@@ -1,0 +1,10 @@
+6302. **Name:** Ivy Lee
+   - **Skills:** Kubernetes, SQL, Python, UI/UX Design
+   - **Experience:** Junior Manager at DataInnovators
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** Ulysses Smith, Designer, eva_jackson@example.com
+Charlie Gupta, Manager, ulysses_chen@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** grace_jones@example.com, Village, Innoville
+   - **Projects:** Led the Cutting-edge Framework for Enhancing Collaboration
+

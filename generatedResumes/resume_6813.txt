@@ -1,0 +1,10 @@
+6813. **Name:** Xena Davis
+   - **Skills:** SQL, Graphic Design, Node.js, React
+   - **Experience:** Junior Designer at DataExperts
+   - **Education:** Master in Physics from Physics Academy
+   - **References:** Mia Suzuki, Designer, tina_brown@example.com
+Xena Wu, Analyst, leo_rodriguez@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** zane_chen@example.com, City, Green Valley
+   - **Projects:** Led the Groundbreaking Platform for Optimizing Collaboration
+

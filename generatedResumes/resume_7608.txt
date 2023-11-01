@@ -1,0 +1,10 @@
+7608. **Name:** Jack Garcia
+   - **Skills:** Docker, Swift, Cloud Computing, AR/VR Development
+   - **Experience:** Senior Scientist at InnoSolutions
+   - **Education:** Master in Engineering from Inno Institute
+   - **References:** Ulysses Jones, CEO, mia_miller@example.com
+Sam Nguyen, Analyst, nathan_silva@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** xena_jackson@example.com, City, Techland
+   - **Projects:** Led the Cutting-edge Framework for Streamlining Business Processes
+

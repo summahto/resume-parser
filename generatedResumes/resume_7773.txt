@@ -1,0 +1,10 @@
+7773. **Name:** Nathan Kumar
+   - **Skills:** Angular, IoT, Python, Agile
+   - **Experience:** Junior Scientist at InnovativeTech
+   - **Education:** Master in Engineering from Creative Arts College
+   - **References:** Bob Jones, Analyst, sam_silva@example.com
+Zane Suzuki, Manager, henry_smith@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** bob_wang@example.com, City, Innovation Meadows
+   - **Projects:** Contributed to the Cutting-edge Project for Enhancing Business Processes
+

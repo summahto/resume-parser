@@ -1,0 +1,10 @@
+7738. **Name:** David Jackson
+   - **Skills:** Vue.js, Project Management, AR/VR Development, Python
+   - **Experience:** Lead Developer at CreativeMinds
+   - **Education:** Ph.D. in Data Science from Creative Arts College
+   - **References:** Tina Jackson, Developer, charlie_chen@example.com
+Eva Rodriguez, Designer, katherine_chen@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** tina_kumar@example.com, City, Scienceburg
+   - **Projects:** Led the Groundbreaking Platform for Enhancing Collaboration
+

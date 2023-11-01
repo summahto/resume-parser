@@ -1,0 +1,10 @@
+8407. **Name:** Charlie Miller
+   - **Skills:** C#, UI/UX Design, Swift, Git
+   - **Experience:** Junior Engineer at DataExperts
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Frank Miller, CTO, grace_smith@example.com
+Quinn Kumar, CTO, rachel_kumar@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** sam_patel@example.com, City, Data Haven
+   - **Projects:** Developed the Cutting-edge App for Solving Business Processes
+

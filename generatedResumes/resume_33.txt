@@ -1,10 +1,10 @@
-**Name:** Captain Cacklebeak
-- **Skills:** Parrot Piracy, Squawk Negotiation, Feathered Friend Bonding, Java
-- **Experience:** Captain of the Squawky Seas, Parrot Diplomat, Expert in Feathered Friendships
-- **Education:** Pirate Parrotry Academy, Avian Diplomacy Institute
-- **References:**
-- Parrot Pirate, Feathered Freebooter, parrot.pirate@email.com
-- Squawk Specialist, Avian Ambassador, squawk.specialist@email.com
-- **Volunteering:** Piracy Prevention for Parrots, Squawk Sanctuary Support
-- **Contact Information:** captain.cacklebeak@email.com, Pirate Perch, Squawk Cove
+33. **Name:** Yuki Jones
+   - **Skills:** IoT, Machine Learning, JavaScript, Docker
+   - **Experience:** Junior Analyst at CreativeSolutions
+   - **Education:** Ph.D. in Business Administration from Inno Institute
+   - **References:** Frank Cruz, Coordinator, tina_yamamoto@example.com
+Zane Nguyen, Engineer, frank_li@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** eva_kim@example.com, City, Artopia
+   - **Projects:** Developed the Revolutionary Framework for Optimizing Business Processes
 

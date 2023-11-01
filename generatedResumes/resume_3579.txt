@@ -1,0 +1,10 @@
+3579. **Name:** Zane White
+   - **Skills:** AR/VR Development, React, Angular, Git
+   - **Experience:** Junior Scientist at InnoSolutions
+   - **Education:** Bachelor in Art from Creative Arts College
+   - **References:** Patrick Lee, Coordinator, leo_smith@example.com
+Quinn Garcia, Director, zane_kumar@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** frank_miller@example.com, Town, Inno Haven
+   - **Projects:** Developed the Revolutionary System for Solving Problem-solving
+

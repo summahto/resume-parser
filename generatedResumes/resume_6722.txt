@@ -1,0 +1,10 @@
+6722. **Name:** Sam Gupta
+   - **Skills:** Cybersecurity, IoT, Angular, C#
+   - **Experience:** Junior Analyst at InnoSolutions
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Walter Gonzalez, Analyst, alice_kumar@example.com
+Quinn Patel, CTO, ivy_gupta@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** yuki_garcia@example.com, City, Innovation Meadows
+   - **Projects:** Developed the Groundbreaking App for Optimizing Business Processes
+

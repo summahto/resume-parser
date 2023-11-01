@@ -1,0 +1,10 @@
+1380. **Name:** Quinn Müller
+   - **Skills:** React, Python, HTML, Big Data
+   - **Experience:** Senior Developer at DataExperts
+   - **Education:** Master in Engineering from Creative Arts College
+   - **References:** Frank Jackson, Scientist, katherine_jackson@example.com
+Rachel Williams, Scientist, patrick_nguyen@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** jack_jackson@example.com, Town, Scienceburg
+   - **Projects:** Contributed to the Innovative Framework for Enhancing Problem-solving
+

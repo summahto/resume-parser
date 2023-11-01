@@ -1,0 +1,10 @@
+5452. **Name:** David Chen
+   - **Skills:** Node.js, Git, Android Development, Agile
+   - **Experience:** Junior Scientist at DataExperts
+   - **Education:** Ph.D. in Computer Science from Business School
+   - **References:** Walter Brown, Coordinator, nathan_gupta@example.com
+Frank Wu, Lead, quinn_brown@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** sam_smith@example.com, Village, Techland
+   - **Projects:** Led the Cutting-edge Framework for Optimizing Data Analysis
+

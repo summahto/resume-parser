@@ -1,0 +1,10 @@
+2623. **Name:** Jack Lee
+   - **Skills:** Blockchain, Cloud Computing, Kubernetes, IoT
+   - **Experience:** Lead Scientist at DataInnovators
+   - **Education:** Ph.D. in Business Administration from Data Science School
+   - **References:** Ulysses Nguyen, Designer, victoria_yamamoto@example.com
+Leo Kumar, CTO, grace_smith@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** rachel_gupta@example.com, Village, Innovation Meadows
+   - **Projects:** Led the Innovative System for Solving User Experience
+

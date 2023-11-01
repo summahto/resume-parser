@@ -1,0 +1,10 @@
+586. **Name:** Tina Wang
+   - **Skills:** DevOps, Cybersecurity, IoT, Kubernetes
+   - **Experience:** Senior Analyst at DataInnovators
+   - **Education:** Bachelor in Computer Science from Tech University
+   - **References:** Frank Jones, Lead, alice_lee@example.com
+Alice Smith, Designer, ulysses_taylor@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** walter_wu@example.com, Town, Data City
+   - **Projects:** Led the Groundbreaking Platform for Solving Problem-solving
+

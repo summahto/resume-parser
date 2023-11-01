@@ -1,0 +1,10 @@
+9635. **Name:** David Smith
+   - **Skills:** Agile, Kubernetes, Git, IoT
+   - **Experience:** Senior Scientist at CreativeMinds
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** Katherine Jones, Lead, leo_smith@example.com
+Quinn Silva, Engineer, ulysses_wu@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** olivia_wu@example.com, Town, Techland
+   - **Projects:** Developed the Revolutionary Platform for Streamlining Data Analysis
+

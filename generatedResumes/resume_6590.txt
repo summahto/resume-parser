@@ -1,0 +1,10 @@
+6590. **Name:** Mia Kumar
+   - **Skills:** Node.js, Java, Cybersecurity, Cloud Computing
+   - **Experience:** Lead Manager at TechInnovate
+   - **Education:** Ph.D. in Computer Science from Business School
+   - **References:** Leo Rodriguez, Manager, yuki_miller@example.com
+Leo Kumar, Coordinator, ivy_silva@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** victoria_kumar@example.com, City, Innoville
+   - **Projects:** Developed the Cutting-edge App for Optimizing Problem-solving
+

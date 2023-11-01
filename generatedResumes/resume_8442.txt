@@ -1,0 +1,10 @@
+8442. **Name:** Olivia Gupta
+   - **Skills:** SQL, Project Management, UI/UX Design, JavaScript
+   - **Experience:** Lead Engineer at TechInnovate
+   - **Education:** Ph.D. in Engineering from Tech University
+   - **References:** Yuki Miller, Engineer, nathan_silva@example.com
+Nathan Jackson, Engineer, ivy_jackson@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** walter_brown@example.com, Town, Techtopia
+   - **Projects:** Contributed to the Cutting-edge Framework for Enhancing Collaboration
+

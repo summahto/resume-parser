@@ -1,0 +1,10 @@
+4233. **Name:** Quinn Nguyen
+   - **Skills:** Big Data, iOS Development, Cloud Computing, HTML
+   - **Experience:** Senior Developer at InnoSolutions
+   - **Education:** Bachelor in Business Administration from Inno Institute
+   - **References:** Ivy Jackson, CTO, patrick_smith@example.com
+Rachel Cruz, Scientist, xena_jones@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** sam_cruz@example.com, Village, Data Haven
+   - **Projects:** Developed the Innovative Platform for Enhancing Collaboration
+

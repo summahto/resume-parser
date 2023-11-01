@@ -1,0 +1,10 @@
+3582. **Name:** Victoria Gupta
+   - **Skills:** Java, Python, HTML, Project Management
+   - **Experience:** Lead Engineer at CodeCrafters
+   - **Education:** Ph.D. in Physics from Creative Arts College
+   - **References:** Sam Nguyen, Director, sam_taylor@example.com
+Rachel Kumar, Scientist, david_chen@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** katherine_kumar@example.com, Village, Innoville
+   - **Projects:** Contributed to the Innovative Project for Solving Business Processes
+

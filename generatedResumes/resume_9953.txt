@@ -1,0 +1,10 @@
+9953. **Name:** Alice Nguyen
+   - **Skills:** Data Analysis, Python, Angular, Git
+   - **Experience:** Junior Analyst at DataInnovators
+   - **Education:** Bachelor in Business Administration from Business School
+   - **References:** Walter Taylor, Engineer, mia_chen@example.com
+Ivy White, Analyst, alice_wang@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** eva_garcia@example.com, Town, Scienceburg
+   - **Projects:** Led the Innovative App for Enhancing Collaboration
+

@@ -1,0 +1,10 @@
+3300. **Name:** Katherine Taylor
+   - **Skills:** Agile, Big Data, Blockchain, Kubernetes
+   - **Experience:** Lead Designer at DigitalSolutions
+   - **Education:** Ph.D. in Physics from Data Science School
+   - **References:** Quinn Kumar, CEO, alice_gupta@example.com
+Jack Miller, Scientist, olivia_lee@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** david_silva@example.com, Town, Green Valley
+   - **Projects:** Developed the Groundbreaking System for Optimizing User Experience
+

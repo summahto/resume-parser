@@ -1,0 +1,10 @@
+1026. **Name:** Tina Kumar
+   - **Skills:** Blockchain, Cybersecurity, Angular, Data Analysis
+   - **Experience:** Senior Manager at InnovativeTech
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Ulysses Nguyen, Coordinator, frank_jones@example.com
+Mia López, CEO, olivia_lopez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** jack_silva@example.com, Town, Green Valley
+   - **Projects:** Contributed to the Innovative System for Enhancing Data Analysis
+

@@ -1,0 +1,10 @@
+9367. **Name:** Rachel Miller
+   - **Skills:** Big Data, AR/VR Development, Node.js, React
+   - **Experience:** Junior Designer at InnoSolutions
+   - **Education:** Bachelor in Business Administration from Physics Academy
+   - **References:** Alice Lopez, Scientist, patrick_jackson@example.com
+Leo Wu, Engineer, henry_jones@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** henry_lópez@example.com, Town, Artopia
+   - **Projects:** Contributed to the Innovative App for Streamlining Problem-solving
+

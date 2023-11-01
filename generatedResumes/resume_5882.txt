@@ -1,0 +1,10 @@
+5882. **Name:** Ivy Taylor
+   - **Skills:** Machine Learning, Agile, Kubernetes, HTML
+   - **Experience:** Junior Scientist at CodeCrafters
+   - **Education:** Master in Data Science from Business School
+   - **References:** Frank Nguyen, CEO, charlie_suzuki@example.com
+Katherine Rodriguez, Director, alice_lopez@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** henry_taylor@example.com, Village, Data Haven
+   - **Projects:** Contributed to the Cutting-edge App for Enhancing Data Analysis
+

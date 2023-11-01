@@ -1,0 +1,10 @@
+1065. **Name:** Charlie López
+   - **Skills:** React, Docker, Cybersecurity, Android Development
+   - **Experience:** Lead Analyst at InnoSolutions
+   - **Education:** Master in Engineering from Business School
+   - **References:** Zane Jackson, Manager, alice_smith@example.com
+Grace Chen, Designer, yuki_chen@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** tina_davis@example.com, Village, Green Valley
+   - **Projects:** Led the Groundbreaking Framework for Streamlining Problem-solving
+

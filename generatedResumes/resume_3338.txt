@@ -1,0 +1,10 @@
+3338. **Name:** Zane Gupta
+   - **Skills:** Big Data, Blockchain, Python, IoT
+   - **Experience:** Senior Designer at DataExperts
+   - **Education:** Ph.D. in Computer Science from Business School
+   - **References:** Quinn Gupta, Manager, bob_cruz@example.com
+Eva Chen, Scientist, nathan_garcia@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** yuki_garcia@example.com, Town, Techtopia
+   - **Projects:** Developed the Innovative System for Streamlining Business Processes
+

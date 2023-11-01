@@ -1,0 +1,10 @@
+4594. **Name:** Alice Wu
+   - **Skills:** JavaScript, HTML, Git, Big Data
+   - **Experience:** Senior Developer at CreativeMinds
+   - **Education:** Master in Art from Business School
+   - **References:** Sam Miller, Analyst, patrick_brown@example.com
+Ivy Chen, Scientist, rachel_cruz@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** grace_garcia@example.com, City, Techtopia
+   - **Projects:** Contributed to the Revolutionary Framework for Optimizing Collaboration
+

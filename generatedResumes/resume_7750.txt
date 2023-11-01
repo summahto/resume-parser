@@ -1,0 +1,10 @@
+7750. **Name:** Alice Kumar
+   - **Skills:** Java, Network Administration, Machine Learning, Python
+   - **Experience:** Lead Manager at InnovativeTech
+   - **Education:** Master in Data Science from Data Science School
+   - **References:** Henry Hernandez, Developer, bob_cruz@example.com
+David Cruz, Designer, olivia_smith@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** tina_jones@example.com, City, Innoville
+   - **Projects:** Developed the Innovative App for Enhancing Business Processes
+

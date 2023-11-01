@@ -1,0 +1,10 @@
+1030. **Name:** Patrick Cruz
+   - **Skills:** Graphic Design, SQL, Cybersecurity, Big Data
+   - **Experience:** Senior Designer at CreativeMinds
+   - **Education:** Ph.D. in Physics from Physics Academy
+   - **References:** Henry Gupta, CTO, jack_taylor@example.com
+Alice Kumar, Lead, rachel_cruz@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** katherine_lópez@example.com, City, Techland
+   - **Projects:** Led the Cutting-edge Platform for Enhancing Business Processes
+

@@ -1,0 +1,10 @@
+6874. **Name:** Katherine Wu
+   - **Skills:** IoT, Project Management, Cybersecurity, C#
+   - **Experience:** Lead Manager at DataExperts
+   - **Education:** Ph.D. in Art from Physics Academy
+   - **References:** Frank White, Manager, victoria_white@example.com
+Leo Lopez, Engineer, victoria_wu@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** sam_hernandez@example.com, City, Scienceburg
+   - **Projects:** Led the Groundbreaking Project for Streamlining Business Processes
+

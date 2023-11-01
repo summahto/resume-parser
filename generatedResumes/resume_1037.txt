@@ -1,0 +1,10 @@
+1037. **Name:** Frank Patel
+   - **Skills:** Git, Project Management, Docker, Big Data
+   - **Experience:** Junior Developer at TechInnovate
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Mia Lee, Analyst, katherine_lee@example.com
+Katherine Kim, Lead, sam_lee@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** david_singh@example.com, City, Innoville
+   - **Projects:** Led the Innovative Project for Enhancing Problem-solving
+

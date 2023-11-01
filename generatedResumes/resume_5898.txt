@@ -1,0 +1,10 @@
+5898. **Name:** David White
+   - **Skills:** UI/UX Design, iOS Development, Python, Big Data
+   - **Experience:** Senior Designer at InnovativeTech
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** Yuki Nguyen, Coordinator, eva_williams@example.com
+Grace Patel, Developer, ivy_rodriguez@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** grace_jones@example.com, Town, Innoville
+   - **Projects:** Developed the Cutting-edge Project for Optimizing User Experience
+

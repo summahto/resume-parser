@@ -1,0 +1,10 @@
+6014. **Name:** David Cruz
+   - **Skills:** Python, React, JavaScript, Network Administration
+   - **Experience:** Senior Scientist at DataExperts
+   - **Education:** Bachelor in Computer Science from Physics Academy
+   - **References:** Henry White, Manager, yuki_patel@example.com
+Grace Lopez, Engineer, xena_jones@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** jack_rodriguez@example.com, City, Innoville
+   - **Projects:** Developed the Innovative Platform for Optimizing Problem-solving
+

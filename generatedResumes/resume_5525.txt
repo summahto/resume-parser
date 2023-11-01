@@ -1,0 +1,10 @@
+5525. **Name:** Nathan Gupta
+   - **Skills:** JavaScript, Cloud Computing, Kubernetes, Agile
+   - **Experience:** Lead Engineer at CodeCrafters
+   - **Education:** Master in Computer Science from Business School
+   - **References:** Alice Lee, Developer, xena_garcia@example.com
+Henry Patel, Designer, bob_lee@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** henry_li@example.com, Town, Inno Haven
+   - **Projects:** Developed the Innovative App for Optimizing Business Processes
+

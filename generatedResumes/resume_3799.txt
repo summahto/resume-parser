@@ -1,0 +1,10 @@
+3799. **Name:** Katherine Li
+   - **Skills:** Java, Agile, AR/VR Development, Docker
+   - **Experience:** Lead Developer at CodeCrafters
+   - **Education:** Ph.D. in Art from Inno Institute
+   - **References:** Charlie Jackson, Designer, yuki_taylor@example.com
+Walter Yamamoto, CTO, rachel_johnson@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** quinn_wang@example.com, City, Data Haven
+   - **Projects:** Contributed to the Cutting-edge Platform for Streamlining Business Processes
+

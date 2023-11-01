@@ -1,0 +1,10 @@
+8019. **Name:** Jack Lee
+   - **Skills:** Git, UI/UX Design, Java, CSS
+   - **Experience:** Senior Designer at InnovativeTech
+   - **Education:** Ph.D. in Engineering from Data Science School
+   - **References:** Yuki Chen, Director, ulysses_lee@example.com
+Rachel Cruz, Coordinator, ivy_miller@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** katherine_nguyen@example.com, Village, Data City
+   - **Projects:** Contributed to the Cutting-edge Platform for Solving Business Processes
+

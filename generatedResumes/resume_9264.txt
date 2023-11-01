@@ -1,0 +1,10 @@
+9264. **Name:** Ivy Gupta
+   - **Skills:** Python, SQL, Git, Blockchain
+   - **Experience:** Junior Developer at DigitalSolutions
+   - **Education:** Ph.D. in Business Administration from Business School
+   - **References:** Xena Wu, Lead, nathan_smith@example.com
+Frank Wu, Coordinator, bob_patel@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** david_yamamoto@example.com, Village, Artopia
+   - **Projects:** Developed the Cutting-edge Platform for Enhancing Problem-solving
+

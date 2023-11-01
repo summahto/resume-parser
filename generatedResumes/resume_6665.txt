@@ -1,0 +1,10 @@
+6665. **Name:** Zane Wang
+   - **Skills:** Android Development, Blockchain, Graphic Design, DevOps
+   - **Experience:** Senior Manager at DataInnovators
+   - **Education:** Ph.D. in Data Science from Inno Institute
+   - **References:** Patrick Suzuki, Manager, eva_suzuki@example.com
+Quinn Rodriguez, Developer, zane_lopez@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** alice_jones@example.com, Village, Scienceburg
+   - **Projects:** Contributed to the Cutting-edge App for Enhancing Collaboration
+

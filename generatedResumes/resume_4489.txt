@@ -1,0 +1,10 @@
+4489. **Name:** Ivy Li
+   - **Skills:** Project Management, Java, C#, Vue.js
+   - **Experience:** Junior Developer at InnoSolutions
+   - **Education:** Bachelor in Art from Tech University
+   - **References:** Grace Jones, Developer, leo_white@example.com
+Charlie Miller, Designer, eva_chen@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** eva_hernandez@example.com, Town, Innovation Meadows
+   - **Projects:** Developed the Innovative System for Enhancing Data Analysis
+

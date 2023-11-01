@@ -1,0 +1,10 @@
+4123. **Name:** Nathan Miller
+   - **Skills:** DevOps, IoT, Machine Learning, Graphic Design
+   - **Experience:** Lead Engineer at DigitalSolutions
+   - **Education:** Master in Computer Science from Data Science School
+   - **References:** Patrick Chen, Lead, jack_yamamoto@example.com
+Tina Smith, Manager, alice_gupta@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** quinn_lópez@example.com, Village, Data Haven
+   - **Projects:** Developed the Revolutionary System for Solving User Experience
+

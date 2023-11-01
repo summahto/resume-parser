@@ -1,0 +1,10 @@
+9776. **Name:** Henry Nguyen
+   - **Skills:** Python, IoT, HTML, Kubernetes
+   - **Experience:** Junior Engineer at DataInnovators
+   - **Education:** Bachelor in Data Science from Inno Institute
+   - **References:** Eva López, Manager, walter_lópez@example.com
+Frank Kim, Developer, mia_brown@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** frank_wang@example.com, Village, Techland
+   - **Projects:** Led the Innovative Platform for Enhancing User Experience
+

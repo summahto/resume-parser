@@ -1,0 +1,10 @@
+5595. **Name:** Henry Taylor
+   - **Skills:** Project Management, UI/UX Design, iOS Development, Git
+   - **Experience:** Junior Engineer at CreativeMinds
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** David Williams, Lead, ulysses_williams@example.com
+Xena Kumar, CEO, victoria_wu@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** sam_gupta@example.com, Village, Techtopia
+   - **Projects:** Led the Revolutionary Platform for Enhancing Business Processes
+

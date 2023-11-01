@@ -1,0 +1,10 @@
+5995. **Name:** Quinn Kumar
+   - **Skills:** Swift, Graphic Design, Agile, HTML
+   - **Experience:** Lead Manager at CodeCrafters
+   - **Education:** Master in Data Science from Business School
+   - **References:** Walter Lopez, CTO, rachel_taylor@example.com
+Alice Wu, Scientist, frank_white@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** nathan_müller@example.com, City, Green Valley
+   - **Projects:** Contributed to the Cutting-edge App for Solving Problem-solving
+

@@ -1,0 +1,10 @@
+3240. **Name:** Walter Gupta
+   - **Skills:** iOS Development, Network Administration, DevOps, Agile
+   - **Experience:** Junior Manager at DataInnovators
+   - **Education:** Bachelor in Physics from Creative Arts College
+   - **References:** Xena Jackson, Lead, mia_chen@example.com
+Walter Lopez, Developer, david_jackson@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** tina_jackson@example.com, Village, Innovation Meadows
+   - **Projects:** Developed the Groundbreaking Framework for Streamlining Problem-solving
+

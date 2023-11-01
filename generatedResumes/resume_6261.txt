@@ -1,0 +1,10 @@
+6261. **Name:** Alice White
+   - **Skills:** Java, Docker, Network Administration, Kubernetes
+   - **Experience:** Junior Scientist at CreativeSolutions
+   - **Education:** Master in Computer Science from Inno Institute
+   - **References:** Charlie Smith, Coordinator, grace_lee@example.com
+Yuki Cruz, Director, tina_nguyen@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** frank_white@example.com, Village, Techland
+   - **Projects:** Developed the Groundbreaking App for Enhancing Data Analysis
+

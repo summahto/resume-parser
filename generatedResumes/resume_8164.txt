@@ -1,0 +1,10 @@
+8164. **Name:** Yuki Nguyen
+   - **Skills:** Swift, Git, HTML, Python
+   - **Experience:** Senior Scientist at TechInnovate
+   - **Education:** Ph.D. in Business Administration from Tech University
+   - **References:** Grace Johnson, Lead, rachel_wang@example.com
+Charlie Chen, Coordinator, olivia_smith@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** charlie_patel@example.com, Village, Techtopia
+   - **Projects:** Developed the Cutting-edge App for Enhancing Data Analysis
+

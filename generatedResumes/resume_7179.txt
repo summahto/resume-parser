@@ -1,0 +1,10 @@
+7179. **Name:** David Rodriguez
+   - **Skills:** iOS Development, Docker, AR/VR Development, Android Development
+   - **Experience:** Lead Designer at CodeCrafters
+   - **Education:** Ph.D. in Data Science from Physics Academy
+   - **References:** Patrick Taylor, Engineer, leo_müller@example.com
+Olivia López, Lead, sam_garcia@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** victoria_nguyen@example.com, City, Innoville
+   - **Projects:** Developed the Cutting-edge System for Enhancing Collaboration
+

@@ -1,0 +1,10 @@
+1178. **Name:** Xena Patel
+   - **Skills:** Kubernetes, Vue.js, UI/UX Design, SQL
+   - **Experience:** Junior Developer at DataExperts
+   - **Education:** Bachelor in Physics from Physics Academy
+   - **References:** Victoria Smith, Lead, tina_kim@example.com
+Bob Gupta, CTO, mia_silva@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** rachel_garcia@example.com, Village, Innoville
+   - **Projects:** Contributed to the Revolutionary Framework for Enhancing Data Analysis
+

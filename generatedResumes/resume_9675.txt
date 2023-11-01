@@ -1,0 +1,10 @@
+9675. **Name:** David Hernandez
+   - **Skills:** C#, SQL, Android Development, DevOps
+   - **Experience:** Senior Manager at DataExperts
+   - **Education:** Bachelor in Engineering from Business School
+   - **References:** Olivia Jones, Manager, leo_smith@example.com
+Walter Cruz, Manager, alice_chen@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** jack_white@example.com, City, Innovation Meadows
+   - **Projects:** Led the Cutting-edge System for Streamlining User Experience
+

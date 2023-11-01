@@ -1,0 +1,10 @@
+1708. **Name:** Charlie Chen
+   - **Skills:** C#, IoT, React, Docker
+   - **Experience:** Lead Designer at CreativeSolutions
+   - **Education:** Ph.D. in Data Science from Inno Institute
+   - **References:** Zane Brown, Lead, walter_silva@example.com
+Tina Rodriguez, CEO, mia_johnson@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** quinn_wang@example.com, Town, Techtopia
+   - **Projects:** Contributed to the Groundbreaking Framework for Solving Business Processes
+

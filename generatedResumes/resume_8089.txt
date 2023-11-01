@@ -1,0 +1,10 @@
+8089. **Name:** Jack Lopez
+   - **Skills:** Git, Graphic Design, JavaScript, Data Analysis
+   - **Experience:** Junior Developer at InnoSolutions
+   - **Education:** Ph.D. in Business Administration from Business School
+   - **References:** Bob Chen, Developer, patrick_brown@example.com
+Zane Brown, Director, sam_kim@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** quinn_lopez@example.com, City, Scienceburg
+   - **Projects:** Contributed to the Cutting-edge App for Optimizing User Experience
+

@@ -1,0 +1,10 @@
+8258. **Name:** Eva Rodriguez
+   - **Skills:** Java, CSS, Kubernetes, Python
+   - **Experience:** Junior Scientist at TechInnovate
+   - **Education:** Master in Business Administration from Creative Arts College
+   - **References:** Leo Jackson, Developer, xena_kumar@example.com
+Mia Lee, Manager, alice_kumar@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** patrick_nguyen@example.com, Village, Innovation Meadows
+   - **Projects:** Developed the Cutting-edge Project for Streamlining User Experience
+

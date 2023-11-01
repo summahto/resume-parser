@@ -1,0 +1,10 @@
+4307. **Name:** Jack Rodriguez
+   - **Skills:** IoT, SQL, Java, Docker
+   - **Experience:** Senior Analyst at TechInnovate
+   - **Education:** Bachelor in Art from Creative Arts College
+   - **References:** David López, Designer, ulysses_jones@example.com
+Mia López, CTO, xena_jackson@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** grace_rodriguez@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Revolutionary Project for Optimizing Business Processes
+

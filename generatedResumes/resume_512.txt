@@ -1,0 +1,10 @@
+512. **Name:** Charlie Gupta
+   - **Skills:** DevOps, AR/VR Development, HTML, Java
+   - **Experience:** Senior Developer at TechInnovate
+   - **Education:** Ph.D. in Engineering from Business School
+   - **References:** Frank Johnson, CEO, walter_nguyen@example.com
+Zane White, Lead, rachel_lopez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** leo_patel@example.com, City, Inno Haven
+   - **Projects:** Developed the Innovative App for Solving Business Processes
+

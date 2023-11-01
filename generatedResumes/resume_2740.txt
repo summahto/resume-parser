@@ -1,0 +1,10 @@
+2740. **Name:** Henry Gupta
+   - **Skills:** Swift, Machine Learning, React, Python
+   - **Experience:** Senior Manager at DigitalSolutions
+   - **Education:** Master in Physics from Data Science School
+   - **References:** Jack Nguyen, Coordinator, yuki_white@example.com
+Nathan Jones, CTO, tina_white@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** jack_white@example.com, City, Artopia
+   - **Projects:** Contributed to the Revolutionary Framework for Enhancing Business Processes
+

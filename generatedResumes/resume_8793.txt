@@ -1,0 +1,10 @@
+8793. **Name:** Bob Nguyen
+   - **Skills:** Git, React, Docker, Machine Learning
+   - **Experience:** Senior Engineer at TechCorp
+   - **Education:** Bachelor in Engineering from Creative Arts College
+   - **References:** Frank López, Manager, henry_wu@example.com
+Henry Chen, Coordinator, charlie_white@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** quinn_kim@example.com, Town, Innoville
+   - **Projects:** Contributed to the Cutting-edge App for Solving User Experience
+

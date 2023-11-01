@@ -1,0 +1,10 @@
+7160. **Name:** Quinn Garcia
+   - **Skills:** Project Management, Graphic Design, Git, SQL
+   - **Experience:** Senior Developer at TechInnovate
+   - **Education:** Bachelor in Computer Science from Inno Institute
+   - **References:** Zane Lee, Scientist, leo_brown@example.com
+Katherine Brown, Manager, nathan_brown@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** alice_kumar@example.com, Village, Data City
+   - **Projects:** Led the Revolutionary Platform for Streamlining User Experience
+

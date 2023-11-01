@@ -1,0 +1,10 @@
+5073. **Name:** Xena Kumar
+   - **Skills:** Project Management, Java, Angular, Python
+   - **Experience:** Junior Analyst at TechCorp
+   - **Education:** Bachelor in Data Science from Data Science School
+   - **References:** Tina Sato, Lead, mia_rodriguez@example.com
+Henry Singh, Manager, eva_patel@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** grace_miller@example.com, City, Techtopia
+   - **Projects:** Developed the Revolutionary App for Optimizing Collaboration
+

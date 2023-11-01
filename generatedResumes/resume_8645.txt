@@ -1,0 +1,10 @@
+8645. **Name:** Ivy Lee
+   - **Skills:** Cloud Computing, JavaScript, CSS, Kubernetes
+   - **Experience:** Lead Engineer at CodeCrafters
+   - **Education:** Bachelor in Data Science from Inno Institute
+   - **References:** Ulysses Cruz, Engineer, nathan_silva@example.com
+Victoria Jackson, Scientist, charlie_nguyen@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** olivia_cruz@example.com, Village, Techtopia
+   - **Projects:** Led the Innovative Project for Solving User Experience
+

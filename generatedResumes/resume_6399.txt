@@ -1,0 +1,10 @@
+6399. **Name:** Tina Chen
+   - **Skills:** C#, DevOps, Docker, Angular
+   - **Experience:** Junior Analyst at CreativeMinds
+   - **Education:** Master in Engineering from Data Science School
+   - **References:** Sam Cruz, Engineer, jack_miller@example.com
+Xena Chen, Manager, henry_silva@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** katherine_smith@example.com, Town, Data City
+   - **Projects:** Developed the Revolutionary Framework for Optimizing Collaboration
+

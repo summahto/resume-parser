@@ -1,0 +1,10 @@
+9406. **Name:** Ivy Chen
+   - **Skills:** Android Development, Vue.js, Angular, SQL
+   - **Experience:** Senior Developer at DataExperts
+   - **Education:** Bachelor in Physics from Creative Arts College
+   - **References:** Charlie Rodriguez, Coordinator, yuki_silva@example.com
+Victoria Miller, CTO, nathan_gupta@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** zane_silva@example.com, Village, Inno Haven
+   - **Projects:** Led the Cutting-edge App for Streamlining Business Processes
+

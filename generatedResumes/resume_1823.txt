@@ -1,0 +1,10 @@
+1823. **Name:** David Garcia
+   - **Skills:** Cybersecurity, DevOps, Cloud Computing, iOS Development
+   - **Experience:** Lead Designer at InnoSolutions
+   - **Education:** Master in Data Science from Physics Academy
+   - **References:** Xena Smith, Engineer, victoria_silva@example.com
+Bob Lee, Scientist, rachel_miller@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** henry_davis@example.com, Village, Techland
+   - **Projects:** Contributed to the Cutting-edge System for Enhancing Collaboration
+

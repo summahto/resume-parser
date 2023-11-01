@@ -1,0 +1,10 @@
+829. **Name:** Grace White
+   - **Skills:** UI/UX Design, IoT, Blockchain, Node.js
+   - **Experience:** Junior Manager at DataInnovators
+   - **Education:** Bachelor in Art from Inno Institute
+   - **References:** Mia Jackson, Director, leo_nguyen@example.com
+Ivy Chen, Manager, leo_jackson@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** tina_kim@example.com, Town, Techland
+   - **Projects:** Led the Innovative Project for Optimizing User Experience
+

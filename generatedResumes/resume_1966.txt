@@ -1,0 +1,10 @@
+1966. **Name:** Olivia Gupta
+   - **Skills:** Blockchain, Git, Node.js, iOS Development
+   - **Experience:** Senior Analyst at InnoSolutions
+   - **Education:** Bachelor in Art from Tech University
+   - **References:** Tina Kumar, Lead, xena_gupta@example.com
+Nathan Silva, Analyst, nathan_lee@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** quinn_silva@example.com, City, Innoville
+   - **Projects:** Contributed to the Groundbreaking App for Enhancing Problem-solving
+

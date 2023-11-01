@@ -1,0 +1,10 @@
+6890. **Name:** Ivy Nguyen
+   - **Skills:** HTML, Kubernetes, Big Data, IoT
+   - **Experience:** Junior Engineer at CreativeMinds
+   - **Education:** Bachelor in Business Administration from Business School
+   - **References:** Ivy Chen, Coordinator, leo_müller@example.com
+Zane Miller, CEO, charlie_jones@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** sam_wang@example.com, Town, Artopia
+   - **Projects:** Developed the Cutting-edge App for Optimizing Collaboration
+

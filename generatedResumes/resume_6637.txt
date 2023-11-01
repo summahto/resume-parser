@@ -1,0 +1,10 @@
+6637. **Name:** Leo Wang
+   - **Skills:** Vue.js, SQL, IoT, JavaScript
+   - **Experience:** Senior Engineer at TechCorp
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** Bob Cruz, Analyst, jack_yamamoto@example.com
+Tina Wu, Lead, david_garcia@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** henry_patel@example.com, City, Data City
+   - **Projects:** Contributed to the Innovative Platform for Solving Problem-solving
+

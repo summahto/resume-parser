@@ -1,0 +1,10 @@
+6498. **Name:** Patrick Patel
+   - **Skills:** Project Management, SQL, Data Analysis, Blockchain
+   - **Experience:** Junior Engineer at TechCorp
+   - **Education:** Master in Business Administration from Data Science School
+   - **References:** Frank Nguyen, Designer, mia_nguyen@example.com
+Frank Chen, Analyst, grace_white@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** bob_nguyen@example.com, City, Innovation Meadows
+   - **Projects:** Developed the Groundbreaking App for Optimizing User Experience
+

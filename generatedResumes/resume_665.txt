@@ -1,0 +1,10 @@
+665. **Name:** Jack White
+   - **Skills:** Machine Learning, Android Development, Python, SQL
+   - **Experience:** Junior Manager at DataExperts
+   - **Education:** Master in Business Administration from Physics Academy
+   - **References:** Xena White, Coordinator, olivia_wang@example.com
+Zane Garcia, Analyst, alice_white@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** grace_williams@example.com, City, Scienceburg
+   - **Projects:** Contributed to the Innovative Framework for Optimizing Collaboration
+

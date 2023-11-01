@@ -1,0 +1,10 @@
+7940. **Name:** Leo Wu
+   - **Skills:** Blockchain, Machine Learning, Cybersecurity, Python
+   - **Experience:** Senior Scientist at InnoSolutions
+   - **Education:** Master in Data Science from Inno Institute
+   - **References:** Sam Suzuki, CTO, mia_li@example.com
+Ivy Taylor, CTO, tina_rodriguez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** henry_lopez@example.com, Village, Techland
+   - **Projects:** Led the Groundbreaking System for Solving Data Analysis
+

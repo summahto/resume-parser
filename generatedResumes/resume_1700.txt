@@ -1,0 +1,10 @@
+1700. **Name:** Xena White
+   - **Skills:** Vue.js, Blockchain, CSS, Docker
+   - **Experience:** Junior Scientist at DataExperts
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Ivy Garcia, Lead, xena_silva@example.com
+Grace Gupta, Coordinator, tina_miller@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** patrick_hernandez@example.com, Village, Data Haven
+   - **Projects:** Led the Innovative Platform for Optimizing Data Analysis
+

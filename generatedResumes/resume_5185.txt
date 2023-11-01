@@ -1,0 +1,10 @@
+5185. **Name:** David Chen
+   - **Skills:** AR/VR Development, Java, Angular, Python
+   - **Experience:** Senior Designer at TechCorp
+   - **Education:** Bachelor in Computer Science from Inno Institute
+   - **References:** Bob Patel, Analyst, bob_lee@example.com
+Alice Lee, Engineer, david_taylor@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** xena_wu@example.com, Village, Artopia
+   - **Projects:** Led the Revolutionary App for Enhancing Data Analysis
+

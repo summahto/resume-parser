@@ -1,0 +1,10 @@
+3876. **Name:** Grace White
+   - **Skills:** Agile, Docker, CSS, Cloud Computing
+   - **Experience:** Junior Analyst at DataExperts
+   - **Education:** Bachelor in Data Science from Creative Arts College
+   - **References:** Victoria Lee, Lead, bob_jackson@example.com
+Leo Gupta, Manager, ivy_kim@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** charlie_miller@example.com, City, Innoville
+   - **Projects:** Developed the Groundbreaking Platform for Optimizing Data Analysis
+

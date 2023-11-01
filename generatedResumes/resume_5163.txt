@@ -1,0 +1,10 @@
+5163. **Name:** Alice Li
+   - **Skills:** Angular, React, C#, Blockchain
+   - **Experience:** Senior Scientist at DataExperts
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Eva Nguyen, Developer, mia_smith@example.com
+Bob Cruz, Manager, xena_jackson@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** tina_white@example.com, Town, Techtopia
+   - **Projects:** Developed the Revolutionary App for Optimizing Data Analysis
+

@@ -1,0 +1,10 @@
+3596. **Name:** Frank Kumar
+   - **Skills:** Android Development, iOS Development, Big Data, Cybersecurity
+   - **Experience:** Senior Designer at TechCorp
+   - **Education:** Ph.D. in Engineering from Creative Arts College
+   - **References:** Ulysses Miller, Manager, ivy_white@example.com
+Yuki Wu, Developer, david_white@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** frank_smith@example.com, City, Innovation Meadows
+   - **Projects:** Developed the Innovative System for Streamlining Business Processes
+

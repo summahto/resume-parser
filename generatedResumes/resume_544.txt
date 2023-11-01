@@ -1,0 +1,10 @@
+544. **Name:** Quinn Jackson
+   - **Skills:** React, Git, iOS Development, Graphic Design
+   - **Experience:** Junior Manager at DataExperts
+   - **Education:** Ph.D. in Engineering from Data Science School
+   - **References:** Quinn Jones, Designer, sam_garcia@example.com
+Jack Hernandez, CEO, quinn_singh@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** ulysses_lee@example.com, City, Techtopia
+   - **Projects:** Developed the Cutting-edge Project for Enhancing Business Processes
+

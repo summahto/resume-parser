@@ -1,0 +1,10 @@
+7064. **Name:** Eva Smith
+   - **Skills:** CSS, Machine Learning, DevOps, Git
+   - **Experience:** Lead Designer at InnovativeTech
+   - **Education:** Master in Physics from Business School
+   - **References:** Quinn Silva, Designer, tina_jones@example.com
+Alice Lee, Coordinator, patrick_wang@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** tina_kumar@example.com, Town, Techland
+   - **Projects:** Developed the Revolutionary Framework for Streamlining Data Analysis
+

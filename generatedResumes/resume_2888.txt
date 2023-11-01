@@ -1,0 +1,10 @@
+2888. **Name:** Grace Nguyen
+   - **Skills:** CSS, iOS Development, UI/UX Design, Graphic Design
+   - **Experience:** Senior Developer at DataExperts
+   - **Education:** Master in Art from Physics Academy
+   - **References:** Charlie Wang, Director, ulysses_müller@example.com
+Katherine Kim, Manager, olivia_lee@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** tina_gupta@example.com, Town, Inno Haven
+   - **Projects:** Developed the Revolutionary System for Enhancing Collaboration
+

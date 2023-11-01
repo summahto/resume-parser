@@ -1,0 +1,10 @@
+4500. **Name:** Victoria Nguyen
+   - **Skills:** Agile, Git, iOS Development, React
+   - **Experience:** Lead Analyst at DataExperts
+   - **Education:** Master in Engineering from Business School
+   - **References:** Ulysses Cruz, Director, alice_garcia@example.com
+Henry Smith, CEO, walter_williams@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** quinn_cruz@example.com, Village, Innoville
+   - **Projects:** Developed the Revolutionary App for Optimizing Data Analysis
+

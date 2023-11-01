@@ -1,0 +1,10 @@
+5714. **Name:** Olivia Chen
+   - **Skills:** Node.js, JavaScript, iOS Development, UI/UX Design
+   - **Experience:** Senior Analyst at InnoSolutions
+   - **Education:** Bachelor in Computer Science from Physics Academy
+   - **References:** Sam López, CEO, jack_patel@example.com
+Ulysses López, Director, sam_kim@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** frank_miller@example.com, Town, Data Haven
+   - **Projects:** Led the Cutting-edge Platform for Optimizing Collaboration
+

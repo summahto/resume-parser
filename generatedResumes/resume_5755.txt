@@ -1,0 +1,10 @@
+5755. **Name:** Ivy Rodriguez
+   - **Skills:** Project Management, JavaScript, AR/VR Development, React
+   - **Experience:** Lead Scientist at CodeCrafters
+   - **Education:** Master in Art from Tech University
+   - **References:** Yuki Silva, Analyst, katherine_lee@example.com
+Victoria Gupta, CEO, ivy_nguyen@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** tina_rodriguez@example.com, City, Green Valley
+   - **Projects:** Developed the Cutting-edge Platform for Solving Collaboration
+

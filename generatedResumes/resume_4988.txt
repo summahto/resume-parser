@@ -1,0 +1,10 @@
+4988. **Name:** Leo Rodriguez
+   - **Skills:** Java, Big Data, Cloud Computing, CSS
+   - **Experience:** Senior Designer at CodeCrafters
+   - **Education:** Master in Art from Inno Institute
+   - **References:** Katherine White, CTO, mia_jackson@example.com
+Sam Silva, Analyst, alice_kumar@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** olivia_lopez@example.com, Town, Green Valley
+   - **Projects:** Contributed to the Revolutionary App for Optimizing Collaboration
+

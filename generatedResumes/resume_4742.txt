@@ -1,0 +1,10 @@
+4742. **Name:** Ivy Lopez
+   - **Skills:** JavaScript, C#, Java, Graphic Design
+   - **Experience:** Lead Engineer at InnoSolutions
+   - **Education:** Bachelor in Art from Inno Institute
+   - **References:** Eva Lee, Coordinator, grace_jones@example.com
+Alice Wang, Lead, bob_patel@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** leo_hernandez@example.com, City, Techtopia
+   - **Projects:** Contributed to the Cutting-edge App for Enhancing User Experience
+

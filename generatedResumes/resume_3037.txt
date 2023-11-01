@@ -1,0 +1,10 @@
+3037. **Name:** Walter Chen
+   - **Skills:** Git, Project Management, JavaScript, Android Development
+   - **Experience:** Junior Manager at TechInnovate
+   - **Education:** Bachelor in Data Science from Creative Arts College
+   - **References:** Ivy Williams, Designer, patrick_cruz@example.com
+Katherine Chen, Engineer, david_suzuki@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** rachel_lopez@example.com, Village, Artopia
+   - **Projects:** Led the Innovative App for Solving User Experience
+

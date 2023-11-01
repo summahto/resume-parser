@@ -1,0 +1,10 @@
+1822. **Name:** Eva Garcia
+   - **Skills:** Big Data, SQL, Docker, HTML
+   - **Experience:** Senior Analyst at CreativeSolutions
+   - **Education:** Master in Data Science from Business School
+   - **References:** Grace Chen, Coordinator, david_yamamoto@example.com
+Ulysses Kumar, Analyst, xena_lee@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** eva_li@example.com, City, Techtopia
+   - **Projects:** Developed the Groundbreaking App for Streamlining Collaboration
+

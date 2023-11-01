@@ -1,0 +1,10 @@
+5789. **Name:** Charlie Jones
+   - **Skills:** Node.js, Big Data, UI/UX Design, Agile
+   - **Experience:** Junior Analyst at DataInnovators
+   - **Education:** Master in Physics from Creative Arts College
+   - **References:** Walter Kumar, Lead, yuki_miller@example.com
+Zane Lopez, Developer, eva_wu@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** leo_nguyen@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Cutting-edge Platform for Solving User Experience
+

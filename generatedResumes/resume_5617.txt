@@ -1,0 +1,10 @@
+5617. **Name:** Victoria Cruz
+   - **Skills:** iOS Development, Docker, Vue.js, Machine Learning
+   - **Experience:** Junior Manager at CodeCrafters
+   - **Education:** Ph.D. in Engineering from Physics Academy
+   - **References:** Mia White, Coordinator, quinn_silva@example.com
+Olivia Brown, Director, olivia_kim@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** david_smith@example.com, Town, Scienceburg
+   - **Projects:** Contributed to the Cutting-edge App for Optimizing Data Analysis
+

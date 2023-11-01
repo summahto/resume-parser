@@ -1,0 +1,10 @@
+6640. **Name:** Ivy Cruz
+   - **Skills:** UI/UX Design, Python, Kubernetes, Agile
+   - **Experience:** Junior Designer at TechCorp
+   - **Education:** Ph.D. in Engineering from Creative Arts College
+   - **References:** Olivia Smith, CEO, mia_gonzalez@example.com
+Eva Miller, Coordinator, nathan_garcia@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** victoria_lopez@example.com, Town, Innovation Meadows
+   - **Projects:** Developed the Cutting-edge System for Solving User Experience
+

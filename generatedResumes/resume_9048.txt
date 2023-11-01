@@ -1,0 +1,10 @@
+9048. **Name:** Victoria Garcia
+   - **Skills:** Project Management, React, Data Analysis, Agile
+   - **Experience:** Junior Engineer at DataInnovators
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** David Rodriguez, Engineer, katherine_garcia@example.com
+David Chen, Lead, bob_johnson@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** eva_johnson@example.com, Village, Scienceburg
+   - **Projects:** Contributed to the Cutting-edge Framework for Streamlining Data Analysis
+

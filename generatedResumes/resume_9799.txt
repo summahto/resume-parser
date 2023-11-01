@@ -1,0 +1,10 @@
+9799. **Name:** Katherine Sato
+   - **Skills:** Java, Project Management, HTML, Python
+   - **Experience:** Junior Scientist at TechCorp
+   - **Education:** Bachelor in Business Administration from Tech University
+   - **References:** Alice López, Scientist, nathan_lópez@example.com
+Charlie Garcia, Director, nathan_wu@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** tina_silva@example.com, Town, Data City
+   - **Projects:** Contributed to the Cutting-edge App for Enhancing Business Processes
+

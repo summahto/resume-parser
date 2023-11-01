@@ -1,0 +1,10 @@
+6142. **Name:** Nathan Taylor
+   - **Skills:** Git, HTML, AR/VR Development, Big Data
+   - **Experience:** Junior Manager at InnoSolutions
+   - **Education:** Ph.D. in Engineering from Creative Arts College
+   - **References:** Eva Wang, Director, zane_garcia@example.com
+Zane Gupta, Lead, walter_patel@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** olivia_nguyen@example.com, Village, Techtopia
+   - **Projects:** Contributed to the Groundbreaking App for Enhancing Business Processes
+

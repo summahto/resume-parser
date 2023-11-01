@@ -1,0 +1,10 @@
+3126. **Name:** Leo Nguyen
+   - **Skills:** Graphic Design, Agile, Machine Learning, Kubernetes
+   - **Experience:** Junior Developer at CodeCrafters
+   - **Education:** Master in Physics from Physics Academy
+   - **References:** Tina Lee, Coordinator, jack_rodriguez@example.com
+Ulysses Brown, CEO, quinn_white@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** henry_nguyen@example.com, Village, Data Haven
+   - **Projects:** Led the Revolutionary App for Enhancing Collaboration
+

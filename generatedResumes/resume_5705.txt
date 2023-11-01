@@ -1,0 +1,10 @@
+5705. **Name:** Jack Kumar
+   - **Skills:** CSS, Cloud Computing, Machine Learning, React
+   - **Experience:** Senior Developer at DataExperts
+   - **Education:** Master in Business Administration from Inno Institute
+   - **References:** Xena Brown, Developer, victoria_chen@example.com
+Frank Garcia, Engineer, katherine_müller@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** eva_hernandez@example.com, Town, Innoville
+   - **Projects:** Developed the Innovative Platform for Solving Business Processes
+

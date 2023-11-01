@@ -1,0 +1,10 @@
+8360. **Name:** Olivia Smith
+   - **Skills:** Angular, Graphic Design, Agile, UI/UX Design
+   - **Experience:** Lead Developer at DataInnovators
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Nathan Wang, CEO, frank_lee@example.com
+Sam Lee, Coordinator, olivia_gupta@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** tina_smith@example.com, Town, Artopia
+   - **Projects:** Led the Groundbreaking Project for Enhancing User Experience
+

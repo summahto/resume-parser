@@ -1,0 +1,10 @@
+8113. **Name:** Tina Kumar
+   - **Skills:** IoT, Graphic Design, HTML, Vue.js
+   - **Experience:** Lead Designer at TechCorp
+   - **Education:** Master in Data Science from Tech University
+   - **References:** David Jones, Developer, leo_wu@example.com
+Jack Garcia, Director, walter_wu@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** leo_jones@example.com, City, Techtopia
+   - **Projects:** Developed the Revolutionary Platform for Solving Collaboration
+

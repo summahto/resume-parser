@@ -1,0 +1,10 @@
+8859. **Name:** David Nguyen
+   - **Skills:** SQL, Docker, Node.js, Git
+   - **Experience:** Senior Scientist at CreativeMinds
+   - **Education:** Ph.D. in Engineering from Data Science School
+   - **References:** Jack Garcia, Developer, mia_patel@example.com
+Rachel Jackson, CEO, jack_garcia@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** zane_garcia@example.com, Village, Inno Haven
+   - **Projects:** Developed the Innovative App for Streamlining Problem-solving
+

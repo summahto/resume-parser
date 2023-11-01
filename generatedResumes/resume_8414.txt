@@ -1,0 +1,10 @@
+8414. **Name:** Nathan Nguyen
+   - **Skills:** Docker, Vue.js, C#, Graphic Design
+   - **Experience:** Junior Engineer at DataExperts
+   - **Education:** Ph.D. in Physics from Inno Institute
+   - **References:** Nathan Kumar, Designer, olivia_gupta@example.com
+Yuki Wu, Director, rachel_lópez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** ulysses_gupta@example.com, Town, Green Valley
+   - **Projects:** Led the Revolutionary Framework for Solving Data Analysis
+

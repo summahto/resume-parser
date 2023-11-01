@@ -1,0 +1,10 @@
+9398. **Name:** Olivia Cruz
+   - **Skills:** Java, Vue.js, JavaScript, React
+   - **Experience:** Senior Scientist at InnovativeTech
+   - **Education:** Bachelor in Computer Science from Physics Academy
+   - **References:** Olivia Jackson, Lead, frank_lopez@example.com
+Henry Taylor, Director, frank_wu@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** patrick_smith@example.com, Town, Innoville
+   - **Projects:** Led the Revolutionary Platform for Optimizing Collaboration
+

@@ -1,0 +1,10 @@
+2022. **Name:** Katherine Patel
+   - **Skills:** HTML, Graphic Design, Swift, Kubernetes
+   - **Experience:** Lead Manager at InnoSolutions
+   - **Education:** Bachelor in Art from Business School
+   - **References:** Alice Garcia, Director, alice_gupta@example.com
+Victoria Jackson, Coordinator, jack_rodriguez@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** sam_patel@example.com, Town, Artopia
+   - **Projects:** Contributed to the Groundbreaking Project for Enhancing Business Processes
+

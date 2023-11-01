@@ -1,0 +1,10 @@
+2052. **Name:** Leo Yamamoto
+   - **Skills:** Node.js, Swift, Angular, CSS
+   - **Experience:** Junior Designer at TechInnovate
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Victoria Gonzalez, Director, patrick_müller@example.com
+Sam Taylor, Developer, victoria_hernandez@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** bob_yamamoto@example.com, City, Artopia
+   - **Projects:** Contributed to the Cutting-edge App for Optimizing Collaboration
+

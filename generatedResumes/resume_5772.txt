@@ -1,0 +1,10 @@
+5772. **Name:** Yuki Gupta
+   - **Skills:** AR/VR Development, Angular, Git, Blockchain
+   - **Experience:** Junior Developer at DataExperts
+   - **Education:** Master in Physics from Physics Academy
+   - **References:** Rachel Miller, Lead, rachel_chen@example.com
+Nathan Jones, Designer, walter_lopez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** ulysses_yamamoto@example.com, Town, Techtopia
+   - **Projects:** Developed the Groundbreaking Project for Solving Collaboration
+

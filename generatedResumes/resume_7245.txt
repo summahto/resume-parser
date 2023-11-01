@@ -1,0 +1,10 @@
+7245. **Name:** Yuki Jones
+   - **Skills:** IoT, iOS Development, JavaScript, Blockchain
+   - **Experience:** Lead Manager at TechCorp
+   - **Education:** Master in Physics from Creative Arts College
+   - **References:** Walter Gupta, Coordinator, mia_wang@example.com
+Nathan Kumar, Developer, mia_white@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** mia_lopez@example.com, City, Innovation Meadows
+   - **Projects:** Led the Cutting-edge Platform for Streamlining Data Analysis
+

@@ -1,0 +1,10 @@
+3223. **Name:** Quinn Taylor
+   - **Skills:** Python, Cybersecurity, Big Data, Git
+   - **Experience:** Junior Scientist at TechCorp
+   - **Education:** Master in Engineering from Creative Arts College
+   - **References:** Nathan Lee, Manager, alice_lopez@example.com
+Frank Miller, Lead, xena_kumar@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** mia_lopez@example.com, Village, Techtopia
+   - **Projects:** Contributed to the Revolutionary Project for Streamlining Problem-solving
+

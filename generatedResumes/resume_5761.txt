@@ -1,0 +1,10 @@
+5761. **Name:** Jack Jones
+   - **Skills:** iOS Development, AR/VR Development, Big Data, Cybersecurity
+   - **Experience:** Junior Developer at InnovativeTech
+   - **Education:** Master in Engineering from Creative Arts College
+   - **References:** Frank Nguyen, Developer, nathan_lee@example.com
+Tina Hernandez, Designer, patrick_gupta@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** yuki_nguyen@example.com, City, Techtopia
+   - **Projects:** Contributed to the Groundbreaking Platform for Optimizing Collaboration
+

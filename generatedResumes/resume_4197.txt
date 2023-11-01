@@ -1,0 +1,10 @@
+4197. **Name:** Walter Garcia
+   - **Skills:** Graphic Design, Docker, HTML, JavaScript
+   - **Experience:** Junior Manager at CreativeSolutions
+   - **Education:** Ph.D. in Engineering from Physics Academy
+   - **References:** Grace Lee, Coordinator, mia_white@example.com
+Olivia Nguyen, CEO, victoria_garcia@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** tina_nguyen@example.com, City, Scienceburg
+   - **Projects:** Contributed to the Groundbreaking Project for Optimizing User Experience
+

@@ -1,0 +1,10 @@
+2453. **Name:** Rachel Rodriguez
+   - **Skills:** SQL, Docker, UI/UX Design, Java
+   - **Experience:** Lead Manager at CreativeMinds
+   - **Education:** Ph.D. in Computer Science from Creative Arts College
+   - **References:** Alice Lee, Designer, olivia_brown@example.com
+Zane Cruz, Designer, ulysses_cruz@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** eva_lopez@example.com, City, Scienceburg
+   - **Projects:** Developed the Innovative System for Enhancing Problem-solving
+

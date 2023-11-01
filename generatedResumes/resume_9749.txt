@@ -1,0 +1,10 @@
+9749. **Name:** Eva Gonzalez
+   - **Skills:** DevOps, Agile, React, C#
+   - **Experience:** Lead Engineer at CreativeMinds
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Quinn White, Designer, quinn_li@example.com
+Bob Taylor, CEO, ivy_garcia@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** nathan_wang@example.com, Village, Innoville
+   - **Projects:** Developed the Cutting-edge Project for Solving Collaboration
+

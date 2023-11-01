@@ -1,0 +1,10 @@
+2204. **Name:** Ulysses Gupta
+   - **Skills:** Graphic Design, Agile, DevOps, Cybersecurity
+   - **Experience:** Lead Analyst at CreativeSolutions
+   - **Education:** Master in Art from Tech University
+   - **References:** Olivia López, Coordinator, leo_lopez@example.com
+Leo Jones, Developer, tina_jones@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** mia_brown@example.com, Town, Innoville
+   - **Projects:** Contributed to the Revolutionary Framework for Optimizing Problem-solving
+

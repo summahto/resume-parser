@@ -1,0 +1,10 @@
+5291. **Name:** Ivy Jones
+   - **Skills:** Big Data, Agile, CSS, HTML
+   - **Experience:** Junior Scientist at DataExperts
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Charlie Miller, Coordinator, charlie_taylor@example.com
+Victoria Chen, Scientist, david_gupta@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** patrick_davis@example.com, Village, Inno Haven
+   - **Projects:** Developed the Groundbreaking Platform for Solving User Experience
+

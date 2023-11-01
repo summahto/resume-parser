@@ -1,0 +1,10 @@
+9247. **Name:** Yuki Garcia
+   - **Skills:** Kubernetes, Python, HTML, Project Management
+   - **Experience:** Junior Engineer at TechInnovate
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** Grace Lee, Analyst, charlie_silva@example.com
+Quinn White, Designer, charlie_lee@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** grace_miller@example.com, Town, Scienceburg
+   - **Projects:** Led the Groundbreaking Project for Enhancing Data Analysis
+

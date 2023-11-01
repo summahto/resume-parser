@@ -1,0 +1,10 @@
+4035. **Name:** Grace Kumar
+   - **Skills:** Agile, React, AR/VR Development, Graphic Design
+   - **Experience:** Junior Developer at CreativeSolutions
+   - **Education:** Bachelor in Engineering from Business School
+   - **References:** Ivy Singh, Manager, quinn_garcia@example.com
+Quinn Lee, Designer, xena_wu@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** eva_gupta@example.com, Village, Innoville
+   - **Projects:** Led the Groundbreaking Framework for Optimizing Problem-solving
+

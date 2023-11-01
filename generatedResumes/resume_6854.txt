@@ -1,0 +1,10 @@
+6854. **Name:** Frank Rodriguez
+   - **Skills:** Graphic Design, Angular, Java, Data Analysis
+   - **Experience:** Junior Analyst at TechInnovate
+   - **Education:** Bachelor in Computer Science from Inno Institute
+   - **References:** Patrick López, CEO, grace_patel@example.com
+Mia Smith, Director, nathan_müller@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** rachel_lee@example.com, Village, Green Valley
+   - **Projects:** Contributed to the Groundbreaking Project for Optimizing Data Analysis
+

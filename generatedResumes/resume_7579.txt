@@ -1,0 +1,10 @@
+7579. **Name:** Eva López
+   - **Skills:** Kubernetes, Python, Angular, Docker
+   - **Experience:** Junior Scientist at TechCorp
+   - **Education:** Bachelor in Art from Physics Academy
+   - **References:** Katherine Taylor, Engineer, victoria_kim@example.com
+Jack López, Manager, david_garcia@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** quinn_lopez@example.com, Village, Data City
+   - **Projects:** Developed the Innovative Project for Enhancing User Experience
+

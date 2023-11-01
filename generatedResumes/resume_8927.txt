@@ -1,0 +1,10 @@
+8927. **Name:** Leo Lee
+   - **Skills:** iOS Development, Angular, Agile, C#
+   - **Experience:** Junior Analyst at CreativeSolutions
+   - **Education:** Ph.D. in Computer Science from Physics Academy
+   - **References:** Yuki Lee, Director, eva_gupta@example.com
+Ivy Jones, Manager, frank_lee@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** quinn_silva@example.com, Village, Data City
+   - **Projects:** Developed the Revolutionary Platform for Optimizing User Experience
+

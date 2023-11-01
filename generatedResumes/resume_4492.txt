@@ -1,0 +1,10 @@
+4492. **Name:** Olivia Kim
+   - **Skills:** C#, Big Data, Data Analysis, Swift
+   - **Experience:** Senior Analyst at DigitalSolutions
+   - **Education:** Ph.D. in Data Science from Data Science School
+   - **References:** Quinn Rodriguez, Developer, henry_miller@example.com
+Alice Chen, CEO, zane_lópez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** grace_chen@example.com, City, Techtopia
+   - **Projects:** Led the Groundbreaking Project for Optimizing Business Processes
+

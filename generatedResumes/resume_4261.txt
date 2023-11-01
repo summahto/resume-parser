@@ -1,0 +1,10 @@
+4261. **Name:** Olivia Lopez
+   - **Skills:** iOS Development, Network Administration, Docker, IoT
+   - **Experience:** Junior Designer at TechInnovate
+   - **Education:** Ph.D. in Data Science from Physics Academy
+   - **References:** Walter Wang, Manager, mia_jackson@example.com
+Alice Gupta, Engineer, charlie_kumar@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** olivia_gupta@example.com, City, Innovation Meadows
+   - **Projects:** Led the Innovative App for Streamlining Data Analysis
+

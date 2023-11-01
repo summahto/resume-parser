@@ -1,0 +1,10 @@
+598. **Name:** Zane Hernandez
+   - **Skills:** Project Management, Network Administration, Vue.js, Docker
+   - **Experience:** Junior Developer at CreativeMinds
+   - **Education:** Bachelor in Data Science from Inno Institute
+   - **References:** Jack Kumar, CTO, frank_brown@example.com
+Frank Lopez, Lead, zane_miller@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** ivy_taylor@example.com, City, Techtopia
+   - **Projects:** Contributed to the Innovative Framework for Enhancing Collaboration
+

@@ -1,0 +1,10 @@
+8733. **Name:** Charlie White
+   - **Skills:** Cybersecurity, Cloud Computing, UI/UX Design, Python
+   - **Experience:** Senior Developer at InnoSolutions
+   - **Education:** Master in Art from Tech University
+   - **References:** Mia Patel, Coordinator, david_nguyen@example.com
+Victoria Sato, Designer, frank_brown@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** xena_kumar@example.com, City, Green Valley
+   - **Projects:** Led the Groundbreaking System for Optimizing Data Analysis
+

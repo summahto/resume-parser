@@ -1,0 +1,10 @@
+2053. **Name:** Grace Chen
+   - **Skills:** C#, Python, UI/UX Design, Graphic Design
+   - **Experience:** Junior Engineer at DataInnovators
+   - **Education:** Ph.D. in Business Administration from Data Science School
+   - **References:** Olivia Nguyen, Scientist, grace_lee@example.com
+Walter Gupta, Manager, mia_patel@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** jack_wang@example.com, Town, Green Valley
+   - **Projects:** Led the Cutting-edge Platform for Enhancing User Experience
+

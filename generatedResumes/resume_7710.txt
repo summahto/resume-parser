@@ -1,0 +1,10 @@
+7710. **Name:** Zane Jones
+   - **Skills:** Data Analysis, Agile, Graphic Design, DevOps
+   - **Experience:** Junior Scientist at InnoSolutions
+   - **Education:** Ph.D. in Data Science from Creative Arts College
+   - **References:** Xena Wang, Manager, jack_lópez@example.com
+Leo Smith, Engineer, zane_lee@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** david_garcia@example.com, City, Innoville
+   - **Projects:** Developed the Innovative Platform for Streamlining Collaboration
+

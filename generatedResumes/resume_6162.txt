@@ -1,0 +1,10 @@
+6162. **Name:** Jack Patel
+   - **Skills:** SQL, Git, IoT, UI/UX Design
+   - **Experience:** Senior Engineer at InnovativeTech
+   - **Education:** Bachelor in Physics from Creative Arts College
+   - **References:** Frank Patel, Scientist, david_kim@example.com
+Zane Chen, Manager, alice_wu@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** ulysses_cruz@example.com, City, Techtopia
+   - **Projects:** Developed the Cutting-edge Project for Enhancing Data Analysis
+

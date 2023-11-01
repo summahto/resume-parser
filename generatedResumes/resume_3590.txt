@@ -1,0 +1,10 @@
+3590. **Name:** Grace Lee
+   - **Skills:** Angular, DevOps, Vue.js, iOS Development
+   - **Experience:** Senior Engineer at DataExperts
+   - **Education:** Bachelor in Data Science from Creative Arts College
+   - **References:** Olivia Yamamoto, Analyst, xena_chen@example.com
+Walter Garcia, Developer, ulysses_nguyen@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** charlie_silva@example.com, Village, Techtopia
+   - **Projects:** Contributed to the Groundbreaking System for Solving Data Analysis
+

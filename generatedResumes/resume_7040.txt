@@ -1,0 +1,10 @@
+7040. **Name:** Eva Lopez
+   - **Skills:** Project Management, Agile, Network Administration, Kubernetes
+   - **Experience:** Senior Analyst at InnoSolutions
+   - **Education:** Bachelor in Art from Creative Arts College
+   - **References:** Yuki Brown, CTO, patrick_brown@example.com
+Patrick Brown, CEO, mia_silva@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** david_silva@example.com, Village, Techland
+   - **Projects:** Developed the Innovative Framework for Solving User Experience
+

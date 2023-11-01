@@ -1,0 +1,10 @@
+5970. **Name:** Zane Brown
+   - **Skills:** UI/UX Design, Python, AR/VR Development, Network Administration
+   - **Experience:** Lead Designer at DigitalSolutions
+   - **Education:** Ph.D. in Data Science from Data Science School
+   - **References:** Ivy Garcia, Lead, olivia_taylor@example.com
+Zane Patel, Coordinator, ivy_jackson@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** rachel_jackson@example.com, City, Artopia
+   - **Projects:** Contributed to the Innovative System for Solving Problem-solving
+

@@ -1,0 +1,10 @@
+5378. **Name:** Henry Lee
+   - **Skills:** Swift, HTML, Data Analysis, Git
+   - **Experience:** Senior Manager at DataExperts
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Alice Miller, Coordinator, frank_suzuki@example.com
+Jack Jackson, Developer, ulysses_cruz@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** sam_nguyen@example.com, Village, Data Haven
+   - **Projects:** Led the Cutting-edge Framework for Optimizing User Experience
+

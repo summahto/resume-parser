@@ -1,0 +1,10 @@
+2892. **Name:** Tina Gupta
+   - **Skills:** Data Analysis, Network Administration, iOS Development, UI/UX Design
+   - **Experience:** Lead Scientist at DataInnovators
+   - **Education:** Bachelor in Business Administration from Inno Institute
+   - **References:** Yuki Jackson, Designer, walter_jones@example.com
+Katherine Singh, Engineer, henry_wu@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** david_jones@example.com, Town, Innovation Meadows
+   - **Projects:** Led the Revolutionary Platform for Streamlining User Experience
+

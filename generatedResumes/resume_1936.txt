@@ -1,0 +1,10 @@
+1936. **Name:** Quinn Li
+   - **Skills:** Cybersecurity, SQL, Machine Learning, Cloud Computing
+   - **Experience:** Lead Manager at InnoSolutions
+   - **Education:** Bachelor in Engineering from Data Science School
+   - **References:** Bob Gonzalez, CEO, ulysses_patel@example.com
+Patrick Cruz, Scientist, nathan_kumar@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** tina_white@example.com, City, Artopia
+   - **Projects:** Led the Innovative Platform for Streamlining Data Analysis
+

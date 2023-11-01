@@ -1,0 +1,10 @@
+3967. **Name:** Ivy Gupta
+   - **Skills:** Cloud Computing, Network Administration, SQL, Machine Learning
+   - **Experience:** Lead Engineer at InnovativeTech
+   - **Education:** Ph.D. in Computer Science from Tech University
+   - **References:** Nathan Smith, Scientist, yuki_silva@example.com
+Alice Kumar, Designer, bob_cruz@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** eva_chen@example.com, Village, Scienceburg
+   - **Projects:** Developed the Groundbreaking Framework for Streamlining Collaboration
+

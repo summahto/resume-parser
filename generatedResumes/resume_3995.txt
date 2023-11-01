@@ -1,0 +1,10 @@
+3995. **Name:** Tina Jones
+   - **Skills:** SQL, Vue.js, C#, AR/VR Development
+   - **Experience:** Lead Developer at DataInnovators
+   - **Education:** Master in Data Science from Tech University
+   - **References:** Grace Lee, Manager, katherine_gonzalez@example.com
+Patrick Kumar, Designer, nathan_lopez@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** alice_nguyen@example.com, City, Techland
+   - **Projects:** Led the Cutting-edge App for Optimizing Collaboration
+

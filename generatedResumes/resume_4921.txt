@@ -1,0 +1,10 @@
+4921. **Name:** Charlie Suzuki
+   - **Skills:** Big Data, DevOps, Network Administration, C#
+   - **Experience:** Junior Manager at DigitalSolutions
+   - **Education:** Bachelor in Computer Science from Inno Institute
+   - **References:** Charlie Kim, CEO, jack_miller@example.com
+Bob Smith, Designer, yuki_patel@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** nathan_wu@example.com, City, Techland
+   - **Projects:** Led the Groundbreaking Framework for Optimizing Problem-solving
+

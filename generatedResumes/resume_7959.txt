@@ -1,0 +1,10 @@
+7959. **Name:** Grace Gupta
+   - **Skills:** DevOps, Kubernetes, Swift, HTML
+   - **Experience:** Junior Engineer at CreativeMinds
+   - **Education:** Master in Data Science from Inno Institute
+   - **References:** Leo Wu, Developer, ulysses_jones@example.com
+Eva Jackson, Coordinator, eva_kumar@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** eva_nguyen@example.com, City, Techtopia
+   - **Projects:** Led the Groundbreaking Project for Enhancing Data Analysis
+

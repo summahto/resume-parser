@@ -1,0 +1,10 @@
+748. **Name:** Ivy Jackson
+   - **Skills:** DevOps, AR/VR Development, Cybersecurity, Node.js
+   - **Experience:** Senior Analyst at DigitalSolutions
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** Rachel Garcia, Lead, alice_gonzalez@example.com
+Sam Kim, Developer, xena_wang@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** nathan_lee@example.com, Village, Data Haven
+   - **Projects:** Contributed to the Cutting-edge Framework for Streamlining Problem-solving
+

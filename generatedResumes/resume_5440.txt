@@ -1,0 +1,10 @@
+5440. **Name:** Zane Cruz
+   - **Skills:** Kubernetes, Angular, SQL, Big Data
+   - **Experience:** Senior Engineer at CreativeMinds
+   - **Education:** Ph.D. in Computer Science from Tech University
+   - **References:** Frank Kumar, Manager, bob_li@example.com
+Xena Rodriguez, Manager, walter_nguyen@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** alice_chen@example.com, Village, Techtopia
+   - **Projects:** Led the Revolutionary Platform for Solving User Experience
+

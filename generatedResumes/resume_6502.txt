@@ -1,0 +1,10 @@
+6502. **Name:** Walter Lee
+   - **Skills:** AR/VR Development, Project Management, HTML, Agile
+   - **Experience:** Junior Analyst at TechCorp
+   - **Education:** Bachelor in Data Science from Inno Institute
+   - **References:** Victoria Silva, Lead, mia_garcia@example.com
+Jack Nguyen, Manager, charlie_suzuki@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** rachel_gonzalez@example.com, Town, Techland
+   - **Projects:** Led the Revolutionary Framework for Solving Collaboration
+

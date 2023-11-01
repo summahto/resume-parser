@@ -1,0 +1,10 @@
+3927. **Name:** Leo Cruz
+   - **Skills:** Swift, UI/UX Design, Vue.js, Big Data
+   - **Experience:** Junior Manager at CreativeSolutions
+   - **Education:** Bachelor in Engineering from Inno Institute
+   - **References:** Alice Chen, Coordinator, zane_white@example.com
+Sam Garcia, Director, leo_gupta@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** eva_miller@example.com, Town, Scienceburg
+   - **Projects:** Contributed to the Cutting-edge Project for Streamlining Collaboration
+

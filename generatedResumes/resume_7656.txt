@@ -1,0 +1,10 @@
+7656. **Name:** Henry Kumar
+   - **Skills:** Project Management, Data Analysis, UI/UX Design, Big Data
+   - **Experience:** Senior Manager at CreativeMinds
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Walter Wu, Designer, olivia_brown@example.com
+Frank Lopez, Engineer, eva_wu@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** yuki_wu@example.com, City, Data Haven
+   - **Projects:** Led the Innovative Platform for Streamlining Business Processes
+

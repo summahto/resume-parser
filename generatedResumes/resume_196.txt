@@ -1,0 +1,10 @@
+196. **Name:** Alice Rodriguez
+   - **Skills:** Machine Learning, React, Git, SQL
+   - **Experience:** Senior Manager at DataInnovators
+   - **Education:** Ph.D. in Engineering from Inno Institute
+   - **References:** Walter Jackson, Lead, katherine_taylor@example.com
+Bob Suzuki, Lead, olivia_davis@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** jack_brown@example.com, City, Inno Haven
+   - **Projects:** Developed the Groundbreaking Project for Optimizing Data Analysis
+

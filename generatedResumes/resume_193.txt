@@ -1,0 +1,10 @@
+193. **Name:** Grace Lee
+   - **Skills:** HTML, Graphic Design, Network Administration, Data Analysis
+   - **Experience:** Junior Developer at CreativeMinds
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Henry Lee, Manager, patrick_lee@example.com
+Eva Lee, Coordinator, ivy_singh@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** rachel_rodriguez@example.com, Village, Data Haven
+   - **Projects:** Contributed to the Cutting-edge Platform for Optimizing Data Analysis
+

@@ -1,0 +1,10 @@
+3346. **Name:** Rachel Nguyen
+   - **Skills:** Graphic Design, Android Development, React, C#
+   - **Experience:** Senior Designer at CodeCrafters
+   - **Education:** Master in Data Science from Creative Arts College
+   - **References:** David Davis, Scientist, leo_wang@example.com
+Xena Wang, Director, jack_silva@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** katherine_wu@example.com, Town, Innovation Meadows
+   - **Projects:** Developed the Innovative App for Solving User Experience
+

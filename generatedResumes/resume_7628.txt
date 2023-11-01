@@ -1,0 +1,10 @@
+7628. **Name:** Olivia Garcia
+   - **Skills:** Blockchain, Graphic Design, C#, Kubernetes
+   - **Experience:** Junior Manager at CreativeMinds
+   - **Education:** Master in Physics from Creative Arts College
+   - **References:** Patrick Suzuki, Developer, alice_suzuki@example.com
+Yuki Gupta, CEO, henry_white@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** katherine_li@example.com, Town, Data City
+   - **Projects:** Developed the Innovative System for Optimizing Data Analysis
+

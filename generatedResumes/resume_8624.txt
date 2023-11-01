@@ -1,0 +1,10 @@
+8624. **Name:** Jack Lopez
+   - **Skills:** IoT, iOS Development, Node.js, Vue.js
+   - **Experience:** Junior Designer at TechInnovate
+   - **Education:** Ph.D. in Data Science from Business School
+   - **References:** Nathan Lee, Coordinator, henry_lee@example.com
+Walter Miller, Engineer, henry_sato@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** henry_lee@example.com, Village, Data Haven
+   - **Projects:** Contributed to the Groundbreaking App for Solving User Experience
+

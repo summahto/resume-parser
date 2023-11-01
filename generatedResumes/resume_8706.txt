@@ -1,0 +1,10 @@
+8706. **Name:** Leo Jackson
+   - **Skills:** Vue.js, Android Development, Network Administration, Cybersecurity
+   - **Experience:** Lead Manager at CreativeMinds
+   - **Education:** Master in Physics from Creative Arts College
+   - **References:** Zane Silva, Developer, rachel_chen@example.com
+Eva Gupta, Scientist, bob_white@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** leo_singh@example.com, City, Data Haven
+   - **Projects:** Led the Revolutionary App for Enhancing Data Analysis
+

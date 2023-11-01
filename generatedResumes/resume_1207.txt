@@ -1,0 +1,10 @@
+1207. **Name:** David Jones
+   - **Skills:** Java, Data Analysis, Graphic Design, Kubernetes
+   - **Experience:** Lead Designer at InnoSolutions
+   - **Education:** Bachelor in Engineering from Data Science School
+   - **References:** Patrick Smith, Scientist, quinn_smith@example.com
+Xena Gupta, Lead, grace_jones@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** sam_singh@example.com, City, Inno Haven
+   - **Projects:** Led the Revolutionary Project for Streamlining Problem-solving
+

@@ -1,0 +1,10 @@
+9524. **Name:** Ivy Chen
+   - **Skills:** HTML, iOS Development, Kubernetes, Project Management
+   - **Experience:** Junior Analyst at CreativeSolutions
+   - **Education:** Ph.D. in Computer Science from Data Science School
+   - **References:** David Nguyen, CEO, charlie_jackson@example.com
+Nathan Lopez, Lead, leo_miller@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** katherine_johnson@example.com, Village, Techtopia
+   - **Projects:** Developed the Revolutionary Project for Streamlining Collaboration
+

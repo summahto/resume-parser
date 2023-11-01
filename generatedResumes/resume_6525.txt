@@ -1,0 +1,10 @@
+6525. **Name:** Xena Kumar
+   - **Skills:** JavaScript, SQL, Android Development, Kubernetes
+   - **Experience:** Junior Designer at InnoSolutions
+   - **Education:** Ph.D. in Engineering from Tech University
+   - **References:** Patrick Gupta, Scientist, zane_garcia@example.com
+Frank Jones, Lead, katherine_smith@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** xena_white@example.com, Village, Data City
+   - **Projects:** Developed the Innovative System for Enhancing Problem-solving
+

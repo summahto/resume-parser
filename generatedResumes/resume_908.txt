@@ -1,0 +1,10 @@
+908. **Name:** Eva Kumar
+   - **Skills:** Graphic Design, Git, Kubernetes, Java
+   - **Experience:** Junior Scientist at CreativeMinds
+   - **Education:** Bachelor in Engineering from Creative Arts College
+   - **References:** Frank Lee, Analyst, leo_gupta@example.com
+Charlie Smith, Developer, leo_lopez@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** olivia_rodriguez@example.com, City, Green Valley
+   - **Projects:** Contributed to the Revolutionary Framework for Enhancing Collaboration
+

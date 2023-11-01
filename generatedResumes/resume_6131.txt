@@ -1,0 +1,10 @@
+6131. **Name:** Rachel Garcia
+   - **Skills:** Agile, Project Management, Node.js, C#
+   - **Experience:** Lead Analyst at InnovativeTech
+   - **Education:** Master in Computer Science from Data Science School
+   - **References:** Victoria Wang, Director, bob_garcia@example.com
+Sam Smith, CEO, victoria_chen@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** walter_white@example.com, Village, Data Haven
+   - **Projects:** Contributed to the Groundbreaking Framework for Optimizing Data Analysis
+

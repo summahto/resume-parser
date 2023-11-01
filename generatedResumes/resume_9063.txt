@@ -1,0 +1,10 @@
+9063. **Name:** Charlie Rodriguez
+   - **Skills:** React, Project Management, JavaScript, Java
+   - **Experience:** Lead Analyst at DigitalSolutions
+   - **Education:** Bachelor in Business Administration from Data Science School
+   - **References:** Jack Kim, CTO, david_kumar@example.com
+Leo Gupta, Lead, alice_hernandez@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** xena_li@example.com, Village, Artopia
+   - **Projects:** Contributed to the Cutting-edge Project for Solving User Experience
+

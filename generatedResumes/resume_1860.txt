@@ -1,0 +1,10 @@
+1860. **Name:** David Jackson
+   - **Skills:** Agile, Angular, Big Data, C#
+   - **Experience:** Lead Scientist at CodeCrafters
+   - **Education:** Master in Business Administration from Inno Institute
+   - **References:** Victoria Taylor, Designer, frank_taylor@example.com
+Xena Gupta, CTO, sam_lópez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** victoria_lee@example.com, City, Techland
+   - **Projects:** Contributed to the Groundbreaking Project for Optimizing Collaboration
+

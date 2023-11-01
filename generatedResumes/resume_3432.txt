@@ -1,0 +1,10 @@
+3432. **Name:** Leo Chen
+   - **Skills:** Angular, Docker, Agile, IoT
+   - **Experience:** Lead Developer at InnoSolutions
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Zane Smith, Engineer, rachel_sato@example.com
+Ulysses Smith, CEO, alice_kumar@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** tina_müller@example.com, City, Data City
+   - **Projects:** Led the Innovative Platform for Optimizing Collaboration
+

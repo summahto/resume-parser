@@ -1,0 +1,10 @@
+9808. **Name:** David Garcia
+   - **Skills:** Graphic Design, C#, Data Analysis, Agile
+   - **Experience:** Junior Developer at TechInnovate
+   - **Education:** Bachelor in Computer Science from Tech University
+   - **References:** Ulysses Patel, Developer, patrick_silva@example.com
+Victoria Singh, Coordinator, olivia_smith@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** bob_johnson@example.com, Town, Data City
+   - **Projects:** Led the Cutting-edge App for Enhancing User Experience
+

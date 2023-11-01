@@ -1,0 +1,10 @@
+6974. **Name:** Charlie White
+   - **Skills:** Git, Java, Agile, Machine Learning
+   - **Experience:** Junior Analyst at TechCorp
+   - **Education:** Ph.D. in Business Administration from Creative Arts College
+   - **References:** Victoria Cruz, Engineer, nathan_garcia@example.com
+Jack Jackson, CTO, grace_cruz@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** rachel_lopez@example.com, Town, Data Haven
+   - **Projects:** Developed the Innovative Platform for Solving User Experience
+

@@ -1,0 +1,10 @@
+4078. **Name:** Eva Smith
+   - **Skills:** Blockchain, Vue.js, Cloud Computing, C#
+   - **Experience:** Lead Manager at InnoSolutions
+   - **Education:** Bachelor in Computer Science from Business School
+   - **References:** Eva Wu, Lead, victoria_rodriguez@example.com
+Quinn Wang, Coordinator, ivy_gupta@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** ivy_patel@example.com, Village, Techtopia
+   - **Projects:** Led the Groundbreaking Project for Solving Problem-solving
+

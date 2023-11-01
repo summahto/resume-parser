@@ -1,0 +1,10 @@
+2842. **Name:** Ivy Silva
+   - **Skills:** C#, Angular, Graphic Design, Kubernetes
+   - **Experience:** Junior Designer at InnoSolutions
+   - **Education:** Bachelor in Engineering from Physics Academy
+   - **References:** Patrick Chen, Manager, charlie_patel@example.com
+Rachel Miller, Designer, quinn_jackson@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** frank_silva@example.com, Village, Data Haven
+   - **Projects:** Led the Groundbreaking App for Streamlining Data Analysis
+

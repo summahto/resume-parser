@@ -1,0 +1,10 @@
+2736. **Name:** Quinn Davis
+   - **Skills:** Android Development, Graphic Design, IoT, Java
+   - **Experience:** Senior Scientist at DataExperts
+   - **Education:** Master in Physics from Physics Academy
+   - **References:** Frank Brown, Scientist, sam_lopez@example.com
+Ulysses Lopez, Lead, yuki_lopez@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** mia_williams@example.com, Village, Techtopia
+   - **Projects:** Developed the Cutting-edge Framework for Enhancing User Experience
+

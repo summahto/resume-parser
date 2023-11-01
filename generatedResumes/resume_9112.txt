@@ -1,0 +1,10 @@
+9112. **Name:** Alice Wang
+   - **Skills:** Graphic Design, Android Development, IoT, HTML
+   - **Experience:** Senior Manager at CreativeMinds
+   - **Education:** Master in Business Administration from Creative Arts College
+   - **References:** Ulysses Lee, CTO, katherine_white@example.com
+Victoria Gupta, Manager, eva_white@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** patrick_patel@example.com, City, Inno Haven
+   - **Projects:** Developed the Cutting-edge Project for Solving Data Analysis
+

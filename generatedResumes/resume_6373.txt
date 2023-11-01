@@ -1,0 +1,10 @@
+6373. **Name:** Xena Garcia
+   - **Skills:** Machine Learning, Java, IoT, Python
+   - **Experience:** Lead Developer at TechInnovate
+   - **Education:** Master in Data Science from Physics Academy
+   - **References:** Ivy Jackson, CTO, mia_lopez@example.com
+Ivy Lopez, Manager, xena_lopez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** quinn_jones@example.com, City, Innoville
+   - **Projects:** Contributed to the Revolutionary App for Streamlining Collaboration
+

@@ -1,0 +1,10 @@
+4705. **Name:** Mia Gupta
+   - **Skills:** Network Administration, Node.js, CSS, UI/UX Design
+   - **Experience:** Senior Analyst at InnoSolutions
+   - **Education:** Bachelor in Business Administration from Tech University
+   - **References:** Nathan Gupta, Engineer, henry_patel@example.com
+Ivy Nguyen, CTO, yuki_garcia@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** charlie_nguyen@example.com, City, Techland
+   - **Projects:** Led the Innovative Framework for Solving Problem-solving
+

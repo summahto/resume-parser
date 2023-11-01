@@ -1,0 +1,10 @@
+9000. **Name:** Leo Li
+   - **Skills:** Cloud Computing, Git, Vue.js, Kubernetes
+   - **Experience:** Lead Engineer at TechCorp
+   - **Education:** Ph.D. in Data Science from Data Science School
+   - **References:** Leo Brown, CTO, henry_garcia@example.com
+Bob White, Designer, henry_rodriguez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** tina_taylor@example.com, City, Green Valley
+   - **Projects:** Developed the Revolutionary Project for Streamlining Data Analysis
+

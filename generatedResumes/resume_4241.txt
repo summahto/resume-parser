@@ -1,0 +1,10 @@
+4241. **Name:** Yuki Kumar
+   - **Skills:** Swift, C#, iOS Development, Java
+   - **Experience:** Lead Analyst at CreativeSolutions
+   - **Education:** Ph.D. in Data Science from Inno Institute
+   - **References:** Nathan Jones, Lead, victoria_patel@example.com
+Ulysses Patel, Analyst, grace_nguyen@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** ivy_miller@example.com, City, Data Haven
+   - **Projects:** Contributed to the Cutting-edge Platform for Optimizing Business Processes
+

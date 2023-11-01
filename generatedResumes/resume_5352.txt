@@ -1,0 +1,10 @@
+5352. **Name:** Xena Hernandez
+   - **Skills:** JavaScript, UI/UX Design, Java, IoT
+   - **Experience:** Lead Manager at CreativeSolutions
+   - **Education:** Master in Data Science from Business School
+   - **References:** Walter Gupta, Scientist, leo_garcia@example.com
+Nathan Wu, Designer, victoria_jackson@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** victoria_wang@example.com, Town, Green Valley
+   - **Projects:** Contributed to the Cutting-edge App for Optimizing Business Processes
+

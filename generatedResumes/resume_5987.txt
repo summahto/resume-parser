@@ -1,0 +1,10 @@
+5987. **Name:** Grace Chen
+   - **Skills:** CSS, HTML, Python, Kubernetes
+   - **Experience:** Lead Manager at DigitalSolutions
+   - **Education:** Ph.D. in Art from Business School
+   - **References:** David Kumar, Manager, bob_wang@example.com
+Walter Taylor, Designer, ulysses_gupta@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** eva_lee@example.com, Village, Techtopia
+   - **Projects:** Contributed to the Innovative Project for Streamlining Collaboration
+

@@ -1,0 +1,10 @@
+8296. **Name:** Olivia Wu
+   - **Skills:** DevOps, Machine Learning, CSS, IoT
+   - **Experience:** Junior Designer at DigitalSolutions
+   - **Education:** Master in Business Administration from Creative Arts College
+   - **References:** Charlie Rodriguez, Coordinator, yuki_jackson@example.com
+Yuki Kim, Designer, jack_garcia@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** eva_kumar@example.com, City, Techland
+   - **Projects:** Developed the Cutting-edge Platform for Streamlining Problem-solving
+

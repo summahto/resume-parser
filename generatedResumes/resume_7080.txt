@@ -1,0 +1,10 @@
+7080. **Name:** Eva Silva
+   - **Skills:** Kubernetes, Project Management, Swift, JavaScript
+   - **Experience:** Senior Analyst at DigitalSolutions
+   - **Education:** Ph.D. in Computer Science from Inno Institute
+   - **References:** Rachel Kumar, Lead, tina_wang@example.com
+Katherine Gupta, Coordinator, patrick_silva@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** jack_chen@example.com, Village, Techtopia
+   - **Projects:** Led the Groundbreaking Project for Streamlining Problem-solving
+

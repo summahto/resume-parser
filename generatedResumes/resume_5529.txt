@@ -1,0 +1,10 @@
+5529. **Name:** David Wang
+   - **Skills:** SQL, Graphic Design, Android Development, Python
+   - **Experience:** Senior Analyst at TechCorp
+   - **Education:** Bachelor in Art from Creative Arts College
+   - **References:** Leo Jones, Engineer, zane_lopez@example.com
+Tina Taylor, Scientist, grace_lopez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** victoria_lee@example.com, City, Artopia
+   - **Projects:** Developed the Revolutionary App for Enhancing Collaboration
+

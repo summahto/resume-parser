@@ -1,0 +1,10 @@
+7769. **Name:** Jack Jackson
+   - **Skills:** Big Data, C#, JavaScript, DevOps
+   - **Experience:** Junior Developer at CreativeSolutions
+   - **Education:** Ph.D. in Art from Tech University
+   - **References:** Eva Wang, Lead, charlie_cruz@example.com
+Ivy Miller, Analyst, victoria_lópez@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** eva_wu@example.com, City, Green Valley
+   - **Projects:** Contributed to the Innovative Platform for Enhancing User Experience
+

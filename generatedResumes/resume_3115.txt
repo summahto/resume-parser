@@ -1,0 +1,10 @@
+3115. **Name:** Charlie Gupta
+   - **Skills:** Node.js, Big Data, Java, IoT
+   - **Experience:** Senior Designer at DataInnovators
+   - **Education:** Ph.D. in Data Science from Data Science School
+   - **References:** Grace Nguyen, Scientist, quinn_gupta@example.com
+Quinn Chen, CTO, victoria_jackson@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** zane_cruz@example.com, Town, Scienceburg
+   - **Projects:** Developed the Revolutionary Framework for Optimizing Collaboration
+

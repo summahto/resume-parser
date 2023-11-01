@@ -1,0 +1,10 @@
+74. **Name:** Tina Nguyen
+   - **Skills:** iOS Development, JavaScript, Java, CSS
+   - **Experience:** Junior Analyst at TechCorp
+   - **Education:** Ph.D. in Data Science from Physics Academy
+   - **References:** Bob Jackson, CTO, bob_brown@example.com
+Leo Rodriguez, Engineer, yuki_brown@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** david_lee@example.com, Village, Innoville
+   - **Projects:** Developed the Revolutionary System for Enhancing Collaboration
+

@@ -1,0 +1,10 @@
+67. **Name:** Katherine Lopez
+   - **Skills:** Python, AR/VR Development, Big Data, Java
+   - **Experience:** Lead Developer at InnovativeTech
+   - **Education:** Master in Art from Inno Institute
+   - **References:** Mia Hernandez, Scientist, quinn_nguyen@example.com
+Jack Davis, CTO, katherine_suzuki@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** sam_jackson@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Cutting-edge System for Solving Business Processes
+

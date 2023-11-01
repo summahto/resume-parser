@@ -1,0 +1,10 @@
+6987. **Name:** Quinn Smith
+   - **Skills:** Node.js, AR/VR Development, IoT, Python
+   - **Experience:** Senior Analyst at InnovativeTech
+   - **Education:** Bachelor in Physics from Inno Institute
+   - **References:** Quinn Suzuki, Lead, yuki_brown@example.com
+Walter Kim, Scientist, alice_garcia@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** bob_wu@example.com, City, Artopia
+   - **Projects:** Led the Cutting-edge Project for Streamlining User Experience
+

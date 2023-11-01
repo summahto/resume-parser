@@ -1,0 +1,10 @@
+4449. **Name:** Jack Chen
+   - **Skills:** Project Management, HTML, Big Data, UI/UX Design
+   - **Experience:** Lead Analyst at DataExperts
+   - **Education:** Bachelor in Engineering from Creative Arts College
+   - **References:** Rachel Chen, CTO, victoria_singh@example.com
+Quinn Lee, Designer, zane_yamamoto@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** charlie_wu@example.com, City, Artopia
+   - **Projects:** Developed the Revolutionary Platform for Optimizing Business Processes
+

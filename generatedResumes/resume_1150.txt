@@ -1,0 +1,10 @@
+1150. **Name:** Katherine Wang
+   - **Skills:** Docker, Kubernetes, Project Management, Agile
+   - **Experience:** Junior Developer at CreativeSolutions
+   - **Education:** Master in Physics from Creative Arts College
+   - **References:** Nathan Lopez, Coordinator, bob_chen@example.com
+Nathan Nguyen, Coordinator, yuki_lópez@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** ulysses_lee@example.com, Town, Data City
+   - **Projects:** Developed the Revolutionary App for Optimizing Business Processes
+

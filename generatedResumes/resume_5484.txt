@@ -1,0 +1,10 @@
+5484. **Name:** Sam Kumar
+   - **Skills:** DevOps, IoT, Docker, Android Development
+   - **Experience:** Senior Developer at DataExperts
+   - **Education:** Master in Art from Data Science School
+   - **References:** Nathan Jackson, Analyst, leo_cruz@example.com
+Charlie Rodriguez, Manager, tina_silva@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** victoria_kim@example.com, City, Data Haven
+   - **Projects:** Contributed to the Cutting-edge Framework for Solving Business Processes
+

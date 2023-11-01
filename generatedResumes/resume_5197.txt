@@ -1,0 +1,10 @@
+5197. **Name:** Sam Miller
+   - **Skills:** UI/UX Design, Java, Git, Data Analysis
+   - **Experience:** Junior Developer at TechInnovate
+   - **Education:** Master in Computer Science from Physics Academy
+   - **References:** Eva Lopez, Coordinator, yuki_garcia@example.com
+Bob Wu, Coordinator, eva_lee@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** rachel_brown@example.com, City, Scienceburg
+   - **Projects:** Developed the Revolutionary System for Enhancing Data Analysis
+

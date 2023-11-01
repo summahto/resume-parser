@@ -1,10 +1,10 @@
-**Name:** Sparkle McInventor
-- **Skills:** Rainbow Contraption Building, Cloud Engineering, Leprechaun Liaison, Java
-- **Experience:** Chief Inventor at the Sky Workshop, Consultant to the Leprechaun Industrial Guild
-- **Education:** Technicolor Institute of Whimsical Engineering
-- **References:**
-- Inventor Gadgetspark, Mentor, gadgetspark@email.com
-- Lucky O'Gear, Leprechaun Guild Leader, luckyogear@email.com
-- **Volunteering:** Rainbow Machine Repairs, Leprechaun STEM Education
-- **Contact Information:** sparkle.mcInventor@email.com, Cloud Boulevard, Whimsyville
+5. **Name:** Ulysses Kumar
+   - **Skills:** Graphic Design, Blockchain, Swift, Machine Learning
+   - **Experience:** Junior Analyst at CreativeMinds
+   - **Education:** Ph.D. in Art from Physics Academy
+   - **References:** Leo Johnson, Designer, rachel_singh@example.com
+Zane Taylor, Director, bob_white@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** quinn_kumar@example.com, Village, Techtopia
+   - **Projects:** Contributed to the Cutting-edge Framework for Optimizing Problem-solving
 

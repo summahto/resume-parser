@@ -1,0 +1,10 @@
+2572. **Name:** Sam Kumar
+   - **Skills:** Java, SQL, Docker, Agile
+   - **Experience:** Junior Designer at DataInnovators
+   - **Education:** Ph.D. in Art from Creative Arts College
+   - **References:** Olivia Garcia, Analyst, ivy_nguyen@example.com
+Zane Wang, Analyst, victoria_yamamoto@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** yuki_lee@example.com, City, Inno Haven
+   - **Projects:** Contributed to the Cutting-edge System for Enhancing Business Processes
+

@@ -1,0 +1,10 @@
+5373. **Name:** Leo Gupta
+   - **Skills:** IoT, iOS Development, Network Administration, React
+   - **Experience:** Junior Analyst at DigitalSolutions
+   - **Education:** Master in Art from Tech University
+   - **References:** Zane Silva, Coordinator, sam_lopez@example.com
+Katherine Brown, Scientist, leo_taylor@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** walter_taylor@example.com, Town, Techland
+   - **Projects:** Contributed to the Groundbreaking Framework for Streamlining Business Processes
+

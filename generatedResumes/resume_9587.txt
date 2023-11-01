@@ -1,0 +1,10 @@
+9587. **Name:** Bob Wu
+   - **Skills:** Docker, Machine Learning, SQL, UI/UX Design
+   - **Experience:** Senior Engineer at CreativeSolutions
+   - **Education:** Bachelor in Engineering from Inno Institute
+   - **References:** Zane Kumar, Designer, charlie_williams@example.com
+Bob Lee, Lead, tina_kumar@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** olivia_taylor@example.com, Town, Techtopia
+   - **Projects:** Developed the Revolutionary App for Enhancing Problem-solving
+

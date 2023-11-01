@@ -1,0 +1,10 @@
+2466. **Name:** Frank Garcia
+   - **Skills:** Network Administration, Angular, Git, DevOps
+   - **Experience:** Junior Developer at InnoSolutions
+   - **Education:** Master in Engineering from Physics Academy
+   - **References:** Katherine Kumar, CTO, alice_lee@example.com
+Olivia Jackson, CTO, olivia_taylor@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** walter_gonzalez@example.com, City, Artopia
+   - **Projects:** Contributed to the Revolutionary Platform for Enhancing User Experience
+

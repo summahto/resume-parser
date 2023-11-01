@@ -1,0 +1,10 @@
+9961. **Name:** Jack Kim
+   - **Skills:** C#, Vue.js, Swift, iOS Development
+   - **Experience:** Senior Analyst at CreativeSolutions
+   - **Education:** Bachelor in Physics from Physics Academy
+   - **References:** Rachel Lee, Developer, patrick_kumar@example.com
+Tina Davis, Scientist, tina_smith@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** katherine_jackson@example.com, Town, Scienceburg
+   - **Projects:** Led the Groundbreaking System for Enhancing Collaboration
+

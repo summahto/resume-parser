@@ -1,0 +1,10 @@
+6190. **Name:** Eva Nguyen
+   - **Skills:** Angular, Python, Android Development, Project Management
+   - **Experience:** Senior Engineer at DataInnovators
+   - **Education:** Ph.D. in Art from Inno Institute
+   - **References:** Tina White, CEO, rachel_silva@example.com
+Patrick Lee, CTO, ivy_taylor@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** mia_lopez@example.com, Village, Scienceburg
+   - **Projects:** Led the Innovative Project for Enhancing Collaboration
+

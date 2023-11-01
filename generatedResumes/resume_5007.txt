@@ -1,0 +1,10 @@
+5007. **Name:** Frank Chen
+   - **Skills:** SQL, Big Data, Data Analysis, iOS Development
+   - **Experience:** Senior Analyst at CreativeMinds
+   - **Education:** Master in Data Science from Physics Academy
+   - **References:** Tina Singh, Designer, bob_silva@example.com
+David Smith, Engineer, david_jackson@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** eva_garcia@example.com, Village, Inno Haven
+   - **Projects:** Developed the Cutting-edge System for Enhancing Problem-solving
+

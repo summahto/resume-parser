@@ -1,0 +1,10 @@
+9147. **Name:** Olivia Jones
+   - **Skills:** Android Development, Java, Angular, UI/UX Design
+   - **Experience:** Junior Scientist at TechCorp
+   - **Education:** Ph.D. in Business Administration from Data Science School
+   - **References:** David Miller, Designer, charlie_silva@example.com
+Walter Garcia, CTO, bob_lee@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** grace_lee@example.com, City, Data Haven
+   - **Projects:** Developed the Cutting-edge Platform for Solving Business Processes
+

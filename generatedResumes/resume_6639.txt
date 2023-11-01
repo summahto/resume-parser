@@ -1,0 +1,10 @@
+6639. **Name:** Quinn Silva
+   - **Skills:** Agile, Cloud Computing, AR/VR Development, Node.js
+   - **Experience:** Junior Engineer at CreativeMinds
+   - **Education:** Master in Business Administration from Creative Arts College
+   - **References:** Quinn Smith, Director, ivy_lee@example.com
+Walter Brown, Engineer, yuki_nguyen@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** bob_wu@example.com, Town, Inno Haven
+   - **Projects:** Led the Cutting-edge Project for Streamlining Collaboration
+

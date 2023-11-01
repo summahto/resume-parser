@@ -1,0 +1,10 @@
+5359. **Name:** Nathan Sato
+   - **Skills:** Python, CSS, Blockchain, iOS Development
+   - **Experience:** Lead Developer at DataExperts
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** Eva Lee, Scientist, jack_wu@example.com
+Leo Garcia, Scientist, patrick_lee@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** bob_nguyen@example.com, City, Green Valley
+   - **Projects:** Contributed to the Innovative Platform for Enhancing Problem-solving
+

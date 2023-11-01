@@ -1,0 +1,10 @@
+4964. **Name:** Leo Smith
+   - **Skills:** Python, UI/UX Design, Blockchain, Cybersecurity
+   - **Experience:** Junior Manager at TechInnovate
+   - **Education:** Bachelor in Business Administration from Business School
+   - **References:** Katherine Williams, CTO, rachel_wang@example.com
+Mia Kumar, CTO, charlie_wang@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** jack_wu@example.com, Village, Green Valley
+   - **Projects:** Contributed to the Cutting-edge Framework for Optimizing Data Analysis
+

@@ -1,0 +1,10 @@
+5781. **Name:** Jack Patel
+   - **Skills:** DevOps, CSS, Agile, SQL
+   - **Experience:** Lead Manager at DataExperts
+   - **Education:** Ph.D. in Art from Data Science School
+   - **References:** Jack White, Designer, eva_taylor@example.com
+Ulysses Jones, Engineer, olivia_lee@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** patrick_lee@example.com, City, Artopia
+   - **Projects:** Developed the Innovative Project for Enhancing User Experience
+

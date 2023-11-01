@@ -1,0 +1,10 @@
+8305. **Name:** Ivy Chen
+   - **Skills:** Swift, Android Development, SQL, DevOps
+   - **Experience:** Junior Developer at TechInnovate
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Xena Kim, CEO, ulysses_kim@example.com
+Zane Nguyen, Manager, jack_silva@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** xena_kumar@example.com, City, Scienceburg
+   - **Projects:** Led the Innovative App for Streamlining Data Analysis
+

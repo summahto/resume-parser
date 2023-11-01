@@ -1,0 +1,10 @@
+9449. **Name:** Grace Kumar
+   - **Skills:** DevOps, Git, Docker, IoT
+   - **Experience:** Lead Scientist at InnoSolutions
+   - **Education:** Master in Engineering from Creative Arts College
+   - **References:** Victoria Rodriguez, Analyst, mia_müller@example.com
+Leo Patel, Director, patrick_taylor@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** tina_white@example.com, Village, Scienceburg
+   - **Projects:** Led the Innovative Project for Streamlining Collaboration
+

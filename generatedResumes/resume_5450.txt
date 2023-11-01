@@ -1,0 +1,10 @@
+5450. **Name:** Quinn Lopez
+   - **Skills:** C#, Project Management, CSS, Swift
+   - **Experience:** Lead Scientist at CreativeMinds
+   - **Education:** Master in Data Science from Business School
+   - **References:** Henry Kumar, Analyst, charlie_gonzalez@example.com
+Ulysses Gupta, CEO, henry_smith@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** bob_miller@example.com, Village, Data Haven
+   - **Projects:** Developed the Innovative App for Streamlining User Experience
+

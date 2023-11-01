@@ -1,0 +1,10 @@
+8953. **Name:** Eva White
+   - **Skills:** IoT, AR/VR Development, Angular, HTML
+   - **Experience:** Lead Analyst at TechInnovate
+   - **Education:** Master in Business Administration from Inno Institute
+   - **References:** Katherine Wu, Designer, quinn_cruz@example.com
+Patrick Silva, Scientist, nathan_lopez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** sam_li@example.com, City, Artopia
+   - **Projects:** Led the Cutting-edge System for Optimizing User Experience
+

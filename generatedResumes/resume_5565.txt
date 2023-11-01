@@ -1,0 +1,10 @@
+5565. **Name:** Sam Wu
+   - **Skills:** Network Administration, IoT, Docker, Big Data
+   - **Experience:** Senior Manager at TechCorp
+   - **Education:** Bachelor in Data Science from Data Science School
+   - **References:** Ulysses Smith, Developer, david_smith@example.com
+Quinn Suzuki, Director, olivia_jones@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** katherine_wu@example.com, Village, Data City
+   - **Projects:** Contributed to the Revolutionary App for Enhancing Business Processes
+

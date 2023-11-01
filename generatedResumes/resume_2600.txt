@@ -1,0 +1,10 @@
+2600. **Name:** Katherine Jones
+   - **Skills:** Android Development, IoT, HTML, UI/UX Design
+   - **Experience:** Senior Engineer at CreativeSolutions
+   - **Education:** Ph.D. in Computer Science from Business School
+   - **References:** Nathan Kumar, CEO, frank_nguyen@example.com
+Alice Cruz, Designer, grace_lópez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** leo_gupta@example.com, Town, Scienceburg
+   - **Projects:** Contributed to the Cutting-edge App for Streamlining Data Analysis
+

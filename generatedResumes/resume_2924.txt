@@ -1,0 +1,10 @@
+2924. **Name:** Charlie Wang
+   - **Skills:** React, Vue.js, Docker, HTML
+   - **Experience:** Senior Manager at CreativeSolutions
+   - **Education:** Bachelor in Engineering from Data Science School
+   - **References:** Charlie Garcia, Scientist, tina_silva@example.com
+Nathan Smith, Developer, nathan_kumar@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** jack_kumar@example.com, Village, Innoville
+   - **Projects:** Developed the Innovative Project for Optimizing Data Analysis
+

@@ -1,0 +1,10 @@
+2972. **Name:** Mia Rodriguez
+   - **Skills:** Data Analysis, Git, Cybersecurity, Kubernetes
+   - **Experience:** Lead Manager at DataExperts
+   - **Education:** Bachelor in Computer Science from Inno Institute
+   - **References:** Eva Cruz, Engineer, frank_suzuki@example.com
+Grace White, Director, walter_kumar@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** david_lee@example.com, City, Artopia
+   - **Projects:** Led the Revolutionary System for Enhancing Business Processes
+

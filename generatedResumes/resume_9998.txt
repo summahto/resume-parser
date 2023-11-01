@@ -1,0 +1,10 @@
+9998. **Name:** Charlie Nguyen
+   - **Skills:** Kubernetes, IoT, CSS, Vue.js
+   - **Experience:** Lead Scientist at InnoSolutions
+   - **Education:** Bachelor in Physics from Physics Academy
+   - **References:** Frank Gonzalez, Scientist, david_kumar@example.com
+Leo Nguyen, Lead, victoria_gupta@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** walter_wu@example.com, City, Innovation Meadows
+   - **Projects:** Contributed to the Cutting-edge Platform for Optimizing Problem-solving
+

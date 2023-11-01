@@ -1,0 +1,10 @@
+5069. **Name:** Sam Hernandez
+   - **Skills:** Graphic Design, IoT, Swift, SQL
+   - **Experience:** Junior Scientist at DataExperts
+   - **Education:** Ph.D. in Data Science from Creative Arts College
+   - **References:** Grace Rodriguez, Designer, walter_nguyen@example.com
+Ivy Wu, Analyst, henry_taylor@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** yuki_white@example.com, Village, Scienceburg
+   - **Projects:** Contributed to the Groundbreaking Project for Streamlining Data Analysis
+

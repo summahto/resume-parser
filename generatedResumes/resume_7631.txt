@@ -1,0 +1,10 @@
+7631. **Name:** Xena Garcia
+   - **Skills:** C#, Vue.js, Cloud Computing, Java
+   - **Experience:** Senior Engineer at DigitalSolutions
+   - **Education:** Ph.D. in Art from Data Science School
+   - **References:** Leo White, Manager, zane_silva@example.com
+Zane Miller, Director, rachel_chen@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** david_wang@example.com, Town, Scienceburg
+   - **Projects:** Contributed to the Cutting-edge Project for Streamlining Data Analysis
+

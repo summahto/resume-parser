@@ -1,0 +1,10 @@
+8348. **Name:** Charlie Li
+   - **Skills:** Agile, Blockchain, C#, Kubernetes
+   - **Experience:** Lead Developer at CreativeSolutions
+   - **Education:** Bachelor in Business Administration from Inno Institute
+   - **References:** David Smith, CEO, patrick_white@example.com
+Nathan Kumar, Lead, patrick_jackson@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** ivy_gupta@example.com, City, Green Valley
+   - **Projects:** Led the Revolutionary App for Optimizing Collaboration
+

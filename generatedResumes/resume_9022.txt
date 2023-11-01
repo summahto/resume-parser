@@ -1,0 +1,10 @@
+9022. **Name:** Charlie Gonzalez
+   - **Skills:** SQL, Angular, Node.js, Git
+   - **Experience:** Lead Analyst at TechInnovate
+   - **Education:** Bachelor in Engineering from Data Science School
+   - **References:** Patrick Jackson, Designer, sam_nguyen@example.com
+Henry Patel, Analyst, victoria_garcia@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** jack_white@example.com, City, Green Valley
+   - **Projects:** Developed the Innovative System for Enhancing Collaboration
+

@@ -1,0 +1,10 @@
+6833. **Name:** Xena Kumar
+   - **Skills:** Node.js, CSS, JavaScript, Machine Learning
+   - **Experience:** Lead Developer at DataExperts
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Leo Lopez, Director, zane_lee@example.com
+Alice Chen, Engineer, mia_lee@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** grace_nguyen@example.com, Village, Data City
+   - **Projects:** Led the Cutting-edge App for Optimizing Business Processes
+

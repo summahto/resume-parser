@@ -1,0 +1,10 @@
+7373. **Name:** Tina Singh
+   - **Skills:** C#, IoT, Machine Learning, Agile
+   - **Experience:** Junior Analyst at CreativeSolutions
+   - **Education:** Master in Computer Science from Data Science School
+   - **References:** Grace Rodriguez, Scientist, grace_kumar@example.com
+Katherine Jackson, Engineer, charlie_chen@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** charlie_wu@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Revolutionary System for Streamlining Problem-solving
+

@@ -1,0 +1,10 @@
+632. **Name:** Charlie Lee
+   - **Skills:** Swift, C#, AR/VR Development, Project Management
+   - **Experience:** Junior Designer at CodeCrafters
+   - **Education:** Ph.D. in Business Administration from Inno Institute
+   - **References:** Olivia Nguyen, Designer, mia_gonzalez@example.com
+Sam Singh, Analyst, nathan_williams@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** nathan_brown@example.com, Village, Techtopia
+   - **Projects:** Developed the Innovative Project for Solving Collaboration
+

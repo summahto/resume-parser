@@ -1,0 +1,10 @@
+3040. **Name:** Victoria Gonzalez
+   - **Skills:** Python, Angular, Big Data, AR/VR Development
+   - **Experience:** Junior Designer at DataInnovators
+   - **Education:** Ph.D. in Art from Tech University
+   - **References:** Katherine Singh, Developer, victoria_johnson@example.com
+Sam Gupta, Analyst, frank_miller@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** olivia_lee@example.com, City, Artopia
+   - **Projects:** Led the Revolutionary System for Streamlining Data Analysis
+

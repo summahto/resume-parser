@@ -1,0 +1,10 @@
+2164. **Name:** Yuki Taylor
+   - **Skills:** HTML, Android Development, Node.js, Swift
+   - **Experience:** Junior Engineer at CreativeMinds
+   - **Education:** Master in Computer Science from Creative Arts College
+   - **References:** Quinn Kumar, Scientist, ulysses_lopez@example.com
+Tina Nguyen, Developer, walter_gupta@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** katherine_gupta@example.com, Village, Techland
+   - **Projects:** Developed the Revolutionary App for Solving Business Processes
+

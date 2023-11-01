@@ -1,0 +1,10 @@
+934. **Name:** Eva Gupta
+   - **Skills:** Angular, Cloud Computing, Node.js, iOS Development
+   - **Experience:** Senior Developer at TechInnovate
+   - **Education:** Ph.D. in Computer Science from Inno Institute
+   - **References:** Sam Smith, Manager, patrick_lópez@example.com
+Bob Jones, Scientist, frank_nguyen@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** david_kumar@example.com, Town, Techland
+   - **Projects:** Contributed to the Innovative Platform for Enhancing Problem-solving
+

@@ -1,0 +1,10 @@
+6478. **Name:** Charlie Smith
+   - **Skills:** Swift, Network Administration, AR/VR Development, SQL
+   - **Experience:** Senior Engineer at CreativeSolutions
+   - **Education:** Master in Engineering from Creative Arts College
+   - **References:** David Taylor, Director, rachel_wu@example.com
+Henry Taylor, Analyst, quinn_smith@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** bob_rodriguez@example.com, Village, Data City
+   - **Projects:** Led the Revolutionary System for Solving User Experience
+

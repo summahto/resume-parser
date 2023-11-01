@@ -1,0 +1,10 @@
+2774. **Name:** Frank Kumar
+   - **Skills:** Machine Learning, Cloud Computing, C#, Angular
+   - **Experience:** Lead Designer at TechCorp
+   - **Education:** Ph.D. in Data Science from Business School
+   - **References:** Xena Kumar, CEO, ivy_jones@example.com
+Olivia Hernandez, CEO, nathan_jackson@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** david_miller@example.com, City, Inno Haven
+   - **Projects:** Led the Cutting-edge App for Optimizing Collaboration
+

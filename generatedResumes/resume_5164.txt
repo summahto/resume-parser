@@ -1,0 +1,10 @@
+5164. **Name:** Xena Cruz
+   - **Skills:** Swift, Data Analysis, Machine Learning, Cloud Computing
+   - **Experience:** Junior Scientist at InnoSolutions
+   - **Education:** Bachelor in Engineering from Inno Institute
+   - **References:** Charlie Rodriguez, Manager, eva_hernandez@example.com
+Frank Nguyen, Manager, jack_cruz@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** xena_smith@example.com, City, Green Valley
+   - **Projects:** Developed the Cutting-edge Project for Enhancing Problem-solving
+

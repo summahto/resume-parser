@@ -1,0 +1,10 @@
+1739. **Name:** David Jones
+   - **Skills:** Android Development, Vue.js, Machine Learning, Project Management
+   - **Experience:** Junior Designer at TechInnovate
+   - **Education:** Bachelor in Business Administration from Physics Academy
+   - **References:** Ivy Patel, Developer, tina_silva@example.com
+Jack Gupta, Manager, sam_miller@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** bob_davis@example.com, City, Techland
+   - **Projects:** Contributed to the Innovative Project for Optimizing Business Processes
+

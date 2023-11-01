@@ -1,0 +1,10 @@
+8646. **Name:** Alice Kumar
+   - **Skills:** Agile, Graphic Design, C#, Project Management
+   - **Experience:** Junior Manager at InnoSolutions
+   - **Education:** Master in Art from Inno Institute
+   - **References:** Xena Rodriguez, CEO, david_nguyen@example.com
+Zane Kumar, Designer, bob_gupta@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** xena_johnson@example.com, Town, Techland
+   - **Projects:** Contributed to the Cutting-edge System for Enhancing Data Analysis
+

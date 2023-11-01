@@ -1,0 +1,10 @@
+1773. **Name:** Tina Miller
+   - **Skills:** Data Analysis, Angular, Graphic Design, C#
+   - **Experience:** Junior Designer at CreativeMinds
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Olivia Hernandez, Director, yuki_wu@example.com
+Katherine Wu, Developer, mia_cruz@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** victoria_brown@example.com, Village, Scienceburg
+   - **Projects:** Developed the Cutting-edge System for Optimizing Business Processes
+

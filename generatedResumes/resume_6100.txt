@@ -1,0 +1,10 @@
+6100. **Name:** Katherine White
+   - **Skills:** Git, AR/VR Development, Network Administration, Big Data
+   - **Experience:** Junior Scientist at DataExperts
+   - **Education:** Master in Art from Data Science School
+   - **References:** Henry Nguyen, CEO, david_kumar@example.com
+Yuki Patel, CTO, patrick_patel@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** ivy_gupta@example.com, Town, Techtopia
+   - **Projects:** Contributed to the Revolutionary App for Optimizing Data Analysis
+

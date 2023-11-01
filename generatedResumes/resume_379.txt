@@ -1,0 +1,10 @@
+379. **Name:** Tina Wang
+   - **Skills:** UI/UX Design, iOS Development, CSS, Node.js
+   - **Experience:** Lead Engineer at CreativeMinds
+   - **Education:** Bachelor in Data Science from Tech University
+   - **References:** Victoria Smith, Director, sam_jones@example.com
+Zane White, CTO, yuki_brown@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** walter_wang@example.com, City, Innovation Meadows
+   - **Projects:** Developed the Cutting-edge Project for Optimizing Business Processes
+

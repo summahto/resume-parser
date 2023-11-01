@@ -1,0 +1,10 @@
+364. **Name:** Grace White
+   - **Skills:** Cybersecurity, Network Administration, JavaScript, Git
+   - **Experience:** Junior Designer at InnovativeTech
+   - **Education:** Ph.D. in Engineering from Data Science School
+   - **References:** Rachel Cruz, Scientist, charlie_kim@example.com
+David Wu, Developer, yuki_patel@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** quinn_wu@example.com, Village, Artopia
+   - **Projects:** Developed the Innovative Framework for Enhancing Business Processes
+

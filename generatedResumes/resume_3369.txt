@@ -1,0 +1,10 @@
+3369. **Name:** Leo White
+   - **Skills:** IoT, Python, Graphic Design, UI/UX Design
+   - **Experience:** Senior Scientist at TechCorp
+   - **Education:** Master in Business Administration from Business School
+   - **References:** Yuki Miller, Scientist, charlie_wang@example.com
+Yuki Garcia, Director, jack_garcia@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** yuki_cruz@example.com, Town, Green Valley
+   - **Projects:** Led the Groundbreaking System for Solving Data Analysis
+

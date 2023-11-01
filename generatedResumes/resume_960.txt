@@ -1,0 +1,10 @@
+960. **Name:** Nathan López
+   - **Skills:** Java, Android Development, Cybersecurity, Swift
+   - **Experience:** Lead Engineer at CodeCrafters
+   - **Education:** Master in Business Administration from Data Science School
+   - **References:** Grace Smith, Developer, frank_williams@example.com
+Leo Lopez, CTO, alice_lópez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** nathan_taylor@example.com, City, Scienceburg
+   - **Projects:** Contributed to the Revolutionary System for Streamlining Problem-solving
+

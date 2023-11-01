@@ -1,0 +1,10 @@
+4104. **Name:** Patrick Jones
+   - **Skills:** Data Analysis, Angular, IoT, Cloud Computing
+   - **Experience:** Lead Engineer at DataExperts
+   - **Education:** Ph.D. in Engineering from Inno Institute
+   - **References:** Charlie Cruz, Engineer, leo_cruz@example.com
+Ivy Chen, Engineer, jack_white@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** jack_gupta@example.com, Town, Scienceburg
+   - **Projects:** Led the Innovative Platform for Optimizing Collaboration
+

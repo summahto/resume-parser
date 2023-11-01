@@ -1,0 +1,10 @@
+2413. **Name:** Eva Nguyen
+   - **Skills:** iOS Development, Android Development, Java, Cloud Computing
+   - **Experience:** Junior Developer at CodeCrafters
+   - **Education:** Ph.D. in Data Science from Inno Institute
+   - **References:** Yuki Kumar, Analyst, charlie_garcia@example.com
+Zane Silva, Designer, bob_lee@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** grace_wang@example.com, Town, Artopia
+   - **Projects:** Developed the Innovative Project for Streamlining User Experience
+

@@ -1,0 +1,10 @@
+4789. **Name:** Ivy Jackson
+   - **Skills:** React, Blockchain, Python, Docker
+   - **Experience:** Junior Engineer at CodeCrafters
+   - **Education:** Bachelor in Art from Physics Academy
+   - **References:** Alice Lee, Analyst, frank_gupta@example.com
+Patrick Wu, Coordinator, quinn_chen@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** walter_miller@example.com, City, Scienceburg
+   - **Projects:** Led the Groundbreaking Project for Solving Business Processes
+

@@ -1,0 +1,10 @@
+3558. **Name:** Walter Gonzalez
+   - **Skills:** Machine Learning, Android Development, Cloud Computing, SQL
+   - **Experience:** Lead Manager at CodeCrafters
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** Rachel Garcia, CTO, tina_kumar@example.com
+Ulysses Garcia, Lead, victoria_cruz@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** olivia_silva@example.com, Town, Data Haven
+   - **Projects:** Led the Innovative App for Streamlining Business Processes
+

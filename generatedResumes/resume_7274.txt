@@ -1,0 +1,10 @@
+7274. **Name:** Nathan Kumar
+   - **Skills:** Python, Vue.js, Graphic Design, C#
+   - **Experience:** Junior Designer at CreativeMinds
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** Patrick Kumar, Developer, ulysses_patel@example.com
+Grace Cruz, Analyst, eva_davis@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** alice_lópez@example.com, Town, Innoville
+   - **Projects:** Developed the Innovative System for Solving Data Analysis
+

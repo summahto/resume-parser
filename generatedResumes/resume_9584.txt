@@ -1,0 +1,10 @@
+9584. **Name:** Rachel Garcia
+   - **Skills:** Swift, Project Management, Graphic Design, Blockchain
+   - **Experience:** Junior Engineer at CodeCrafters
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Eva Lee, Lead, olivia_brown@example.com
+Walter Sato, Developer, victoria_nguyen@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** yuki_rodriguez@example.com, Village, Data City
+   - **Projects:** Led the Innovative Project for Optimizing Collaboration
+

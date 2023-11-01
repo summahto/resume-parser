@@ -1,0 +1,10 @@
+2424. **Name:** Alice Nguyen
+   - **Skills:** Git, Agile, AR/VR Development, HTML
+   - **Experience:** Senior Manager at TechInnovate
+   - **Education:** Ph.D. in Art from Tech University
+   - **References:** Ulysses Chen, Manager, rachel_brown@example.com
+Tina Miller, Designer, leo_chen@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** tina_jones@example.com, Village, Green Valley
+   - **Projects:** Developed the Innovative App for Solving Collaboration
+

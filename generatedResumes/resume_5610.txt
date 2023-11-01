@@ -1,0 +1,10 @@
+5610. **Name:** Quinn Silva
+   - **Skills:** IoT, Angular, DevOps, Big Data
+   - **Experience:** Senior Manager at InnovativeTech
+   - **Education:** Master in Computer Science from Creative Arts College
+   - **References:** Ivy Rodriguez, Manager, ivy_wu@example.com
+Grace Brown, Scientist, yuki_wang@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** leo_taylor@example.com, Village, Innoville
+   - **Projects:** Led the Cutting-edge System for Optimizing Business Processes
+

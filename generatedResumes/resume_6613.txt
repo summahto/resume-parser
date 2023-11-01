@@ -1,0 +1,10 @@
+6613. **Name:** Nathan Nguyen
+   - **Skills:** Git, Graphic Design, C#, IoT
+   - **Experience:** Junior Designer at CreativeMinds
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** Katherine Brown, Engineer, zane_patel@example.com
+Tina Silva, Developer, rachel_lopez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** yuki_gupta@example.com, City, Data Haven
+   - **Projects:** Developed the Cutting-edge Project for Streamlining Collaboration
+

@@ -1,0 +1,10 @@
+1425. **Name:** Frank Lee
+   - **Skills:** Blockchain, Docker, Node.js, Angular
+   - **Experience:** Lead Scientist at DataExperts
+   - **Education:** Master in Physics from Business School
+   - **References:** Quinn Wang, CEO, olivia_wu@example.com
+Henry Jones, CTO, katherine_wang@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** david_brown@example.com, Village, Data Haven
+   - **Projects:** Contributed to the Innovative System for Optimizing User Experience
+

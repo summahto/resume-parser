@@ -1,0 +1,10 @@
+4406. **Name:** Ivy Lopez
+   - **Skills:** UI/UX Design, Project Management, Python, CSS
+   - **Experience:** Senior Manager at InnovativeTech
+   - **Education:** Ph.D. in Data Science from Business School
+   - **References:** Olivia Wu, Analyst, xena_chen@example.com
+Tina Lopez, Scientist, grace_chen@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** tina_williams@example.com, City, Techland
+   - **Projects:** Contributed to the Innovative App for Solving Problem-solving
+

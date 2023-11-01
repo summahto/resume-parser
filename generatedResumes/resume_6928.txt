@@ -1,0 +1,10 @@
+6928. **Name:** Xena Wu
+   - **Skills:** Vue.js, Kubernetes, React, Android Development
+   - **Experience:** Junior Analyst at InnoSolutions
+   - **Education:** Bachelor in Engineering from Data Science School
+   - **References:** David Brown, CEO, alice_lopez@example.com
+Katherine Davis, Coordinator, zane_nguyen@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** olivia_miller@example.com, City, Data City
+   - **Projects:** Led the Cutting-edge Project for Enhancing Data Analysis
+

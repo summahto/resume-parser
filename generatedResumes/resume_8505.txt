@@ -1,0 +1,10 @@
+8505. **Name:** David Jackson
+   - **Skills:** Project Management, Angular, IoT, Machine Learning
+   - **Experience:** Junior Engineer at InnoSolutions
+   - **Education:** Master in Business Administration from Data Science School
+   - **References:** Leo Miller, Designer, patrick_rodriguez@example.com
+Henry Brown, Designer, charlie_lee@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** zane_brown@example.com, Village, Green Valley
+   - **Projects:** Developed the Revolutionary App for Solving Business Processes
+

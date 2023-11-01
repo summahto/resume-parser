@@ -1,0 +1,10 @@
+1453. **Name:** Jack Garcia
+   - **Skills:** UI/UX Design, Kubernetes, iOS Development, Agile
+   - **Experience:** Junior Scientist at TechCorp
+   - **Education:** Bachelor in Data Science from Creative Arts College
+   - **References:** Grace Smith, Developer, olivia_cruz@example.com
+Henry Yamamoto, Developer, grace_nguyen@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** eva_miller@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Groundbreaking System for Enhancing Data Analysis
+

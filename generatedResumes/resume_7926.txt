@@ -1,0 +1,10 @@
+7926. **Name:** Charlie Jackson
+   - **Skills:** Node.js, Git, Big Data, Swift
+   - **Experience:** Lead Analyst at CodeCrafters
+   - **Education:** Bachelor in Art from Business School
+   - **References:** Ivy Silva, Analyst, rachel_rodriguez@example.com
+Quinn Jackson, Lead, leo_white@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** bob_kim@example.com, Village, Data Haven
+   - **Projects:** Developed the Innovative Framework for Enhancing Business Processes
+

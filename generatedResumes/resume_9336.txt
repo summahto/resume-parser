@@ -1,0 +1,10 @@
+9336. **Name:** Zane Jones
+   - **Skills:** SQL, Java, Docker, Cloud Computing
+   - **Experience:** Junior Manager at DigitalSolutions
+   - **Education:** Master in Computer Science from Business School
+   - **References:** Henry Kumar, CTO, sam_lee@example.com
+Ulysses Jackson, CTO, victoria_li@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** walter_silva@example.com, Village, Techland
+   - **Projects:** Led the Cutting-edge Project for Streamlining Data Analysis
+

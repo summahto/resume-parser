@@ -1,0 +1,10 @@
+4613. **Name:** Charlie Garcia
+   - **Skills:** Java, Project Management, Big Data, React
+   - **Experience:** Senior Developer at InnoSolutions
+   - **Education:** Master in Engineering from Data Science School
+   - **References:** Katherine Chen, CEO, nathan_yamamoto@example.com
+Patrick Hernandez, Scientist, victoria_miller@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** sam_taylor@example.com, Village, Data City
+   - **Projects:** Contributed to the Revolutionary Framework for Optimizing Problem-solving
+

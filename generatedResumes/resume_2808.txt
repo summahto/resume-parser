@@ -1,0 +1,10 @@
+2808. **Name:** Bob Wu
+   - **Skills:** Kubernetes, Cybersecurity, IoT, CSS
+   - **Experience:** Senior Designer at TechInnovate
+   - **Education:** Master in Computer Science from Creative Arts College
+   - **References:** Nathan Wu, Engineer, frank_jones@example.com
+Leo Lopez, Designer, david_rodriguez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** yuki_lee@example.com, City, Scienceburg
+   - **Projects:** Led the Cutting-edge Project for Solving User Experience
+

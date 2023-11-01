@@ -1,13 +1,10 @@
-**Name:** Sparkle McInventor
-- **Skills:** Rainbow Contraption Building, Cloud Engineering, Leprechaun Liaison, Java
-- **Experience:** Chief Inventor at the Sky Workshop, Consultant to the Leprechaun Industrial Guild
-- **Education:** Technicolor Institute of Whimsical Engineering
-- **References:**
-- Inventor Gadgetspark, Mentor, gadgetspark@email.com
-- Lucky O'Gear, Leprechaun Guild Leader, luckyogear@email.com
-- **Volunteering:** Rainbow Machine Repairs, Leprechaun STEM Education
-- **Contact Information:** sparkle.mcInventor@email.com, Cloud Boulevard, Whimsyville
-- **Projects:**
-- Engineered the Rainbow Rocket for Interstellar Travel
-- Collaborated on the Leprechaun-Engineered Cloud Cruiser
+40. **Name:** Walter Lee
+   - **Skills:** Agile, UI/UX Design, Machine Learning, Node.js
+   - **Experience:** Junior Analyst at DataInnovators
+   - **Education:** Ph.D. in Engineering from Tech University
+   - **References:** Olivia Rodriguez, Designer, victoria_yamamoto@example.com
+Charlie Singh, CTO, grace_wu@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** tina_brown@example.com, Village, Green Valley
+   - **Projects:** Developed the Groundbreaking App for Solving User Experience
 

@@ -1,0 +1,10 @@
+9786. **Name:** David Lee
+   - **Skills:** Python, Kubernetes, UI/UX Design, Project Management
+   - **Experience:** Junior Scientist at CreativeSolutions
+   - **Education:** Ph.D. in Business Administration from Inno Institute
+   - **References:** Nathan Jackson, Engineer, leo_rodriguez@example.com
+Eva Lopez, Engineer, charlie_white@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** jack_wang@example.com, Town, Artopia
+   - **Projects:** Contributed to the Innovative Platform for Solving User Experience
+

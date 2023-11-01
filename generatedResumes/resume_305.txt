@@ -1,0 +1,10 @@
+305. **Name:** Eva Wu
+   - **Skills:** JavaScript, Kubernetes, Cybersecurity, Blockchain
+   - **Experience:** Lead Designer at CodeCrafters
+   - **Education:** Ph.D. in Data Science from Data Science School
+   - **References:** David Lopez, CTO, zane_white@example.com
+Nathan Wu, Lead, charlie_gupta@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** charlie_jackson@example.com, City, Inno Haven
+   - **Projects:** Developed the Innovative System for Streamlining User Experience
+

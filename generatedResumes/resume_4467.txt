@@ -1,0 +1,10 @@
+4467. **Name:** David Cruz
+   - **Skills:** DevOps, Graphic Design, Kubernetes, Cybersecurity
+   - **Experience:** Junior Engineer at CreativeMinds
+   - **Education:** Ph.D. in Business Administration from Inno Institute
+   - **References:** Walter Kumar, CEO, grace_silva@example.com
+Olivia Patel, Director, bob_gupta@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** eva_kumar@example.com, Town, Green Valley
+   - **Projects:** Developed the Cutting-edge System for Streamlining Business Processes
+

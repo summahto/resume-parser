@@ -1,0 +1,10 @@
+9437. **Name:** Eva Lee
+   - **Skills:** JavaScript, DevOps, Docker, IoT
+   - **Experience:** Lead Scientist at InnoSolutions
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Walter Müller, Analyst, leo_wang@example.com
+Ivy Nguyen, CEO, xena_lee@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** jack_chen@example.com, City, Inno Haven
+   - **Projects:** Led the Groundbreaking Framework for Solving Business Processes
+

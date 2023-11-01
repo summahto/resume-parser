@@ -1,0 +1,10 @@
+3816. **Name:** Xena Garcia
+   - **Skills:** Angular, UI/UX Design, Big Data, Java
+   - **Experience:** Lead Designer at CreativeMinds
+   - **Education:** Ph.D. in Data Science from Creative Arts College
+   - **References:** Tina Müller, Designer, victoria_miller@example.com
+Quinn López, Scientist, ulysses_silva@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** katherine_nguyen@example.com, Village, Data City
+   - **Projects:** Led the Revolutionary System for Enhancing Business Processes
+

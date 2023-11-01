@@ -1,0 +1,10 @@
+9183. **Name:** Charlie Lopez
+   - **Skills:** AR/VR Development, Machine Learning, Java, Vue.js
+   - **Experience:** Senior Analyst at TechCorp
+   - **Education:** Bachelor in Computer Science from Inno Institute
+   - **References:** Tina Wang, Designer, jack_silva@example.com
+David Brown, Director, tina_taylor@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** leo_chen@example.com, Village, Data Haven
+   - **Projects:** Contributed to the Innovative Project for Solving Business Processes
+

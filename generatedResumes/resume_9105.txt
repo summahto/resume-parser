@@ -1,0 +1,10 @@
+9105. **Name:** Xena Williams
+   - **Skills:** Graphic Design, Swift, Data Analysis, Python
+   - **Experience:** Senior Scientist at DataInnovators
+   - **Education:** Bachelor in Business Administration from Data Science School
+   - **References:** Tina Kumar, Scientist, ivy_hernandez@example.com
+Rachel Jackson, Coordinator, alice_gupta@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** walter_taylor@example.com, Town, Data Haven
+   - **Projects:** Led the Innovative Platform for Optimizing Business Processes
+

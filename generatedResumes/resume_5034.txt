@@ -1,0 +1,10 @@
+5034. **Name:** Henry Gupta
+   - **Skills:** Machine Learning, Docker, Java, SQL
+   - **Experience:** Junior Developer at InnovativeTech
+   - **Education:** Bachelor in Business Administration from Data Science School
+   - **References:** Grace Gonzalez, Designer, ulysses_lópez@example.com
+Tina Kumar, Analyst, xena_chen@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** sam_garcia@example.com, City, Techland
+   - **Projects:** Contributed to the Cutting-edge System for Solving User Experience
+

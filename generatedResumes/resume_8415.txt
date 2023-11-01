@@ -1,0 +1,10 @@
+8415. **Name:** Ivy Gupta
+   - **Skills:** Git, C#, Kubernetes, Cloud Computing
+   - **Experience:** Lead Manager at InnoSolutions
+   - **Education:** Ph.D. in Engineering from Physics Academy
+   - **References:** Walter Wang, Manager, rachel_davis@example.com
+Alice Wu, Scientist, grace_garcia@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** sam_lee@example.com, Town, Inno Haven
+   - **Projects:** Developed the Groundbreaking Platform for Solving Data Analysis
+

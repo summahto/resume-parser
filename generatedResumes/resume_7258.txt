@@ -1,0 +1,10 @@
+7258. **Name:** Ivy Jones
+   - **Skills:** IoT, Python, Docker, JavaScript
+   - **Experience:** Senior Designer at DataInnovators
+   - **Education:** Bachelor in Engineering from Data Science School
+   - **References:** Eva Gupta, Developer, frank_johnson@example.com
+Katherine Jones, Analyst, xena_cruz@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** walter_wu@example.com, City, Artopia
+   - **Projects:** Developed the Cutting-edge Framework for Optimizing User Experience
+

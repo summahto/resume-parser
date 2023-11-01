@@ -1,0 +1,10 @@
+4746. **Name:** Jack Smith
+   - **Skills:** IoT, Angular, Docker, Kubernetes
+   - **Experience:** Lead Analyst at TechCorp
+   - **Education:** Ph.D. in Engineering from Physics Academy
+   - **References:** Nathan Suzuki, Analyst, mia_li@example.com
+Ivy Kim, Developer, ivy_lópez@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** eva_cruz@example.com, Village, Data City
+   - **Projects:** Led the Innovative Project for Solving Data Analysis
+

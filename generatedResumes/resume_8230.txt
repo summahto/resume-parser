@@ -1,0 +1,10 @@
+8230. **Name:** Mia Nguyen
+   - **Skills:** Vue.js, Git, C#, Angular
+   - **Experience:** Lead Manager at TechCorp
+   - **Education:** Bachelor in Data Science from Data Science School
+   - **References:** Jack Johnson, CEO, nathan_li@example.com
+Katherine Patel, Analyst, mia_brown@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** tina_nguyen@example.com, City, Data Haven
+   - **Projects:** Developed the Revolutionary Framework for Streamlining Collaboration
+

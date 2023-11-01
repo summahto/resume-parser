@@ -1,0 +1,10 @@
+5015. **Name:** Tina Lee
+   - **Skills:** UI/UX Design, iOS Development, Cybersecurity, CSS
+   - **Experience:** Senior Designer at InnoSolutions
+   - **Education:** Ph.D. in Engineering from Business School
+   - **References:** Zane Gupta, Director, mia_garcia@example.com
+Walter Patel, Director, sam_silva@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** henry_müller@example.com, City, Techtopia
+   - **Projects:** Developed the Cutting-edge Platform for Solving Business Processes
+

@@ -1,0 +1,10 @@
+5932. **Name:** Quinn Nguyen
+   - **Skills:** Machine Learning, Angular, iOS Development, Graphic Design
+   - **Experience:** Senior Designer at CreativeMinds
+   - **Education:** Ph.D. in Engineering from Creative Arts College
+   - **References:** Jack Suzuki, Engineer, frank_gupta@example.com
+David Yamamoto, Designer, jack_rodriguez@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** olivia_smith@example.com, Village, Techtopia
+   - **Projects:** Led the Revolutionary Project for Streamlining Data Analysis
+

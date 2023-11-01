@@ -1,0 +1,10 @@
+4157. **Name:** Victoria Cruz
+   - **Skills:** C#, Angular, Python, Swift
+   - **Experience:** Lead Engineer at DigitalSolutions
+   - **Education:** Bachelor in Data Science from Inno Institute
+   - **References:** Mia Taylor, Coordinator, sam_garcia@example.com
+Mia Jackson, Analyst, ivy_nguyen@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** victoria_lee@example.com, City, Inno Haven
+   - **Projects:** Developed the Cutting-edge App for Optimizing Problem-solving
+

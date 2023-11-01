@@ -1,0 +1,10 @@
+9293. **Name:** Quinn Gupta
+   - **Skills:** Project Management, JavaScript, CSS, UI/UX Design
+   - **Experience:** Senior Engineer at CreativeSolutions
+   - **Education:** Bachelor in Engineering from Physics Academy
+   - **References:** Ivy Rodriguez, CEO, olivia_smith@example.com
+Patrick Silva, Lead, alice_miller@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** nathan_jackson@example.com, Village, Techland
+   - **Projects:** Led the Groundbreaking Framework for Streamlining Data Analysis
+

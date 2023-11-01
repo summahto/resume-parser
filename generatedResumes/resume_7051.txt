@@ -1,0 +1,10 @@
+7051. **Name:** Xena Patel
+   - **Skills:** DevOps, C#, Blockchain, SQL
+   - **Experience:** Junior Engineer at CodeCrafters
+   - **Education:** Bachelor in Computer Science from Inno Institute
+   - **References:** Olivia Lee, Engineer, tina_brown@example.com
+Sam Jackson, Developer, bob_rodriguez@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** rachel_rodriguez@example.com, Town, Data City
+   - **Projects:** Led the Groundbreaking Platform for Optimizing Business Processes
+

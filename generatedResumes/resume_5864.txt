@@ -1,0 +1,10 @@
+5864. **Name:** Mia Garcia
+   - **Skills:** UI/UX Design, Angular, IoT, Blockchain
+   - **Experience:** Lead Scientist at TechCorp
+   - **Education:** Master in Art from Inno Institute
+   - **References:** Walter Chen, Designer, henry_white@example.com
+Jack Brown, Designer, jack_cruz@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** walter_kumar@example.com, Town, Techland
+   - **Projects:** Developed the Innovative App for Solving Business Processes
+

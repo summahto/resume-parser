@@ -1,0 +1,10 @@
+9272. **Name:** Jack Wang
+   - **Skills:** JavaScript, HTML, Project Management, CSS
+   - **Experience:** Junior Analyst at DataExperts
+   - **Education:** Master in Engineering from Data Science School
+   - **References:** Zane Jones, Engineer, patrick_lopez@example.com
+Xena Patel, Analyst, ivy_davis@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** leo_cruz@example.com, Village, Techtopia
+   - **Projects:** Developed the Groundbreaking Platform for Enhancing Business Processes
+

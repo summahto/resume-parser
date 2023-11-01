@@ -1,0 +1,10 @@
+9115. **Name:** Jack Kumar
+   - **Skills:** DevOps, C#, Blockchain, Graphic Design
+   - **Experience:** Lead Analyst at DigitalSolutions
+   - **Education:** Bachelor in Art from Physics Academy
+   - **References:** Eva Lee, Scientist, patrick_garcia@example.com
+Katherine Cruz, Director, nathan_silva@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** rachel_miller@example.com, Village, Artopia
+   - **Projects:** Developed the Innovative Platform for Solving Business Processes
+

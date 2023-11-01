@@ -1,0 +1,10 @@
+1983. **Name:** Ivy Hernandez
+   - **Skills:** Big Data, iOS Development, Cybersecurity, Vue.js
+   - **Experience:** Senior Manager at TechInnovate
+   - **Education:** Bachelor in Computer Science from Inno Institute
+   - **References:** Alice Wang, Developer, charlie_cruz@example.com
+Olivia Kumar, Coordinator, alice_cruz@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** henry_jones@example.com, Village, Green Valley
+   - **Projects:** Contributed to the Innovative App for Enhancing Business Processes
+

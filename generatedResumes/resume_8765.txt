@@ -1,0 +1,10 @@
+8765. **Name:** Yuki Jackson
+   - **Skills:** SQL, Project Management, C#, Big Data
+   - **Experience:** Lead Scientist at InnovativeTech
+   - **Education:** Ph.D. in Computer Science from Creative Arts College
+   - **References:** Ivy Yamamoto, Analyst, rachel_wu@example.com
+Grace Cruz, Engineer, mia_garcia@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** henry_jackson@example.com, Town, Techland
+   - **Projects:** Contributed to the Revolutionary Framework for Optimizing Collaboration
+

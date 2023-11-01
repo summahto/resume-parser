@@ -1,0 +1,10 @@
+2427. **Name:** Eva Gupta
+   - **Skills:** Angular, Java, Graphic Design, IoT
+   - **Experience:** Junior Engineer at TechCorp
+   - **Education:** Bachelor in Physics from Inno Institute
+   - **References:** Ivy Brown, CTO, sam_white@example.com
+Walter Chen, CEO, alice_patel@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** ulysses_white@example.com, Village, Techtopia
+   - **Projects:** Contributed to the Groundbreaking Platform for Optimizing Business Processes
+

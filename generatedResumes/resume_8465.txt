@@ -1,0 +1,10 @@
+8465. **Name:** Xena Lopez
+   - **Skills:** CSS, Python, DevOps, Cloud Computing
+   - **Experience:** Senior Designer at DigitalSolutions
+   - **Education:** Bachelor in Art from Tech University
+   - **References:** David Miller, Manager, jack_wu@example.com
+Yuki Garcia, Coordinator, mia_kumar@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** jack_silva@example.com, Village, Artopia
+   - **Projects:** Developed the Cutting-edge Framework for Enhancing User Experience
+

@@ -1,0 +1,10 @@
+6579. **Name:** Zane Lee
+   - **Skills:** Docker, SQL, Graphic Design, Node.js
+   - **Experience:** Lead Designer at DigitalSolutions
+   - **Education:** Ph.D. in Computer Science from Inno Institute
+   - **References:** Katherine Jones, Lead, walter_nguyen@example.com
+Quinn Jones, Analyst, rachel_white@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** yuki_nguyen@example.com, Village, Scienceburg
+   - **Projects:** Developed the Innovative Project for Streamlining Problem-solving
+

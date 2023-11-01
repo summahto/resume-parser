@@ -1,0 +1,10 @@
+9281. **Name:** Walter Cruz
+   - **Skills:** AR/VR Development, Graphic Design, Python, Project Management
+   - **Experience:** Lead Manager at InnoSolutions
+   - **Education:** Master in Art from Business School
+   - **References:** Nathan Li, Director, david_lopez@example.com
+Alice Smith, Director, jack_rodriguez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** eva_chen@example.com, City, Techland
+   - **Projects:** Developed the Cutting-edge Project for Enhancing Problem-solving
+

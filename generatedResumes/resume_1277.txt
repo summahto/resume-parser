@@ -1,0 +1,10 @@
+1277. **Name:** Charlie Gupta
+   - **Skills:** iOS Development, React, Angular, Graphic Design
+   - **Experience:** Junior Manager at CreativeMinds
+   - **Education:** Ph.D. in Data Science from Tech University
+   - **References:** Frank White, Director, leo_williams@example.com
+Alice Taylor, Designer, alice_patel@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** olivia_davis@example.com, Village, Techland
+   - **Projects:** Contributed to the Revolutionary App for Enhancing Business Processes
+

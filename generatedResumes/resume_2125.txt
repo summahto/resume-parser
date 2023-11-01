@@ -1,0 +1,10 @@
+2125. **Name:** Bob Kumar
+   - **Skills:** Swift, UI/UX Design, Graphic Design, Agile
+   - **Experience:** Lead Designer at CodeCrafters
+   - **Education:** Master in Data Science from Business School
+   - **References:** Alice Cruz, Scientist, mia_gupta@example.com
+Tina Rodriguez, Manager, walter_white@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** david_nguyen@example.com, City, Innoville
+   - **Projects:** Contributed to the Innovative Platform for Optimizing Business Processes
+

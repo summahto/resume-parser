@@ -1,0 +1,10 @@
+1910. **Name:** Charlie Patel
+   - **Skills:** Angular, iOS Development, React, Python
+   - **Experience:** Junior Analyst at CreativeSolutions
+   - **Education:** Master in Business Administration from Inno Institute
+   - **References:** Frank Gupta, CTO, sam_singh@example.com
+Tina Jones, CEO, walter_kumar@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** david_sato@example.com, Village, Innovation Meadows
+   - **Projects:** Developed the Groundbreaking System for Optimizing Problem-solving
+

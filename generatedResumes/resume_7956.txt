@@ -1,0 +1,10 @@
+7956. **Name:** Yuki Gupta
+   - **Skills:** Git, IoT, Cloud Computing, Data Analysis
+   - **Experience:** Lead Manager at DataExperts
+   - **Education:** Bachelor in Business Administration from Tech University
+   - **References:** Bob Gupta, Analyst, zane_lee@example.com
+Bob Kumar, Lead, patrick_lópez@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** henry_white@example.com, City, Artopia
+   - **Projects:** Contributed to the Groundbreaking System for Optimizing Business Processes
+

@@ -1,0 +1,10 @@
+7122. **Name:** Zane Jackson
+   - **Skills:** CSS, Machine Learning, Cybersecurity, IoT
+   - **Experience:** Junior Developer at CreativeMinds
+   - **Education:** Master in Physics from Inno Institute
+   - **References:** Alice Lee, Manager, henry_wu@example.com
+Charlie Cruz, Analyst, patrick_chen@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** alice_kim@example.com, Village, Scienceburg
+   - **Projects:** Led the Cutting-edge Project for Solving Business Processes
+

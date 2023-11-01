@@ -1,0 +1,10 @@
+8427. **Name:** David White
+   - **Skills:** Data Analysis, iOS Development, C#, AR/VR Development
+   - **Experience:** Lead Scientist at DataExperts
+   - **Education:** Master in Art from Creative Arts College
+   - **References:** Ulysses Gupta, Manager, charlie_sato@example.com
+Alice Lopez, Analyst, eva_chen@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** jack_yamamoto@example.com, Village, Inno Haven
+   - **Projects:** Developed the Innovative App for Solving Problem-solving
+

@@ -1,0 +1,10 @@
+6530. **Name:** Leo Chen
+   - **Skills:** Swift, UI/UX Design, Agile, Machine Learning
+   - **Experience:** Junior Manager at TechCorp
+   - **Education:** Ph.D. in Physics from Business School
+   - **References:** Grace Brown, CTO, patrick_rodriguez@example.com
+Victoria Taylor, Engineer, nathan_gupta@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** xena_lopez@example.com, Village, Green Valley
+   - **Projects:** Contributed to the Groundbreaking Project for Optimizing Problem-solving
+

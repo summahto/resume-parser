@@ -1,0 +1,10 @@
+381. **Name:** Quinn White
+   - **Skills:** Cloud Computing, Java, Graphic Design, Git
+   - **Experience:** Senior Developer at CodeCrafters
+   - **Education:** Master in Data Science from Data Science School
+   - **References:** Katherine White, CEO, charlie_suzuki@example.com
+Tina Patel, CTO, nathan_garcia@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** ivy_li@example.com, City, Inno Haven
+   - **Projects:** Led the Revolutionary Platform for Solving Business Processes
+

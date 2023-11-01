@@ -1,0 +1,10 @@
+8962. **Name:** Xena Nguyen
+   - **Skills:** Project Management, Java, Kubernetes, Cloud Computing
+   - **Experience:** Senior Scientist at DigitalSolutions
+   - **Education:** Bachelor in Business Administration from Tech University
+   - **References:** Sam Lee, Developer, henry_wang@example.com
+Rachel Garcia, Manager, victoria_cruz@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** quinn_brown@example.com, Town, Innoville
+   - **Projects:** Contributed to the Revolutionary Framework for Enhancing Data Analysis
+

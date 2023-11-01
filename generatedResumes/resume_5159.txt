@@ -1,0 +1,10 @@
+5159. **Name:** Quinn Garcia
+   - **Skills:** Angular, Data Analysis, Docker, Swift
+   - **Experience:** Junior Manager at CodeCrafters
+   - **Education:** Master in Engineering from Data Science School
+   - **References:** Nathan Miller, Developer, grace_jones@example.com
+Eva Chen, Developer, walter_cruz@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** ivy_lee@example.com, Town, Data Haven
+   - **Projects:** Contributed to the Groundbreaking App for Solving User Experience
+

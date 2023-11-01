@@ -1,0 +1,10 @@
+4246. **Name:** Eva Smith
+   - **Skills:** Android Development, Project Management, IoT, UI/UX Design
+   - **Experience:** Lead Designer at InnoSolutions
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Leo Patel, Lead, nathan_jones@example.com
+Walter Kumar, Designer, leo_lopez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** tina_lópez@example.com, City, Inno Haven
+   - **Projects:** Developed the Cutting-edge System for Optimizing Business Processes
+

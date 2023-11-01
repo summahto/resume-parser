@@ -1,0 +1,10 @@
+8917. **Name:** Mia Miller
+   - **Skills:** Big Data, Cloud Computing, C#, Angular
+   - **Experience:** Senior Engineer at CreativeMinds
+   - **Education:** Master in Computer Science from Inno Institute
+   - **References:** Alice Smith, Director, frank_rodriguez@example.com
+Ulysses Yamamoto, Lead, ulysses_kim@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** zane_white@example.com, Town, Inno Haven
+   - **Projects:** Developed the Revolutionary System for Solving User Experience
+

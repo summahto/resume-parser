@@ -1,0 +1,10 @@
+7300. **Name:** Olivia Lee
+   - **Skills:** Java, Docker, Git, HTML
+   - **Experience:** Junior Scientist at InnovativeTech
+   - **Education:** Master in Art from Data Science School
+   - **References:** Patrick Gonzalez, Designer, katherine_white@example.com
+Walter Garcia, Director, victoria_kim@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** nathan_chen@example.com, Village, Green Valley
+   - **Projects:** Led the Revolutionary Framework for Optimizing Business Processes
+

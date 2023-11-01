@@ -1,0 +1,10 @@
+7400. **Name:** Katherine Rodriguez
+   - **Skills:** Swift, Android Development, UI/UX Design, Project Management
+   - **Experience:** Senior Developer at CreativeMinds
+   - **Education:** Master in Physics from Inno Institute
+   - **References:** Olivia Cruz, Analyst, leo_yamamoto@example.com
+Jack Cruz, CEO, olivia_brown@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** eva_patel@example.com, Village, Green Valley
+   - **Projects:** Led the Groundbreaking Project for Optimizing User Experience
+

@@ -1,0 +1,10 @@
+1414. **Name:** Nathan Miller
+   - **Skills:** Project Management, CSS, Machine Learning, Docker
+   - **Experience:** Senior Designer at DigitalSolutions
+   - **Education:** Master in Engineering from Physics Academy
+   - **References:** Walter Wu, Manager, ivy_silva@example.com
+Grace Brown, Coordinator, nathan_brown@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** ulysses_chen@example.com, Town, Innovation Meadows
+   - **Projects:** Led the Revolutionary Project for Streamlining Problem-solving
+

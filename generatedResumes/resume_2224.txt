@@ -1,0 +1,10 @@
+2224. **Name:** Jack Kim
+   - **Skills:** CSS, Docker, Java, Vue.js
+   - **Experience:** Junior Designer at InnovativeTech
+   - **Education:** Bachelor in Business Administration from Physics Academy
+   - **References:** Grace Müller, CTO, frank_wang@example.com
+Walter Lee, Scientist, leo_jones@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** katherine_smith@example.com, Town, Data City
+   - **Projects:** Developed the Groundbreaking Project for Solving Collaboration
+

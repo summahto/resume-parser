@@ -1,0 +1,10 @@
+9172. **Name:** Xena Garcia
+   - **Skills:** Blockchain, UI/UX Design, Kubernetes, Graphic Design
+   - **Experience:** Junior Manager at TechCorp
+   - **Education:** Ph.D. in Art from Data Science School
+   - **References:** Alice Wang, Engineer, mia_patel@example.com
+Jack Patel, CTO, sam_lópez@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** eva_gupta@example.com, Village, Data City
+   - **Projects:** Contributed to the Innovative System for Optimizing Problem-solving
+

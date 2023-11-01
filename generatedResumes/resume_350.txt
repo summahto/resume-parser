@@ -1,0 +1,10 @@
+350. **Name:** Quinn Lee
+   - **Skills:** Swift, Data Analysis, Big Data, Git
+   - **Experience:** Senior Scientist at CreativeSolutions
+   - **Education:** Master in Physics from Tech University
+   - **References:** Grace Brown, CTO, katherine_silva@example.com
+David Suzuki, Lead, patrick_sato@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** zane_brown@example.com, City, Scienceburg
+   - **Projects:** Contributed to the Innovative Project for Solving User Experience
+

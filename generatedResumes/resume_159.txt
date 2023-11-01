@@ -1,0 +1,10 @@
+159. **Name:** Tina Kumar
+   - **Skills:** JavaScript, Java, Machine Learning, Agile
+   - **Experience:** Lead Manager at CreativeMinds
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Ivy Yamamoto, Director, rachel_garcia@example.com
+Xena Lee, Lead, ivy_jackson@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** bob_miller@example.com, Village, Techland
+   - **Projects:** Developed the Innovative App for Streamlining User Experience
+

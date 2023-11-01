@@ -1,0 +1,10 @@
+7774. **Name:** Leo Gupta
+   - **Skills:** Big Data, Python, Cybersecurity, React
+   - **Experience:** Lead Engineer at DigitalSolutions
+   - **Education:** Master in Engineering from Creative Arts College
+   - **References:** David Nguyen, Analyst, leo_chen@example.com
+Patrick Silva, Developer, quinn_white@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** olivia_lópez@example.com, Town, Innoville
+   - **Projects:** Contributed to the Revolutionary Project for Streamlining User Experience
+

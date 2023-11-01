@@ -1,0 +1,10 @@
+9250. **Name:** Rachel Gupta
+   - **Skills:** Swift, Cloud Computing, CSS, DevOps
+   - **Experience:** Lead Developer at DigitalSolutions
+   - **Education:** Bachelor in Computer Science from Inno Institute
+   - **References:** Charlie Yamamoto, Coordinator, sam_brown@example.com
+Yuki Cruz, Developer, eva_nguyen@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** quinn_cruz@example.com, Village, Artopia
+   - **Projects:** Developed the Innovative Platform for Streamlining User Experience
+

@@ -1,0 +1,10 @@
+4860. **Name:** Charlie Brown
+   - **Skills:** AR/VR Development, Project Management, Angular, HTML
+   - **Experience:** Senior Developer at InnoSolutions
+   - **Education:** Master in Business Administration from Data Science School
+   - **References:** Sam Williams, Coordinator, bob_lee@example.com
+Olivia Li, Manager, mia_white@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** xena_chen@example.com, City, Green Valley
+   - **Projects:** Led the Revolutionary Framework for Enhancing Data Analysis
+

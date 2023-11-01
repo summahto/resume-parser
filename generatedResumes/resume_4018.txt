@@ -1,0 +1,10 @@
+4018. **Name:** Grace Cruz
+   - **Skills:** IoT, JavaScript, Kubernetes, Vue.js
+   - **Experience:** Junior Analyst at CodeCrafters
+   - **Education:** Ph.D. in Physics from Business School
+   - **References:** Grace Wang, Manager, tina_chen@example.com
+Alice Li, Lead, henry_jackson@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** leo_nguyen@example.com, Village, Inno Haven
+   - **Projects:** Led the Revolutionary App for Enhancing User Experience
+

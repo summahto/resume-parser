@@ -1,0 +1,10 @@
+5460. **Name:** Olivia Gupta
+   - **Skills:** JavaScript, Agile, Big Data, Cybersecurity
+   - **Experience:** Junior Designer at CreativeMinds
+   - **Education:** Master in Business Administration from Business School
+   - **References:** Patrick Brown, Director, grace_chen@example.com
+Rachel Brown, Developer, bob_garcia@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** walter_sato@example.com, City, Data City
+   - **Projects:** Developed the Innovative Project for Enhancing Business Processes
+
