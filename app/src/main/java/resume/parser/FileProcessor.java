@@ -1,4 +1,4 @@
-package parser;
+package resume.parser;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;
