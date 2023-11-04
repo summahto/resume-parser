@@ -1,0 +1,10 @@
+3270. **Name:** David Wu
+   - **Skills:** Angular, DevOps, JavaScript, Data Analysis
+   - **Experience:** Lead Analyst at DataExperts
+   - **Education:** Ph.D. in Physics from Physics Academy
+   - **References:** Rachel López, Manager, nathan_wang@example.com
+Sam Brown, Scientist, leo_silva@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** mia_jones@example.com, City, Inno Haven
+   - **Projects:** Contributed to the Revolutionary App for Enhancing User Experience
+

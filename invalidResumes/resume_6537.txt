@@ -1,0 +1,10 @@
+6537. **Name:** Mia López
+   - **Skills:** SQL, Blockchain, Node.js, Graphic Design
+   - **Experience:** Senior Scientist at DataInnovators
+   - **Education:** Bachelor in Data Science from Creative Arts College
+   - **References:** Tina Taylor, Scientist, patrick_lee@example.com
+Ulysses Davis, CTO, henry_gonzalez@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** rachel_gupta@example.com, City, Techtopia
+   - **Projects:** Led the Innovative Project for Solving Data Analysis
+

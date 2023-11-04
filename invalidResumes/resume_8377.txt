@@ -1,0 +1,10 @@
+8377. **Name:** Leo Lopez
+   - **Skills:** Blockchain, Machine Learning, Node.js, DevOps
+   - **Experience:** Senior Analyst at DataInnovators
+   - **Education:** Ph.D. in Data Science from Inno Institute
+   - **References:** Patrick Garcia, Engineer, sam_lee@example.com
+David Chen, Scientist, victoria_miller@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** rachel_lópez@example.com, City, Data Haven
+   - **Projects:** Led the Groundbreaking Project for Optimizing Business Processes
+

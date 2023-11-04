@@ -1,0 +1,10 @@
+7268. **Name:** Leo Garcia
+   - **Skills:** Data Analysis, HTML, SQL, Swift
+   - **Experience:** Lead Analyst at TechCorp
+   - **Education:** Ph.D. in Data Science from Business School
+   - **References:** Grace Wu, CEO, ivy_white@example.com
+Jack Chen, Coordinator, sam_lópez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** ivy_taylor@example.com, Town, Data City
+   - **Projects:** Contributed to the Groundbreaking App for Solving Business Processes
+

@@ -1,0 +1,10 @@
+1106. **Name:** Katherine López
+   - **Skills:** iOS Development, Graphic Design, Java, Angular
+   - **Experience:** Junior Developer at InnovativeTech
+   - **Education:** Master in Computer Science from Physics Academy
+   - **References:** Quinn Lee, Director, david_patel@example.com
+David Lee, Coordinator, rachel_chen@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** xena_jones@example.com, Town, Techtopia
+   - **Projects:** Developed the Innovative System for Solving Problem-solving
+

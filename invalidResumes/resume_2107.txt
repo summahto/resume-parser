@@ -1,0 +1,10 @@
+2107. **Name:** Alice López
+   - **Skills:** iOS Development, Kubernetes, Big Data, Project Management
+   - **Experience:** Senior Developer at InnovativeTech
+   - **Education:** Bachelor in Data Science from Data Science School
+   - **References:** Olivia Kumar, Scientist, sam_nguyen@example.com
+Rachel Smith, Analyst, victoria_wang@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** olivia_smith@example.com, City, Techtopia
+   - **Projects:** Developed the Innovative Project for Solving Problem-solving
+

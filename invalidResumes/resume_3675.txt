@@ -1,0 +1,10 @@
+3675. **Name:** Charlie Gupta
+   - **Skills:** Graphic Design, Machine Learning, iOS Development, Java
+   - **Experience:** Lead Engineer at CreativeSolutions
+   - **Education:** Master in Engineering from Creative Arts College
+   - **References:** Walter Gonzalez, Manager, nathan_lee@example.com
+Ivy López, Engineer, olivia_lee@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** patrick_rodriguez@example.com, Town, Data City
+   - **Projects:** Led the Revolutionary Platform for Optimizing User Experience
+

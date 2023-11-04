@@ -1,0 +1,10 @@
+696. **Name:** Nathan Jackson
+   - **Skills:** Graphic Design, AR/VR Development, Java, CSS
+   - **Experience:** Junior Developer at CreativeSolutions
+   - **Education:** Bachelor in Art from Creative Arts College
+   - **References:** Nathan Smith, Developer, katherine_kumar@example.com
+Charlie Sato, Scientist, sam_nguyen@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** mia_müller@example.com, City, Techtopia
+   - **Projects:** Contributed to the Cutting-edge Project for Streamlining User Experience
+

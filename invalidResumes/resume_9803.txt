@@ -1,0 +1,10 @@
+9803. **Name:** Leo Müller
+   - **Skills:** Angular, IoT, Git, Big Data
+   - **Experience:** Junior Designer at CreativeSolutions
+   - **Education:** Master in Data Science from Tech University
+   - **References:** Sam Gupta, Manager, walter_wu@example.com
+Patrick White, Designer, charlie_patel@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** quinn_davis@example.com, Town, Artopia
+   - **Projects:** Contributed to the Innovative System for Streamlining Problem-solving
+

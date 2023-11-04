@@ -1,0 +1,10 @@
+9124. **Name:** Ivy Suzuki
+   - **Skills:** Machine Learning, AR/VR Development, UI/UX Design, Cybersecurity
+   - **Experience:** Lead Engineer at InnoSolutions
+   - **Education:** Bachelor in Art from Physics Academy
+   - **References:** Patrick Singh, Developer, tina_kumar@example.com
+Charlie Chen, Engineer, quinn_lopez@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** sam_lópez@example.com, Town, Techtopia
+   - **Projects:** Developed the Cutting-edge Project for Solving User Experience
+

@@ -1,0 +1,10 @@
+1029. **Name:** Sam López
+   - **Skills:** Network Administration, Kubernetes, Graphic Design, React
+   - **Experience:** Junior Designer at CreativeSolutions
+   - **Education:** Bachelor in Art from Tech University
+   - **References:** David Nguyen, Designer, henry_li@example.com
+Rachel Smith, Coordinator, olivia_nguyen@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** katherine_garcia@example.com, Village, Data Haven
+   - **Projects:** Developed the Innovative Project for Streamlining Data Analysis
+

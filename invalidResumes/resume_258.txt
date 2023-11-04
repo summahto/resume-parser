@@ -1,0 +1,10 @@
+258. **Name:** Xena Gupta
+   - **Skills:** C#, Big Data, CSS, Docker
+   - **Experience:** Senior Scientist at InnovativeTech
+   - **Education:** Bachelor in Business Administration from Data Science School
+   - **References:** Henry Jackson, Coordinator, xena_lee@example.com
+Sam Müller, Lead, frank_lee@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** patrick_lópez@example.com, Village, Artopia
+   - **Projects:** Developed the Revolutionary System for Solving Business Processes
+

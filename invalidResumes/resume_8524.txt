@@ -1,0 +1,10 @@
+8524. **Name:** Nathan Miller
+   - **Skills:** DevOps, Git, Big Data, Java
+   - **Experience:** Senior Engineer at InnovativeTech
+   - **Education:** Bachelor in Art from Business School
+   - **References:** Sam López, Lead, david_chen@example.com
+Charlie Cruz, Designer, jack_suzuki@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** quinn_lopez@example.com, City, Artopia
+   - **Projects:** Developed the Cutting-edge Framework for Streamlining Business Processes
+

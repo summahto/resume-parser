@@ -1,0 +1,10 @@
+5676. **Name:** David Gupta
+   - **Skills:** Python, Network Administration, Big Data, Node.js
+   - **Experience:** Lead Analyst at CreativeMinds
+   - **Education:** Ph.D. in Physics from Tech University
+   - **References:** Eva Wu, Director, eva_cruz@example.com
+Ulysses Müller, Scientist, henry_smith@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** zane_suzuki@example.com, City, Green Valley
+   - **Projects:** Led the Revolutionary Framework for Optimizing Collaboration
+

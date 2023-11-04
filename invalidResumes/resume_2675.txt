@@ -1,0 +1,10 @@
+2675. **Name:** Bob Lee
+   - **Skills:** Git, Python, Node.js, Graphic Design
+   - **Experience:** Junior Scientist at CreativeSolutions
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Frank Nguyen, Lead, xena_lópez@example.com
+Nathan Gupta, Engineer, rachel_white@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** henry_lee@example.com, Town, Innoville
+   - **Projects:** Contributed to the Revolutionary App for Optimizing Business Processes
+

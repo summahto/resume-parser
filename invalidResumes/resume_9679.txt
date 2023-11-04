@@ -1,0 +1,10 @@
+9679. **Name:** Sam Gupta
+   - **Skills:** JavaScript, HTML, Node.js, Swift
+   - **Experience:** Senior Developer at DataExperts
+   - **Education:** Ph.D. in Engineering from Business School
+   - **References:** Sam Singh, Designer, charlie_lee@example.com
+Zane Gonzalez, Lead, zane_lee@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** leo_müller@example.com, Village, Artopia
+   - **Projects:** Led the Revolutionary Framework for Optimizing Collaboration
+

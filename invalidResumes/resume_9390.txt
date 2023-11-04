@@ -1,0 +1,10 @@
+9390. **Name:** Rachel Hernandez
+   - **Skills:** Swift, C#, SQL, Python
+   - **Experience:** Junior Manager at DataInnovators
+   - **Education:** Bachelor in Business Administration from Data Science School
+   - **References:** Rachel Gupta, Director, nathan_lópez@example.com
+Alice Li, Engineer, nathan_lópez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** patrick_rodriguez@example.com, Town, Inno Haven
+   - **Projects:** Led the Groundbreaking Project for Solving User Experience
+

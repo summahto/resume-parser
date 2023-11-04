@@ -1,0 +1,10 @@
+7047. **Name:** Charlie Chen
+   - **Skills:** JavaScript, Node.js, Java, Python
+   - **Experience:** Lead Scientist at DataExperts
+   - **Education:** Bachelor in Data Science from Data Science School
+   - **References:** Yuki Kumar, Scientist, eva_kumar@example.com
+Yuki Kim, Scientist, frank_white@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** ivy_cruz@example.com, City, Data Haven
+   - **Projects:** Contributed to the Cutting-edge Framework for Streamlining Business Processes
+

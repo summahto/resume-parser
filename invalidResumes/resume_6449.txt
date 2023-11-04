@@ -1,0 +1,10 @@
+6449. **Name:** Olivia Wang
+   - **Skills:** Big Data, Project Management, Cybersecurity, Android Development
+   - **Experience:** Lead Manager at DigitalSolutions
+   - **Education:** Ph.D. in Physics from Tech University
+   - **References:** David López, Analyst, henry_wang@example.com
+Alice Nguyen, CTO, ivy_rodriguez@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** ivy_jackson@example.com, Town, Green Valley
+   - **Projects:** Developed the Innovative Project for Streamlining Problem-solving
+

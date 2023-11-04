@@ -1,0 +1,10 @@
+9480. **Name:** Katherine Brown
+   - **Skills:** Graphic Design, Cloud Computing, AR/VR Development, CSS
+   - **Experience:** Junior Manager at InnovativeTech
+   - **Education:** Master in Computer Science from Physics Academy
+   - **References:** Ulysses Jones, Engineer, bob_lópez@example.com
+Jack Taylor, Manager, leo_kumar@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** leo_rodriguez@example.com, City, Data City
+   - **Projects:** Led the Innovative App for Solving Problem-solving
+

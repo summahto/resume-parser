@@ -1,0 +1,10 @@
+8717. **Name:** Charlie Patel
+   - **Skills:** Data Analysis, Python, Kubernetes, C#
+   - **Experience:** Junior Analyst at DataExperts
+   - **Education:** Ph.D. in Physics from Creative Arts College
+   - **References:** Walter Brown, Lead, ivy_lópez@example.com
+Frank Garcia, Developer, victoria_silva@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** david_smith@example.com, Village, Inno Haven
+   - **Projects:** Led the Innovative Framework for Streamlining Collaboration
+

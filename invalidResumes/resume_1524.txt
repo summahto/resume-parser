@@ -1,0 +1,10 @@
+1524. **Name:** Yuki Chen
+   - **Skills:** Vue.js, Git, iOS Development, Kubernetes
+   - **Experience:** Senior Developer at CreativeSolutions
+   - **Education:** Ph.D. in Data Science from Creative Arts College
+   - **References:** Mia Taylor, CEO, katherine_lópez@example.com
+Grace Taylor, Scientist, ivy_rodriguez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** zane_gupta@example.com, City, Techtopia
+   - **Projects:** Contributed to the Cutting-edge App for Solving Business Processes
+

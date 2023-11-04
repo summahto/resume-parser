@@ -1,0 +1,10 @@
+1495. **Name:** Charlie Jones
+   - **Skills:** IoT, AR/VR Development, CSS, Project Management
+   - **Experience:** Senior Developer at CreativeSolutions
+   - **Education:** Ph.D. in Physics from Tech University
+   - **References:** Quinn Miller, Analyst, ivy_lópez@example.com
+Yuki Wang, Director, ivy_wu@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** patrick_garcia@example.com, Town, Innoville
+   - **Projects:** Contributed to the Revolutionary System for Optimizing Business Processes
+

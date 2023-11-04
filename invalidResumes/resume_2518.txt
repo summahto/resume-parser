@@ -1,0 +1,10 @@
+2518. **Name:** Katherine López
+   - **Skills:** Docker, Angular, HTML, Project Management
+   - **Experience:** Lead Engineer at TechCorp
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Yuki Garcia, Director, katherine_lopez@example.com
+Quinn Jackson, Coordinator, zane_rodriguez@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** walter_jones@example.com, Town, Data City
+   - **Projects:** Led the Cutting-edge Project for Enhancing Data Analysis
+

@@ -1,0 +1,10 @@
+8564. **Name:** David Lee
+   - **Skills:** CSS, Angular, iOS Development, Big Data
+   - **Experience:** Senior Designer at TechInnovate
+   - **Education:** Master in Physics from Business School
+   - **References:** Walter Kumar, Lead, leo_jones@example.com
+Bob Silva, CTO, ulysses_brown@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** ulysses_lópez@example.com, Town, Green Valley
+   - **Projects:** Led the Innovative App for Enhancing User Experience
+

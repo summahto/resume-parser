@@ -1,0 +1,10 @@
+5230. **Name:** Leo White
+   - **Skills:** Android Development, Vue.js, IoT, Graphic Design
+   - **Experience:** Senior Scientist at DataExperts
+   - **Education:** Bachelor in Engineering from Creative Arts College
+   - **References:** Eva Wu, Analyst, xena_cruz@example.com
+Henry Miller, Analyst, olivia_kim@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** charlie_lópez@example.com, Town, Techland
+   - **Projects:** Contributed to the Innovative App for Solving Business Processes
+

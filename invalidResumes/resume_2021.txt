@@ -1,0 +1,10 @@
+2021. **Name:** Xena Lopez
+   - **Skills:** CSS, DevOps, iOS Development, Cybersecurity
+   - **Experience:** Lead Manager at InnovativeTech
+   - **Education:** Master in Art from Tech University
+   - **References:** Grace Patel, CTO, yuki_müller@example.com
+Eva Jackson, CEO, ulysses_silva@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** leo_patel@example.com, City, Inno Haven
+   - **Projects:** Contributed to the Revolutionary App for Streamlining Business Processes
+

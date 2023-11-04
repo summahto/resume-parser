@@ -1,0 +1,10 @@
+5103. **Name:** Patrick Jackson
+   - **Skills:** IoT, HTML, Angular, Git
+   - **Experience:** Lead Developer at CreativeMinds
+   - **Education:** Ph.D. in Data Science from Data Science School
+   - **References:** Zane López, Analyst, tina_lópez@example.com
+Charlie Hernandez, Developer, zane_taylor@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** yuki_nguyen@example.com, Town, Innovation Meadows
+   - **Projects:** Contributed to the Innovative App for Enhancing User Experience
+

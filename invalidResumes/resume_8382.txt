@@ -1,0 +1,10 @@
+8382. **Name:** Yuki Jackson
+   - **Skills:** Angular, C#, DevOps, Big Data
+   - **Experience:** Senior Engineer at DigitalSolutions
+   - **Education:** Ph.D. in Computer Science from Business School
+   - **References:** Xena Brown, Developer, bob_kumar@example.com
+Mia Silva, CEO, david_lópez@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** leo_chen@example.com, City, Artopia
+   - **Projects:** Developed the Groundbreaking Platform for Streamlining Collaboration
+

@@ -1,0 +1,10 @@
+4615. **Name:** Frank Jones
+   - **Skills:** Vue.js, Cloud Computing, Project Management, IoT
+   - **Experience:** Lead Engineer at DataExperts
+   - **Education:** Bachelor in Physics from Business School
+   - **References:** Olivia Jackson, Scientist, eva_white@example.com
+Katherine Yamamoto, Lead, frank_miller@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** henry_lópez@example.com, City, Data City
+   - **Projects:** Led the Cutting-edge System for Enhancing Data Analysis
+

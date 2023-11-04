@@ -1,0 +1,10 @@
+4074. **Name:** Frank Yamamoto
+   - **Skills:** JavaScript, Angular, Data Analysis, CSS
+   - **Experience:** Lead Scientist at CreativeMinds
+   - **Education:** Master in Physics from Inno Institute
+   - **References:** Eva Kumar, Manager, david_chen@example.com
+Eva Rodriguez, CEO, ulysses_lópez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** bob_jones@example.com, City, Data City
+   - **Projects:** Led the Groundbreaking Platform for Streamlining Collaboration
+

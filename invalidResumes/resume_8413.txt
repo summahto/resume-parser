@@ -1,0 +1,10 @@
+8413. **Name:** Tina Johnson
+   - **Skills:** Git, Graphic Design, IoT, SQL
+   - **Experience:** Lead Engineer at DigitalSolutions
+   - **Education:** Bachelor in Engineering from Data Science School
+   - **References:** Mia Chen, Manager, frank_sato@example.com
+Eva Sato, CTO, david_white@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** henry_lópez@example.com, Village, Artopia
+   - **Projects:** Contributed to the Cutting-edge Framework for Optimizing User Experience
+

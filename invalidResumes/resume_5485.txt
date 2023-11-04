@@ -1,0 +1,10 @@
+5485. **Name:** David Wu
+   - **Skills:** AR/VR Development, Java, Kubernetes, Vue.js
+   - **Experience:** Senior Analyst at InnovativeTech
+   - **Education:** Ph.D. in Business Administration from Inno Institute
+   - **References:** Walter Chen, Scientist, victoria_smith@example.com
+Patrick López, Engineer, olivia_silva@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** eva_wu@example.com, Town, Green Valley
+   - **Projects:** Led the Innovative Project for Optimizing User Experience
+

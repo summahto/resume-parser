@@ -1,0 +1,10 @@
+3610. **Name:** Katherine Nguyen
+   - **Skills:** DevOps, Android Development, IoT, AR/VR Development
+   - **Experience:** Senior Developer at CodeCrafters
+   - **Education:** Bachelor in Physics from Physics Academy
+   - **References:** Walter Wang, Engineer, nathan_patel@example.com
+Grace Wang, Analyst, patrick_lópez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** sam_yamamoto@example.com, City, Techtopia
+   - **Projects:** Developed the Cutting-edge Project for Streamlining Data Analysis
+

@@ -1,0 +1,10 @@
+5778. **Name:** Leo Smith
+   - **Skills:** HTML, C#, Node.js, JavaScript
+   - **Experience:** Lead Developer at CreativeSolutions
+   - **Education:** Bachelor in Business Administration from Inno Institute
+   - **References:** Mia Nguyen, Lead, ivy_lopez@example.com
+Xena Chen, Developer, xena_williams@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** olivia_lópez@example.com, Town, Data City
+   - **Projects:** Developed the Cutting-edge Framework for Solving Data Analysis
+

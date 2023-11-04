@@ -1,0 +1,10 @@
+1233. **Name:** Sam López
+   - **Skills:** Docker, Cloud Computing, AR/VR Development, Data Analysis
+   - **Experience:** Junior Developer at TechCorp
+   - **Education:** Master in Computer Science from Inno Institute
+   - **References:** Quinn Lee, Scientist, mia_jones@example.com
+Mia Silva, Analyst, katherine_smith@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** xena_wang@example.com, Town, Data Haven
+   - **Projects:** Developed the Groundbreaking Framework for Optimizing Collaboration
+

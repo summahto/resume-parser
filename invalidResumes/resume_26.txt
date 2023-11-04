@@ -1,0 +1,10 @@
+26. **Name:** Henry White
+   - **Skills:** Graphic Design, Angular, Network Administration, React
+   - **Experience:** Senior Manager at InnoSolutions
+   - **Education:** Ph.D. in Business Administration from Creative Arts College
+   - **References:** Zane López, Designer, ivy_lópez@example.com
+Zane Brown, Developer, victoria_wang@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** grace_wang@example.com, Town, Data City
+   - **Projects:** Contributed to the Groundbreaking Platform for Solving Business Processes
+

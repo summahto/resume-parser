@@ -1,0 +1,10 @@
+3756. **Name:** Alice López
+   - **Skills:** SQL, Agile, AR/VR Development, Node.js
+   - **Experience:** Lead Manager at TechCorp
+   - **Education:** Master in Art from Inno Institute
+   - **References:** Xena Lopez, CTO, yuki_cruz@example.com
+David Wu, CEO, patrick_lópez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** sam_taylor@example.com, Town, Artopia
+   - **Projects:** Developed the Cutting-edge Framework for Enhancing Business Processes
+

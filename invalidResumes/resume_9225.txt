@@ -1,0 +1,10 @@
+9225. **Name:** Patrick Gupta
+   - **Skills:** AR/VR Development, Graphic Design, Project Management, Angular
+   - **Experience:** Senior Engineer at TechCorp
+   - **Education:** Ph.D. in Physics from Physics Academy
+   - **References:** Eva Suzuki, CTO, jack_rodriguez@example.com
+Jack Lee, CEO, nathan_lópez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** leo_hernandez@example.com, Town, Data City
+   - **Projects:** Contributed to the Innovative App for Streamlining User Experience
+

@@ -1,0 +1,10 @@
+1282. **Name:** Katherine Gupta
+   - **Skills:** Git, Blockchain, Angular, DevOps
+   - **Experience:** Lead Developer at DigitalSolutions
+   - **Education:** Master in Data Science from Data Science School
+   - **References:** Patrick Miller, Developer, frank_davis@example.com
+Ulysses Smith, Coordinator, david_rodriguez@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** yuki_lópez@example.com, Town, Scienceburg
+   - **Projects:** Led the Revolutionary Project for Solving Collaboration
+

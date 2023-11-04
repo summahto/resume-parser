@@ -1,0 +1,10 @@
+6442. **Name:** Ivy Johnson
+   - **Skills:** Angular, HTML, Project Management, Python
+   - **Experience:** Senior Designer at CodeCrafters
+   - **Education:** Bachelor in Data Science from Creative Arts College
+   - **References:** Victoria Gupta, Analyst, leo_gupta@example.com
+Jack Hernandez, Manager, zane_lópez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** david_rodriguez@example.com, Village, Inno Haven
+   - **Projects:** Led the Groundbreaking Framework for Enhancing Data Analysis
+

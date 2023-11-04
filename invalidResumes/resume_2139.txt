@@ -1,0 +1,10 @@
+2139. **Name:** Charlie Kim
+   - **Skills:** Data Analysis, IoT, Node.js, SQL
+   - **Experience:** Lead Engineer at DataExperts
+   - **Education:** Bachelor in Physics from Inno Institute
+   - **References:** Leo Lopez, CTO, ulysses_kumar@example.com
+Katherine Nguyen, Designer, jack_lópez@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** david_lee@example.com, City, Techtopia
+   - **Projects:** Contributed to the Innovative Platform for Streamlining User Experience
+

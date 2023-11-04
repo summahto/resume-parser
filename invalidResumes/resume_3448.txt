@@ -1,0 +1,10 @@
+3448. **Name:** Leo Garcia
+   - **Skills:** Cloud Computing, React, Git, Blockchain
+   - **Experience:** Senior Designer at CreativeMinds
+   - **Education:** Master in Physics from Inno Institute
+   - **References:** Jack Wang, Director, leo_lópez@example.com
+Patrick Patel, CTO, henry_patel@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** charlie_silva@example.com, Village, Data Haven
+   - **Projects:** Contributed to the Innovative App for Streamlining User Experience
+

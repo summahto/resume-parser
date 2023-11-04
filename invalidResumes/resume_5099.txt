@@ -1,0 +1,10 @@
+5099. **Name:** Katherine Nguyen
+   - **Skills:** IoT, Android Development, React, Vue.js
+   - **Experience:** Junior Manager at CreativeSolutions
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Sam Kumar, Director, rachel_lópez@example.com
+Sam Jackson, CEO, zane_garcia@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** grace_smith@example.com, Village, Data Haven
+   - **Projects:** Developed the Cutting-edge Project for Solving Data Analysis
+

@@ -1,0 +1,10 @@
+9743. **Name:** Zane Jackson
+   - **Skills:** UI/UX Design, Kubernetes, Python, Docker
+   - **Experience:** Senior Designer at CreativeMinds
+   - **Education:** Master in Physics from Inno Institute
+   - **References:** Walter Rodriguez, Designer, yuki_brown@example.com
+Grace Müller, Developer, patrick_gupta@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** bob_rodriguez@example.com, City, Scienceburg
+   - **Projects:** Contributed to the Groundbreaking App for Solving Data Analysis
+

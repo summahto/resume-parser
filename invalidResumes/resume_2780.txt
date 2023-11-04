@@ -1,0 +1,10 @@
+2780. **Name:** Grace Jackson
+   - **Skills:** Vue.js, Java, Angular, Data Analysis
+   - **Experience:** Senior Engineer at CreativeSolutions
+   - **Education:** Master in Engineering from Physics Academy
+   - **References:** Frank Chen, Lead, grace_davis@example.com
+Xena López, CEO, victoria_white@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** sam_lópez@example.com, City, Data Haven
+   - **Projects:** Contributed to the Groundbreaking Project for Streamlining Collaboration
+

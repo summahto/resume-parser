@@ -1,0 +1,10 @@
+1405. **Name:** Charlie Davis
+   - **Skills:** JavaScript, CSS, Cloud Computing, Cybersecurity
+   - **Experience:** Lead Developer at CodeCrafters
+   - **Education:** Bachelor in Data Science from Creative Arts College
+   - **References:** Charlie Nguyen, Lead, victoria_brown@example.com
+Frank Rodriguez, Lead, rachel_smith@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** grace_lópez@example.com, Village, Inno Haven
+   - **Projects:** Led the Innovative Project for Solving Business Processes
+

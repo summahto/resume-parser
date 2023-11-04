@@ -1,0 +1,10 @@
+1819. **Name:** Zane Wu
+   - **Skills:** Big Data, Swift, Node.js, Android Development
+   - **Experience:** Junior Developer at DataExperts
+   - **Education:** Master in Business Administration from Inno Institute
+   - **References:** Tina Silva, Engineer, katherine_gupta@example.com
+Quinn Lee, Scientist, xena_müller@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** bob_kumar@example.com, Town, Green Valley
+   - **Projects:** Led the Cutting-edge Project for Solving Collaboration
+

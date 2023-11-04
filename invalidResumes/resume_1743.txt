@@ -1,0 +1,10 @@
+1743. **Name:** Leo Wu
+   - **Skills:** SQL, Project Management, Network Administration, Angular
+   - **Experience:** Junior Scientist at CreativeSolutions
+   - **Education:** Master in Art from Creative Arts College
+   - **References:** Ulysses Wu, Coordinator, charlie_nguyen@example.com
+David Garcia, Designer, olivia_cruz@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** henry_lópez@example.com, City, Techtopia
+   - **Projects:** Led the Groundbreaking Platform for Streamlining Data Analysis
+

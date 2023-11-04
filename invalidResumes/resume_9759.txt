@@ -1,0 +1,10 @@
+9759. **Name:** Zane Jones
+   - **Skills:** iOS Development, CSS, Project Management, JavaScript
+   - **Experience:** Junior Scientist at DataExperts
+   - **Education:** Ph.D. in Business Administration from Business School
+   - **References:** Xena Miller, Manager, bob_gupta@example.com
+Zane Jones, CEO, leo_jones@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** david_müller@example.com, City, Data City
+   - **Projects:** Developed the Revolutionary Framework for Solving Business Processes
+

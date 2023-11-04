@@ -1,0 +1,10 @@
+9550. **Name:** Patrick Gupta
+   - **Skills:** Git, React, Cloud Computing, Machine Learning
+   - **Experience:** Lead Analyst at CreativeSolutions
+   - **Education:** Master in Business Administration from Creative Arts College
+   - **References:** Mia López, Manager, walter_jones@example.com
+Quinn Lopez, CTO, charlie_kumar@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** eva_brown@example.com, City, Artopia
+   - **Projects:** Developed the Revolutionary System for Streamlining Business Processes
+

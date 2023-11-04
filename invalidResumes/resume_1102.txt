@@ -1,0 +1,10 @@
+1102. **Name:** Grace Wu
+   - **Skills:** Big Data, Python, Android Development, Project Management
+   - **Experience:** Senior Designer at CreativeMinds
+   - **Education:** Master in Computer Science from Physics Academy
+   - **References:** Katherine Lopez, Engineer, quinn_garcia@example.com
+Yuki López, Lead, tina_cruz@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** jack_wu@example.com, Town, Data Haven
+   - **Projects:** Led the Revolutionary App for Streamlining Business Processes
+

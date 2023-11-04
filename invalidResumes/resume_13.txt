@@ -1,0 +1,10 @@
+13. **Name:** Olivia López
+   - **Skills:** Kubernetes, UI/UX Design, Machine Learning, CSS
+   - **Experience:** Lead Analyst at CreativeSolutions
+   - **Education:** Ph.D. in Data Science from Tech University
+   - **References:** Rachel White, Director, xena_cruz@example.com
+Katherine Jones, Coordinator, zane_wang@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** zane_silva@example.com, Town, Green Valley
+   - **Projects:** Developed the Innovative Project for Optimizing Business Processes
+

@@ -1,0 +1,10 @@
+4945. **Name:** Ivy Silva
+   - **Skills:** Big Data, Kubernetes, DevOps, Cloud Computing
+   - **Experience:** Junior Developer at TechCorp
+   - **Education:** Master in Engineering from Business School
+   - **References:** Patrick Chen, Engineer, ivy_nguyen@example.com
+David White, Lead, eva_lopez@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** ivy_lópez@example.com, City, Innovation Meadows
+   - **Projects:** Developed the Innovative Project for Solving Problem-solving
+

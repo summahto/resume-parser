@@ -1,0 +1,10 @@
+4140. **Name:** Bob Wu
+   - **Skills:** UI/UX Design, CSS, Agile, HTML
+   - **Experience:** Junior Developer at DataInnovators
+   - **Education:** Bachelor in Engineering from Data Science School
+   - **References:** Walter Patel, Designer, walter_white@example.com
+Nathan López, Designer, eva_singh@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** patrick_garcia@example.com, City, Inno Haven
+   - **Projects:** Led the Groundbreaking Platform for Streamlining Collaboration
+

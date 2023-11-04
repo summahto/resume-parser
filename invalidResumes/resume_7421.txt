@@ -1,0 +1,10 @@
+7421. **Name:** Tina Jackson
+   - **Skills:** CSS, Big Data, AR/VR Development, Git
+   - **Experience:** Senior Manager at CodeCrafters
+   - **Education:** Master in Computer Science from Inno Institute
+   - **References:** Henry Smith, Developer, eva_wang@example.com
+Ivy Brown, CEO, charlie_kumar@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** leo_lópez@example.com, Village, Innoville
+   - **Projects:** Contributed to the Innovative Framework for Optimizing Business Processes
+

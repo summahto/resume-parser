@@ -1,0 +1,10 @@
+7760. **Name:** Rachel López
+   - **Skills:** SQL, Docker, Android Development, Project Management
+   - **Experience:** Lead Designer at CodeCrafters
+   - **Education:** Bachelor in Physics from Creative Arts College
+   - **References:** Xena Kumar, Manager, patrick_jackson@example.com
+Mia White, Manager, frank_jones@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** rachel_wu@example.com, Village, Artopia
+   - **Projects:** Developed the Innovative Framework for Solving Problem-solving
+

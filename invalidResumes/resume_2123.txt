@@ -1,0 +1,10 @@
+2123. **Name:** Sam López
+   - **Skills:** Big Data, C#, DevOps, IoT
+   - **Experience:** Senior Engineer at DataExperts
+   - **Education:** Bachelor in Data Science from Data Science School
+   - **References:** David Jackson, Manager, sam_chen@example.com
+Olivia Jackson, Manager, walter_gupta@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** ulysses_cruz@example.com, City, Innoville
+   - **Projects:** Developed the Groundbreaking Project for Streamlining Problem-solving
+

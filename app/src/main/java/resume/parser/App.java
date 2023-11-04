@@ -6,10 +6,15 @@ package resume.parser;
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.DirectoryStream;
+import java.nio.file.FileVisitOption;
+import java.nio.file.FileVisitResult;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.nio.file.SimpleFileVisitor;
+import java.nio.file.attribute.BasicFileAttributes;
 import java.util.ArrayList;
+import java.util.EnumSet;
 import java.util.List;
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;
@@ -17,33 +22,60 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 
-import parser.*;
-
 public class App {
 
     public static void main(String[] args) {
 
+        // checking time for parsing 100 resumes with 1 thread
         ExecutorService executorService = Executors.newFixedThreadPool(10);
 
         Path currentDir = Paths.get(".");
 
         System.out.println("-----Paths------");
 
-        // Path projectRoot = Paths.get(System.getProperty("user.dir"));
-        // System.out.println(currentDir.toAbsolutePath());
+        Path validResumeDirectory = Paths.get(currentDir.toString(), "validResumes/");
+        Path invalidResumeDirectory = Paths.get(currentDir.toString(), "invalidResumes/");
+
+        // Emptying valid and invalid Resumes Directory
+
+        if (isDirectoryEmpty(validResumeDirectory)) {
+            System.out.println("The directory" + validResumeDirectory.toAbsolutePath().toString() + "is empty.");
+        } else {
+            try {
+                deleteDirectoryContents(validResumeDirectory);
+                System.out.println("The directory's" + validResumeDirectory.toAbsolutePath().toString()
+                        + "contents have been deleted.");
+            } catch (IOException e) {
+                System.err.println("An error occurred: " + e);
+            }
+        }
+
+        if (isDirectoryEmpty(invalidResumeDirectory)) {
+            System.out.println("The directory" + invalidResumeDirectory.toAbsolutePath().toString() + "is empty.");
+        } else {
+            try {
+                deleteDirectoryContents(invalidResumeDirectory);
+                System.out.println("The directory's" + invalidResumeDirectory.toAbsolutePath().toString()
+                        + "contents have been deleted.");
+            } catch (IOException e) {
+                System.err.println("An error occurred: " + e);
+            }
+        }
 
         Path resumeDirectory = Paths.get(currentDir.toString(), "generatedResumes/");
-        System.out.println(resumeDirectory);
+        System.out.println(resumeDirectory.toAbsolutePath().toString());
+
+        // System.out.println(resumeDirectory);
 
         List<Callable<Boolean>> callableResumes = new ArrayList<>();
 
         try (DirectoryStream<Path> stream = Files.newDirectoryStream(resumeDirectory)) {
 
-            String [] list = {"Java, Python"};
+            String[] list = { "Java, Python" };
 
             for (Path resumePath : stream) {
                 if (Files.isRegularFile(resumePath)) {
-                    System.out.println("File: " + resumePath.getFileName());
+                    // System.out.println("File: " + resumePath.getFileName());
                     System.out.println(resumePath.toString());
                     callableResumes.add(new FileProcessor(resumePath, list));
                 }
@@ -51,6 +83,9 @@ public class App {
         } catch (IOException e) {
             e.printStackTrace();
         }
+
+        System.out.println("Parsing 1000 resumes with 10 threads ");
+        long startTime10Threads = System.currentTimeMillis();
 
         try {
             // Invoke all tasks and wait for their completion
@@ -70,6 +105,105 @@ public class App {
             executorService.shutdown();
         }
 
+        long endTime10Threads = System.currentTimeMillis();
+
+        String border = "╔═════════════════════════════╗\n" +
+                "║                             ║\n" +
+                "║ Time taken by 10 threads is: ║\n" +
+                "║   %,d milliseconds        ║\n" +
+                "║                             ║\n" +
+                "╚═════════════════════════════╝";
+
+        System.out.println(String.format(border, (endTime10Threads - startTime10Threads)));
+
+        // deleting the validResumes and invalidResumes directory for single thread to
+        // work on.
+
+        if (isDirectoryEmpty(validResumeDirectory)) {
+            System.out.println("The directory" + validResumeDirectory.toAbsolutePath().toString() + "is empty.");
+        } else {
+            try {
+                deleteDirectoryContents(validResumeDirectory);
+                System.out.println("The directory's" + validResumeDirectory.toAbsolutePath().toString()
+                        + "contents have been deleted.");
+            } catch (IOException e) {
+                System.err.println("An error occurred: " + e);
+            }
+        }
+
+        if (isDirectoryEmpty(invalidResumeDirectory)) {
+            System.out.println("The directory" + invalidResumeDirectory.toAbsolutePath().toString() + "is empty.");
+        } else {
+            try {
+                deleteDirectoryContents(invalidResumeDirectory);
+                System.out.println("The directory's" + invalidResumeDirectory.toAbsolutePath().toString()
+                        + "contents have been deleted.");
+            } catch (IOException e) {
+                System.err.println("An error occurred: " + e);
+            }
+        }
+
+        // checking time for parsing 100 resumes with 1 thread
+
+        ExecutorService executorServiceSingleThread = Executors.newFixedThreadPool(1);
+        System.out.println("Parsing 1000 resumes with 1 thread ");
+        long startTime1Thread = System.currentTimeMillis();
+
+        try {
+            // Invoke all tasks and wait for their completion
+            List<Future<Boolean>> results = executorServiceSingleThread.invokeAll(callableResumes);
+
+            for (Future<Boolean> future : results) {
+                future.get();
+            }
+
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        } catch (ExecutionException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        } finally {
+            // Shutdown the executor service when all tasks are done
+            executorServiceSingleThread.shutdown();
+        }
+
+        long endTime1Thread = System.currentTimeMillis();
+
+        String border2 = "╔═════════════════════════════╗\n" +
+                "║                             ║\n" +
+                "║ Time taken by 1 thread is: ║\n" +
+                "║   %,d milliseconds        ║\n" +
+                "║                             ║\n" +
+                "╚═════════════════════════════╝";
+
+        System.out.println(String.format(border2, (endTime1Thread - startTime1Thread)));
+
+    }
+
+    public static boolean isDirectoryEmpty(Path directory) {
+        try (DirectoryStream<Path> directoryStream = Files.newDirectoryStream(directory)) {
+            return !directoryStream.iterator().hasNext();
+        } catch (IOException e) {
+            // Handle the exception, e.g., directory doesn't exist or access denied.
+            return false;
+        }
+    }
+
+    public static void deleteDirectoryContents(Path directory) throws IOException {
+        Files.walkFileTree(directory, EnumSet.noneOf(FileVisitOption.class), Integer.MAX_VALUE,
+                new SimpleFileVisitor<Path>() {
+                    @Override
+                    public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
+                        Files.delete(file);
+                        return FileVisitResult.CONTINUE;
+                    }
+
+                    @Override
+                    public FileVisitResult visitFileFailed(Path file, IOException exc) throws IOException {
+                        // Handle the error, e.g., by logging or re-throwing the exception.
+                        return FileVisitResult.CONTINUE;
+                    }
+                });
     }
 
 }

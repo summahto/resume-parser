@@ -1,0 +1,10 @@
+6378. **Name:** Jack Kumar
+   - **Skills:** Docker, Java, Big Data, Machine Learning
+   - **Experience:** Junior Manager at DataExperts
+   - **Education:** Master in Art from Creative Arts College
+   - **References:** Alice Chen, Director, rachel_gupta@example.com
+Rachel Smith, Lead, bob_wu@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** ivy_lópez@example.com, Village, Inno Haven
+   - **Projects:** Developed the Innovative Framework for Enhancing User Experience
+

@@ -1,0 +1,10 @@
+7990. **Name:** Eva Chen
+   - **Skills:** Vue.js, Data Analysis, Cybersecurity, CSS
+   - **Experience:** Junior Scientist at CodeCrafters
+   - **Education:** Master in Physics from Physics Academy
+   - **References:** Zane Lopez, Analyst, olivia_silva@example.com
+Leo Lee, Designer, mia_kim@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** leo_lópez@example.com, Town, Innoville
+   - **Projects:** Led the Cutting-edge System for Solving Business Processes
+

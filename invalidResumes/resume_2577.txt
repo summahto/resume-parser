@@ -1,0 +1,10 @@
+2577. **Name:** Mia Gupta
+   - **Skills:** IoT, UI/UX Design, Python, iOS Development
+   - **Experience:** Senior Manager at CreativeMinds
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** Alice Lopez, Engineer, charlie_smith@example.com
+Olivia Gupta, Designer, nathan_müller@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** victoria_wu@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Groundbreaking System for Solving Collaboration
+

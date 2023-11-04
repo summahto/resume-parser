@@ -1,0 +1,10 @@
+3396. **Name:** Zane Nguyen
+   - **Skills:** Kubernetes, Git, C#, CSS
+   - **Experience:** Senior Designer at DataInnovators
+   - **Education:** Master in Physics from Physics Academy
+   - **References:** Zane Wang, CEO, quinn_müller@example.com
+Walter Cruz, Designer, mia_miller@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** victoria_nguyen@example.com, Village, Innoville
+   - **Projects:** Contributed to the Revolutionary System for Solving Business Processes
+

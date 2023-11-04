@@ -1,0 +1,10 @@
+8628. **Name:** Charlie Miller
+   - **Skills:** C#, Machine Learning, Git, Angular
+   - **Experience:** Junior Engineer at CodeCrafters
+   - **Education:** Ph.D. in Computer Science from Data Science School
+   - **References:** Bob Gupta, Analyst, walter_cruz@example.com
+Charlie Müller, Manager, frank_wang@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** sam_nguyen@example.com, Town, Data Haven
+   - **Projects:** Developed the Revolutionary Framework for Enhancing Problem-solving
+

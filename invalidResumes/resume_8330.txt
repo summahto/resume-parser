@@ -1,0 +1,10 @@
+8330. **Name:** Victoria Garcia
+   - **Skills:** Graphic Design, AR/VR Development, Network Administration, Kubernetes
+   - **Experience:** Lead Developer at TechInnovate
+   - **Education:** Master in Art from Inno Institute
+   - **References:** Bob Gupta, CTO, alice_lópez@example.com
+Yuki Lopez, Designer, xena_taylor@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** ulysses_brown@example.com, Village, Innoville
+   - **Projects:** Developed the Cutting-edge Project for Enhancing Collaboration
+

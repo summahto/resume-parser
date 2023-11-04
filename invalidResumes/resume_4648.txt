@@ -1,0 +1,10 @@
+4648. **Name:** Charlie López
+   - **Skills:** IoT, Machine Learning, Git, Network Administration
+   - **Experience:** Junior Analyst at DataExperts
+   - **Education:** Master in Data Science from Inno Institute
+   - **References:** Frank Jones, Manager, quinn_garcia@example.com
+Patrick White, Coordinator, henry_garcia@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** bob_patel@example.com, Village, Data City
+   - **Projects:** Developed the Revolutionary Project for Solving Collaboration
+

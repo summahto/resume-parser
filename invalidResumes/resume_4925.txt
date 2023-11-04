@@ -1,0 +1,10 @@
+4925. **Name:** Quinn López
+   - **Skills:** Cloud Computing, Project Management, Swift, React
+   - **Experience:** Junior Analyst at TechInnovate
+   - **Education:** Ph.D. in Computer Science from Inno Institute
+   - **References:** Jack Chen, Lead, frank_taylor@example.com
+Ivy Sato, Designer, frank_wu@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** jack_miller@example.com, Village, Inno Haven
+   - **Projects:** Developed the Groundbreaking App for Optimizing Problem-solving
+

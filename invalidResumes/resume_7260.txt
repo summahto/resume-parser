@@ -1,0 +1,10 @@
+7260. **Name:** Jack Cruz
+   - **Skills:** Angular, CSS, Docker, Network Administration
+   - **Experience:** Senior Scientist at DataExperts
+   - **Education:** Bachelor in Engineering from Business School
+   - **References:** Leo Jones, CEO, sam_kumar@example.com
+Nathan Rodriguez, Developer, eva_müller@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** ivy_lopez@example.com, City, Scienceburg
+   - **Projects:** Contributed to the Innovative Framework for Optimizing Business Processes
+

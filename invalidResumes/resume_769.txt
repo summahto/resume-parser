@@ -1,0 +1,10 @@
+769. **Name:** Patrick López
+   - **Skills:** Project Management, AR/VR Development, Node.js, Agile
+   - **Experience:** Junior Manager at CreativeSolutions
+   - **Education:** Bachelor in Art from Inno Institute
+   - **References:** Leo Cruz, Engineer, david_silva@example.com
+Henry Brown, CEO, patrick_garcia@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** xena_li@example.com, City, Green Valley
+   - **Projects:** Led the Groundbreaking Platform for Streamlining Business Processes
+

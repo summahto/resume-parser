@@ -1,0 +1,10 @@
+2617. **Name:** Mia Miller
+   - **Skills:** Kubernetes, Data Analysis, C#, UI/UX Design
+   - **Experience:** Senior Manager at TechCorp
+   - **Education:** Master in Art from Inno Institute
+   - **References:** Mia Garcia, Director, henry_lópez@example.com
+Walter Cruz, Coordinator, quinn_rodriguez@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** katherine_sato@example.com, Town, Data Haven
+   - **Projects:** Contributed to the Cutting-edge Project for Streamlining User Experience
+

@@ -1,0 +1,10 @@
+6645. **Name:** Jack Kumar
+   - **Skills:** iOS Development, HTML, Vue.js, Java
+   - **Experience:** Lead Manager at DataInnovators
+   - **Education:** Ph.D. in Business Administration from Inno Institute
+   - **References:** Bob Chen, Engineer, katherine_lópez@example.com
+Grace Silva, Lead, nathan_lee@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** bob_miller@example.com, Town, Data Haven
+   - **Projects:** Developed the Innovative Platform for Streamlining Collaboration
+

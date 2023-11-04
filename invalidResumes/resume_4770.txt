@@ -1,0 +1,10 @@
+4770. **Name:** Henry Cruz
+   - **Skills:** Swift, Graphic Design, CSS, Agile
+   - **Experience:** Lead Developer at InnoSolutions
+   - **Education:** Ph.D. in Business Administration from Tech University
+   - **References:** Ulysses Garcia, Engineer, frank_patel@example.com
+Sam Miller, Director, zane_rodriguez@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** frank_lópez@example.com, City, Techtopia
+   - **Projects:** Developed the Innovative Platform for Solving User Experience
+

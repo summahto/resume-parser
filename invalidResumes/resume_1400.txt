@@ -1,0 +1,10 @@
+1400. **Name:** Rachel Wu
+   - **Skills:** SQL, Agile, Java, Machine Learning
+   - **Experience:** Lead Manager at DataExperts
+   - **Education:** Bachelor in Art from Physics Academy
+   - **References:** Nathan Garcia, Manager, henry_lópez@example.com
+Leo Wu, Lead, katherine_kumar@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** eva_jackson@example.com, Village, Green Valley
+   - **Projects:** Led the Revolutionary App for Streamlining Problem-solving
+

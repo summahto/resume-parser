@@ -1,0 +1,10 @@
+3205. **Name:** Jack Gupta
+   - **Skills:** React, AR/VR Development, Android Development, Cybersecurity
+   - **Experience:** Junior Developer at DigitalSolutions
+   - **Education:** Bachelor in Art from Business School
+   - **References:** Charlie López, Director, rachel_lee@example.com
+Tina Wu, Developer, alice_rodriguez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** grace_miller@example.com, Village, Inno Haven
+   - **Projects:** Led the Revolutionary System for Solving Problem-solving
+

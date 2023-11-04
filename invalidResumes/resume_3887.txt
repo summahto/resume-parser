@@ -1,0 +1,10 @@
+3887. **Name:** Zane Lopez
+   - **Skills:** SQL, Cloud Computing, AR/VR Development, Docker
+   - **Experience:** Junior Designer at CreativeSolutions
+   - **Education:** Bachelor in Data Science from Tech University
+   - **References:** Quinn Yamamoto, Developer, ivy_jackson@example.com
+Sam López, Scientist, eva_rodriguez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** rachel_kumar@example.com, Village, Techtopia
+   - **Projects:** Contributed to the Innovative System for Streamlining Problem-solving
+

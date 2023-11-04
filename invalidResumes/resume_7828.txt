@@ -1,0 +1,10 @@
+7828. **Name:** Zane Nguyen
+   - **Skills:** Graphic Design, Android Development, Big Data, CSS
+   - **Experience:** Senior Engineer at DataInnovators
+   - **Education:** Bachelor in Art from Physics Academy
+   - **References:** Eva Kumar, Designer, henry_smith@example.com
+Grace Kumar, Engineer, sam_lópez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** mia_jones@example.com, Village, Techtopia
+   - **Projects:** Developed the Cutting-edge System for Streamlining Business Processes
+

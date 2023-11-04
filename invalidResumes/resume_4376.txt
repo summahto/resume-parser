@@ -1,0 +1,10 @@
+4376. **Name:** Olivia Li
+   - **Skills:** IoT, iOS Development, Agile, Java
+   - **Experience:** Lead Analyst at TechCorp
+   - **Education:** Ph.D. in Physics from Physics Academy
+   - **References:** Walter Brown, CEO, tina_wu@example.com
+Frank Cruz, Designer, xena_lópez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** olivia_cruz@example.com, City, Data Haven
+   - **Projects:** Developed the Revolutionary Project for Solving Data Analysis
+

@@ -1,0 +1,10 @@
+8060. **Name:** Grace Rodriguez
+   - **Skills:** Cybersecurity, Vue.js, CSS, iOS Development
+   - **Experience:** Junior Manager at InnovativeTech
+   - **Education:** Master in Art from Inno Institute
+   - **References:** Bob White, CTO, ulysses_patel@example.com
+Xena Lee, CTO, henry_wu@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** olivia_lópez@example.com, Village, Artopia
+   - **Projects:** Developed the Cutting-edge Framework for Optimizing Problem-solving
+

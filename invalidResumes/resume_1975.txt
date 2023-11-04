@@ -1,0 +1,10 @@
+1975. **Name:** Katherine Kumar
+   - **Skills:** CSS, AR/VR Development, Network Administration, Project Management
+   - **Experience:** Junior Manager at DigitalSolutions
+   - **Education:** Ph.D. in Business Administration from Data Science School
+   - **References:** David Silva, Engineer, leo_garcia@example.com
+Henry Lee, CEO, patrick_taylor@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** jack_lópez@example.com, Village, Techland
+   - **Projects:** Led the Cutting-edge System for Streamlining Data Analysis
+

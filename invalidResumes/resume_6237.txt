@@ -1,0 +1,10 @@
+6237. **Name:** Alice Gupta
+   - **Skills:** Swift, Java, IoT, Angular
+   - **Experience:** Lead Manager at DataInnovators
+   - **Education:** Ph.D. in Computer Science from Data Science School
+   - **References:** Charlie López, Manager, charlie_nguyen@example.com
+Sam Jones, Analyst, rachel_kumar@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** yuki_white@example.com, Town, Green Valley
+   - **Projects:** Led the Innovative System for Optimizing User Experience
+

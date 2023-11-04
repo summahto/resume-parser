@@ -1,0 +1,10 @@
+8562. **Name:** David Garcia
+   - **Skills:** Java, Blockchain, React, Swift
+   - **Experience:** Lead Designer at CodeCrafters
+   - **Education:** Master in Art from Physics Academy
+   - **References:** Ulysses Wu, CTO, alice_lópez@example.com
+Sam Jones, Engineer, xena_garcia@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** henry_brown@example.com, Town, Green Valley
+   - **Projects:** Developed the Cutting-edge App for Enhancing Data Analysis
+

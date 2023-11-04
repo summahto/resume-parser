@@ -1,0 +1,10 @@
+6678. **Name:** Mia López
+   - **Skills:** iOS Development, Blockchain, Cloud Computing, Swift
+   - **Experience:** Senior Designer at DataExperts
+   - **Education:** Master in Business Administration from Inno Institute
+   - **References:** Bob Brown, Coordinator, grace_jones@example.com
+Rachel Nguyen, CTO, ulysses_garcia@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** tina_wang@example.com, City, Scienceburg
+   - **Projects:** Contributed to the Cutting-edge Platform for Streamlining User Experience
+

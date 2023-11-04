@@ -1,0 +1,10 @@
+4661. **Name:** Zane Miller
+   - **Skills:** Vue.js, Angular, SQL, Kubernetes
+   - **Experience:** Junior Scientist at DataInnovators
+   - **Education:** Master in Business Administration from Business School
+   - **References:** Rachel López, Designer, grace_gupta@example.com
+Alice Chen, Analyst, alice_lee@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** grace_lee@example.com, City, Innoville
+   - **Projects:** Contributed to the Groundbreaking Platform for Optimizing Data Analysis
+

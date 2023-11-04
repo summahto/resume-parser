@@ -1,0 +1,10 @@
+2250. **Name:** Katherine Kim
+   - **Skills:** iOS Development, React, IoT, Project Management
+   - **Experience:** Senior Developer at DataExperts
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Sam White, Engineer, sam_wang@example.com
+Tina Smith, Director, nathan_lópez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** olivia_kim@example.com, Village, Innovation Meadows
+   - **Projects:** Led the Revolutionary App for Enhancing Collaboration
+

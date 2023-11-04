@@ -1,0 +1,10 @@
+6195. **Name:** Xena Nguyen
+   - **Skills:** Git, Machine Learning, JavaScript, Angular
+   - **Experience:** Junior Analyst at CreativeMinds
+   - **Education:** Bachelor in Physics from Physics Academy
+   - **References:** Henry Wu, Coordinator, david_wu@example.com
+Victoria Lopez, Manager, frank_lópez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** nathan_patel@example.com, City, Artopia
+   - **Projects:** Developed the Revolutionary Project for Optimizing Problem-solving
+

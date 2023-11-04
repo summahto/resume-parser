@@ -1,0 +1,10 @@
+4976. **Name:** Bob López
+   - **Skills:** Machine Learning, Angular, HTML, Vue.js
+   - **Experience:** Junior Engineer at DataExperts
+   - **Education:** Bachelor in Art from Business School
+   - **References:** Jack Lopez, Developer, sam_brown@example.com
+Olivia Smith, Analyst, yuki_lopez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** quinn_jackson@example.com, City, Scienceburg
+   - **Projects:** Developed the Innovative Platform for Optimizing User Experience
+

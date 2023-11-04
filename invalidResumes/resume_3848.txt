@@ -1,0 +1,10 @@
+3848. **Name:** Jack López
+   - **Skills:** HTML, Python, IoT, SQL
+   - **Experience:** Junior Engineer at DigitalSolutions
+   - **Education:** Bachelor in Art from Data Science School
+   - **References:** Rachel Silva, Analyst, yuki_white@example.com
+Charlie Cruz, Designer, charlie_wu@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** olivia_miller@example.com, City, Scienceburg
+   - **Projects:** Contributed to the Groundbreaking Framework for Enhancing User Experience
+

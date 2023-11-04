@@ -1,0 +1,10 @@
+3051. **Name:** Ivy Cruz
+   - **Skills:** IoT, Kubernetes, Git, Android Development
+   - **Experience:** Junior Designer at CreativeMinds
+   - **Education:** Ph.D. in Data Science from Business School
+   - **References:** Rachel Müller, Director, eva_sato@example.com
+Grace Jones, Lead, nathan_lópez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** alice_lee@example.com, Village, Techland
+   - **Projects:** Developed the Groundbreaking Platform for Streamlining Problem-solving
+

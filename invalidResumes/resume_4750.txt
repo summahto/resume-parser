@@ -1,0 +1,10 @@
+4750. **Name:** Olivia López
+   - **Skills:** Docker, SQL, Graphic Design, Java
+   - **Experience:** Lead Engineer at CreativeMinds
+   - **Education:** Ph.D. in Data Science from Inno Institute
+   - **References:** Alice Chen, Developer, frank_lópez@example.com
+Alice Lopez, Lead, ulysses_white@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** charlie_nguyen@example.com, Town, Innoville
+   - **Projects:** Contributed to the Groundbreaking Platform for Streamlining Problem-solving
+

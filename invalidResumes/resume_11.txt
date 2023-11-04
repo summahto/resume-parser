@@ -1,0 +1,10 @@
+11. **Name:** Frank López
+   - **Skills:** Project Management, Cybersecurity, Android Development, Data Analysis
+   - **Experience:** Senior Designer at TechCorp
+   - **Education:** Bachelor in Engineering from Inno Institute
+   - **References:** Ivy Jones, Developer, nathan_nguyen@example.com
+Quinn Garcia, Coordinator, ulysses_kumar@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** jack_nguyen@example.com, Town, Data City
+   - **Projects:** Led the Revolutionary System for Streamlining Business Processes
+

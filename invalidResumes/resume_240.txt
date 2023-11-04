@@ -1,0 +1,10 @@
+240. **Name:** Olivia Lopez
+   - **Skills:** Cybersecurity, Project Management, HTML, CSS
+   - **Experience:** Senior Developer at TechCorp
+   - **Education:** Master in Physics from Tech University
+   - **References:** Frank Gonzalez, Engineer, walter_jackson@example.com
+Charlie Kumar, Designer, quinn_lópez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** alice_cruz@example.com, Town, Data Haven
+   - **Projects:** Developed the Cutting-edge System for Optimizing Business Processes
+

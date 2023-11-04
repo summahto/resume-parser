@@ -1,0 +1,10 @@
+7303. **Name:** Katherine Lee
+   - **Skills:** UI/UX Design, Project Management, CSS, Android Development
+   - **Experience:** Senior Manager at TechInnovate
+   - **Education:** Master in Business Administration from Physics Academy
+   - **References:** Nathan Taylor, Manager, tina_müller@example.com
+Charlie Kim, Coordinator, leo_rodriguez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** nathan_kumar@example.com, City, Scienceburg
+   - **Projects:** Developed the Innovative Project for Streamlining Problem-solving
+

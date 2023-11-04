@@ -1,0 +1,10 @@
+1817. **Name:** Olivia Miller
+   - **Skills:** Cybersecurity, UI/UX Design, Docker, IoT
+   - **Experience:** Lead Developer at TechCorp
+   - **Education:** Master in Art from Business School
+   - **References:** Eva Gupta, Engineer, jack_lópez@example.com
+Charlie López, CEO, xena_lopez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** sam_nguyen@example.com, City, Techland
+   - **Projects:** Led the Groundbreaking Platform for Solving Problem-solving
+

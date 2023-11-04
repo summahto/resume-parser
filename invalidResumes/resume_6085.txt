@@ -1,0 +1,10 @@
+6085. **Name:** Jack Nguyen
+   - **Skills:** Network Administration, Big Data, Node.js, Graphic Design
+   - **Experience:** Senior Analyst at TechInnovate
+   - **Education:** Bachelor in Computer Science from Inno Institute
+   - **References:** Bob Nguyen, Scientist, sam_müller@example.com
+Zane Kim, Manager, zane_jones@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** olivia_garcia@example.com, City, Inno Haven
+   - **Projects:** Developed the Innovative App for Streamlining Problem-solving
+

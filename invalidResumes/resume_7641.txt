@@ -1,0 +1,10 @@
+7641. **Name:** Jack Suzuki
+   - **Skills:** Cybersecurity, Python, HTML, Docker
+   - **Experience:** Junior Manager at CreativeMinds
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** Olivia Silva, Director, rachel_brown@example.com
+Walter López, Scientist, ivy_miller@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** henry_wang@example.com, Village, Scienceburg
+   - **Projects:** Led the Cutting-edge App for Streamlining User Experience
+

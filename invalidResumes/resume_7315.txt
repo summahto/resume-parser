@@ -1,0 +1,10 @@
+7315. **Name:** Leo Kumar
+   - **Skills:** AR/VR Development, DevOps, Swift, Python
+   - **Experience:** Junior Manager at CodeCrafters
+   - **Education:** Bachelor in Art from Creative Arts College
+   - **References:** Ulysses López, Lead, david_silva@example.com
+Rachel Chen, Coordinator, xena_kumar@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** ivy_chen@example.com, Town, Green Valley
+   - **Projects:** Led the Revolutionary Framework for Streamlining User Experience
+

@@ -1,0 +1,10 @@
+6932. **Name:** David Wu
+   - **Skills:** AR/VR Development, Data Analysis, Vue.js, HTML
+   - **Experience:** Lead Scientist at DigitalSolutions
+   - **Education:** Bachelor in Art from Physics Academy
+   - **References:** Rachel Lee, Scientist, sam_kumar@example.com
+Rachel Suzuki, Developer, quinn_wu@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** henry_lópez@example.com, City, Innoville
+   - **Projects:** Developed the Innovative App for Solving Collaboration
+

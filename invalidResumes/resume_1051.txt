@@ -1,0 +1,10 @@
+1051. **Name:** Henry Jackson
+   - **Skills:** Graphic Design, Docker, IoT, HTML
+   - **Experience:** Senior Scientist at InnovativeTech
+   - **Education:** Master in Data Science from Physics Academy
+   - **References:** Katherine Patel, Scientist, frank_brown@example.com
+Henry Nguyen, Developer, grace_jackson@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** bob_lópez@example.com, Town, Techtopia
+   - **Projects:** Developed the Innovative Framework for Enhancing Problem-solving
+

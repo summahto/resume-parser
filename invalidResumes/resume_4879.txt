@@ -1,0 +1,10 @@
+4879. **Name:** Patrick López
+   - **Skills:** C#, HTML, Data Analysis, Android Development
+   - **Experience:** Lead Manager at DataExperts
+   - **Education:** Ph.D. in Physics from Inno Institute
+   - **References:** Alice Wu, Coordinator, leo_lee@example.com
+Yuki Miller, Manager, walter_gupta@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** leo_lee@example.com, Town, Artopia
+   - **Projects:** Developed the Groundbreaking App for Streamlining Collaboration
+

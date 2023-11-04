@@ -1,0 +1,10 @@
+5972. **Name:** Nathan López
+   - **Skills:** AR/VR Development, Project Management, Android Development, React
+   - **Experience:** Junior Engineer at DataInnovators
+   - **Education:** Bachelor in Physics from Physics Academy
+   - **References:** Henry Gonzalez, Engineer, henry_lópez@example.com
+Quinn Smith, CEO, alice_nguyen@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** patrick_cruz@example.com, City, Data Haven
+   - **Projects:** Developed the Innovative System for Solving User Experience
+

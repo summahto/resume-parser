@@ -1,0 +1,10 @@
+9683. **Name:** Ulysses López
+   - **Skills:** Network Administration, Vue.js, Project Management, SQL
+   - **Experience:** Senior Designer at TechCorp
+   - **Education:** Bachelor in Business Administration from Physics Academy
+   - **References:** Ivy Kumar, Lead, tina_nguyen@example.com
+Yuki Wang, Developer, david_wang@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** bob_lopez@example.com, City, Artopia
+   - **Projects:** Developed the Groundbreaking System for Streamlining Problem-solving
+

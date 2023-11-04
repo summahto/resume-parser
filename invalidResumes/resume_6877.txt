@@ -1,0 +1,10 @@
+6877. **Name:** Eva Lopez
+   - **Skills:** Project Management, React, Python, Agile
+   - **Experience:** Junior Developer at TechCorp
+   - **Education:** Master in Data Science from Data Science School
+   - **References:** Frank López, Scientist, quinn_jackson@example.com
+Ivy Kim, Coordinator, alice_white@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** olivia_rodriguez@example.com, City, Techtopia
+   - **Projects:** Led the Groundbreaking App for Streamlining User Experience
+

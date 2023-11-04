@@ -1,0 +1,10 @@
+6760. **Name:** Bob Nguyen
+   - **Skills:** Machine Learning, CSS, Agile, Docker
+   - **Experience:** Junior Designer at CreativeMinds
+   - **Education:** Bachelor in Art from Data Science School
+   - **References:** Victoria Kim, Coordinator, alice_jackson@example.com
+Yuki López, Manager, henry_davis@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** sam_chen@example.com, Town, Inno Haven
+   - **Projects:** Developed the Cutting-edge Platform for Optimizing Collaboration
+

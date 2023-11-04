@@ -1,0 +1,10 @@
+6865. **Name:** Zane Lopez
+   - **Skills:** AR/VR Development, Big Data, UI/UX Design, HTML
+   - **Experience:** Senior Scientist at DataExperts
+   - **Education:** Bachelor in Art from Business School
+   - **References:** Nathan Chen, Developer, victoria_smith@example.com
+Frank Smith, Analyst, tina_lópez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** olivia_lee@example.com, City, Data Haven
+   - **Projects:** Contributed to the Cutting-edge System for Optimizing Collaboration
+

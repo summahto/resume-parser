@@ -1,0 +1,10 @@
+8409. **Name:** Olivia White
+   - **Skills:** Network Administration, Agile, Vue.js, C#
+   - **Experience:** Lead Developer at DigitalSolutions
+   - **Education:** Ph.D. in Art from Creative Arts College
+   - **References:** Henry Jackson, Manager, katherine_garcia@example.com
+Quinn Silva, Designer, leo_garcia@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** alice_lópez@example.com, City, Data City
+   - **Projects:** Led the Innovative App for Streamlining Collaboration
+

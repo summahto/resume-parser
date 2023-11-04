@@ -1,0 +1,10 @@
+3872. **Name:** Bob Garcia
+   - **Skills:** iOS Development, Vue.js, Docker, Network Administration
+   - **Experience:** Junior Analyst at CodeCrafters
+   - **Education:** Ph.D. in Art from Creative Arts College
+   - **References:** Walter Yamamoto, Designer, henry_kim@example.com
+Olivia López, Lead, rachel_nguyen@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** patrick_lopez@example.com, City, Artopia
+   - **Projects:** Developed the Groundbreaking Project for Enhancing User Experience
+

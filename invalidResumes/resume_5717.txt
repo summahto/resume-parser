@@ -1,0 +1,10 @@
+5717. **Name:** Charlie Garcia
+   - **Skills:** AR/VR Development, Cybersecurity, DevOps, Graphic Design
+   - **Experience:** Junior Engineer at DataInnovators
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Victoria Nguyen, Coordinator, victoria_lópez@example.com
+Jack White, CEO, rachel_brown@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** katherine_kim@example.com, Town, Techland
+   - **Projects:** Developed the Innovative Project for Solving Business Processes
+

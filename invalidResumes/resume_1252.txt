@@ -1,0 +1,10 @@
+1252. **Name:** Frank Brown
+   - **Skills:** Graphic Design, UI/UX Design, Docker, React
+   - **Experience:** Junior Scientist at CreativeSolutions
+   - **Education:** Bachelor in Physics from Business School
+   - **References:** Charlie López, Manager, jack_jones@example.com
+Tina Williams, Coordinator, yuki_cruz@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** quinn_patel@example.com, City, Scienceburg
+   - **Projects:** Developed the Groundbreaking App for Optimizing Problem-solving
+

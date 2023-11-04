@@ -1,0 +1,10 @@
+6781. **Name:** Quinn Jackson
+   - **Skills:** Angular, IoT, Agile, C#
+   - **Experience:** Senior Engineer at InnoSolutions
+   - **Education:** Master in Data Science from Tech University
+   - **References:** Xena Sato, Manager, ivy_müller@example.com
+Henry Kim, Developer, katherine_nguyen@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** ulysses_gupta@example.com, Village, Scienceburg
+   - **Projects:** Led the Revolutionary App for Enhancing Collaboration
+
