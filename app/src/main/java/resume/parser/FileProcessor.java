@@ -2,12 +2,6 @@ package resume.parser;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.nio.file.StandardCopyOption;
-import java.io.File;
-import java.io.FileWriter;
-import java.nio.file.CopyOption;
-import java.nio.file.DirectoryNotEmptyException;
-import java.nio.file.FileAlreadyExistsException;
 import java.nio.file.Files;
 import java.util.concurrent.Callable;
 

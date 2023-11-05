@@ -1,5 +1,6 @@
 import os
 import random
+import sys
 
 def generate_resume(index):
     return f"{index}. **Name:** {generate_name()}\n" \
@@ -12,10 +13,10 @@ def generate_resume(index):
            f"   - **Projects:** {generate_projects()}\n\n"
 
 def generate_name():
-    return f"{random.choice(['Alice', 'Bob', 'Charlie', 'David', 'Eva', 'Frank', 'Grace', 'Henry', 'Ivy', 'Jack', 'Katherine', 'Leo', 'Mia', 'Nathan', 'Olivia', 'Patrick', 'Quinn', 'Rachel', 'Sam', 'Tina', 'Ulysses', 'Victoria', 'Walter', 'Xena', 'Yuki', 'Zane'])} {random.choice(['Johnson', 'Smith', 'Brown', 'Lee', 'Wang', 'Garcia', 'Patel', 'Kim', 'Davis', 'Singh', 'Chen', 'Jones', 'Nguyen', 'Gupta', 'Silva', 'Lee', 'Yamamoto', 'Rodriguez', 'Cruz', 'White', 'Lopez', 'Wu', 'Hernandez', 'Miller', 'Jackson', 'Kumar', 'Taylor', 'Gonzalez', 'Williams', 'Li', 'Smith', 'Kim', 'Sato', 'Gupta', 'Lopez', 'Müller', 'Lee', 'Wang', 'Chen', 'Suzuki', 'Brown', 'Nguyen', 'Garcia', 'Patel', 'Jones', 'Kumar', 'Smith', 'Yamamoto', 'Rodriguez', 'Wu', 'López', 'White', 'Silva', 'Cruz', 'Miller', 'Jackson', 'Nguyen', 'Lee', 'Lopez', 'Chen', 'Garcia', 'Smith', 'Kumar', 'Patel', 'Wang', 'Jones', 'Rodriguez', 'Wu', 'White', 'Taylor', 'López', 'Silva', 'Cruz', 'Brown', 'Miller', 'Kumar', 'Jackson', 'Nguyen', 'Lee', 'Gupta', 'Kumar', 'Lopez', 'Chen', 'Jones', 'Wu', 'Rodriguez', 'Garcia', 'Patel', 'White', 'Taylor', 'López', 'Silva', 'Cruz', 'Brown', 'Miller', 'Kumar', 'Jackson', 'Nguyen', 'Lee', 'Gupta'])}"
+    return f"{random.choice(['Alice', 'Bob', 'Charlie', 'David', 'Eva', 'Frank', 'Grace', 'Henry', 'Ivy', 'Jack', 'Katherine', 'Leo', 'Mia', 'Nathan', 'Olivia', 'Patrick', 'Quinn', 'Rachel', 'Sam', 'Tina', 'Ulysses', 'Victoria', 'Walter', 'Xena', 'Yuki', 'Zane'])} {random.choice(['Johnson', 'Smith', 'Brown', 'Lee', 'Wang', 'Garcia', 'Patel', 'Kim', 'Davis', 'Singh', 'Chen', 'Jones', 'Nguyen', 'Gupta', 'Silva', 'Lee', 'Yamamoto', 'Rodriguez', 'Cruz', 'White', 'Lopez', 'Wu', 'Hernandez', 'Miller', 'Jackson', 'Kumar', 'Taylor', 'Gonzalez', 'Williams', 'Li', 'Smith', 'Kim', 'Sato', 'Gupta', 'Lopez', 'M체ller', 'Lee', 'Wang', 'Chen', 'Suzuki', 'Brown', 'Nguyen', 'Garcia', 'Patel', 'Jones', 'Kumar', 'Smith', 'Yamamoto', 'Rodriguez', 'Wu', 'L처pez', 'White', 'Silva', 'Cruz', 'Miller', 'Jackson', 'Nguyen', 'Lee', 'Lopez', 'Chen', 'Garcia', 'Smith', 'Kumar', 'Patel', 'Wang', 'Jones', 'Rodriguez', 'Wu', 'White', 'Taylor', 'L처pez', 'Silva', 'Cruz', 'Brown', 'Miller', 'Kumar', 'Jackson', 'Nguyen', 'Lee', 'Gupta', 'Kumar', 'Lopez', 'Chen', 'Jones', 'Wu', 'Rodriguez', 'Garcia', 'Patel', 'White', 'Taylor', 'L처pez', 'Silva', 'Cruz', 'Brown', 'Miller', 'Kumar', 'Jackson', 'Nguyen', 'Lee', 'Gupta'])}"
 
 def generate_skills():
-    return ", ".join(random.sample(['Java', 'Python', 'C#', 'JavaScript', 'HTML', 'CSS', 'SQL', 'React', 'Angular', 'Node.js', 'Vue.js', 'Machine Learning', 'Data Analysis', 'Graphic Design', 'Project Management', 'Agile', 'Git', 'Docker', 'Kubernetes', 'Swift', 'Android Development', 'iOS Development', 'UI/UX Design', 'Blockchain', 'Cybersecurity', 'Network Administration', 'Cloud Computing', 'DevOps', 'Big Data', 'IoT', 'AR/VR Development'], 4))
+    return ", ".join(random.sample(['Java', 'Python', 'C#', 'JavaScript', 'HTML', 'CSS', 'SQL', 'React', 'Angular', 'Node.js', 'Vue.js', 'Machine Learning', 'Data Analysis', 'Graphic Design', 'Project Management', 'Agile', 'Git', 'Docker', 'Kubernetes', 'Swift', 'Android Development', 'iOS Development', 'UI/UX Design', 'Blockchain', 'Cybersecurity', 'Network Administration', 'Cloud Computing', 'DevOps', 'Big Data', 'IoT', 'AR/VR Development'], k=random.randint(3, 16)))
 
 def generate_experience():
     return f"{random.choice(['Lead', 'Senior', 'Junior'])} {random.choice(['Developer', 'Engineer', 'Designer', 'Scientist', 'Analyst', 'Manager'])} at {generate_company()}"
@@ -53,10 +54,15 @@ def generate_projects():
            f"{random.choice(['Project', 'App', 'System', 'Framework', 'Platform'])} for {random.choice(['Optimizing', 'Enhancing', 'Streamlining', 'Solving'])} {random.choice(['Business Processes', 'User Experience', 'Data Analysis', 'Problem-solving', 'Collaboration'])}"
 
 def main():
+    if len(sys.argv) != 2:
+        print("Usage: python script.py <upper_bound>")
+        sys.exit(1)
+
+    upper_bound = int(sys.argv[1])
     output_directory = "generatedResumes"
     os.makedirs(output_directory, exist_ok=True)
 
-    for i in range(1, 10000):
+    for i in range(1, upper_bound + 1):
         output_file = os.path.join(output_directory, f"resume_{i}.txt")
         with open(output_file, "w") as file:
             file.write(generate_resume(i))
