@@ -1,10 +1,10 @@
-1. **Name:** Xena Kumar
-   - **Skills:** Project Management, C#, Swift, UI/UX Design
-   - **Experience:** Senior Developer at DataExperts
-   - **Education:** Master in Engineering from Data Science School
-   - **References:** Patrick Gupta, Designer, alice_miller@example.com
-Olivia Garcia, CTO, david_wang@example.com
-   - **Volunteering:** Food Drive
-   - **Contact Information:** ulysses_rodriguez@example.com, Town, Techtopia
-   - **Projects:** Contributed to the Revolutionary Platform for Solving User Experience
+**Name:** Luna Stardust
+- **Skills:** Galactic Diplomacy, Nebula Navigation, Celestial Communication
+- **Experience:** Ambassador to the Starlight Council, Captain of the Interstellar Cruiser "Aurora Borealis"
+- **Education:** Cosmic Diplomacy Academy, Nebula University
+- **References:**
+- Celestia Galaxywhisper, Starlight Council Ambassador, celestiagalaxywhisper@email.com
+- Captain Orion Skyblade, Mentor at Nebula University, orionskyblade@email.com
+- **Volunteering:** Celestial Clean-Up Crew, Nebula Neighborhood Watch
+- **Contact Information:** luna.stardust@email.com, Galactic Avenue, Star City
 

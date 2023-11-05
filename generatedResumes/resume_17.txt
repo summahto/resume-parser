@@ -1,10 +1,10 @@
-17. **Name:** Charlie Gupta
-   - **Skills:** DevOps, Agile, Machine Learning, Swift
-   - **Experience:** Junior Manager at DataInnovators
-   - **Education:** Bachelor in Engineering from Business School
-   - **References:** Mia White, Designer, ulysses_rodriguez@example.com
-Zane Lee, Analyst, zane_chen@example.com
-   - **Volunteering:** Community Cleanup
-   - **Contact Information:** leo_wang@example.com, Village, Innoville
-   - **Projects:** Led the Cutting-edge Platform for Optimizing User Experience
+**Name:** Daring Doodlebug
+- **Skills:** Epic Doodling, Cartoon Combat, Comic Book Creation, Python
+- **Experience:** Doodle Warrior of the Sketch Squad, Creator of the Mighty Doodlebug Comics
+- **Education:** Cartoon Combat Academy, Doodle Arts Institute
+- **References:**
+- Doodle Dynamo, Artistic General, doodle.dynamo@email.com
+- Cartoon Commander, Comic Craftsman, cartoon.commander@email.com
+- **Volunteering:** Doodles for Charity, Comic Relief Crusade
+- **Contact Information:** daring.doodlebug@email.com, Doodle Haven, Sketchburg
 

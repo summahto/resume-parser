@@ -1,10 +1,10 @@
-6. **Name:** Olivia Hernandez
-   - **Skills:** iOS Development, Network Administration, Graphic Design, HTML
-   - **Experience:** Senior Developer at TechCorp
-   - **Education:** Bachelor in Engineering from Physics Academy
-   - **References:** David Gupta, Manager, sam_silva@example.com
-Leo Lee, Developer, alice_patel@example.com
-   - **Volunteering:** Healthcare Support
-   - **Contact Information:** grace_brown@example.com, Village, Data Haven
-   - **Projects:** Led the Groundbreaking App for Streamlining Data Analysis
+**Name:** Professor Quizzleton
+- **Skills:** Riddle Crafting, Enigma Solving, Sphinx Negotiation
+- **Experience:** Headmaster at the Puzzlementary School of Riddles, Chief Negotiator with Sphinx Syndicate
+- **Education:** University of Puzzlology, Sphinx Studies Department
+- **References:**
+- Puzzle Sage Mystique, Sphinx Syndicate Leader, puzzle.mystique@email.com
+- Riddle Rhapsody, Puzzle Professor, riddle.rhapsody@email.com
+- **Volunteering:** Riddles for Orphans, Sphinx Habitat Restoration
+- **Contact Information:** professor.quizzleton@email.com, Enigma Hall, Puzzlantis
 

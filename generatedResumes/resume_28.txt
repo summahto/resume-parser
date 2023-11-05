@@ -1,10 +1,10 @@
-28. **Name:** Jack Sato
-   - **Skills:** Graphic Design, AR/VR Development, Angular, JavaScript
-   - **Experience:** Senior Analyst at TechInnovate
-   - **Education:** Bachelor in Art from Physics Academy
-   - **References:** Quinn Kumar, Engineer, quinn_white@example.com
-Charlie Lee, Designer, henry_silva@example.com
-   - **Volunteering:** Healthcare Support
-   - **Contact Information:** patrick_jackson@example.com, Town, Data City
-   - **Projects:** Contributed to the Groundbreaking Platform for Streamlining Business Processes
+**Name:** Lady Lullaby
+- **Skills:** Sleepytime Symphony, Dream Weaving, Pillow Fluffing, Python
+- **Experience:** Dream Maestro of the Night Sky Orchestra, Chief Fluffer at the Cosmic Pillow Emporium
+- **Education:** Lullaby Conservatory, Pillowcraft Academy
+- **References:**
+- Lullaby Luminary, Dream Diva, lullaby.luminary@email.com
+- Pillowcraft Prodigy, Fluffmaster General, pillowcraft.prodigy@email.com
+- **Volunteering:** Lullabies for Little Ones, Pillow Puffing for Peace
+- **Contact Information:** lady.lullaby@email.com, Dream Dome, Slumberville
 

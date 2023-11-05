@@ -1,10 +1,10 @@
-22. **Name:** Tina Lee
-   - **Skills:** Docker, Blockchain, Cybersecurity, UI/UX Design
-   - **Experience:** Junior Engineer at CreativeMinds
-   - **Education:** Ph.D. in Art from Creative Arts College
-   - **References:** Xena Miller, Lead, yuki_garcia@example.com
-Sam Wu, Scientist, ulysses_smith@example.com
-   - **Volunteering:** Healthcare Support
-   - **Contact Information:** ivy_taylor@example.com, City, Innovation Meadows
-   - **Projects:** Developed the Innovative App for Enhancing User Experience
+**Name:** Galactic Gamer Glitch
+- **Skills:** Virtual Reality Exploration, Code Breaking, Pixel Perfect Precision, Python
+- **Experience:** Grand Master Gamer of the Galactic Arcade, Code Wizard of the Cyber Cosmos
+- **Education:** Gaming Galaxy School, Code Crafting Institute
+- **References:**
+- Glitch Guru, Gaming Grandmaster, glitch.guru@email.com
+- Code Conjurer, Cyber Sorcerer, code.conjurer@email.com
+- **Volunteering:** Gaming for Good, Code Cleanup Crew
+- **Contact Information:** gamer.glitch@email.com, Virtual Plaza, Cyber City
 

@@ -1,10 +1,10 @@
-19. **Name:** Eva Garcia
-   - **Skills:** iOS Development, Blockchain, Cloud Computing, React
-   - **Experience:** Junior Scientist at DataInnovators
-   - **Education:** Ph.D. in Physics from Physics Academy
-   - **References:** Xena Nguyen, Lead, grace_kim@example.com
-Alice Chen, Developer, xena_patel@example.com
-   - **Volunteering:** Social Justice Initiatives
-   - **Contact Information:** patrick_hernandez@example.com, Town, Green Valley
-   - **Projects:** Led the Cutting-edge System for Solving Data Analysis
+**Name:** Quantum Quill
+- **Skills:** Quantum Physics Poetry, Wormhole Writing, Black Hole Storytelling
+- **Experience:** Quantum Poet Laureate of the Cosmic Library, Chief Scribe of the Wormhole Chronicles
+- **Education:** Quantum Verse Institute, Black Hole Narratives School
+- **References:**
+- Quantum Quillmaster, Verse Virtuoso, quantum.quillmaster@email.com
+- Wormhole Wordsmith, Black Hole Bard, wormhole.wordsmith@email.com
+- **Volunteering:** Quantum Quill for Literacy, Wormhole Storytime for Orphans
+- **Contact Information:** quantum.quill@email.com, Cosmic Library, Verse Vista
 

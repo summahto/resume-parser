@@ -1,10 +1,9 @@
-35. **Name:** Rachel Jackson
-   - **Skills:** Graphic Design, JavaScript, Data Analysis, Agile
-   - **Experience:** Senior Developer at DigitalSolutions
-   - **Education:** Bachelor in Engineering from Tech University
-   - **References:** Walter Nguyen, Lead, leo_müller@example.com
-Olivia Cruz, Analyst, tina_suzuki@example.com
-   - **Volunteering:** Youth Education
-   - **Contact Information:** ivy_kumar@example.com, Town, Innoville
-   - **Projects:** Developed the Revolutionary Project for Optimizing User Experience
-
+**Name:** Quantum Quasar
+- **Skills:** Astrophysics Pranks, Quantum Quizzes, Meteor Shower Organizing, Java
+- **Experience:** Chief Prankster at the Galactic Observatory, Quizmaster of Quantum Quandaries
+- **Education:** Quantum Shenanigans School, Astro-Quiz Institute
+- **References:**
+- Quantum Quipster, Prankster Professor, quantum.quipster@email.com
+- Astro Quizmaster, Galactic Genius, astro.quizmaster@email.com
+- **Volunteering:** Pranks for Progress, Quiz Quest for the Curious
+- **Contact Information:** quantum.quasar@email.com, Observatory Outpost, Quirkonia

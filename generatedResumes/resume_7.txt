@@ -1,10 +1,10 @@
-7. **Name:** Ivy Miller
-   - **Skills:** JavaScript, Angular, HTML, Docker
-   - **Experience:** Junior Scientist at CreativeMinds
-   - **Education:** Master in Art from Data Science School
-   - **References:** Tina Williams, Director, charlie_taylor@example.com
-Ulysses Yamamoto, Coordinator, nathan_gupta@example.com
-   - **Volunteering:** Food Drive
-   - **Contact Information:** victoria_wang@example.com, City, Techland
-   - **Projects:** Developed the Groundbreaking Platform for Streamlining User Experience
+**Name:** Twinkle Toes
+- **Skills:** Fairy Ballet, Dewdrop Acrobatics, Butterfly Whispering, Java
+- **Experience:** Prima Ballerina in the Twinkletoe Troupe, Lead Choreographer of the Dewdrop Dance Academy
+- **Education:** Fairy Arts Conservatory, School of Enchanted Ballet
+- **References:**
+- Enchanté Balletmaster, Troupe Leader, enchanteballetmaster@email.com
+- Flutterby, Chief Butterfly Whisperer, flutterby@email.com
+- **Volunteering:** Ballet for Butterflies, Dewdrop Recycling Initiative
+- **Contact Information:** twinkle.toes@email.com, Enchanted Meadow, Fairyland
 

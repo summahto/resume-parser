@@ -1,10 +1,10 @@
-3. **Name:** Patrick Wang
-   - **Skills:** Docker, Graphic Design, AR/VR Development, Vue.js
-   - **Experience:** Senior Manager at CreativeSolutions
-   - **Education:** Master in Computer Science from Tech University
-   - **References:** Bob Chen, Designer, grace_lópez@example.com
-Henry Johnson, Coordinator, victoria_wang@example.com
-   - **Volunteering:** Youth Education
-   - **Contact Information:** walter_yamamoto@example.com, City, Data City
-   - **Projects:** Led the Cutting-edge Platform for Optimizing Data Analysis
+**Name:** Harmony Melody
+- **Skills:** Unicorn Grooming, Pixie Harmony, Rainbow Painting, Python
+- **Experience:** Chief Songstress in the Enchanted Forest Orchestra, Head Painter of the Rainbow Brigade
+- **Education:** Melody Meadows School of Magical Arts
+- **References:**
+- Melodious Fairysong, Conductor at Enchanted Forest Orchestra, melodiousfairysong@email.com
+- Rainbow Artistique, Rainbow Brigade Leader, rainbowartistique@email.com
+- **Volunteering:** Melody for the Elderly, Rainbow Restoration Project
+- **Contact Information:** harmony.melody@email.com, Enchanted Glade, Pixie Hollow
 

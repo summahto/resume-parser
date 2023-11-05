@@ -1,10 +1,10 @@
-12. **Name:** Grace Yamamoto
-   - **Skills:** Data Analysis, Docker, Vue.js, Agile
-   - **Experience:** Senior Developer at CodeCrafters
-   - **Education:** Master in Art from Business School
-   - **References:** Eva Cruz, Developer, charlie_lee@example.com
-Rachel Kumar, Designer, mia_white@example.com
-   - **Volunteering:** Environmental Conservation
-   - **Contact Information:** jack_lópez@example.com, City, Innovation Meadows
-   - **Projects:** Developed the Cutting-edge System for Streamlining User Experience
+**Name:** Captain Cupcake
+- **Skills:** Sugary Sorcery, Confectionery Navigation, Whipped Cream Weaponry
+- **Experience:** Captain of the Sweet Tooth Armada, Confectionery Conqueror of Candyland
+- **Education:** Dessert Enchantment Academy, Bakery Warfare School
+- **References:**
+- Candy Crusader, Dessert General, candy.crusader@email.com
+- Frosting Artisan, Confectionery Craftsman, frosting.artisan@email.com
+- **Volunteering:** Sweets for Smiles, Cupcakes for a Cause
+- **Contact Information:** captain.cupcake@email.com, Sugar Bay, Candyland
 

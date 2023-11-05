@@ -1,10 +1,10 @@
-16. **Name:** Nathan Taylor
-   - **Skills:** IoT, Graphic Design, UI/UX Design, Cloud Computing
-   - **Experience:** Junior Engineer at TechInnovate
-   - **Education:** Master in Physics from Physics Academy
-   - **References:** Mia López, Director, frank_jones@example.com
-Henry Rodriguez, Analyst, grace_jones@example.com
-   - **Volunteering:** Coding for Charity
-   - **Contact Information:** ivy_silva@example.com, Village, Techtopia
-   - **Projects:** Developed the Groundbreaking Framework for Optimizing Collaboration
+**Name:** Countess Sparklefizz
+- **Skills:** Potion Princess, Enchanted Elixirs, Sparkle Spellcasting
+- **Experience:** Royal Alchemist to the Sparkle Kingdom, Potion Mixer for the Enchanted Ball
+- **Education:** Royal Alchemy Academy, School of Magical Mixology
+- **References:**
+- Alchemy Sovereign, Potion Prodigy, alchemy.sovereign@email.com
+- Sparkle Sorceress, Enchantment Expert, sparkle.sorceress@email.com
+- **Volunteering:** Potions for Peace, Elixir Empowerment for All
+- **Contact Information:** countess.sparklefizz@email.com, Sparkle Castle, Enchantopia
 

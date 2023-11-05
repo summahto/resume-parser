@@ -1,10 +1,13 @@
-45. **Name:** Mia Nguyen
-   - **Skills:** JavaScript, Cloud Computing, UI/UX Design, iOS Development
-   - **Experience:** Junior Designer at DataExperts
-   - **Education:** Ph.D. in Data Science from Physics Academy
-   - **References:** Victoria Jones, Developer, charlie_patel@example.com
-Walter López, Scientist, ulysses_silva@example.com
-   - **Volunteering:** Community Cleanup
-   - **Contact Information:** alice_smith@example.com, Village, Techtopia
-   - **Projects:** Contributed to the Revolutionary Project for Streamlining Problem-solving
+**Name:** Pixel Pirate Pixelbeard
+- **Skills:** Pixel Plundering, Code Curation, Digital Daggering, C#, Python
+- **Experience:** Captain of the Pixelated Plunderers, Digital Buccaneer of the Binary Seas
+- **Education:** Code Buccaneer Academy, Pixel Pillaging Institute
+- **References:**
+- Binary Bandit, Code Corsair, binary.bandit@email.com
+- Pixel Privateer, Digital Raider, pixel.privateer@email.com
+- **Volunteering:** Coding for Kids, Pixel Cleanup Crew
+- **Contact Information:** pixel.pirate@email.com, Digital Den, Code Cove
+- **Projects:**
+- Initiated the Pixel Plundering Festival for Digital Creativity
+- Designed the Code Compass for Seamless Navigation in the Digital Realm
 

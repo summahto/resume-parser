@@ -1,10 +1,10 @@
-32. **Name:** Zane Sato
-   - **Skills:** Java, Project Management, Data Analysis, AR/VR Development
-   - **Experience:** Lead Scientist at DataExperts
-   - **Education:** Ph.D. in Engineering from Business School
-   - **References:** Ivy Patel, Designer, patrick_hernandez@example.com
-Ulysses Nguyen, Scientist, eva_wang@example.com
-   - **Volunteering:** Youth Education
-   - **Contact Information:** walter_jackson@example.com, Village, Techland
-   - **Projects:** Developed the Innovative Framework for Optimizing Problem-solving
+**Name:** Enchanting Embers
+- **Skills:** Fire Dancing, Ember Juggling, Phoenix Feather Crafting
+- **Experience:** Fire Elemental Performer at the Ember Theater, Master Phoenix Feather Craftsman
+- **Education:** School of Elemental Arts, Phoenix Feather Crafting Guild
+- **References:**
+- Ember Enchantress, Flame Fascinator, ember.enchantress@email.com
+- Phoenix Feather Maestro, Fire Forge Artisan, phoenix.feather@email.com
+- **Volunteering:** Fire for Harmony, Feathered Friends Sanctuary
+- **Contact Information:** enchanting.embers@email.com, Ember Haven, Blaze Borough
 
