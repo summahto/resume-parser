@@ -1,0 +1,10 @@
+8496. **Name:** Ivy Garcia
+   - **Skills:** Agile, HTML, JavaScript, Android Development
+   - **Experience:** Junior Developer at TechInnovate
+   - **Education:** Master in Business Administration from Inno Institute
+   - **References:** Ulysses Miller, Coordinator, sam_kumar@example.com
+Zane López, Developer, walter_jones@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** zane_chen@example.com, Town, Data City
+   - **Projects:** Contributed to the Revolutionary Project for Enhancing Business Processes
+

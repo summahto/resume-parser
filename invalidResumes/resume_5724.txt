@@ -1,0 +1,10 @@
+5724. **Name:** Grace Silva
+   - **Skills:** Cybersecurity, CSS, JavaScript, Swift
+   - **Experience:** Senior Analyst at CreativeSolutions
+   - **Education:** Bachelor in Data Science from Inno Institute
+   - **References:** Xena Gonzalez, Engineer, leo_rodriguez@example.com
+Sam Silva, CTO, jack_nguyen@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** frank_lópez@example.com, Village, Innoville
+   - **Projects:** Developed the Revolutionary App for Streamlining Data Analysis
+

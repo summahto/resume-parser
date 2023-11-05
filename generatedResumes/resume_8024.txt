@@ -1,0 +1,10 @@
+8024. **Name:** Victoria Garcia
+   - **Skills:** Big Data, Python, SQL, HTML
+   - **Experience:** Lead Designer at DataInnovators
+   - **Education:** Master in Engineering from Creative Arts College
+   - **References:** Patrick Chen, CEO, ivy_lópez@example.com
+Ulysses López, Director, nathan_wu@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** jack_kumar@example.com, Village, Scienceburg
+   - **Projects:** Led the Innovative Project for Solving Collaboration
+

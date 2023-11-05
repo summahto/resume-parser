@@ -1,0 +1,10 @@
+4421. **Name:** David Lee
+   - **Skills:** iOS Development, Java, HTML, Data Analysis
+   - **Experience:** Junior Scientist at InnoSolutions
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Rachel Kumar, Manager, walter_rodriguez@example.com
+David Kumar, Scientist, katherine_lópez@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** quinn_white@example.com, City, Inno Haven
+   - **Projects:** Contributed to the Innovative Platform for Streamlining Problem-solving
+

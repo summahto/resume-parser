@@ -1,0 +1,10 @@
+3224. **Name:** Xena Singh
+   - **Skills:** CSS, IoT, Git, Graphic Design
+   - **Experience:** Lead Analyst at InnovativeTech
+   - **Education:** Master in Data Science from Physics Academy
+   - **References:** Xena Patel, Designer, leo_rodriguez@example.com
+Bob Kumar, Analyst, eva_lee@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** xena_kumar@example.com, Town, Innoville
+   - **Projects:** Contributed to the Cutting-edge Framework for Streamlining Problem-solving
+

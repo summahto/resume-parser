@@ -1,0 +1,10 @@
+6998. **Name:** Quinn Gupta
+   - **Skills:** Vue.js, Project Management, HTML, Agile
+   - **Experience:** Lead Engineer at TechInnovate
+   - **Education:** Master in Data Science from Physics Academy
+   - **References:** Eva Chen, Coordinator, tina_rodriguez@example.com
+Leo Smith, Analyst, henry_jones@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** yuki_gupta@example.com, Town, Data Haven
+   - **Projects:** Developed the Innovative Platform for Streamlining Data Analysis
+

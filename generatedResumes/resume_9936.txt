@@ -1,0 +1,10 @@
+9936. **Name:** Jack Yamamoto
+   - **Skills:** Machine Learning, React, Swift, Node.js
+   - **Experience:** Junior Manager at InnoSolutions
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Bob White, Developer, david_lopez@example.com
+Quinn Nguyen, Engineer, henry_davis@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** sam_taylor@example.com, City, Scienceburg
+   - **Projects:** Contributed to the Cutting-edge Framework for Solving User Experience
+

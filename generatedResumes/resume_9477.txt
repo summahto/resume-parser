@@ -1,0 +1,10 @@
+9477. **Name:** Nathan Brown
+   - **Skills:** Data Analysis, SQL, Agile, Network Administration
+   - **Experience:** Senior Designer at CreativeMinds
+   - **Education:** Ph.D. in Art from Tech University
+   - **References:** Henry Lee, Engineer, mia_lee@example.com
+Quinn Lopez, Scientist, xena_kumar@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** olivia_davis@example.com, Town, Techland
+   - **Projects:** Contributed to the Cutting-edge System for Streamlining Data Analysis
+

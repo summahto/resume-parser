@@ -1,0 +1,10 @@
+2300. **Name:** Henry Jones
+   - **Skills:** IoT, AR/VR Development, Android Development, Machine Learning
+   - **Experience:** Senior Analyst at InnoSolutions
+   - **Education:** Bachelor in Physics from Business School
+   - **References:** Olivia Nguyen, Coordinator, ivy_cruz@example.com
+Xena Patel, Director, henry_smith@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** mia_white@example.com, Town, Inno Haven
+   - **Projects:** Developed the Innovative Framework for Enhancing Problem-solving
+

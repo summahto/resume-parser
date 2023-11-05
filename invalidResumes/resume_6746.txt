@@ -1,0 +1,10 @@
+6746. **Name:** David Kumar
+   - **Skills:** Big Data, CSS, Android Development, C#
+   - **Experience:** Junior Manager at DigitalSolutions
+   - **Education:** Master in Art from Creative Arts College
+   - **References:** Henry Taylor, Developer, rachel_lee@example.com
+Sam Taylor, Director, xena_cruz@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** leo_müller@example.com, Town, Data Haven
+   - **Projects:** Contributed to the Cutting-edge Framework for Optimizing Collaboration
+

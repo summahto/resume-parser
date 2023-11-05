@@ -1,0 +1,10 @@
+5730. **Name:** Grace Taylor
+   - **Skills:** Git, Python, Project Management, SQL
+   - **Experience:** Lead Designer at CodeCrafters
+   - **Education:** Master in Business Administration from Inno Institute
+   - **References:** Ivy Smith, Scientist, charlie_chen@example.com
+Grace Kumar, CTO, olivia_white@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** david_chen@example.com, Village, Data City
+   - **Projects:** Contributed to the Innovative Framework for Streamlining Problem-solving
+

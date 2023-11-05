@@ -1,0 +1,10 @@
+7020. **Name:** Tina Lopez
+   - **Skills:** Git, Blockchain, Angular, Machine Learning
+   - **Experience:** Lead Engineer at DataExperts
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** Zane Jackson, Developer, xena_cruz@example.com
+Katherine Chen, Manager, eva_gupta@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** quinn_smith@example.com, Village, Inno Haven
+   - **Projects:** Contributed to the Innovative System for Optimizing Business Processes
+

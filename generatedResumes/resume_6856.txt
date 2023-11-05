@@ -1,0 +1,10 @@
+6856. **Name:** Yuki Wang
+   - **Skills:** iOS Development, Blockchain, Angular, UI/UX Design
+   - **Experience:** Senior Developer at TechInnovate
+   - **Education:** Ph.D. in Data Science from Inno Institute
+   - **References:** Frank Chen, Developer, victoria_garcia@example.com
+Charlie Jones, Manager, mia_nguyen@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** victoria_wu@example.com, Village, Data City
+   - **Projects:** Led the Cutting-edge Project for Streamlining Data Analysis
+

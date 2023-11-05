@@ -1,0 +1,10 @@
+6411. **Name:** Mia Nguyen
+   - **Skills:** Agile, Swift, HTML, UI/UX Design
+   - **Experience:** Lead Designer at CodeCrafters
+   - **Education:** Ph.D. in Business Administration from Tech University
+   - **References:** Charlie Smith, Developer, alice_rodriguez@example.com
+Leo Lee, Developer, frank_lópez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** quinn_lópez@example.com, Town, Innovation Meadows
+   - **Projects:** Led the Innovative Framework for Streamlining User Experience
+

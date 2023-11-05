@@ -1,0 +1,10 @@
+7506. **Name:** Eva Patel
+   - **Skills:** Project Management, Java, JavaScript, SQL
+   - **Experience:** Senior Manager at CodeCrafters
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** David Garcia, CTO, katherine_johnson@example.com
+David López, Lead, eva_li@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** bob_jackson@example.com, City, Data City
+   - **Projects:** Developed the Groundbreaking Project for Solving Data Analysis
+

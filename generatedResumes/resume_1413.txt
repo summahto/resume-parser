@@ -1,0 +1,10 @@
+1413. **Name:** Yuki Garcia
+   - **Skills:** iOS Development, Swift, Angular, UI/UX Design
+   - **Experience:** Lead Engineer at DigitalSolutions
+   - **Education:** Master in Art from Tech University
+   - **References:** Sam Li, Scientist, nathan_lee@example.com
+David Lopez, Manager, eva_jackson@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** jack_lee@example.com, Town, Innoville
+   - **Projects:** Contributed to the Cutting-edge App for Solving Collaboration
+

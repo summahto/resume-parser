@@ -1,0 +1,10 @@
+8018. **Name:** Nathan Wu
+   - **Skills:** Cloud Computing, iOS Development, Kubernetes, React
+   - **Experience:** Lead Analyst at DataInnovators
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Victoria Wang, Manager, nathan_taylor@example.com
+Katherine Lee, Analyst, henry_wu@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** leo_suzuki@example.com, City, Inno Haven
+   - **Projects:** Led the Groundbreaking App for Enhancing Business Processes
+

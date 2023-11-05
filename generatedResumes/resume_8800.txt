@@ -1,0 +1,10 @@
+8800. **Name:** Charlie Patel
+   - **Skills:** iOS Development, IoT, Cybersecurity, Vue.js
+   - **Experience:** Junior Designer at CreativeSolutions
+   - **Education:** Master in Business Administration from Data Science School
+   - **References:** Mia Patel, Coordinator, olivia_jackson@example.com
+Xena Cruz, Lead, katherine_lopez@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** grace_nguyen@example.com, Village, Artopia
+   - **Projects:** Led the Cutting-edge App for Enhancing User Experience
+

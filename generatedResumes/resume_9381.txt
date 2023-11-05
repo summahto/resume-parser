@@ -1,0 +1,10 @@
+9381. **Name:** Nathan Kim
+   - **Skills:** C#, Cloud Computing, Big Data, Blockchain
+   - **Experience:** Lead Developer at DigitalSolutions
+   - **Education:** Master in Data Science from Creative Arts College
+   - **References:** Frank Garcia, Engineer, tina_miller@example.com
+Henry Kim, Manager, tina_wang@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** walter_jackson@example.com, Village, Innoville
+   - **Projects:** Led the Groundbreaking Platform for Enhancing Collaboration
+

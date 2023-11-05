@@ -1,0 +1,10 @@
+3456. **Name:** Grace Jackson
+   - **Skills:** C#, Big Data, Java, AR/VR Development
+   - **Experience:** Lead Designer at CreativeMinds
+   - **Education:** Master in Physics from Business School
+   - **References:** Alice Nguyen, Lead, leo_garcia@example.com
+Olivia Cruz, Coordinator, tina_yamamoto@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** alice_lee@example.com, Town, Data City
+   - **Projects:** Contributed to the Cutting-edge App for Streamlining Business Processes
+

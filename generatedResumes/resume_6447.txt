@@ -1,0 +1,10 @@
+6447. **Name:** David White
+   - **Skills:** AR/VR Development, Big Data, Network Administration, Git
+   - **Experience:** Lead Engineer at DataExperts
+   - **Education:** Bachelor in Art from Creative Arts College
+   - **References:** Ivy White, Director, bob_miller@example.com
+Ivy Kumar, CEO, victoria_jackson@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** walter_kim@example.com, Town, Artopia
+   - **Projects:** Developed the Revolutionary App for Optimizing Business Processes
+

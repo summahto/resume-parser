@@ -1,0 +1,10 @@
+3767. **Name:** Mia Chen
+   - **Skills:** DevOps, Project Management, Android Development, Python
+   - **Experience:** Junior Engineer at DataExperts
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** Patrick Lee, CTO, zane_patel@example.com
+Mia Jones, Engineer, ulysses_miller@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** katherine_white@example.com, Village, Data City
+   - **Projects:** Led the Revolutionary App for Enhancing User Experience
+

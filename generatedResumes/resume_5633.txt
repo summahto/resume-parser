@@ -1,0 +1,10 @@
+5633. **Name:** Quinn Brown
+   - **Skills:** Data Analysis, Git, Cybersecurity, IoT
+   - **Experience:** Junior Scientist at TechCorp
+   - **Education:** Master in Business Administration from Data Science School
+   - **References:** Leo Jackson, Coordinator, xena_kumar@example.com
+Quinn Rodriguez, CTO, grace_patel@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** victoria_kumar@example.com, City, Data City
+   - **Projects:** Contributed to the Innovative App for Solving Business Processes
+

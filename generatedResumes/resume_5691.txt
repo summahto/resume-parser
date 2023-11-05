@@ -1,0 +1,10 @@
+5691. **Name:** Katherine Garcia
+   - **Skills:** SQL, Android Development, Node.js, Docker
+   - **Experience:** Junior Developer at CreativeSolutions
+   - **Education:** Ph.D. in Business Administration from Creative Arts College
+   - **References:** Nathan Jackson, Lead, eva_li@example.com
+Patrick Kumar, Lead, tina_chen@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** eva_rodriguez@example.com, Village, Innovation Meadows
+   - **Projects:** Developed the Innovative Framework for Optimizing Business Processes
+

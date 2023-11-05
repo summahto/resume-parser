@@ -1,0 +1,10 @@
+2479. **Name:** Alice López
+   - **Skills:** Android Development, Kubernetes, Agile, SQL
+   - **Experience:** Senior Engineer at DigitalSolutions
+   - **Education:** Master in Physics from Data Science School
+   - **References:** Tina Kim, Manager, olivia_smith@example.com
+Patrick Lee, Designer, tina_kumar@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** quinn_wang@example.com, Town, Techland
+   - **Projects:** Contributed to the Innovative App for Streamlining Problem-solving
+

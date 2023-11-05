@@ -1,0 +1,10 @@
+8215. **Name:** Charlie Silva
+   - **Skills:** C#, Graphic Design, AR/VR Development, UI/UX Design
+   - **Experience:** Junior Manager at DigitalSolutions
+   - **Education:** Master in Computer Science from Business School
+   - **References:** Quinn Lopez, CEO, patrick_lee@example.com
+Sam Lopez, CTO, walter_lópez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** alice_patel@example.com, City, Innoville
+   - **Projects:** Developed the Cutting-edge Platform for Solving Business Processes
+

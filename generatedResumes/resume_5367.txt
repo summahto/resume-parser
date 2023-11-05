@@ -1,0 +1,10 @@
+5367. **Name:** Jack Cruz
+   - **Skills:** Cybersecurity, Angular, Graphic Design, Blockchain
+   - **Experience:** Junior Scientist at InnovativeTech
+   - **Education:** Bachelor in Computer Science from Inno Institute
+   - **References:** Leo Rodriguez, Coordinator, zane_lopez@example.com
+Victoria Rodriguez, Designer, katherine_wang@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** nathan_chen@example.com, Town, Techland
+   - **Projects:** Developed the Groundbreaking System for Solving Business Processes
+

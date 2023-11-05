@@ -1,0 +1,10 @@
+2095. **Name:** Charlie Kumar
+   - **Skills:** Node.js, iOS Development, React, Git
+   - **Experience:** Senior Engineer at TechInnovate
+   - **Education:** Ph.D. in Physics from Data Science School
+   - **References:** Nathan White, CEO, ulysses_rodriguez@example.com
+Katherine Yamamoto, Analyst, leo_miller@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** frank_wang@example.com, Village, Innoville
+   - **Projects:** Led the Cutting-edge App for Streamlining Business Processes
+

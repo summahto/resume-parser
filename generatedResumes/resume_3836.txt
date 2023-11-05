@@ -1,0 +1,10 @@
+3836. **Name:** Victoria Sato
+   - **Skills:** Git, Machine Learning, Java, iOS Development
+   - **Experience:** Senior Scientist at InnovativeTech
+   - **Education:** Ph.D. in Physics from Business School
+   - **References:** Alice Kim, CTO, yuki_cruz@example.com
+Rachel Taylor, Manager, yuki_müller@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** yuki_yamamoto@example.com, Village, Artopia
+   - **Projects:** Led the Groundbreaking App for Streamlining Data Analysis
+

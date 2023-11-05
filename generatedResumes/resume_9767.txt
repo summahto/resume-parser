@@ -1,0 +1,10 @@
+9767. **Name:** Jack Kumar
+   - **Skills:** Machine Learning, Angular, Data Analysis, HTML
+   - **Experience:** Senior Designer at DataExperts
+   - **Education:** Bachelor in Art from Business School
+   - **References:** Yuki Miller, Lead, quinn_lee@example.com
+Tina Gupta, Lead, alice_garcia@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** quinn_singh@example.com, Village, Innoville
+   - **Projects:** Led the Cutting-edge Framework for Enhancing Problem-solving
+

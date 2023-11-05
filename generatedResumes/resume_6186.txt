@@ -1,0 +1,10 @@
+6186. **Name:** Charlie Gonzalez
+   - **Skills:** Machine Learning, Data Analysis, AR/VR Development, iOS Development
+   - **Experience:** Senior Developer at DataExperts
+   - **Education:** Master in Business Administration from Physics Academy
+   - **References:** Grace Wu, CEO, katherine_singh@example.com
+Sam Taylor, CTO, alice_brown@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** david_smith@example.com, Village, Innovation Meadows
+   - **Projects:** Contributed to the Cutting-edge App for Optimizing User Experience
+

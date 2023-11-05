@@ -1,0 +1,10 @@
+1410. **Name:** Ulysses Wu
+   - **Skills:** Network Administration, AR/VR Development, Big Data, Docker
+   - **Experience:** Lead Manager at CodeCrafters
+   - **Education:** Master in Data Science from Physics Academy
+   - **References:** Charlie Smith, CEO, katherine_brown@example.com
+Ivy Silva, Analyst, ivy_wang@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** yuki_miller@example.com, City, Scienceburg
+   - **Projects:** Developed the Cutting-edge Platform for Solving Problem-solving
+

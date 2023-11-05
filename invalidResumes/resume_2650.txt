@@ -1,0 +1,10 @@
+2650. **Name:** Nathan Lee
+   - **Skills:** React, Swift, Cloud Computing, Agile
+   - **Experience:** Senior Designer at DataExperts
+   - **Education:** Bachelor in Art from Creative Arts College
+   - **References:** Frank Gupta, Manager, henry_jones@example.com
+Frank López, Scientist, xena_garcia@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** charlie_white@example.com, Town, Techtopia
+   - **Projects:** Developed the Innovative Platform for Solving Collaboration
+

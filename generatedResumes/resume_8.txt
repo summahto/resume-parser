@@ -1,10 +1,10 @@
-**Name:** Galactic Chef Nova
-- **Skills:** Starlight Cuisine, Cosmic Cake Baking, Moonbeam Mixology
-- **Experience:** Head Chef at the Celestial Culinary Institute, Baker for the Galactic Royal Banquets
-- **Education:** Stellar Gastronomy School, Lunar Pastry Academy
-- **References:**
-- Celestial Tastemaker, Gastronomy Guru, tastemaker@email.com
-- Moonbeam Mixmaster, Mixology Maestro, mixmaster@email.com
-- **Volunteering:** Galactic Food Bank, Starlight Soup Kitchen
-- **Contact Information:** chef.nova@email.com, Culinary Constellation, Star City
+8. **Name:** Quinn Kumar
+   - **Skills:** Docker, CSS, AR/VR Development, Android Development
+   - **Experience:** Lead Engineer at DataExperts
+   - **Education:** Master in Art from Business School
+   - **References:** Katherine Rodriguez, Engineer, mia_garcia@example.com
+Nathan Chen, Developer, charlie_miller@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** rachel_wu@example.com, Village, Innoville
+   - **Projects:** Contributed to the Groundbreaking Framework for Enhancing User Experience
 

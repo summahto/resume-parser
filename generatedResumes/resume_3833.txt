@@ -1,0 +1,10 @@
+3833. **Name:** Zane Kim
+   - **Skills:** Network Administration, Project Management, IoT, iOS Development
+   - **Experience:** Junior Developer at InnoSolutions
+   - **Education:** Master in Data Science from Inno Institute
+   - **References:** Rachel Jones, Analyst, sam_davis@example.com
+Victoria Kumar, Developer, eva_hernandez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** quinn_jones@example.com, Village, Artopia
+   - **Projects:** Developed the Innovative Project for Solving User Experience
+

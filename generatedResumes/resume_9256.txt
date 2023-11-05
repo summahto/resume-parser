@@ -1,0 +1,10 @@
+9256. **Name:** Yuki Nguyen
+   - **Skills:** Angular, Java, AR/VR Development, HTML
+   - **Experience:** Junior Designer at TechCorp
+   - **Education:** Ph.D. in Data Science from Inno Institute
+   - **References:** Patrick Brown, Designer, zane_kim@example.com
+Ivy Wang, Scientist, eva_taylor@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** mia_wang@example.com, City, Innoville
+   - **Projects:** Developed the Cutting-edge Project for Enhancing User Experience
+

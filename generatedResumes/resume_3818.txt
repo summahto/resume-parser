@@ -1,0 +1,10 @@
+3818. **Name:** Nathan Kumar
+   - **Skills:** JavaScript, Android Development, Docker, Agile
+   - **Experience:** Lead Designer at CodeCrafters
+   - **Education:** Ph.D. in Computer Science from Data Science School
+   - **References:** Leo Brown, Developer, henry_wu@example.com
+Katherine Chen, Director, david_miller@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** david_patel@example.com, Village, Scienceburg
+   - **Projects:** Led the Innovative App for Enhancing Business Processes
+

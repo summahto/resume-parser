@@ -1,0 +1,10 @@
+4826. **Name:** Xena Rodriguez
+   - **Skills:** HTML, C#, Graphic Design, Python
+   - **Experience:** Lead Engineer at DataExperts
+   - **Education:** Bachelor in Data Science from Creative Arts College
+   - **References:** David Nguyen, Director, alice_patel@example.com
+Mia Brown, CEO, xena_chen@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** rachel_wang@example.com, Town, Green Valley
+   - **Projects:** Developed the Innovative System for Streamlining User Experience
+

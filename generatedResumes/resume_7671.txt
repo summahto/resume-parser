@@ -1,0 +1,10 @@
+7671. **Name:** Olivia Lopez
+   - **Skills:** SQL, Swift, Cloud Computing, Agile
+   - **Experience:** Junior Designer at DigitalSolutions
+   - **Education:** Bachelor in Business Administration from Tech University
+   - **References:** Yuki Smith, Director, katherine_silva@example.com
+Olivia Jones, Coordinator, sam_gupta@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** olivia_lopez@example.com, Village, Scienceburg
+   - **Projects:** Developed the Groundbreaking App for Optimizing Problem-solving
+

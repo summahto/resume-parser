@@ -1,0 +1,10 @@
+8822. **Name:** Charlie Nguyen
+   - **Skills:** Git, Android Development, Agile, Cloud Computing
+   - **Experience:** Lead Scientist at TechCorp
+   - **Education:** Master in Physics from Business School
+   - **References:** Sam Rodriguez, Director, nathan_cruz@example.com
+Mia Gupta, Analyst, rachel_white@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** xena_taylor@example.com, City, Techtopia
+   - **Projects:** Developed the Groundbreaking Platform for Streamlining Collaboration
+

@@ -1,0 +1,10 @@
+2639. **Name:** Quinn Cruz
+   - **Skills:** Cloud Computing, Machine Learning, React, Android Development
+   - **Experience:** Junior Scientist at TechCorp
+   - **Education:** Master in Computer Science from Creative Arts College
+   - **References:** Zane Wu, Scientist, rachel_cruz@example.com
+Yuki Nguyen, Coordinator, quinn_wu@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** ivy_white@example.com, Town, Scienceburg
+   - **Projects:** Developed the Cutting-edge Project for Optimizing Problem-solving
+

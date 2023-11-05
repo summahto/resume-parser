@@ -1,0 +1,10 @@
+3897. **Name:** Sam Nguyen
+   - **Skills:** Python, Android Development, Cloud Computing, Big Data
+   - **Experience:** Lead Scientist at CodeCrafters
+   - **Education:** Ph.D. in Physics from Data Science School
+   - **References:** Patrick Kumar, Director, nathan_gupta@example.com
+Grace White, Analyst, grace_miller@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** sam_silva@example.com, Town, Artopia
+   - **Projects:** Led the Cutting-edge System for Streamlining User Experience
+

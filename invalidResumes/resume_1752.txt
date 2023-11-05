@@ -1,0 +1,10 @@
+1752. **Name:** Zane Li
+   - **Skills:** Big Data, Graphic Design, AR/VR Development, Java
+   - **Experience:** Junior Scientist at DigitalSolutions
+   - **Education:** Master in Art from Business School
+   - **References:** David Brown, Scientist, rachel_taylor@example.com
+Bob Müller, Scientist, alice_taylor@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** xena_gupta@example.com, City, Artopia
+   - **Projects:** Led the Innovative Project for Enhancing Problem-solving
+

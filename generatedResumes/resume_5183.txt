@@ -1,0 +1,10 @@
+5183. **Name:** Tina Chen
+   - **Skills:** DevOps, Java, HTML, UI/UX Design
+   - **Experience:** Lead Scientist at TechCorp
+   - **Education:** Bachelor in Art from Inno Institute
+   - **References:** Xena Chen, Engineer, david_lee@example.com
+Tina Cruz, CEO, patrick_jones@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** bob_kim@example.com, Town, Data City
+   - **Projects:** Contributed to the Innovative Project for Solving Business Processes
+

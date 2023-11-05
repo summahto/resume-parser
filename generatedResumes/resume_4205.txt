@@ -1,0 +1,10 @@
+4205. **Name:** Jack Cruz
+   - **Skills:** Swift, Graphic Design, C#, UI/UX Design
+   - **Experience:** Junior Designer at CreativeSolutions
+   - **Education:** Bachelor in Engineering from Data Science School
+   - **References:** Jack Chen, Manager, katherine_kumar@example.com
+Grace Jackson, Coordinator, patrick_chen@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** grace_chen@example.com, Town, Innovation Meadows
+   - **Projects:** Led the Revolutionary System for Optimizing Problem-solving
+

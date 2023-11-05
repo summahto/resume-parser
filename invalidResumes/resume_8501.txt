@@ -1,0 +1,10 @@
+8501. **Name:** Bob López
+   - **Skills:** Cloud Computing, Cybersecurity, iOS Development, Android Development
+   - **Experience:** Lead Manager at DataExperts
+   - **Education:** Bachelor in Engineering from Creative Arts College
+   - **References:** Mia Rodriguez, Manager, olivia_lópez@example.com
+Bob Jackson, Developer, ulysses_white@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** charlie_miller@example.com, City, Artopia
+   - **Projects:** Led the Cutting-edge App for Streamlining Collaboration
+

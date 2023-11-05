@@ -1,0 +1,10 @@
+4529. **Name:** Quinn Cruz
+   - **Skills:** React, Agile, UI/UX Design, JavaScript
+   - **Experience:** Senior Developer at TechCorp
+   - **Education:** Bachelor in Art from Creative Arts College
+   - **References:** Sam Silva, Developer, rachel_miller@example.com
+Olivia Jones, CTO, victoria_garcia@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** zane_jackson@example.com, Town, Scienceburg
+   - **Projects:** Developed the Revolutionary App for Optimizing Problem-solving
+

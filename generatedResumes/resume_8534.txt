@@ -1,0 +1,10 @@
+8534. **Name:** Eva Lopez
+   - **Skills:** Graphic Design, Vue.js, AR/VR Development, Agile
+   - **Experience:** Lead Developer at TechInnovate
+   - **Education:** Ph.D. in Art from Inno Institute
+   - **References:** Xena Smith, Developer, patrick_wu@example.com
+Rachel Lopez, Designer, katherine_garcia@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** david_davis@example.com, Town, Data City
+   - **Projects:** Contributed to the Cutting-edge Project for Solving User Experience
+

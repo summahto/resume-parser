@@ -1,0 +1,10 @@
+402. **Name:** Charlie Sato
+   - **Skills:** Machine Learning, Blockchain, UI/UX Design, Docker
+   - **Experience:** Junior Manager at DataInnovators
+   - **Education:** Master in Data Science from Data Science School
+   - **References:** David Garcia, Lead, frank_cruz@example.com
+Rachel Rodriguez, Analyst, rachel_suzuki@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** nathan_chen@example.com, Village, Scienceburg
+   - **Projects:** Contributed to the Revolutionary App for Solving User Experience
+

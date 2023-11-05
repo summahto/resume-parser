@@ -1,0 +1,10 @@
+8527. **Name:** Tina White
+   - **Skills:** SQL, Big Data, HTML, Cloud Computing
+   - **Experience:** Junior Engineer at DigitalSolutions
+   - **Education:** Bachelor in Art from Inno Institute
+   - **References:** Henry Garcia, Designer, frank_nguyen@example.com
+Ulysses Silva, CEO, katherine_jones@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** walter_davis@example.com, Village, Techtopia
+   - **Projects:** Developed the Revolutionary System for Streamlining Business Processes
+

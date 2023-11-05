@@ -1,0 +1,10 @@
+1071. **Name:** Patrick Gupta
+   - **Skills:** Project Management, SQL, Vue.js, C#
+   - **Experience:** Junior Engineer at InnoSolutions
+   - **Education:** Bachelor in Computer Science from Inno Institute
+   - **References:** Patrick Taylor, Coordinator, jack_kim@example.com
+Henry Lee, Designer, david_gupta@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** katherine_hernandez@example.com, Village, Innovation Meadows
+   - **Projects:** Developed the Groundbreaking System for Solving Collaboration
+

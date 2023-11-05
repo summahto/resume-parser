@@ -1,0 +1,10 @@
+1697. **Name:** Leo Lee
+   - **Skills:** Swift, Vue.js, React, Python
+   - **Experience:** Junior Analyst at DataInnovators
+   - **Education:** Bachelor in Business Administration from Inno Institute
+   - **References:** Xena Brown, Designer, sam_jackson@example.com
+Bob Gupta, Manager, grace_jackson@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** charlie_patel@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Cutting-edge Project for Optimizing Data Analysis
+

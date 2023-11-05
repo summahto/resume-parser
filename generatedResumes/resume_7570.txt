@@ -1,0 +1,10 @@
+7570. **Name:** Grace Li
+   - **Skills:** C#, Big Data, HTML, Swift
+   - **Experience:** Junior Developer at CreativeSolutions
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Zane Wu, Designer, quinn_lopez@example.com
+Sam Smith, Manager, yuki_kumar@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** xena_jones@example.com, Town, Techtopia
+   - **Projects:** Developed the Innovative App for Streamlining User Experience
+

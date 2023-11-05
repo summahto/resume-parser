@@ -1,0 +1,10 @@
+1171. **Name:** Tina Wang
+   - **Skills:** SQL, Machine Learning, Swift, DevOps
+   - **Experience:** Junior Manager at DigitalSolutions
+   - **Education:** Bachelor in Business Administration from Inno Institute
+   - **References:** David Lee, CEO, yuki_miller@example.com
+Frank Smith, CEO, jack_gupta@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** frank_brown@example.com, Town, Techland
+   - **Projects:** Developed the Innovative Framework for Optimizing Problem-solving
+

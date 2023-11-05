@@ -1,0 +1,10 @@
+7985. **Name:** Leo Cruz
+   - **Skills:** Cloud Computing, HTML, AR/VR Development, Vue.js
+   - **Experience:** Junior Manager at TechInnovate
+   - **Education:** Master in Engineering from Data Science School
+   - **References:** Frank Yamamoto, CTO, ulysses_patel@example.com
+Katherine Gupta, CEO, leo_nguyen@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** frank_yamamoto@example.com, Town, Scienceburg
+   - **Projects:** Led the Revolutionary System for Streamlining Problem-solving
+

@@ -1,0 +1,10 @@
+6092. **Name:** David Miller
+   - **Skills:** Agile, CSS, Docker, HTML
+   - **Experience:** Junior Analyst at DataExperts
+   - **Education:** Bachelor in Physics from Inno Institute
+   - **References:** Bob Silva, Director, frank_brown@example.com
+Quinn Wu, Analyst, david_kumar@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** david_rodriguez@example.com, Village, Inno Haven
+   - **Projects:** Contributed to the Revolutionary Project for Optimizing Problem-solving
+

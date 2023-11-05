@@ -1,0 +1,10 @@
+6379. **Name:** Zane Taylor
+   - **Skills:** Graphic Design, JavaScript, AR/VR Development, Node.js
+   - **Experience:** Junior Engineer at DataExperts
+   - **Education:** Master in Physics from Tech University
+   - **References:** Mia López, Lead, nathan_lopez@example.com
+Eva Miller, Designer, olivia_kim@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** mia_garcia@example.com, Village, Innoville
+   - **Projects:** Led the Innovative Platform for Enhancing User Experience
+

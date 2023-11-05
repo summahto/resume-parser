@@ -1,0 +1,10 @@
+5119. **Name:** Charlie Wang
+   - **Skills:** Big Data, Cloud Computing, AR/VR Development, IoT
+   - **Experience:** Lead Developer at InnoSolutions
+   - **Education:** Ph.D. in Physics from Tech University
+   - **References:** Walter Lopez, CTO, sam_kim@example.com
+Frank Lee, Coordinator, frank_garcia@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** mia_jackson@example.com, Village, Artopia
+   - **Projects:** Led the Groundbreaking Platform for Optimizing Data Analysis
+

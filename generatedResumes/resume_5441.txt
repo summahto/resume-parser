@@ -1,0 +1,10 @@
+5441. **Name:** Sam Cruz
+   - **Skills:** Big Data, HTML, DevOps, UI/UX Design
+   - **Experience:** Junior Scientist at InnoSolutions
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Yuki Kumar, Analyst, tina_white@example.com
+Yuki Sato, Analyst, ivy_rodriguez@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** henry_rodriguez@example.com, City, Scienceburg
+   - **Projects:** Led the Innovative App for Enhancing Collaboration
+

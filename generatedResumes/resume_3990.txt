@@ -1,0 +1,10 @@
+3990. **Name:** Charlie Wu
+   - **Skills:** Swift, Git, Node.js, Network Administration
+   - **Experience:** Junior Scientist at DataExperts
+   - **Education:** Master in Art from Physics Academy
+   - **References:** Sam Kumar, Manager, xena_cruz@example.com
+Yuki Chen, Scientist, sam_gupta@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** henry_lee@example.com, Town, Artopia
+   - **Projects:** Led the Innovative Framework for Optimizing Data Analysis
+

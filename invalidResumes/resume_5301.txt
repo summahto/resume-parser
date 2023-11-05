@@ -1,0 +1,10 @@
+5301. **Name:** David Sato
+   - **Skills:** DevOps, Kubernetes, Vue.js, UI/UX Design
+   - **Experience:** Junior Developer at TechInnovate
+   - **Education:** Bachelor in Art from Inno Institute
+   - **References:** Olivia Müller, Lead, xena_wu@example.com
+Tina Kumar, CEO, mia_kumar@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** walter_williams@example.com, Village, Data City
+   - **Projects:** Contributed to the Groundbreaking Project for Enhancing Collaboration
+

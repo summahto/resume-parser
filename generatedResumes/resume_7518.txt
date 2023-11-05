@@ -1,0 +1,10 @@
+7518. **Name:** Quinn Gupta
+   - **Skills:** Swift, Cybersecurity, Graphic Design, Big Data
+   - **Experience:** Junior Scientist at CreativeMinds
+   - **Education:** Master in Data Science from Data Science School
+   - **References:** Frank Chen, Engineer, alice_smith@example.com
+Eva Miller, Engineer, david_jackson@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** zane_jones@example.com, Village, Data City
+   - **Projects:** Led the Groundbreaking Framework for Enhancing Data Analysis
+

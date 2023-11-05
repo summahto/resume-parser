@@ -1,0 +1,10 @@
+9425. **Name:** Sam Smith
+   - **Skills:** SQL, Network Administration, IoT, Project Management
+   - **Experience:** Junior Scientist at DataExperts
+   - **Education:** Ph.D. in Data Science from Inno Institute
+   - **References:** Victoria Cruz, Coordinator, walter_garcia@example.com
+Bob Jackson, Manager, zane_rodriguez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** alice_wu@example.com, Town, Techland
+   - **Projects:** Developed the Innovative Project for Solving User Experience
+

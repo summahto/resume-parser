@@ -1,0 +1,10 @@
+269. **Name:** Leo Cruz
+   - **Skills:** IoT, Machine Learning, Java, C#
+   - **Experience:** Junior Developer at DataInnovators
+   - **Education:** Bachelor in Business Administration from Data Science School
+   - **References:** Walter Gonzalez, CTO, zane_lee@example.com
+Olivia Kumar, Designer, patrick_lopez@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** henry_cruz@example.com, City, Scienceburg
+   - **Projects:** Contributed to the Revolutionary System for Streamlining Data Analysis
+

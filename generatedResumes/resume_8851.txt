@@ -1,0 +1,10 @@
+8851. **Name:** Leo Gupta
+   - **Skills:** Node.js, Docker, Vue.js, Git
+   - **Experience:** Senior Engineer at TechInnovate
+   - **Education:** Bachelor in Art from Tech University
+   - **References:** Nathan Lee, Lead, katherine_wu@example.com
+Ulysses Garcia, Director, henry_kumar@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** jack_nguyen@example.com, City, Green Valley
+   - **Projects:** Led the Cutting-edge Framework for Optimizing User Experience
+

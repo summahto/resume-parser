@@ -1,0 +1,10 @@
+3522. **Name:** Katherine Gupta
+   - **Skills:** Vue.js, Big Data, Android Development, Cybersecurity
+   - **Experience:** Senior Designer at TechInnovate
+   - **Education:** Ph.D. in Data Science from Inno Institute
+   - **References:** Alice Garcia, Developer, victoria_patel@example.com
+Charlie White, Designer, yuki_kumar@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** ivy_hernandez@example.com, Village, Techtopia
+   - **Projects:** Led the Groundbreaking System for Optimizing Data Analysis
+

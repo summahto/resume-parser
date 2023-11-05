@@ -1,0 +1,10 @@
+5825. **Name:** Sam Hernandez
+   - **Skills:** AR/VR Development, Machine Learning, UI/UX Design, HTML
+   - **Experience:** Lead Analyst at TechCorp
+   - **Education:** Master in Business Administration from Creative Arts College
+   - **References:** Tina Cruz, CTO, sam_lópez@example.com
+Xena Lee, Designer, walter_wang@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** victoria_brown@example.com, Town, Artopia
+   - **Projects:** Led the Cutting-edge Project for Optimizing Business Processes
+

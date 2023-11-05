@@ -1,0 +1,10 @@
+6313. **Name:** Zane Jones
+   - **Skills:** iOS Development, Angular, IoT, Project Management
+   - **Experience:** Junior Engineer at InnovativeTech
+   - **Education:** Ph.D. in Engineering from Physics Academy
+   - **References:** Rachel Kumar, Lead, olivia_jackson@example.com
+Mia López, Analyst, henry_silva@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** mia_gupta@example.com, City, Green Valley
+   - **Projects:** Developed the Innovative Platform for Streamlining Business Processes
+

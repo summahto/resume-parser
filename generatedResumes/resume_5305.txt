@@ -1,0 +1,10 @@
+5305. **Name:** Zane Wu
+   - **Skills:** Vue.js, Swift, Cloud Computing, C#
+   - **Experience:** Senior Engineer at DigitalSolutions
+   - **Education:** Bachelor in Art from Inno Institute
+   - **References:** Rachel Cruz, Engineer, jack_white@example.com
+Nathan Patel, Analyst, ulysses_jones@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** alice_li@example.com, City, Innoville
+   - **Projects:** Contributed to the Revolutionary Framework for Solving Business Processes
+

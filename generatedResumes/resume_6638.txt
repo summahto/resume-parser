@@ -1,0 +1,10 @@
+6638. **Name:** Leo Davis
+   - **Skills:** Graphic Design, Docker, Agile, Android Development
+   - **Experience:** Senior Engineer at InnoSolutions
+   - **Education:** Bachelor in Data Science from Creative Arts College
+   - **References:** Charlie Patel, Scientist, henry_taylor@example.com
+Frank Nguyen, Analyst, ivy_miller@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** tina_chen@example.com, Town, Techland
+   - **Projects:** Led the Cutting-edge Project for Optimizing User Experience
+

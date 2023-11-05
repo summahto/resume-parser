@@ -1,0 +1,10 @@
+7138. **Name:** Ulysses Silva
+   - **Skills:** Swift, AR/VR Development, SQL, C#
+   - **Experience:** Lead Manager at DataInnovators
+   - **Education:** Master in Business Administration from Business School
+   - **References:** Zane Rodriguez, Coordinator, olivia_chen@example.com
+Grace Jackson, Director, alice_jackson@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** tina_jones@example.com, City, Innovation Meadows
+   - **Projects:** Contributed to the Innovative App for Solving Data Analysis
+

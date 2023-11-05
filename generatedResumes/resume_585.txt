@@ -1,0 +1,10 @@
+585. **Name:** Henry White
+   - **Skills:** Vue.js, React, Big Data, JavaScript
+   - **Experience:** Junior Designer at CodeCrafters
+   - **Education:** Master in Art from Business School
+   - **References:** Grace Smith, Designer, xena_brown@example.com
+Alice Yamamoto, Director, mia_kim@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** katherine_yamamoto@example.com, Town, Techtopia
+   - **Projects:** Contributed to the Innovative System for Streamlining Problem-solving
+

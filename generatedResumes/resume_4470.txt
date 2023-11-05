@@ -1,0 +1,10 @@
+4470. **Name:** Leo Kim
+   - **Skills:** Cloud Computing, Blockchain, Docker, Vue.js
+   - **Experience:** Junior Designer at TechInnovate
+   - **Education:** Bachelor in Engineering from Business School
+   - **References:** Yuki Taylor, Engineer, xena_wang@example.com
+Leo Lee, CEO, sam_garcia@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** jack_davis@example.com, City, Innovation Meadows
+   - **Projects:** Led the Cutting-edge System for Streamlining Problem-solving
+

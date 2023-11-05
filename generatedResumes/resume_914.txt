@@ -1,0 +1,10 @@
+914. **Name:** Frank Nguyen
+   - **Skills:** Agile, Node.js, Docker, iOS Development
+   - **Experience:** Lead Manager at CreativeMinds
+   - **Education:** Bachelor in Data Science from Inno Institute
+   - **References:** Tina Wang, Lead, jack_lopez@example.com
+Victoria Smith, Developer, xena_wu@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** ivy_lopez@example.com, City, Techland
+   - **Projects:** Developed the Revolutionary System for Streamlining Problem-solving
+

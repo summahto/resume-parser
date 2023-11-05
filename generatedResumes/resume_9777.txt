@@ -1,0 +1,10 @@
+9777. **Name:** Leo Taylor
+   - **Skills:** Docker, Vue.js, AR/VR Development, Graphic Design
+   - **Experience:** Lead Developer at InnovativeTech
+   - **Education:** Bachelor in Art from Creative Arts College
+   - **References:** Nathan Miller, CEO, patrick_rodriguez@example.com
+Zane Rodriguez, Scientist, frank_garcia@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** mia_nguyen@example.com, Town, Data Haven
+   - **Projects:** Developed the Innovative Project for Enhancing Problem-solving
+

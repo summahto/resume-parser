@@ -1,0 +1,10 @@
+6185. **Name:** Jack Williams
+   - **Skills:** Python, Graphic Design, C#, JavaScript
+   - **Experience:** Lead Analyst at DataExperts
+   - **Education:** Master in Computer Science from Creative Arts College
+   - **References:** Grace Lee, Developer, frank_lopez@example.com
+Nathan Wang, Designer, leo_smith@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** leo_jackson@example.com, Village, Scienceburg
+   - **Projects:** Led the Revolutionary App for Solving Collaboration
+

@@ -1,0 +1,10 @@
+5350. **Name:** Xena Patel
+   - **Skills:** DevOps, Swift, Blockchain, Project Management
+   - **Experience:** Senior Analyst at CreativeMinds
+   - **Education:** Ph.D. in Data Science from Tech University
+   - **References:** Mia Rodriguez, Analyst, olivia_cruz@example.com
+Ivy Kumar, Director, katherine_cruz@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** jack_rodriguez@example.com, Village, Techtopia
+   - **Projects:** Developed the Cutting-edge App for Enhancing Data Analysis
+

@@ -1,0 +1,10 @@
+967. **Name:** Nathan Kumar
+   - **Skills:** Angular, Blockchain, CSS, Java
+   - **Experience:** Junior Designer at TechCorp
+   - **Education:** Master in Computer Science from Inno Institute
+   - **References:** Bob Jones, Analyst, leo_miller@example.com
+Ivy Brown, Coordinator, victoria_patel@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** sam_kumar@example.com, Town, Innovation Meadows
+   - **Projects:** Developed the Innovative Project for Streamlining User Experience
+

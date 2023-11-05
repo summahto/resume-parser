@@ -1,0 +1,10 @@
+6155. **Name:** Ivy Rodriguez
+   - **Skills:** C#, Project Management, Angular, Git
+   - **Experience:** Lead Developer at DataExperts
+   - **Education:** Master in Physics from Business School
+   - **References:** Henry Li, CTO, ulysses_lopez@example.com
+Sam Miller, CTO, eva_johnson@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** tina_white@example.com, City, Inno Haven
+   - **Projects:** Led the Groundbreaking Framework for Streamlining Problem-solving
+

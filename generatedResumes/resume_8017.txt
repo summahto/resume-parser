@@ -1,0 +1,10 @@
+8017. **Name:** Ivy White
+   - **Skills:** Python, Node.js, Data Analysis, Android Development
+   - **Experience:** Junior Scientist at DigitalSolutions
+   - **Education:** Master in Computer Science from Physics Academy
+   - **References:** Victoria Li, Designer, frank_kim@example.com
+Victoria Jones, Developer, tina_lópez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** jack_taylor@example.com, Town, Data City
+   - **Projects:** Contributed to the Cutting-edge Framework for Optimizing Problem-solving
+

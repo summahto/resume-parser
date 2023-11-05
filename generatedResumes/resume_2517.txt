@@ -1,0 +1,10 @@
+2517. **Name:** Frank Lee
+   - **Skills:** Kubernetes, UI/UX Design, Java, DevOps
+   - **Experience:** Senior Developer at InnoSolutions
+   - **Education:** Master in Data Science from Creative Arts College
+   - **References:** Jack Silva, Designer, patrick_cruz@example.com
+Leo Gupta, Coordinator, sam_lee@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** henry_davis@example.com, Town, Inno Haven
+   - **Projects:** Developed the Innovative App for Streamlining Data Analysis
+

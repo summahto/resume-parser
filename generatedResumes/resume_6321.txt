@@ -1,0 +1,10 @@
+6321. **Name:** Victoria Lee
+   - **Skills:** iOS Development, JavaScript, Python, CSS
+   - **Experience:** Lead Designer at InnoSolutions
+   - **Education:** Master in Business Administration from Tech University
+   - **References:** Xena López, Lead, ivy_hernandez@example.com
+Jack Yamamoto, Designer, yuki_lee@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** leo_white@example.com, Town, Innoville
+   - **Projects:** Contributed to the Innovative Platform for Solving Collaboration
+

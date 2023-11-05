@@ -1,0 +1,10 @@
+6611. **Name:** Grace Rodriguez
+   - **Skills:** SQL, Graphic Design, C#, JavaScript
+   - **Experience:** Lead Designer at TechCorp
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Patrick Lee, Designer, olivia_smith@example.com
+Olivia Hernandez, Coordinator, walter_brown@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** tina_chen@example.com, Village, Scienceburg
+   - **Projects:** Developed the Cutting-edge Project for Optimizing User Experience
+

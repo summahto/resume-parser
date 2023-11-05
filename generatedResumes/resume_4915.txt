@@ -1,0 +1,10 @@
+4915. **Name:** Charlie Chen
+   - **Skills:** Angular, Python, Project Management, Cloud Computing
+   - **Experience:** Senior Analyst at DataInnovators
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Ivy White, Manager, alice_yamamoto@example.com
+Rachel Garcia, Developer, bob_silva@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** ulysses_wang@example.com, Village, Scienceburg
+   - **Projects:** Contributed to the Revolutionary Platform for Streamlining Data Analysis
+

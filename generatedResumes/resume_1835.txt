@@ -1,0 +1,10 @@
+1835. **Name:** Ivy Miller
+   - **Skills:** CSS, Swift, Cybersecurity, Angular
+   - **Experience:** Senior Designer at TechCorp
+   - **Education:** Master in Physics from Inno Institute
+   - **References:** David Miller, Manager, nathan_wu@example.com
+Mia Jackson, CEO, zane_gupta@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** henry_jones@example.com, Village, Inno Haven
+   - **Projects:** Led the Cutting-edge Framework for Solving Business Processes
+

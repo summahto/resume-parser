@@ -1,0 +1,10 @@
+7335. **Name:** Frank Nguyen
+   - **Skills:** Big Data, JavaScript, Git, Android Development
+   - **Experience:** Senior Manager at DataInnovators
+   - **Education:** Ph.D. in Physics from Inno Institute
+   - **References:** Charlie Jones, CEO, sam_brown@example.com
+Ulysses Silva, Designer, nathan_smith@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** frank_cruz@example.com, City, Scienceburg
+   - **Projects:** Led the Revolutionary Framework for Solving User Experience
+

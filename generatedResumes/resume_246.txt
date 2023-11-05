@@ -1,0 +1,10 @@
+246. **Name:** Mia Chen
+   - **Skills:** Java, Data Analysis, React, UI/UX Design
+   - **Experience:** Junior Developer at CreativeMinds
+   - **Education:** Master in Physics from Business School
+   - **References:** Mia Brown, Analyst, patrick_kim@example.com
+Ivy Miller, Manager, yuki_wu@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** david_jones@example.com, Town, Innoville
+   - **Projects:** Contributed to the Groundbreaking Project for Solving User Experience
+

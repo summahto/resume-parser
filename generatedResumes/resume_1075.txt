@@ -1,0 +1,10 @@
+1075. **Name:** Ivy Chen
+   - **Skills:** AR/VR Development, Git, Android Development, Graphic Design
+   - **Experience:** Lead Manager at CodeCrafters
+   - **Education:** Master in Data Science from Data Science School
+   - **References:** Charlie Brown, Scientist, frank_nguyen@example.com
+Zane Nguyen, Scientist, eva_kim@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** henry_kumar@example.com, Town, Data City
+   - **Projects:** Led the Revolutionary App for Enhancing User Experience
+

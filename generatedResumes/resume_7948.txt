@@ -1,0 +1,10 @@
+7948. **Name:** Zane Nguyen
+   - **Skills:** React, UI/UX Design, AR/VR Development, iOS Development
+   - **Experience:** Lead Engineer at CodeCrafters
+   - **Education:** Master in Business Administration from Inno Institute
+   - **References:** Leo Miller, Analyst, patrick_li@example.com
+Nathan Garcia, Manager, quinn_white@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** jack_rodriguez@example.com, Village, Data Haven
+   - **Projects:** Contributed to the Revolutionary System for Enhancing Problem-solving
+

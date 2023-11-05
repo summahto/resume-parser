@@ -1,0 +1,10 @@
+5055. **Name:** Zane Wu
+   - **Skills:** HTML, Node.js, Graphic Design, Agile
+   - **Experience:** Junior Manager at DigitalSolutions
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Nathan Smith, Designer, ulysses_li@example.com
+Katherine Davis, Coordinator, zane_nguyen@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** rachel_lee@example.com, City, Data Haven
+   - **Projects:** Contributed to the Innovative Project for Streamlining Business Processes
+

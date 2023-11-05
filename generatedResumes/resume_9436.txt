@@ -1,0 +1,10 @@
+9436. **Name:** Xena Patel
+   - **Skills:** Docker, Data Analysis, Cloud Computing, Python
+   - **Experience:** Junior Scientist at CreativeSolutions
+   - **Education:** Master in Art from Inno Institute
+   - **References:** Ulysses Jones, Developer, jack_nguyen@example.com
+Charlie Rodriguez, Lead, henry_wu@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** leo_suzuki@example.com, Town, Inno Haven
+   - **Projects:** Led the Cutting-edge System for Enhancing Collaboration
+

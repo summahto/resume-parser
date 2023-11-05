@@ -1,0 +1,10 @@
+2117. **Name:** Quinn Lee
+   - **Skills:** Machine Learning, SQL, CSS, Cybersecurity
+   - **Experience:** Junior Scientist at DigitalSolutions
+   - **Education:** Master in Art from Physics Academy
+   - **References:** Walter López, Developer, rachel_miller@example.com
+Patrick Jones, CEO, david_lopez@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** charlie_silva@example.com, City, Innovation Meadows
+   - **Projects:** Developed the Groundbreaking App for Optimizing Collaboration
+

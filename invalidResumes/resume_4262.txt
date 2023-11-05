@@ -1,0 +1,10 @@
+4262. **Name:** Xena Lee
+   - **Skills:** Big Data, C#, HTML, IoT
+   - **Experience:** Junior Analyst at DataInnovators
+   - **Education:** Bachelor in Engineering from Inno Institute
+   - **References:** Zane Lee, Designer, ulysses_lópez@example.com
+Frank Jones, Manager, walter_yamamoto@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** mia_gupta@example.com, Town, Data Haven
+   - **Projects:** Developed the Groundbreaking App for Streamlining Collaboration
+

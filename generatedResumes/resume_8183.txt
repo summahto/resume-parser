@@ -1,0 +1,10 @@
+8183. **Name:** Ivy White
+   - **Skills:** Project Management, Android Development, Swift, Angular
+   - **Experience:** Lead Developer at DigitalSolutions
+   - **Education:** Ph.D. in Data Science from Data Science School
+   - **References:** Frank Rodriguez, Scientist, leo_jones@example.com
+Nathan Kumar, Manager, yuki_lopez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** victoria_williams@example.com, City, Techland
+   - **Projects:** Led the Revolutionary App for Enhancing Business Processes
+

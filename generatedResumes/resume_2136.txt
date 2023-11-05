@@ -1,0 +1,10 @@
+2136. **Name:** Alice Chen
+   - **Skills:** Python, Swift, AR/VR Development, Big Data
+   - **Experience:** Senior Scientist at DataExperts
+   - **Education:** Ph.D. in Business Administration from Inno Institute
+   - **References:** Mia Lopez, Developer, eva_miller@example.com
+Sam Gupta, Manager, quinn_kim@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** eva_nguyen@example.com, City, Green Valley
+   - **Projects:** Developed the Groundbreaking App for Solving Collaboration
+

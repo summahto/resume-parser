@@ -1,0 +1,10 @@
+6281. **Name:** Nathan Miller
+   - **Skills:** Java, Angular, Network Administration, Data Analysis
+   - **Experience:** Lead Designer at TechInnovate
+   - **Education:** Ph.D. in Data Science from Inno Institute
+   - **References:** David Taylor, Director, rachel_jones@example.com
+Nathan Lee, Lead, yuki_nguyen@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** zane_lopez@example.com, City, Techtopia
+   - **Projects:** Led the Groundbreaking Platform for Enhancing Business Processes
+

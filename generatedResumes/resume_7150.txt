@@ -1,0 +1,10 @@
+7150. **Name:** Frank Nguyen
+   - **Skills:** Graphic Design, SQL, Agile, HTML
+   - **Experience:** Junior Analyst at TechCorp
+   - **Education:** Ph.D. in Computer Science from Inno Institute
+   - **References:** Bob Gupta, Developer, grace_white@example.com
+Bob Cruz, Analyst, quinn_white@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** jack_singh@example.com, City, Data City
+   - **Projects:** Developed the Cutting-edge System for Solving Problem-solving
+

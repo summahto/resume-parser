@@ -1,0 +1,10 @@
+5581. **Name:** Quinn Garcia
+   - **Skills:** IoT, Machine Learning, Node.js, iOS Development
+   - **Experience:** Junior Analyst at CodeCrafters
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** Katherine Jones, Lead, bob_white@example.com
+Jack Williams, Manager, frank_williams@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** charlie_wu@example.com, City, Innovation Meadows
+   - **Projects:** Led the Revolutionary App for Optimizing Problem-solving
+

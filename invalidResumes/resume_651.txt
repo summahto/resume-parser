@@ -1,0 +1,10 @@
+651. **Name:** Charlie Wu
+   - **Skills:** Python, Agile, Project Management, Cybersecurity
+   - **Experience:** Senior Analyst at DataExperts
+   - **Education:** Ph.D. in Business Administration from Data Science School
+   - **References:** Xena López, Scientist, henry_smith@example.com
+Nathan Cruz, Director, rachel_lópez@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** rachel_taylor@example.com, Town, Techtopia
+   - **Projects:** Developed the Innovative Platform for Streamlining Problem-solving
+

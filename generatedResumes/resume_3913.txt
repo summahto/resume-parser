@@ -1,0 +1,10 @@
+3913. **Name:** Quinn Kim
+   - **Skills:** Cybersecurity, HTML, Java, Cloud Computing
+   - **Experience:** Lead Designer at InnoSolutions
+   - **Education:** Master in Business Administration from Data Science School
+   - **References:** Walter Wu, Designer, nathan_yamamoto@example.com
+David Kumar, Director, patrick_rodriguez@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** quinn_smith@example.com, City, Inno Haven
+   - **Projects:** Contributed to the Innovative Project for Optimizing Problem-solving
+

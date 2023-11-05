@@ -1,0 +1,10 @@
+6275. **Name:** Xena Miller
+   - **Skills:** Agile, DevOps, Docker, C#
+   - **Experience:** Junior Engineer at CreativeSolutions
+   - **Education:** Master in Art from Creative Arts College
+   - **References:** Ulysses Smith, Scientist, david_lee@example.com
+Sam Smith, Analyst, quinn_lopez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** david_wu@example.com, Town, Techland
+   - **Projects:** Contributed to the Innovative App for Enhancing Collaboration
+

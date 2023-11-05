@@ -1,0 +1,10 @@
+3554. **Name:** Leo Chen
+   - **Skills:** Git, Cloud Computing, Swift, Network Administration
+   - **Experience:** Junior Manager at CreativeMinds
+   - **Education:** Ph.D. in Computer Science from Creative Arts College
+   - **References:** Walter Wang, Designer, alice_smith@example.com
+Jack Garcia, CTO, xena_suzuki@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** rachel_kumar@example.com, City, Artopia
+   - **Projects:** Contributed to the Revolutionary Project for Enhancing Problem-solving
+

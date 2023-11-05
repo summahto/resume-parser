@@ -1,0 +1,10 @@
+3465. **Name:** Olivia Silva
+   - **Skills:** IoT, Big Data, Cybersecurity, Swift
+   - **Experience:** Junior Developer at InnoSolutions
+   - **Education:** Ph.D. in Engineering from Data Science School
+   - **References:** Patrick Cruz, CTO, henry_rodriguez@example.com
+Jack Gupta, Analyst, tina_lópez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** david_gupta@example.com, Town, Techtopia
+   - **Projects:** Led the Innovative System for Solving User Experience
+

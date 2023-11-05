@@ -1,0 +1,10 @@
+127. **Name:** Yuki Li
+   - **Skills:** Java, IoT, Node.js, Vue.js
+   - **Experience:** Lead Developer at CodeCrafters
+   - **Education:** Master in Art from Tech University
+   - **References:** Ulysses Hernandez, Manager, victoria_lopez@example.com
+Quinn Silva, Coordinator, alice_lee@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** david_rodriguez@example.com, City, Data City
+   - **Projects:** Developed the Cutting-edge Platform for Solving Collaboration
+

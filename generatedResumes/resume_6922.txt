@@ -1,0 +1,10 @@
+6922. **Name:** Frank Gupta
+   - **Skills:** Network Administration, Android Development, C#, JavaScript
+   - **Experience:** Senior Designer at DataInnovators
+   - **Education:** Master in Business Administration from Business School
+   - **References:** Yuki Kumar, Lead, patrick_nguyen@example.com
+Leo Silva, CEO, mia_garcia@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** jack_lopez@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Innovative Platform for Streamlining Problem-solving
+

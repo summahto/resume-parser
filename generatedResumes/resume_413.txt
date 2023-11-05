@@ -1,0 +1,10 @@
+413. **Name:** Leo Wang
+   - **Skills:** Git, Swift, Machine Learning, AR/VR Development
+   - **Experience:** Senior Developer at InnoSolutions
+   - **Education:** Ph.D. in Data Science from Data Science School
+   - **References:** Ulysses Patel, Engineer, sam_patel@example.com
+Quinn Kumar, Lead, alice_taylor@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** olivia_wang@example.com, City, Techtopia
+   - **Projects:** Contributed to the Revolutionary Platform for Solving User Experience
+

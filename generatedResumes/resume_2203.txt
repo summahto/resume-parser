@@ -1,0 +1,10 @@
+2203. **Name:** Katherine Rodriguez
+   - **Skills:** JavaScript, CSS, SQL, Big Data
+   - **Experience:** Junior Scientist at InnoSolutions
+   - **Education:** Ph.D. in Computer Science from Tech University
+   - **References:** Mia Jones, Developer, eva_nguyen@example.com
+Nathan Patel, Director, charlie_wu@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** grace_gupta@example.com, Village, Artopia
+   - **Projects:** Developed the Revolutionary System for Streamlining Data Analysis
+

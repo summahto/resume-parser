@@ -1,0 +1,10 @@
+3495. **Name:** David Lopez
+   - **Skills:** Node.js, Python, Network Administration, AR/VR Development
+   - **Experience:** Junior Engineer at CreativeMinds
+   - **Education:** Bachelor in Business Administration from Physics Academy
+   - **References:** Xena Wu, CTO, olivia_kumar@example.com
+Grace Cruz, Analyst, quinn_kumar@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** nathan_lee@example.com, Town, Green Valley
+   - **Projects:** Developed the Groundbreaking System for Solving Problem-solving
+

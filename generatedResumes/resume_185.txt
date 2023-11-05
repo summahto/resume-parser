@@ -1,0 +1,10 @@
+185. **Name:** Katherine Singh
+   - **Skills:** CSS, C#, Swift, SQL
+   - **Experience:** Lead Manager at CreativeSolutions
+   - **Education:** Ph.D. in Data Science from Data Science School
+   - **References:** Alice Lopez, Manager, henry_kumar@example.com
+Olivia Patel, Director, patrick_jones@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** patrick_kumar@example.com, City, Techtopia
+   - **Projects:** Contributed to the Innovative Project for Optimizing Business Processes
+

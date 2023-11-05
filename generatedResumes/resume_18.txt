@@ -1,10 +1,10 @@
-**Name:** Captain Snugglepaws
-- **Skills:** Cuddling, Nap Scheduling, Fuzzy Wuzzy Strategy
-- **Experience:** Admiral of the Snuggle Fleet, Chief Nap Strategist at the Cozy Command Center
-- **Education:** Cuddle Academy, Nap Planning School
-- **References:**
-- Snuggle Strategist, Cuddle Captain, snuggle.strategist@email.com
-- Naptime Navigator, Chief Snoozer, naptime.navigator@email.com
-- **Volunteering:** Cuddles for Care, Naptime Assistance for Newbies
-- **Contact Information:** captain.snugglepaws@email.com, Cozy Cove, Snuggleopolis
+18. **Name:** Xena Lee
+   - **Skills:** Angular, UI/UX Design, Graphic Design, Cybersecurity
+   - **Experience:** Lead Developer at CodeCrafters
+   - **Education:** Master in Data Science from Data Science School
+   - **References:** Bob Jones, Manager, rachel_suzuki@example.com
+Bob Gonzalez, Director, grace_cruz@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** victoria_lopez@example.com, Town, Innoville
+   - **Projects:** Led the Cutting-edge App for Optimizing Business Processes
 

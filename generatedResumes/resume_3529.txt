@@ -1,0 +1,10 @@
+3529. **Name:** Leo Garcia
+   - **Skills:** Kubernetes, Docker, Big Data, iOS Development
+   - **Experience:** Senior Scientist at CreativeMinds
+   - **Education:** Ph.D. in Computer Science from Physics Academy
+   - **References:** Zane Chen, Engineer, sam_kumar@example.com
+Victoria Wu, Coordinator, walter_hernandez@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** patrick_silva@example.com, City, Data Haven
+   - **Projects:** Led the Revolutionary App for Optimizing Problem-solving
+

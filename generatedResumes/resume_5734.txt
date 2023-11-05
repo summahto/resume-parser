@@ -1,0 +1,10 @@
+5734. **Name:** Frank Garcia
+   - **Skills:** IoT, Network Administration, Angular, Git
+   - **Experience:** Senior Scientist at DigitalSolutions
+   - **Education:** Bachelor in Computer Science from Business School
+   - **References:** Grace Gupta, Engineer, sam_kumar@example.com
+Ulysses Nguyen, Director, walter_lee@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** charlie_rodriguez@example.com, City, Data City
+   - **Projects:** Contributed to the Revolutionary App for Enhancing Business Processes
+

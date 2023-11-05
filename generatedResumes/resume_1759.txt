@@ -1,0 +1,10 @@
+1759. **Name:** Katherine Patel
+   - **Skills:** Network Administration, Data Analysis, SQL, C#
+   - **Experience:** Senior Scientist at CodeCrafters
+   - **Education:** Ph.D. in Engineering from Data Science School
+   - **References:** Nathan Lee, Designer, quinn_smith@example.com
+Grace Gonzalez, Scientist, victoria_wu@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** quinn_kumar@example.com, City, Innovation Meadows
+   - **Projects:** Led the Groundbreaking Framework for Solving Collaboration
+

@@ -1,0 +1,10 @@
+1675. **Name:** Charlie Kumar
+   - **Skills:** Blockchain, iOS Development, IoT, React
+   - **Experience:** Senior Analyst at TechInnovate
+   - **Education:** Bachelor in Computer Science from Tech University
+   - **References:** Charlie Kumar, Designer, jack_wu@example.com
+Sam Miller, Coordinator, charlie_wang@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** bob_jackson@example.com, City, Techland
+   - **Projects:** Led the Cutting-edge App for Optimizing Problem-solving
+

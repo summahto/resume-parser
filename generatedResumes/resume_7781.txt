@@ -1,0 +1,10 @@
+7781. **Name:** Charlie Wu
+   - **Skills:** HTML, Swift, SQL, Machine Learning
+   - **Experience:** Junior Analyst at TechCorp
+   - **Education:** Ph.D. in Art from Data Science School
+   - **References:** Leo Hernandez, Manager, frank_gupta@example.com
+David Rodriguez, Analyst, ulysses_suzuki@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** bob_yamamoto@example.com, City, Innovation Meadows
+   - **Projects:** Contributed to the Cutting-edge Project for Optimizing Business Processes
+

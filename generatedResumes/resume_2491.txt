@@ -1,0 +1,10 @@
+2491. **Name:** Rachel Wang
+   - **Skills:** Data Analysis, DevOps, Big Data, AR/VR Development
+   - **Experience:** Lead Manager at CreativeMinds
+   - **Education:** Bachelor in Business Administration from Data Science School
+   - **References:** Walter White, Coordinator, tina_gupta@example.com
+Grace Jones, Developer, charlie_kim@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** alice_wu@example.com, City, Innoville
+   - **Projects:** Led the Innovative System for Optimizing Business Processes
+

@@ -1,0 +1,10 @@
+4782. **Name:** Henry Chen
+   - **Skills:** Java, Data Analysis, UI/UX Design, Angular
+   - **Experience:** Lead Scientist at DigitalSolutions
+   - **Education:** Bachelor in Business Administration from Physics Academy
+   - **References:** Grace Kumar, Lead, rachel_lee@example.com
+Jack Gupta, Lead, mia_nguyen@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** jack_smith@example.com, Town, Scienceburg
+   - **Projects:** Led the Revolutionary Project for Enhancing Problem-solving
+

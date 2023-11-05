@@ -1,0 +1,10 @@
+9417. **Name:** Zane Gonzalez
+   - **Skills:** Node.js, Kubernetes, Graphic Design, React
+   - **Experience:** Junior Designer at TechInnovate
+   - **Education:** Master in Data Science from Inno Institute
+   - **References:** Olivia Cruz, Lead, eva_brown@example.com
+Charlie Lee, Designer, victoria_cruz@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** yuki_lopez@example.com, City, Inno Haven
+   - **Projects:** Contributed to the Groundbreaking App for Solving Problem-solving
+

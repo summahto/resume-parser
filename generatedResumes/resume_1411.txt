@@ -1,0 +1,10 @@
+1411. **Name:** Alice Nguyen
+   - **Skills:** Android Development, Python, HTML, CSS
+   - **Experience:** Lead Analyst at CreativeMinds
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** Grace Nguyen, Lead, xena_yamamoto@example.com
+Bob Suzuki, CTO, bob_yamamoto@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** jack_wang@example.com, Village, Innoville
+   - **Projects:** Contributed to the Groundbreaking Project for Solving Business Processes
+

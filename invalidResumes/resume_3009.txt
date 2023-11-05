@@ -1,0 +1,10 @@
+3009. **Name:** Nathan Singh
+   - **Skills:** Git, iOS Development, Network Administration, Machine Learning
+   - **Experience:** Lead Manager at DataInnovators
+   - **Education:** Bachelor in Computer Science from Tech University
+   - **References:** Jack Smith, Developer, rachel_gupta@example.com
+Xena Smith, Designer, bob_yamamoto@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** sam_müller@example.com, Town, Inno Haven
+   - **Projects:** Developed the Cutting-edge Platform for Streamlining Collaboration
+

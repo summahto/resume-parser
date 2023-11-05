@@ -1,0 +1,10 @@
+9501. **Name:** Nathan Lopez
+   - **Skills:** Python, Data Analysis, React, Agile
+   - **Experience:** Junior Manager at InnovativeTech
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Grace Jones, Engineer, charlie_wu@example.com
+Zane Rodriguez, Scientist, frank_gupta@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** rachel_garcia@example.com, Town, Scienceburg
+   - **Projects:** Developed the Revolutionary Platform for Enhancing Data Analysis
+

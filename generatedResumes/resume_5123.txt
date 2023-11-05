@@ -1,0 +1,10 @@
+5123. **Name:** Zane Rodriguez
+   - **Skills:** AR/VR Development, Java, CSS, SQL
+   - **Experience:** Junior Analyst at InnoSolutions
+   - **Education:** Master in Engineering from Business School
+   - **References:** Henry Wang, Scientist, victoria_wang@example.com
+Ivy Miller, Manager, nathan_patel@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** tina_silva@example.com, Town, Techland
+   - **Projects:** Contributed to the Innovative Framework for Streamlining Data Analysis
+

@@ -1,0 +1,10 @@
+9621. **Name:** Jack Garcia
+   - **Skills:** DevOps, Node.js, Android Development, IoT
+   - **Experience:** Senior Designer at TechInnovate
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Yuki Silva, Designer, victoria_kumar@example.com
+Eva Lopez, CEO, grace_garcia@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** jack_lee@example.com, Town, Scienceburg
+   - **Projects:** Led the Cutting-edge Project for Streamlining Data Analysis
+

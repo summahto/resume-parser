@@ -1,0 +1,10 @@
+8390. **Name:** Mia Kim
+   - **Skills:** Angular, Java, Python, Graphic Design
+   - **Experience:** Junior Analyst at DigitalSolutions
+   - **Education:** Master in Physics from Inno Institute
+   - **References:** Zane Suzuki, Designer, jack_nguyen@example.com
+Mia Nguyen, Scientist, patrick_lopez@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** jack_rodriguez@example.com, Town, Green Valley
+   - **Projects:** Led the Cutting-edge Platform for Solving Collaboration
+

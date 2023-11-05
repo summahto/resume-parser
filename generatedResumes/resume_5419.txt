@@ -1,0 +1,10 @@
+5419. **Name:** Leo Chen
+   - **Skills:** iOS Development, Android Development, Data Analysis, SQL
+   - **Experience:** Lead Designer at DataExperts
+   - **Education:** Master in Engineering from Physics Academy
+   - **References:** Jack Cruz, Manager, victoria_garcia@example.com
+Eva Kim, Designer, walter_white@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** yuki_lopez@example.com, City, Innovation Meadows
+   - **Projects:** Led the Revolutionary Platform for Enhancing User Experience
+

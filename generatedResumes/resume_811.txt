@@ -1,0 +1,10 @@
+811. **Name:** Leo Wang
+   - **Skills:** Python, AR/VR Development, iOS Development, DevOps
+   - **Experience:** Lead Designer at CreativeSolutions
+   - **Education:** Bachelor in Business Administration from Data Science School
+   - **References:** Nathan Miller, Engineer, alice_jackson@example.com
+Bob White, Lead, henry_lópez@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** katherine_lópez@example.com, City, Scienceburg
+   - **Projects:** Led the Cutting-edge App for Optimizing Collaboration
+

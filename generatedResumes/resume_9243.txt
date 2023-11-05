@@ -1,0 +1,10 @@
+9243. **Name:** Xena Jackson
+   - **Skills:** C#, IoT, Kubernetes, Network Administration
+   - **Experience:** Junior Developer at DigitalSolutions
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Katherine Chen, Coordinator, alice_kumar@example.com
+Frank Williams, Manager, david_lopez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** olivia_kumar@example.com, City, Techtopia
+   - **Projects:** Led the Innovative Project for Enhancing Data Analysis
+

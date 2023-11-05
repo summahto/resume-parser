@@ -1,0 +1,10 @@
+4620. **Name:** Leo Kumar
+   - **Skills:** Machine Learning, DevOps, Git, Agile
+   - **Experience:** Junior Scientist at CreativeSolutions
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** Nathan Wu, Designer, zane_gupta@example.com
+Walter Kumar, CTO, xena_gupta@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** xena_singh@example.com, Town, Artopia
+   - **Projects:** Developed the Cutting-edge Project for Streamlining User Experience
+

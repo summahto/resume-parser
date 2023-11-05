@@ -1,0 +1,10 @@
+5487. **Name:** Ivy Chen
+   - **Skills:** Node.js, Vue.js, Kubernetes, CSS
+   - **Experience:** Lead Manager at CreativeMinds
+   - **Education:** Master in Art from Business School
+   - **References:** Xena Miller, Manager, sam_kim@example.com
+Zane Garcia, Developer, mia_rodriguez@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** ivy_silva@example.com, City, Data Haven
+   - **Projects:** Contributed to the Groundbreaking System for Enhancing User Experience
+

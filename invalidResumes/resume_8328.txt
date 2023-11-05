@@ -1,0 +1,10 @@
+8328. **Name:** Yuki Lee
+   - **Skills:** Project Management, Python, Angular, HTML
+   - **Experience:** Junior Engineer at DataInnovators
+   - **Education:** Bachelor in Business Administration from Physics Academy
+   - **References:** Rachel Jones, Developer, tina_gupta@example.com
+Eva Gupta, CEO, henry_taylor@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** quinn_müller@example.com, Village, Innovation Meadows
+   - **Projects:** Contributed to the Cutting-edge Project for Solving Collaboration
+

@@ -1,0 +1,10 @@
+5998. **Name:** Frank White
+   - **Skills:** JavaScript, Swift, Git, Angular
+   - **Experience:** Lead Analyst at DataExperts
+   - **Education:** Master in Engineering from Business School
+   - **References:** Henry Chen, Coordinator, nathan_miller@example.com
+Grace Jones, Designer, quinn_johnson@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** leo_rodriguez@example.com, Town, Green Valley
+   - **Projects:** Contributed to the Innovative App for Solving Problem-solving
+

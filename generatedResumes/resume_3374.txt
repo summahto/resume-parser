@@ -1,0 +1,10 @@
+3374. **Name:** Jack Taylor
+   - **Skills:** Angular, SQL, IoT, UI/UX Design
+   - **Experience:** Lead Analyst at CodeCrafters
+   - **Education:** Master in Physics from Tech University
+   - **References:** Nathan Miller, Manager, quinn_rodriguez@example.com
+Nathan Cruz, Developer, sam_hernandez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** ivy_cruz@example.com, Village, Scienceburg
+   - **Projects:** Contributed to the Groundbreaking Project for Optimizing Business Processes
+

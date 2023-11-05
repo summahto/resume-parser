@@ -1,0 +1,10 @@
+3870. **Name:** Frank Chen
+   - **Skills:** Graphic Design, C#, SQL, JavaScript
+   - **Experience:** Senior Developer at CreativeSolutions
+   - **Education:** Master in Computer Science from Inno Institute
+   - **References:** Quinn Brown, Manager, henry_kumar@example.com
+Victoria Cruz, Designer, ivy_yamamoto@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** grace_chen@example.com, Town, Scienceburg
+   - **Projects:** Led the Revolutionary Platform for Solving Data Analysis
+

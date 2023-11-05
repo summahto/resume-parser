@@ -1,0 +1,10 @@
+3857. **Name:** Katherine Chen
+   - **Skills:** Project Management, HTML, Node.js, Java
+   - **Experience:** Senior Manager at InnovativeTech
+   - **Education:** Master in Business Administration from Data Science School
+   - **References:** Mia Silva, Lead, victoria_lee@example.com
+Olivia Hernandez, Engineer, yuki_cruz@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** olivia_wu@example.com, Town, Scienceburg
+   - **Projects:** Contributed to the Revolutionary Framework for Solving User Experience
+

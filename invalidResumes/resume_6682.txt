@@ -1,0 +1,10 @@
+6682. **Name:** Alice Wu
+   - **Skills:** Cloud Computing, AR/VR Development, Cybersecurity, C#
+   - **Experience:** Junior Developer at DataExperts
+   - **Education:** Ph.D. in Physics from Data Science School
+   - **References:** Jack Cruz, Scientist, xena_lópez@example.com
+Nathan Davis, Developer, ulysses_cruz@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** david_silva@example.com, Village, Data Haven
+   - **Projects:** Developed the Innovative System for Solving Business Processes
+

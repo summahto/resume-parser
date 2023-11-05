@@ -1,0 +1,10 @@
+2786. **Name:** Sam López
+   - **Skills:** React, SQL, Project Management, Graphic Design
+   - **Experience:** Senior Scientist at DigitalSolutions
+   - **Education:** Ph.D. in Data Science from Physics Academy
+   - **References:** Xena Jackson, Lead, patrick_gonzalez@example.com
+Walter Gupta, Engineer, grace_kim@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** xena_miller@example.com, Town, Green Valley
+   - **Projects:** Developed the Cutting-edge Platform for Streamlining Business Processes
+

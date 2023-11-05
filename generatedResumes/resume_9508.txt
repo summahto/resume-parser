@@ -1,0 +1,10 @@
+9508. **Name:** Jack Kim
+   - **Skills:** Kubernetes, DevOps, Graphic Design, Cloud Computing
+   - **Experience:** Senior Manager at DigitalSolutions
+   - **Education:** Master in Engineering from Inno Institute
+   - **References:** Mia Rodriguez, Manager, victoria_patel@example.com
+David Jones, Manager, henry_nguyen@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** leo_wu@example.com, City, Green Valley
+   - **Projects:** Developed the Innovative Project for Optimizing User Experience
+

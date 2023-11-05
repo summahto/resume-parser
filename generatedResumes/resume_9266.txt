@@ -1,0 +1,10 @@
+9266. **Name:** Leo Miller
+   - **Skills:** Vue.js, iOS Development, Android Development, Agile
+   - **Experience:** Junior Scientist at InnovativeTech
+   - **Education:** Ph.D. in Data Science from Business School
+   - **References:** Frank Lee, Analyst, quinn_gupta@example.com
+Eva Kumar, Scientist, grace_kumar@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** frank_gonzalez@example.com, City, Techtopia
+   - **Projects:** Led the Groundbreaking App for Streamlining Data Analysis
+

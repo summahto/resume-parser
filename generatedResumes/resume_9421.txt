@@ -1,0 +1,10 @@
+9421. **Name:** Mia Cruz
+   - **Skills:** CSS, Git, Blockchain, C#
+   - **Experience:** Lead Engineer at DataExperts
+   - **Education:** Master in Engineering from Inno Institute
+   - **References:** Bob Wu, Lead, walter_kumar@example.com
+Katherine Kim, Lead, olivia_silva@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** sam_lopez@example.com, City, Techtopia
+   - **Projects:** Led the Groundbreaking Platform for Optimizing Business Processes
+

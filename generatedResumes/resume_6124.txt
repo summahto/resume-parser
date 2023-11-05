@@ -1,0 +1,10 @@
+6124. **Name:** Ulysses Silva
+   - **Skills:** HTML, React, Blockchain, JavaScript
+   - **Experience:** Junior Scientist at CreativeSolutions
+   - **Education:** Bachelor in Engineering from Tech University
+   - **References:** Alice Smith, CTO, walter_gupta@example.com
+Eva Cruz, Lead, yuki_lopez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** victoria_suzuki@example.com, Town, Innoville
+   - **Projects:** Led the Innovative System for Optimizing Collaboration
+

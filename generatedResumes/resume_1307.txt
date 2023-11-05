@@ -1,0 +1,10 @@
+1307. **Name:** Nathan Kim
+   - **Skills:** Docker, C#, Machine Learning, Kubernetes
+   - **Experience:** Lead Scientist at DataExperts
+   - **Education:** Ph.D. in Data Science from Data Science School
+   - **References:** David Taylor, Designer, charlie_suzuki@example.com
+Leo Rodriguez, Coordinator, olivia_lee@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** tina_jones@example.com, Village, Artopia
+   - **Projects:** Led the Cutting-edge Framework for Enhancing Problem-solving
+

@@ -1,0 +1,10 @@
+1890. **Name:** Charlie Kumar
+   - **Skills:** AR/VR Development, Android Development, Vue.js, Angular
+   - **Experience:** Lead Analyst at DataExperts
+   - **Education:** Bachelor in Physics from Inno Institute
+   - **References:** Nathan Rodriguez, Analyst, mia_kumar@example.com
+Xena Wu, Manager, olivia_brown@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** ivy_chen@example.com, Town, Innoville
+   - **Projects:** Led the Innovative Platform for Optimizing Collaboration
+

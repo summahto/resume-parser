@@ -1,0 +1,10 @@
+803. **Name:** Sam Chen
+   - **Skills:** Big Data, AR/VR Development, DevOps, UI/UX Design
+   - **Experience:** Lead Scientist at DataInnovators
+   - **Education:** Bachelor in Data Science from Data Science School
+   - **References:** David Miller, Scientist, jack_cruz@example.com
+Olivia Lee, Coordinator, leo_kumar@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** frank_miller@example.com, Village, Techland
+   - **Projects:** Developed the Innovative App for Streamlining Data Analysis
+

@@ -1,0 +1,10 @@
+7428. **Name:** David Lee
+   - **Skills:** Git, Java, Kubernetes, HTML
+   - **Experience:** Senior Designer at CreativeSolutions
+   - **Education:** Bachelor in Physics from Creative Arts College
+   - **References:** Sam Wu, Developer, olivia_nguyen@example.com
+Frank Garcia, Analyst, patrick_garcia@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** tina_nguyen@example.com, Town, Artopia
+   - **Projects:** Contributed to the Revolutionary Framework for Streamlining Problem-solving
+

@@ -1,0 +1,10 @@
+3142. **Name:** Eva Nguyen
+   - **Skills:** Project Management, Graphic Design, Angular, Vue.js
+   - **Experience:** Junior Scientist at CreativeMinds
+   - **Education:** Master in Engineering from Business School
+   - **References:** Rachel Garcia, CTO, sam_white@example.com
+Rachel White, Lead, frank_williams@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** quinn_chen@example.com, Village, Techland
+   - **Projects:** Led the Cutting-edge Project for Optimizing Data Analysis
+

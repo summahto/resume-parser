@@ -1,0 +1,10 @@
+9286. **Name:** Bob Brown
+   - **Skills:** Blockchain, Node.js, Agile, Git
+   - **Experience:** Lead Manager at DataInnovators
+   - **Education:** Master in Art from Data Science School
+   - **References:** Katherine Lopez, Lead, grace_jones@example.com
+David López, Manager, olivia_lopez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** david_nguyen@example.com, City, Data Haven
+   - **Projects:** Contributed to the Revolutionary App for Enhancing Collaboration
+

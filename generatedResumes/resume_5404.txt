@@ -1,0 +1,10 @@
+5404. **Name:** Katherine Jackson
+   - **Skills:** Machine Learning, Swift, Java, Cybersecurity
+   - **Experience:** Junior Analyst at DigitalSolutions
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Ivy White, Developer, ivy_miller@example.com
+Zane Wu, Scientist, henry_miller@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** david_kumar@example.com, Town, Inno Haven
+   - **Projects:** Developed the Groundbreaking System for Streamlining Data Analysis
+

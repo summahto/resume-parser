@@ -1,0 +1,10 @@
+4874. **Name:** Zane Cruz
+   - **Skills:** C#, AR/VR Development, DevOps, Docker
+   - **Experience:** Junior Developer at CreativeMinds
+   - **Education:** Ph.D. in Computer Science from Physics Academy
+   - **References:** Sam Chen, Director, charlie_taylor@example.com
+Henry Garcia, Engineer, xena_miller@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** frank_patel@example.com, Village, Data City
+   - **Projects:** Contributed to the Cutting-edge Framework for Solving Business Processes
+

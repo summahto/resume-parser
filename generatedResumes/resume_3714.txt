@@ -1,0 +1,10 @@
+3714. **Name:** Henry Kumar
+   - **Skills:** C#, Swift, Vue.js, Project Management
+   - **Experience:** Senior Scientist at DigitalSolutions
+   - **Education:** Ph.D. in Physics from Business School
+   - **References:** Eva Brown, Director, olivia_jones@example.com
+Charlie Yamamoto, Manager, alice_jones@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** charlie_smith@example.com, Village, Techtopia
+   - **Projects:** Contributed to the Innovative Project for Enhancing User Experience
+

@@ -1,0 +1,10 @@
+1462. **Name:** Nathan Kim
+   - **Skills:** Graphic Design, Java, CSS, Data Analysis
+   - **Experience:** Lead Scientist at CreativeMinds
+   - **Education:** Ph.D. in Business Administration from Tech University
+   - **References:** Mia Garcia, Engineer, henry_sato@example.com
+Eva Silva, Coordinator, alice_nguyen@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** nathan_jones@example.com, Town, Data City
+   - **Projects:** Contributed to the Innovative Project for Optimizing Collaboration
+

@@ -1,0 +1,10 @@
+4004. **Name:** Tina Rodriguez
+   - **Skills:** Cloud Computing, Blockchain, Network Administration, Data Analysis
+   - **Experience:** Junior Designer at InnoSolutions
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Patrick Lee, Scientist, xena_lópez@example.com
+Katherine Patel, Developer, grace_chen@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** yuki_kim@example.com, City, Data City
+   - **Projects:** Contributed to the Innovative System for Streamlining Data Analysis
+

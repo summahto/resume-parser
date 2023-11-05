@@ -1,0 +1,10 @@
+5023. **Name:** Walter Gupta
+   - **Skills:** JavaScript, Graphic Design, Kubernetes, Android Development
+   - **Experience:** Lead Analyst at CreativeMinds
+   - **Education:** Master in Business Administration from Physics Academy
+   - **References:** Alice Rodriguez, Director, zane_kumar@example.com
+Ivy Silva, Lead, charlie_silva@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** charlie_silva@example.com, Town, Innovation Meadows
+   - **Projects:** Led the Cutting-edge Platform for Optimizing Problem-solving
+

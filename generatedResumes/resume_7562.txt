@@ -1,0 +1,10 @@
+7562. **Name:** Sam Li
+   - **Skills:** Python, Data Analysis, DevOps, Kubernetes
+   - **Experience:** Junior Designer at TechInnovate
+   - **Education:** Master in Engineering from Inno Institute
+   - **References:** Patrick Patel, CEO, david_kumar@example.com
+Leo Patel, Engineer, charlie_nguyen@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** leo_jones@example.com, Town, Artopia
+   - **Projects:** Developed the Cutting-edge Framework for Optimizing Data Analysis
+

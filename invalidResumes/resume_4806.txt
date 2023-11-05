@@ -1,0 +1,10 @@
+4806. **Name:** Tina Rodriguez
+   - **Skills:** Vue.js, Data Analysis, Android Development, Project Management
+   - **Experience:** Senior Scientist at InnovativeTech
+   - **Education:** Master in Physics from Data Science School
+   - **References:** Rachel White, Analyst, frank_lópez@example.com
+Frank Nguyen, Director, tina_taylor@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** tina_lópez@example.com, Village, Data Haven
+   - **Projects:** Contributed to the Innovative Framework for Streamlining Business Processes
+

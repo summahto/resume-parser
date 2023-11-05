@@ -1,0 +1,10 @@
+7737. **Name:** Katherine Garcia
+   - **Skills:** UI/UX Design, Cloud Computing, Network Administration, Project Management
+   - **Experience:** Junior Manager at InnoSolutions
+   - **Education:** Ph.D. in Computer Science from Inno Institute
+   - **References:** Nathan Miller, Designer, grace_white@example.com
+Bob Williams, CTO, grace_li@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** nathan_rodriguez@example.com, City, Inno Haven
+   - **Projects:** Led the Innovative App for Solving Collaboration
+

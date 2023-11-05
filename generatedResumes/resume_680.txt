@@ -1,0 +1,10 @@
+680. **Name:** Charlie Sato
+   - **Skills:** AR/VR Development, Cloud Computing, HTML, Swift
+   - **Experience:** Junior Scientist at DigitalSolutions
+   - **Education:** Master in Computer Science from Creative Arts College
+   - **References:** Patrick Wu, Coordinator, leo_chen@example.com
+Katherine Jones, Coordinator, olivia_lee@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** sam_lopez@example.com, Village, Innoville
+   - **Projects:** Contributed to the Innovative Framework for Streamlining Data Analysis
+

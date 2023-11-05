@@ -1,0 +1,10 @@
+8046. **Name:** Grace Garcia
+   - **Skills:** Blockchain, Project Management, Git, Android Development
+   - **Experience:** Lead Developer at InnoSolutions
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** David Patel, CEO, leo_nguyen@example.com
+Grace Lee, Manager, henry_cruz@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** bob_wu@example.com, Village, Data City
+   - **Projects:** Developed the Revolutionary Framework for Streamlining Business Processes
+

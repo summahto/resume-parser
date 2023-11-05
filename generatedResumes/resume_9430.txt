@@ -1,0 +1,10 @@
+9430. **Name:** Eva Jones
+   - **Skills:** Big Data, C#, AR/VR Development, Git
+   - **Experience:** Senior Analyst at CodeCrafters
+   - **Education:** Master in Engineering from Tech University
+   - **References:** Walter López, CTO, alice_white@example.com
+Henry Kim, Director, patrick_garcia@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** mia_patel@example.com, Village, Techland
+   - **Projects:** Contributed to the Innovative Framework for Enhancing Problem-solving
+

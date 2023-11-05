@@ -1,0 +1,10 @@
+5992. **Name:** Victoria Yamamoto
+   - **Skills:** C#, UI/UX Design, Android Development, Agile
+   - **Experience:** Junior Designer at DigitalSolutions
+   - **Education:** Ph.D. in Art from Physics Academy
+   - **References:** Walter Taylor, Director, bob_patel@example.com
+Quinn Nguyen, Designer, jack_lopez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** patrick_lee@example.com, Town, Artopia
+   - **Projects:** Led the Innovative Project for Solving Business Processes
+

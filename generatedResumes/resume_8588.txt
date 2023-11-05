@@ -1,0 +1,10 @@
+8588. **Name:** Mia Smith
+   - **Skills:** AR/VR Development, IoT, UI/UX Design, Python
+   - **Experience:** Junior Engineer at CreativeSolutions
+   - **Education:** Master in Engineering from Business School
+   - **References:** Tina Cruz, Designer, zane_smith@example.com
+Nathan Lopez, Lead, walter_miller@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** mia_silva@example.com, Town, Scienceburg
+   - **Projects:** Developed the Groundbreaking Framework for Optimizing Problem-solving
+

@@ -1,0 +1,10 @@
+8742. **Name:** Frank Gonzalez
+   - **Skills:** HTML, Big Data, Git, Kubernetes
+   - **Experience:** Lead Developer at DigitalSolutions
+   - **Education:** Ph.D. in Data Science from Business School
+   - **References:** Charlie Sato, Lead, david_cruz@example.com
+Ulysses Lee, Director, frank_smith@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** frank_miller@example.com, Village, Data Haven
+   - **Projects:** Contributed to the Cutting-edge Framework for Optimizing Collaboration
+

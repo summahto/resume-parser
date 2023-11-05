@@ -1,0 +1,10 @@
+5948. **Name:** Leo Wang
+   - **Skills:** Python, Machine Learning, Docker, Agile
+   - **Experience:** Junior Manager at TechCorp
+   - **Education:** Master in Art from Tech University
+   - **References:** Charlie Lee, Director, tina_lópez@example.com
+Eva Yamamoto, Manager, frank_kumar@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** jack_kumar@example.com, Town, Inno Haven
+   - **Projects:** Developed the Revolutionary Project for Enhancing Data Analysis
+

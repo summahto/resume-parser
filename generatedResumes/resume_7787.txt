@@ -1,0 +1,10 @@
+7787. **Name:** Eva Nguyen
+   - **Skills:** Kubernetes, Agile, CSS, IoT
+   - **Experience:** Lead Designer at CodeCrafters
+   - **Education:** Master in Engineering from Tech University
+   - **References:** Bob Jackson, Scientist, rachel_kumar@example.com
+Olivia White, CTO, david_wang@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** ivy_miller@example.com, Village, Techtopia
+   - **Projects:** Contributed to the Innovative App for Enhancing User Experience
+

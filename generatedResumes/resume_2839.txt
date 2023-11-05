@@ -1,0 +1,10 @@
+2839. **Name:** Sam Williams
+   - **Skills:** JavaScript, Docker, Java, Big Data
+   - **Experience:** Junior Manager at TechInnovate
+   - **Education:** Master in Engineering from Business School
+   - **References:** Mia Wu, CTO, alice_kumar@example.com
+David Wu, Manager, katherine_nguyen@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** grace_taylor@example.com, Town, Innoville
+   - **Projects:** Led the Cutting-edge Project for Optimizing Data Analysis
+

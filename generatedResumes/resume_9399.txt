@@ -1,0 +1,10 @@
+9399. **Name:** David Lopez
+   - **Skills:** Cybersecurity, SQL, Angular, Network Administration
+   - **Experience:** Junior Engineer at DataInnovators
+   - **Education:** Bachelor in Physics from Business School
+   - **References:** Bob White, Developer, tina_wu@example.com
+Tina White, Designer, yuki_jones@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** alice_miller@example.com, City, Innovation Meadows
+   - **Projects:** Developed the Groundbreaking Project for Solving Data Analysis
+

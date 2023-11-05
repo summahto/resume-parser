@@ -1,0 +1,10 @@
+2400. **Name:** Jack Brown
+   - **Skills:** Graphic Design, Node.js, Big Data, HTML
+   - **Experience:** Senior Analyst at CreativeSolutions
+   - **Education:** Bachelor in Physics from Creative Arts College
+   - **References:** Mia Wang, Scientist, yuki_white@example.com
+Frank Jackson, Lead, ulysses_lee@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** patrick_silva@example.com, Town, Data City
+   - **Projects:** Contributed to the Cutting-edge Framework for Streamlining Business Processes
+

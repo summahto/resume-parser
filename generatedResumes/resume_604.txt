@@ -1,0 +1,10 @@
+604. **Name:** Sam Gupta
+   - **Skills:** Node.js, Data Analysis, Network Administration, JavaScript
+   - **Experience:** Junior Manager at DataExperts
+   - **Education:** Bachelor in Physics from Creative Arts College
+   - **References:** Mia Nguyen, Scientist, tina_miller@example.com
+Walter Garcia, Developer, ivy_white@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** rachel_taylor@example.com, Town, Artopia
+   - **Projects:** Developed the Cutting-edge System for Optimizing Collaboration
+

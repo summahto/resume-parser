@@ -1,0 +1,10 @@
+6114. **Name:** Yuki Smith
+   - **Skills:** Angular, Big Data, AR/VR Development, iOS Development
+   - **Experience:** Lead Designer at DigitalSolutions
+   - **Education:** Master in Business Administration from Data Science School
+   - **References:** Victoria Garcia, CEO, ivy_jackson@example.com
+Henry Smith, Coordinator, katherine_lopez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** ivy_nguyen@example.com, City, Innovation Meadows
+   - **Projects:** Developed the Cutting-edge Project for Enhancing Problem-solving
+

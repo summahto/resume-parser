@@ -1,0 +1,10 @@
+3284. **Name:** Ulysses Lopez
+   - **Skills:** Data Analysis, Big Data, Python, IoT
+   - **Experience:** Lead Designer at CreativeSolutions
+   - **Education:** Bachelor in Engineering from Creative Arts College
+   - **References:** Quinn Wang, Coordinator, katherine_taylor@example.com
+Alice Silva, Lead, bob_cruz@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** alice_yamamoto@example.com, City, Green Valley
+   - **Projects:** Contributed to the Innovative Platform for Streamlining User Experience
+

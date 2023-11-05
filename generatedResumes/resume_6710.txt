@@ -1,0 +1,10 @@
+6710. **Name:** Sam Cruz
+   - **Skills:** Kubernetes, Cloud Computing, iOS Development, Machine Learning
+   - **Experience:** Junior Designer at TechInnovate
+   - **Education:** Master in Data Science from Creative Arts College
+   - **References:** Zane Kim, Developer, walter_jones@example.com
+Ivy Lopez, Scientist, alice_jones@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** leo_jones@example.com, Town, Data City
+   - **Projects:** Led the Cutting-edge Platform for Enhancing Collaboration
+

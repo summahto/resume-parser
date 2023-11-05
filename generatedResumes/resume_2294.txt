@@ -1,0 +1,10 @@
+2294. **Name:** Quinn White
+   - **Skills:** React, Swift, UI/UX Design, Angular
+   - **Experience:** Senior Manager at InnovativeTech
+   - **Education:** Ph.D. in Computer Science from Business School
+   - **References:** Grace Suzuki, Manager, bob_chen@example.com
+Leo Silva, Designer, tina_jones@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** walter_taylor@example.com, City, Artopia
+   - **Projects:** Developed the Revolutionary App for Enhancing Collaboration
+

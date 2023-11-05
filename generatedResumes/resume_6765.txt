@@ -1,0 +1,10 @@
+6765. **Name:** Zane Jackson
+   - **Skills:** Angular, SQL, IoT, Blockchain
+   - **Experience:** Senior Manager at DataExperts
+   - **Education:** Master in Physics from Physics Academy
+   - **References:** Katherine Chen, Manager, alice_taylor@example.com
+Leo Gupta, Manager, xena_gupta@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** walter_nguyen@example.com, Village, Techland
+   - **Projects:** Led the Groundbreaking Framework for Solving User Experience
+

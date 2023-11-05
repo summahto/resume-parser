@@ -1,0 +1,10 @@
+7976. **Name:** Quinn Wang
+   - **Skills:** SQL, JavaScript, C#, Python
+   - **Experience:** Senior Manager at InnovativeTech
+   - **Education:** Master in Data Science from Business School
+   - **References:** Ivy Jones, Analyst, nathan_gupta@example.com
+Mia White, Developer, sam_cruz@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** henry_yamamoto@example.com, City, Green Valley
+   - **Projects:** Contributed to the Revolutionary Project for Solving Problem-solving
+

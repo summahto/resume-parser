@@ -1,0 +1,10 @@
+5135. **Name:** Nathan Nguyen
+   - **Skills:** CSS, Agile, DevOps, React
+   - **Experience:** Lead Analyst at CreativeSolutions
+   - **Education:** Bachelor in Business Administration from Tech University
+   - **References:** Katherine Hernandez, Manager, sam_patel@example.com
+Katherine Wang, Coordinator, katherine_kumar@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** henry_white@example.com, Town, Techtopia
+   - **Projects:** Led the Groundbreaking Project for Enhancing User Experience
+

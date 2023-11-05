@@ -1,0 +1,10 @@
+7702. **Name:** Mia Nguyen
+   - **Skills:** IoT, Agile, CSS, JavaScript
+   - **Experience:** Lead Designer at TechCorp
+   - **Education:** Master in Data Science from Creative Arts College
+   - **References:** Rachel Taylor, Manager, katherine_kumar@example.com
+David Cruz, Director, walter_taylor@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** ulysses_yamamoto@example.com, Village, Data Haven
+   - **Projects:** Developed the Groundbreaking System for Enhancing Collaboration
+

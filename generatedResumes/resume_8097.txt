@@ -1,0 +1,10 @@
+8097. **Name:** Olivia Nguyen
+   - **Skills:** iOS Development, IoT, SQL, Agile
+   - **Experience:** Junior Scientist at InnoSolutions
+   - **Education:** Master in Computer Science from Data Science School
+   - **References:** Tina Jackson, Lead, jack_garcia@example.com
+Zane Lopez, Scientist, ivy_wu@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** ulysses_silva@example.com, City, Innovation Meadows
+   - **Projects:** Developed the Revolutionary App for Enhancing Business Processes
+

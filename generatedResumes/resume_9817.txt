@@ -1,0 +1,10 @@
+9817. **Name:** Zane Singh
+   - **Skills:** Blockchain, Graphic Design, Project Management, Kubernetes
+   - **Experience:** Lead Scientist at CodeCrafters
+   - **Education:** Ph.D. in Business Administration from Inno Institute
+   - **References:** Katherine Lee, Manager, quinn_smith@example.com
+Yuki Suzuki, Analyst, ulysses_johnson@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** bob_miller@example.com, City, Techland
+   - **Projects:** Led the Groundbreaking Framework for Enhancing User Experience
+

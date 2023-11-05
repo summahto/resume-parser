@@ -1,0 +1,10 @@
+7504. **Name:** Yuki Singh
+   - **Skills:** Git, HTML, Blockchain, C#
+   - **Experience:** Senior Engineer at TechCorp
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** Charlie Garcia, Designer, ulysses_nguyen@example.com
+Walter Smith, Scientist, frank_patel@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** xena_jones@example.com, City, Scienceburg
+   - **Projects:** Led the Innovative Project for Enhancing User Experience
+

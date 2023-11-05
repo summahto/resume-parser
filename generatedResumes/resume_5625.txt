@@ -1,0 +1,10 @@
+5625. **Name:** Jack Wu
+   - **Skills:** Python, Git, Cybersecurity, JavaScript
+   - **Experience:** Junior Scientist at InnoSolutions
+   - **Education:** Ph.D. in Data Science from Tech University
+   - **References:** Zane Wu, Engineer, tina_wu@example.com
+Olivia Silva, CTO, alice_kumar@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** henry_jones@example.com, City, Green Valley
+   - **Projects:** Developed the Groundbreaking Platform for Optimizing User Experience
+

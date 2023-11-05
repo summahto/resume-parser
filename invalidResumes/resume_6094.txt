@@ -1,0 +1,10 @@
+6094. **Name:** Charlie White
+   - **Skills:** Android Development, HTML, Vue.js, Docker
+   - **Experience:** Junior Manager at TechInnovate
+   - **Education:** Ph.D. in Art from Tech University
+   - **References:** Yuki Lee, Developer, zane_kumar@example.com
+Rachel Jackson, Lead, david_lópez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** charlie_nguyen@example.com, Village, Innoville
+   - **Projects:** Developed the Groundbreaking App for Solving User Experience
+

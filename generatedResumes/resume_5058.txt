@@ -1,0 +1,10 @@
+5058. **Name:** Charlie Wang
+   - **Skills:** HTML, Python, DevOps, Cloud Computing
+   - **Experience:** Senior Manager at CreativeSolutions
+   - **Education:** Master in Business Administration from Tech University
+   - **References:** Olivia Kumar, CTO, henry_singh@example.com
+Quinn White, Director, nathan_brown@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** rachel_kumar@example.com, Town, Techland
+   - **Projects:** Developed the Cutting-edge Platform for Enhancing Business Processes
+

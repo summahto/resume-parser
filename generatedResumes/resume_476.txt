@@ -1,0 +1,10 @@
+476. **Name:** Xena Lee
+   - **Skills:** Machine Learning, Agile, Angular, Android Development
+   - **Experience:** Lead Designer at DataInnovators
+   - **Education:** Master in Physics from Tech University
+   - **References:** Zane Nguyen, CEO, walter_taylor@example.com
+Charlie Miller, CEO, xena_garcia@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** rachel_lopez@example.com, Town, Techland
+   - **Projects:** Developed the Innovative System for Enhancing Problem-solving
+

@@ -1,0 +1,10 @@
+2399. **Name:** Alice Chen
+   - **Skills:** Project Management, CSS, Graphic Design, SQL
+   - **Experience:** Lead Manager at DigitalSolutions
+   - **Education:** Bachelor in Business Administration from Physics Academy
+   - **References:** Bob Chen, Designer, yuki_jones@example.com
+Tina Kumar, CTO, tina_kumar@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** xena_wang@example.com, City, Green Valley
+   - **Projects:** Led the Cutting-edge Platform for Solving Data Analysis
+

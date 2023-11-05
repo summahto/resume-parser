@@ -1,0 +1,10 @@
+4869. **Name:** Mia Kumar
+   - **Skills:** Big Data, Graphic Design, C#, Machine Learning
+   - **Experience:** Senior Manager at CodeCrafters
+   - **Education:** Bachelor in Data Science from Data Science School
+   - **References:** Mia Garcia, Director, eva_brown@example.com
+Yuki Cruz, Director, rachel_rodriguez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** leo_wang@example.com, City, Scienceburg
+   - **Projects:** Developed the Revolutionary Framework for Solving Problem-solving
+

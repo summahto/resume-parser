@@ -1,0 +1,10 @@
+8983. **Name:** Ivy Nguyen
+   - **Skills:** Graphic Design, Node.js, Angular, Blockchain
+   - **Experience:** Senior Analyst at CodeCrafters
+   - **Education:** Master in Business Administration from Inno Institute
+   - **References:** Rachel Chen, Scientist, charlie_davis@example.com
+Katherine Wu, Scientist, sam_silva@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** ivy_kumar@example.com, Village, Inno Haven
+   - **Projects:** Developed the Revolutionary Framework for Optimizing Data Analysis
+

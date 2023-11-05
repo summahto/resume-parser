@@ -1,0 +1,10 @@
+6377. **Name:** Charlie Yamamoto
+   - **Skills:** Python, Vue.js, CSS, Android Development
+   - **Experience:** Senior Engineer at DigitalSolutions
+   - **Education:** Master in Physics from Data Science School
+   - **References:** Nathan Brown, Engineer, katherine_lopez@example.com
+Charlie Silva, Manager, katherine_garcia@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** xena_chen@example.com, City, Data Haven
+   - **Projects:** Developed the Cutting-edge Framework for Optimizing Data Analysis
+

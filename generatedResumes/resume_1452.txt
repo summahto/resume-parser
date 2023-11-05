@@ -1,0 +1,10 @@
+1452. **Name:** Leo Taylor
+   - **Skills:** Project Management, Python, React, UI/UX Design
+   - **Experience:** Senior Engineer at DataExperts
+   - **Education:** Ph.D. in Physics from Physics Academy
+   - **References:** Tina Jones, Scientist, eva_lopez@example.com
+Ulysses Patel, Lead, patrick_lee@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** henry_miller@example.com, Village, Data City
+   - **Projects:** Contributed to the Cutting-edge App for Optimizing User Experience
+

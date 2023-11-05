@@ -1,0 +1,10 @@
+8766. **Name:** Victoria Nguyen
+   - **Skills:** Network Administration, Swift, CSS, Big Data
+   - **Experience:** Junior Designer at CodeCrafters
+   - **Education:** Ph.D. in Art from Tech University
+   - **References:** Jack Yamamoto, Lead, bob_nguyen@example.com
+Zane Lee, Coordinator, patrick_müller@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** xena_kumar@example.com, Village, Green Valley
+   - **Projects:** Led the Revolutionary System for Solving User Experience
+

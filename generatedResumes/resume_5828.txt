@@ -1,0 +1,10 @@
+5828. **Name:** Alice Lopez
+   - **Skills:** Cybersecurity, Blockchain, Python, AR/VR Development
+   - **Experience:** Lead Engineer at DataInnovators
+   - **Education:** Master in Data Science from Inno Institute
+   - **References:** Charlie Jones, Designer, leo_smith@example.com
+Katherine Lopez, Lead, katherine_cruz@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** quinn_cruz@example.com, Village, Innoville
+   - **Projects:** Led the Revolutionary Project for Solving Problem-solving
+

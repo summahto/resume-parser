@@ -1,0 +1,10 @@
+9062. **Name:** Katherine Wu
+   - **Skills:** C#, AR/VR Development, JavaScript, Android Development
+   - **Experience:** Junior Developer at CreativeMinds
+   - **Education:** Master in Computer Science from Business School
+   - **References:** Charlie Taylor, Scientist, yuki_lopez@example.com
+Sam Lopez, Director, bob_garcia@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** rachel_wu@example.com, City, Data Haven
+   - **Projects:** Contributed to the Revolutionary Framework for Streamlining Business Processes
+

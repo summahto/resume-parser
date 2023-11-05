@@ -1,0 +1,10 @@
+3163. **Name:** Nathan Miller
+   - **Skills:** AR/VR Development, Java, React, IoT
+   - **Experience:** Lead Designer at CodeCrafters
+   - **Education:** Master in Art from Tech University
+   - **References:** Ulysses Miller, Lead, bob_cruz@example.com
+Tina Jones, Engineer, ulysses_garcia@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** charlie_davis@example.com, City, Inno Haven
+   - **Projects:** Contributed to the Groundbreaking Project for Streamlining Business Processes
+

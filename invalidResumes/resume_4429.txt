@@ -1,0 +1,10 @@
+4429. **Name:** Yuki Johnson
+   - **Skills:** Angular, Big Data, C#, Data Analysis
+   - **Experience:** Senior Manager at CodeCrafters
+   - **Education:** Ph.D. in Engineering from Inno Institute
+   - **References:** Mia Chen, Developer, bob_cruz@example.com
+Jack Chen, Designer, tina_lee@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** leo_lópez@example.com, Village, Techland
+   - **Projects:** Led the Cutting-edge Platform for Streamlining Problem-solving
+

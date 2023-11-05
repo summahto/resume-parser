@@ -1,0 +1,10 @@
+7965. **Name:** Mia Jones
+   - **Skills:** Kubernetes, IoT, Swift, iOS Development
+   - **Experience:** Junior Analyst at CodeCrafters
+   - **Education:** Bachelor in Computer Science from Business School
+   - **References:** Sam Silva, Scientist, ivy_rodriguez@example.com
+Leo López, Lead, frank_cruz@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** rachel_kumar@example.com, City, Artopia
+   - **Projects:** Contributed to the Groundbreaking Platform for Solving Business Processes
+

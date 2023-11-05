@@ -1,0 +1,10 @@
+9372. **Name:** Victoria Jackson
+   - **Skills:** AR/VR Development, iOS Development, Agile, Android Development
+   - **Experience:** Junior Scientist at DataInnovators
+   - **Education:** Bachelor in Data Science from Creative Arts College
+   - **References:** Alice Brown, Analyst, katherine_patel@example.com
+Nathan Gonzalez, Coordinator, xena_jones@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** david_cruz@example.com, City, Inno Haven
+   - **Projects:** Contributed to the Revolutionary System for Enhancing Data Analysis
+

@@ -1,0 +1,10 @@
+6708. **Name:** Xena Gupta
+   - **Skills:** JavaScript, React, Blockchain, Git
+   - **Experience:** Junior Designer at CodeCrafters
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Zane Gonzalez, Designer, mia_taylor@example.com
+Charlie Wu, CTO, ivy_gupta@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** katherine_garcia@example.com, Village, Techtopia
+   - **Projects:** Led the Innovative Project for Optimizing Collaboration
+

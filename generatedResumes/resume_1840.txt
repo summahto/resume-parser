@@ -1,0 +1,10 @@
+1840. **Name:** Olivia Miller
+   - **Skills:** Big Data, C#, Git, Python
+   - **Experience:** Junior Developer at CodeCrafters
+   - **Education:** Bachelor in Business Administration from Inno Institute
+   - **References:** Patrick Yamamoto, Developer, nathan_wu@example.com
+Rachel Silva, Designer, ulysses_miller@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** victoria_nguyen@example.com, Town, Scienceburg
+   - **Projects:** Led the Revolutionary System for Optimizing User Experience
+

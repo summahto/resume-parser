@@ -1,0 +1,10 @@
+5303. **Name:** Ivy Gonzalez
+   - **Skills:** Network Administration, C#, CSS, DevOps
+   - **Experience:** Senior Engineer at TechInnovate
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Bob Nguyen, Designer, ulysses_taylor@example.com
+Katherine Patel, Developer, quinn_patel@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** quinn_nguyen@example.com, Village, Scienceburg
+   - **Projects:** Developed the Revolutionary App for Enhancing Problem-solving
+

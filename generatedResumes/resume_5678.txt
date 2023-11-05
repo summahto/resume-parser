@@ -1,0 +1,10 @@
+5678. **Name:** Xena Jones
+   - **Skills:** Angular, Network Administration, Graphic Design, Data Analysis
+   - **Experience:** Junior Manager at InnoSolutions
+   - **Education:** Ph.D. in Business Administration from Data Science School
+   - **References:** Quinn Rodriguez, Director, alice_lópez@example.com
+Walter White, Director, nathan_müller@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** katherine_white@example.com, Town, Techtopia
+   - **Projects:** Led the Groundbreaking System for Streamlining Problem-solving
+

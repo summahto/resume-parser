@@ -1,0 +1,10 @@
+5195. **Name:** Patrick Chen
+   - **Skills:** Cybersecurity, C#, iOS Development, Blockchain
+   - **Experience:** Senior Designer at CreativeSolutions
+   - **Education:** Master in Computer Science from Physics Academy
+   - **References:** Victoria Kumar, Engineer, katherine_miller@example.com
+Leo Miller, Director, patrick_smith@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** jack_li@example.com, Town, Techland
+   - **Projects:** Developed the Groundbreaking App for Streamlining Problem-solving
+

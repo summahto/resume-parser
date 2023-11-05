@@ -1,0 +1,10 @@
+4897. **Name:** Jack López
+   - **Skills:** CSS, Swift, JavaScript, Cybersecurity
+   - **Experience:** Junior Designer at CreativeMinds
+   - **Education:** Master in Engineering from Data Science School
+   - **References:** Yuki Miller, Developer, david_white@example.com
+Quinn Silva, Lead, frank_lee@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** tina_kumar@example.com, Village, Scienceburg
+   - **Projects:** Contributed to the Innovative Platform for Solving Collaboration
+

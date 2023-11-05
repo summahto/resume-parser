@@ -1,0 +1,10 @@
+3235. **Name:** David Kumar
+   - **Skills:** Java, AR/VR Development, Data Analysis, Agile
+   - **Experience:** Lead Developer at CreativeSolutions
+   - **Education:** Bachelor in Engineering from Data Science School
+   - **References:** Grace Wang, Analyst, walter_smith@example.com
+Tina White, CTO, ulysses_white@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** eva_lópez@example.com, Town, Innoville
+   - **Projects:** Contributed to the Innovative App for Optimizing User Experience
+

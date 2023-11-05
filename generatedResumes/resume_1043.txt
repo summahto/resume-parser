@@ -1,0 +1,10 @@
+1043. **Name:** Charlie Nguyen
+   - **Skills:** Angular, Docker, Vue.js, Python
+   - **Experience:** Senior Scientist at DigitalSolutions
+   - **Education:** Master in Art from Inno Institute
+   - **References:** Jack Miller, Manager, mia_patel@example.com
+David Wu, CTO, sam_chen@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** david_miller@example.com, City, Innoville
+   - **Projects:** Developed the Groundbreaking Framework for Optimizing Collaboration
+

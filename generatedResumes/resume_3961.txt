@@ -1,0 +1,10 @@
+3961. **Name:** Sam Wang
+   - **Skills:** iOS Development, UI/UX Design, Android Development, Node.js
+   - **Experience:** Junior Engineer at TechCorp
+   - **Education:** Master in Data Science from Creative Arts College
+   - **References:** Jack Cruz, CTO, ulysses_silva@example.com
+Bob Cruz, Scientist, charlie_cruz@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** grace_lópez@example.com, City, Green Valley
+   - **Projects:** Developed the Cutting-edge Project for Enhancing Data Analysis
+

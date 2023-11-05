@@ -1,0 +1,10 @@
+8723. **Name:** Leo Wu
+   - **Skills:** SQL, UI/UX Design, Cybersecurity, IoT
+   - **Experience:** Senior Designer at CodeCrafters
+   - **Education:** Ph.D. in Computer Science from Business School
+   - **References:** Ivy Davis, Analyst, sam_jackson@example.com
+Ivy Taylor, Scientist, victoria_miller@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** jack_white@example.com, Village, Data Haven
+   - **Projects:** Led the Cutting-edge Platform for Optimizing Business Processes
+

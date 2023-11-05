@@ -1,0 +1,10 @@
+8996. **Name:** Henry Lee
+   - **Skills:** C#, CSS, Machine Learning, AR/VR Development
+   - **Experience:** Junior Engineer at CreativeMinds
+   - **Education:** Ph.D. in Art from Inno Institute
+   - **References:** Bob Williams, Manager, quinn_rodriguez@example.com
+Zane Nguyen, Lead, alice_yamamoto@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** xena_wang@example.com, City, Artopia
+   - **Projects:** Led the Innovative Platform for Solving Data Analysis
+

@@ -1,0 +1,10 @@
+6394. **Name:** Nathan Garcia
+   - **Skills:** Python, Agile, Angular, CSS
+   - **Experience:** Junior Designer at DigitalSolutions
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Frank Jackson, Engineer, quinn_kumar@example.com
+Tina Kumar, Lead, jack_nguyen@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** jack_gupta@example.com, City, Data Haven
+   - **Projects:** Led the Innovative Platform for Optimizing User Experience
+

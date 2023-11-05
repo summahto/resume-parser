@@ -1,0 +1,10 @@
+4081. **Name:** Nathan Garcia
+   - **Skills:** C#, Angular, Graphic Design, Network Administration
+   - **Experience:** Senior Scientist at CreativeSolutions
+   - **Education:** Ph.D. in Data Science from Inno Institute
+   - **References:** Ulysses Rodriguez, Lead, sam_chen@example.com
+Ivy Gonzalez, Lead, rachel_patel@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** quinn_sato@example.com, Village, Data City
+   - **Projects:** Developed the Revolutionary App for Solving Collaboration
+

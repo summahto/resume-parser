@@ -1,0 +1,10 @@
+2622. **Name:** Frank Rodriguez
+   - **Skills:** Cloud Computing, AR/VR Development, C#, iOS Development
+   - **Experience:** Junior Engineer at CreativeMinds
+   - **Education:** Bachelor in Engineering from Business School
+   - **References:** Yuki Lee, CTO, david_müller@example.com
+Ivy Lee, Designer, david_kumar@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** patrick_williams@example.com, Town, Techland
+   - **Projects:** Led the Groundbreaking App for Solving Problem-solving
+

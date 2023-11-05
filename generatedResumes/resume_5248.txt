@@ -1,0 +1,10 @@
+5248. **Name:** Yuki Jones
+   - **Skills:** Angular, React, UI/UX Design, Cybersecurity
+   - **Experience:** Senior Scientist at CodeCrafters
+   - **Education:** Ph.D. in Engineering from Data Science School
+   - **References:** Jack Li, Coordinator, walter_gonzalez@example.com
+Leo Lopez, Director, mia_yamamoto@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** sam_lopez@example.com, City, Innovation Meadows
+   - **Projects:** Contributed to the Groundbreaking System for Solving Problem-solving
+

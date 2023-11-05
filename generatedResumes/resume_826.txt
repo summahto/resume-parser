@@ -1,0 +1,10 @@
+826. **Name:** Grace Chen
+   - **Skills:** IoT, Android Development, Java, Vue.js
+   - **Experience:** Junior Developer at CodeCrafters
+   - **Education:** Bachelor in Data Science from Data Science School
+   - **References:** Eva Miller, Manager, ivy_white@example.com
+Grace Brown, Developer, david_lee@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** yuki_kumar@example.com, City, Data Haven
+   - **Projects:** Developed the Innovative Framework for Enhancing Problem-solving
+

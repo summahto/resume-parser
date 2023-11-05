@@ -1,0 +1,10 @@
+7413. **Name:** Charlie Chen
+   - **Skills:** SQL, CSS, Cybersecurity, UI/UX Design
+   - **Experience:** Lead Engineer at DataExperts
+   - **Education:** Ph.D. in Engineering from Data Science School
+   - **References:** Katherine Rodriguez, Analyst, victoria_lópez@example.com
+Quinn Hernandez, Engineer, ulysses_miller@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** victoria_brown@example.com, Village, Innovation Meadows
+   - **Projects:** Contributed to the Groundbreaking App for Solving Problem-solving
+

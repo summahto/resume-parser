@@ -1,0 +1,10 @@
+198. **Name:** Nathan Kumar
+   - **Skills:** JavaScript, AR/VR Development, Machine Learning, Node.js
+   - **Experience:** Lead Manager at DataInnovators
+   - **Education:** Ph.D. in Computer Science from Inno Institute
+   - **References:** Walter Gonzalez, Manager, ivy_nguyen@example.com
+Walter Hernandez, Director, bob_wu@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** ivy_rodriguez@example.com, Village, Inno Haven
+   - **Projects:** Contributed to the Innovative Framework for Streamlining Problem-solving
+

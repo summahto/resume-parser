@@ -1,0 +1,10 @@
+5140. **Name:** Charlie Garcia
+   - **Skills:** Cybersecurity, Python, Cloud Computing, AR/VR Development
+   - **Experience:** Senior Developer at CreativeMinds
+   - **Education:** Ph.D. in Art from Data Science School
+   - **References:** Leo Lee, Analyst, david_rodriguez@example.com
+Olivia Gupta, Coordinator, nathan_garcia@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** eva_cruz@example.com, Village, Innovation Meadows
+   - **Projects:** Developed the Innovative System for Solving Collaboration
+

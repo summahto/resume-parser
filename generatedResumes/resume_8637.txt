@@ -1,0 +1,10 @@
+8637. **Name:** Mia López
+   - **Skills:** Angular, UI/UX Design, Network Administration, CSS
+   - **Experience:** Senior Engineer at InnovativeTech
+   - **Education:** Master in Business Administration from Tech University
+   - **References:** Ivy Brown, Analyst, nathan_rodriguez@example.com
+Ivy Kumar, Manager, eva_smith@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** grace_kumar@example.com, Town, Scienceburg
+   - **Projects:** Developed the Innovative Framework for Streamlining Data Analysis
+

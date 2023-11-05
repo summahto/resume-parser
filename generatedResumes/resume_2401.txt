@@ -1,0 +1,10 @@
+2401. **Name:** Rachel Cruz
+   - **Skills:** Blockchain, Agile, DevOps, HTML
+   - **Experience:** Lead Engineer at CreativeMinds
+   - **Education:** Master in Engineering from Creative Arts College
+   - **References:** Quinn Williams, CEO, bob_lópez@example.com
+Nathan Jackson, Scientist, ulysses_smith@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** david_chen@example.com, Town, Data Haven
+   - **Projects:** Led the Innovative Project for Optimizing Collaboration
+

@@ -1,0 +1,10 @@
+7078. **Name:** Eva Garcia
+   - **Skills:** Cloud Computing, React, Git, Machine Learning
+   - **Experience:** Senior Manager at DigitalSolutions
+   - **Education:** Bachelor in Physics from Tech University
+   - **References:** David White, Scientist, xena_rodriguez@example.com
+Xena Miller, CTO, bob_lópez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** charlie_taylor@example.com, City, Innoville
+   - **Projects:** Developed the Cutting-edge App for Solving Business Processes
+

@@ -1,0 +1,10 @@
+7323. **Name:** Yuki Patel
+   - **Skills:** Docker, Cloud Computing, Big Data, Graphic Design
+   - **Experience:** Senior Engineer at TechInnovate
+   - **Education:** Master in Computer Science from Data Science School
+   - **References:** Olivia Smith, CEO, katherine_lee@example.com
+Yuki Gupta, Coordinator, olivia_jackson@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** eva_gupta@example.com, Village, Innoville
+   - **Projects:** Developed the Cutting-edge Project for Enhancing Business Processes
+

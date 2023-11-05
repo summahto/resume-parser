@@ -1,0 +1,10 @@
+2648. **Name:** Quinn Gupta
+   - **Skills:** iOS Development, Project Management, HTML, Python
+   - **Experience:** Senior Developer at CreativeMinds
+   - **Education:** Master in Data Science from Creative Arts College
+   - **References:** Katherine Cruz, Manager, tina_kumar@example.com
+Rachel Kumar, Director, charlie_chen@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** eva_smith@example.com, City, Data City
+   - **Projects:** Led the Revolutionary System for Optimizing Collaboration
+

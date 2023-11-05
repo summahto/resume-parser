@@ -1,0 +1,10 @@
+5299. **Name:** Ulysses Miller
+   - **Skills:** Network Administration, IoT, Java, Blockchain
+   - **Experience:** Senior Scientist at DataExperts
+   - **Education:** Bachelor in Engineering from Physics Academy
+   - **References:** Katherine Kumar, Manager, patrick_brown@example.com
+Sam Cruz, CTO, mia_brown@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** mia_gupta@example.com, City, Innoville
+   - **Projects:** Developed the Groundbreaking App for Enhancing Problem-solving
+

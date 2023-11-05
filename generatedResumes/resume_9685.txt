@@ -1,0 +1,10 @@
+9685. **Name:** Quinn Wang
+   - **Skills:** Python, CSS, Data Analysis, Java
+   - **Experience:** Senior Analyst at InnovativeTech
+   - **Education:** Ph.D. in Art from Creative Arts College
+   - **References:** Walter Taylor, Scientist, ivy_lopez@example.com
+Walter Wu, Coordinator, quinn_cruz@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** walter_chen@example.com, Town, Scienceburg
+   - **Projects:** Contributed to the Innovative Framework for Optimizing Collaboration
+

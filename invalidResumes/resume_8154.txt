@@ -1,0 +1,10 @@
+8154. **Name:** Tina Jackson
+   - **Skills:** Android Development, Node.js, UI/UX Design, Agile
+   - **Experience:** Lead Manager at CreativeMinds
+   - **Education:** Master in Engineering from Data Science School
+   - **References:** Jack López, Lead, xena_jones@example.com
+Walter White, Designer, jack_lee@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** nathan_sato@example.com, City, Inno Haven
+   - **Projects:** Contributed to the Revolutionary App for Optimizing Data Analysis
+

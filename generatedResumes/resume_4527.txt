@@ -1,0 +1,10 @@
+4527. **Name:** Olivia Gupta
+   - **Skills:** Vue.js, AR/VR Development, UI/UX Design, Data Analysis
+   - **Experience:** Junior Developer at CodeCrafters
+   - **Education:** Ph.D. in Data Science from Tech University
+   - **References:** Quinn Yamamoto, Scientist, victoria_jones@example.com
+Leo Lee, Developer, xena_lópez@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** jack_gupta@example.com, Town, Techtopia
+   - **Projects:** Contributed to the Revolutionary System for Enhancing Problem-solving
+

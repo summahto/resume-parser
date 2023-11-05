@@ -1,0 +1,10 @@
+5281. **Name:** Katherine Lee
+   - **Skills:** Git, Cloud Computing, IoT, Node.js
+   - **Experience:** Lead Scientist at InnoSolutions
+   - **Education:** Ph.D. in Business Administration from Business School
+   - **References:** Frank Jackson, Coordinator, olivia_brown@example.com
+Zane Smith, CTO, olivia_davis@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** walter_brown@example.com, City, Data City
+   - **Projects:** Led the Cutting-edge Project for Streamlining Problem-solving
+

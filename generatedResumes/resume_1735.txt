@@ -1,0 +1,10 @@
+1735. **Name:** Quinn Gupta
+   - **Skills:** HTML, Network Administration, Project Management, UI/UX Design
+   - **Experience:** Senior Analyst at InnoSolutions
+   - **Education:** Ph.D. in Business Administration from Data Science School
+   - **References:** Mia Singh, Manager, victoria_lópez@example.com
+Patrick Nguyen, CEO, zane_jones@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** leo_johnson@example.com, City, Data Haven
+   - **Projects:** Developed the Revolutionary System for Streamlining Problem-solving
+

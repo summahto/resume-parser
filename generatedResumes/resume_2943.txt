@@ -1,0 +1,10 @@
+2943. **Name:** Zane Jones
+   - **Skills:** iOS Development, Data Analysis, Node.js, Android Development
+   - **Experience:** Junior Scientist at DigitalSolutions
+   - **Education:** Bachelor in Art from Creative Arts College
+   - **References:** Charlie Cruz, Manager, nathan_johnson@example.com
+Katherine White, Director, victoria_rodriguez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** xena_lopez@example.com, Village, Artopia
+   - **Projects:** Developed the Cutting-edge Platform for Optimizing Collaboration
+

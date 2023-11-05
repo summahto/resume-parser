@@ -1,0 +1,10 @@
+5085. **Name:** Tina Garcia
+   - **Skills:** Docker, Agile, DevOps, Node.js
+   - **Experience:** Lead Manager at DataInnovators
+   - **Education:** Master in Business Administration from Tech University
+   - **References:** Mia Cruz, CTO, bob_wu@example.com
+Xena López, CEO, bob_nguyen@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** patrick_gonzalez@example.com, City, Techland
+   - **Projects:** Led the Groundbreaking Framework for Enhancing User Experience
+

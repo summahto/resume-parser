@@ -1,0 +1,10 @@
+8686. **Name:** Quinn Cruz
+   - **Skills:** Android Development, Agile, Cloud Computing, Java
+   - **Experience:** Senior Manager at DataInnovators
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** Alice Wu, Manager, xena_kumar@example.com
+Charlie Lopez, Lead, charlie_wang@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** tina_lopez@example.com, City, Techtopia
+   - **Projects:** Led the Cutting-edge System for Solving User Experience
+

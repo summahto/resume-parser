@@ -1,0 +1,10 @@
+8000. **Name:** Olivia Miller
+   - **Skills:** Angular, iOS Development, Project Management, DevOps
+   - **Experience:** Junior Engineer at InnoSolutions
+   - **Education:** Master in Physics from Inno Institute
+   - **References:** Eva Smith, CEO, olivia_lopez@example.com
+Grace Jackson, CTO, olivia_miller@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** victoria_sato@example.com, Town, Scienceburg
+   - **Projects:** Led the Revolutionary Framework for Solving Business Processes
+

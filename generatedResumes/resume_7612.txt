@@ -1,0 +1,10 @@
+7612. **Name:** Tina White
+   - **Skills:** React, HTML, iOS Development, Data Analysis
+   - **Experience:** Lead Designer at DataExperts
+   - **Education:** Master in Computer Science from Creative Arts College
+   - **References:** Frank Brown, Designer, frank_white@example.com
+Tina López, Manager, frank_white@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** jack_hernandez@example.com, Town, Green Valley
+   - **Projects:** Led the Innovative System for Optimizing Business Processes
+

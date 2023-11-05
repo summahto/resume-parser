@@ -1,0 +1,10 @@
+7120. **Name:** Eva Silva
+   - **Skills:** Graphic Design, Vue.js, HTML, SQL
+   - **Experience:** Senior Manager at CodeCrafters
+   - **Education:** Master in Art from Data Science School
+   - **References:** Charlie López, Director, tina_patel@example.com
+Tina Lopez, Director, david_rodriguez@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** tina_wu@example.com, City, Techland
+   - **Projects:** Contributed to the Cutting-edge Platform for Enhancing Business Processes
+

@@ -1,0 +1,10 @@
+5394. **Name:** Quinn Cruz
+   - **Skills:** DevOps, Swift, Cybersecurity, Git
+   - **Experience:** Junior Analyst at CreativeMinds
+   - **Education:** Ph.D. in Physics from Physics Academy
+   - **References:** Leo Chen, Director, leo_lopez@example.com
+Mia Suzuki, Analyst, ivy_lee@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** david_lópez@example.com, Village, Techtopia
+   - **Projects:** Led the Revolutionary Project for Streamlining Collaboration
+

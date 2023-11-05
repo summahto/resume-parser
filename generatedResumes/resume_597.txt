@@ -1,0 +1,10 @@
+597. **Name:** Victoria Kumar
+   - **Skills:** Git, Vue.js, AR/VR Development, Angular
+   - **Experience:** Lead Designer at InnovativeTech
+   - **Education:** Master in Computer Science from Data Science School
+   - **References:** Patrick Chen, Engineer, nathan_white@example.com
+Mia Miller, Analyst, walter_jackson@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** victoria_jones@example.com, City, Innovation Meadows
+   - **Projects:** Developed the Revolutionary Framework for Optimizing Collaboration
+

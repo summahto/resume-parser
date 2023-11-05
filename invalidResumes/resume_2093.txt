@@ -1,0 +1,10 @@
+2093. **Name:** Ulysses Garcia
+   - **Skills:** JavaScript, Swift, Java, UI/UX Design
+   - **Experience:** Senior Scientist at InnoSolutions
+   - **Education:** Bachelor in Business Administration from Business School
+   - **References:** Olivia López, Manager, david_brown@example.com
+Charlie Suzuki, Manager, quinn_lee@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** leo_kim@example.com, Town, Artopia
+   - **Projects:** Led the Innovative Framework for Streamlining User Experience
+

@@ -1,0 +1,10 @@
+4735. **Name:** Walter Nguyen
+   - **Skills:** IoT, SQL, Swift, UI/UX Design
+   - **Experience:** Junior Analyst at CreativeSolutions
+   - **Education:** Master in Computer Science from Tech University
+   - **References:** Sam Cruz, Director, xena_wu@example.com
+Mia Jackson, Lead, grace_miller@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** tina_jackson@example.com, Village, Techland
+   - **Projects:** Contributed to the Cutting-edge Platform for Solving User Experience
+

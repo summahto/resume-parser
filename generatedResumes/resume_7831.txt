@@ -1,0 +1,10 @@
+7831. **Name:** Olivia Rodriguez
+   - **Skills:** HTML, Graphic Design, iOS Development, UI/UX Design
+   - **Experience:** Lead Designer at DataInnovators
+   - **Education:** Bachelor in Data Science from Creative Arts College
+   - **References:** Xena Brown, Developer, jack_li@example.com
+Yuki Wang, Director, charlie_silva@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** nathan_cruz@example.com, City, Inno Haven
+   - **Projects:** Contributed to the Cutting-edge App for Streamlining User Experience
+

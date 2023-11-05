@@ -1,0 +1,10 @@
+6493. **Name:** Alice Gonzalez
+   - **Skills:** Big Data, Project Management, Angular, Docker
+   - **Experience:** Junior Developer at InnoSolutions
+   - **Education:** Master in Art from Physics Academy
+   - **References:** Charlie Kim, Manager, frank_lópez@example.com
+Leo Kumar, Lead, jack_lee@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** ulysses_jackson@example.com, Village, Innoville
+   - **Projects:** Led the Innovative Framework for Streamlining Business Processes
+

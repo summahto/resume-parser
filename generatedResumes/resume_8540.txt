@@ -1,0 +1,10 @@
+8540. **Name:** Ulysses Chen
+   - **Skills:** Node.js, Network Administration, React, Python
+   - **Experience:** Lead Manager at DigitalSolutions
+   - **Education:** Master in Data Science from Creative Arts College
+   - **References:** Leo Silva, Manager, charlie_gupta@example.com
+Bob Taylor, Designer, walter_kumar@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** zane_wang@example.com, Town, Techland
+   - **Projects:** Developed the Cutting-edge Framework for Streamlining Collaboration
+

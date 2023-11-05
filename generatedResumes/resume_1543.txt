@@ -1,0 +1,10 @@
+1543. **Name:** Walter Rodriguez
+   - **Skills:** Graphic Design, CSS, C#, IoT
+   - **Experience:** Junior Engineer at CreativeMinds
+   - **Education:** Ph.D. in Physics from Inno Institute
+   - **References:** Frank Patel, Coordinator, nathan_lópez@example.com
+Leo White, Engineer, bob_gupta@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** ivy_wu@example.com, Town, Data Haven
+   - **Projects:** Led the Cutting-edge App for Streamlining Data Analysis
+

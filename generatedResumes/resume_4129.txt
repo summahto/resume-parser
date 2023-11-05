@@ -1,0 +1,10 @@
+4129. **Name:** Jack Kumar
+   - **Skills:** Node.js, HTML, C#, Project Management
+   - **Experience:** Junior Engineer at CreativeSolutions
+   - **Education:** Master in Business Administration from Business School
+   - **References:** Frank Yamamoto, Designer, rachel_silva@example.com
+Walter Kumar, Director, david_cruz@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** henry_gupta@example.com, Village, Green Valley
+   - **Projects:** Developed the Groundbreaking Framework for Solving Problem-solving
+

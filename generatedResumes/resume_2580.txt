@@ -1,0 +1,10 @@
+2580. **Name:** Xena Sato
+   - **Skills:** Project Management, DevOps, Cloud Computing, SQL
+   - **Experience:** Senior Manager at DataExperts
+   - **Education:** Bachelor in Computer Science from Physics Academy
+   - **References:** Katherine Jackson, Designer, tina_jones@example.com
+Alice Nguyen, Scientist, henry_kumar@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** tina_white@example.com, Town, Artopia
+   - **Projects:** Contributed to the Groundbreaking Platform for Streamlining Data Analysis
+

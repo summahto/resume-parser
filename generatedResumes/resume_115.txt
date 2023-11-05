@@ -1,0 +1,10 @@
+115. **Name:** Quinn Lee
+   - **Skills:** CSS, Data Analysis, JavaScript, Kubernetes
+   - **Experience:** Lead Designer at DataInnovators
+   - **Education:** Ph.D. in Engineering from Tech University
+   - **References:** Bob Wang, Designer, nathan_lopez@example.com
+Grace Nguyen, Engineer, katherine_jones@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** henry_cruz@example.com, Town, Techtopia
+   - **Projects:** Led the Cutting-edge Framework for Optimizing Data Analysis
+

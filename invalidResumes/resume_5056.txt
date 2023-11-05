@@ -1,0 +1,10 @@
+5056. **Name:** Sam López
+   - **Skills:** Data Analysis, Python, HTML, Kubernetes
+   - **Experience:** Lead Designer at DigitalSolutions
+   - **Education:** Master in Physics from Data Science School
+   - **References:** Katherine Lee, Coordinator, tina_lopez@example.com
+Leo Wu, Analyst, nathan_white@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** walter_garcia@example.com, Village, Techtopia
+   - **Projects:** Developed the Groundbreaking Project for Optimizing User Experience
+

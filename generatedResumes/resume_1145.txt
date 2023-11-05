@@ -1,0 +1,10 @@
+1145. **Name:** David Miller
+   - **Skills:** React, JavaScript, Git, Vue.js
+   - **Experience:** Senior Developer at CreativeMinds
+   - **Education:** Bachelor in Engineering from Data Science School
+   - **References:** Eva Smith, Developer, victoria_cruz@example.com
+Bob Nguyen, Coordinator, patrick_rodriguez@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** quinn_garcia@example.com, City, Artopia
+   - **Projects:** Led the Innovative App for Optimizing Problem-solving
+

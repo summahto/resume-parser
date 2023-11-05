@@ -1,0 +1,10 @@
+6605. **Name:** Charlie Brown
+   - **Skills:** Python, DevOps, Big Data, Java
+   - **Experience:** Junior Developer at InnoSolutions
+   - **Education:** Bachelor in Art from Tech University
+   - **References:** Yuki Jackson, Analyst, victoria_rodriguez@example.com
+Frank Davis, Lead, quinn_jackson@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** henry_patel@example.com, City, Inno Haven
+   - **Projects:** Contributed to the Groundbreaking Platform for Enhancing User Experience
+

@@ -1,0 +1,10 @@
+2039. **Name:** Ivy Cruz
+   - **Skills:** Swift, Vue.js, Java, Project Management
+   - **Experience:** Senior Engineer at CodeCrafters
+   - **Education:** Master in Computer Science from Data Science School
+   - **References:** Victoria Johnson, Lead, walter_silva@example.com
+Frank Jackson, Developer, frank_lópez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** walter_lee@example.com, Village, Scienceburg
+   - **Projects:** Developed the Groundbreaking Framework for Enhancing Problem-solving
+

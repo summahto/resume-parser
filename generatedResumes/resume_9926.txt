@@ -1,0 +1,10 @@
+9926. **Name:** Sam Chen
+   - **Skills:** Network Administration, Kubernetes, Agile, UI/UX Design
+   - **Experience:** Lead Designer at CreativeSolutions
+   - **Education:** Master in Engineering from Inno Institute
+   - **References:** Bob Wang, CEO, jack_müller@example.com
+Charlie Lopez, Engineer, henry_brown@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** patrick_lópez@example.com, Village, Scienceburg
+   - **Projects:** Contributed to the Innovative App for Enhancing Collaboration
+

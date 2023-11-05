@@ -1,0 +1,10 @@
+244. **Name:** Zane López
+   - **Skills:** CSS, UI/UX Design, JavaScript, Blockchain
+   - **Experience:** Junior Designer at CodeCrafters
+   - **Education:** Ph.D. in Data Science from Creative Arts College
+   - **References:** Henry Gupta, Scientist, david_sato@example.com
+Mia Brown, CTO, katherine_chen@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** frank_brown@example.com, Town, Data Haven
+   - **Projects:** Contributed to the Cutting-edge App for Optimizing Collaboration
+

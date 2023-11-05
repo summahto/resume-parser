@@ -1,0 +1,10 @@
+7861. **Name:** Charlie Jackson
+   - **Skills:** Cloud Computing, Git, UI/UX Design, Angular
+   - **Experience:** Junior Manager at CodeCrafters
+   - **Education:** Master in Computer Science from Physics Academy
+   - **References:** Henry Chen, Coordinator, zane_garcia@example.com
+Sam Nguyen, Lead, xena_brown@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** eva_jackson@example.com, Town, Techland
+   - **Projects:** Led the Cutting-edge Platform for Solving Problem-solving
+

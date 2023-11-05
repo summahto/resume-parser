@@ -1,0 +1,10 @@
+9288. **Name:** Quinn Cruz
+   - **Skills:** Blockchain, Java, Kubernetes, IoT
+   - **Experience:** Senior Scientist at DataExperts
+   - **Education:** Ph.D. in Business Administration from Inno Institute
+   - **References:** Zane Suzuki, Analyst, leo_wang@example.com
+Leo Chen, Designer, rachel_chen@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** walter_yamamoto@example.com, Village, Data City
+   - **Projects:** Contributed to the Revolutionary Platform for Streamlining Business Processes
+

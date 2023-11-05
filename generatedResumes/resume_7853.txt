@@ -1,0 +1,10 @@
+7853. **Name:** Xena Patel
+   - **Skills:** Docker, HTML, Python, Project Management
+   - **Experience:** Lead Analyst at TechCorp
+   - **Education:** Bachelor in Computer Science from Tech University
+   - **References:** Bob Smith, Analyst, katherine_wu@example.com
+Walter White, Coordinator, xena_lee@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** sam_lee@example.com, City, Techland
+   - **Projects:** Contributed to the Cutting-edge System for Streamlining Data Analysis
+

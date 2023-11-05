@@ -1,0 +1,10 @@
+470. **Name:** Alice Garcia
+   - **Skills:** Swift, Kubernetes, AR/VR Development, SQL
+   - **Experience:** Junior Engineer at DataExperts
+   - **Education:** Master in Business Administration from Physics Academy
+   - **References:** Mia Smith, Coordinator, eva_gonzalez@example.com
+Alice López, Analyst, olivia_lopez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** yuki_brown@example.com, City, Innoville
+   - **Projects:** Led the Revolutionary Framework for Streamlining Business Processes
+

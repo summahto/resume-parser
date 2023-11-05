@@ -1,0 +1,10 @@
+1256. **Name:** Alice Jones
+   - **Skills:** HTML, Git, Project Management, React
+   - **Experience:** Junior Designer at CreativeSolutions
+   - **Education:** Master in Business Administration from Data Science School
+   - **References:** Yuki White, Analyst, mia_jackson@example.com
+Victoria Lee, CEO, rachel_jones@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** olivia_cruz@example.com, Town, Techtopia
+   - **Projects:** Contributed to the Groundbreaking Framework for Streamlining User Experience
+

@@ -1,0 +1,10 @@
+6594. **Name:** Olivia Lopez
+   - **Skills:** iOS Development, JavaScript, Big Data, C#
+   - **Experience:** Junior Manager at DigitalSolutions
+   - **Education:** Ph.D. in Data Science from Inno Institute
+   - **References:** David Lee, Analyst, victoria_lee@example.com
+Olivia Patel, Developer, yuki_jones@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** grace_garcia@example.com, Village, Innoville
+   - **Projects:** Led the Innovative App for Optimizing User Experience
+

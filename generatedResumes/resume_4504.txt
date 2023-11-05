@@ -1,0 +1,10 @@
+4504. **Name:** Frank Gupta
+   - **Skills:** Blockchain, Docker, SQL, Swift
+   - **Experience:** Lead Analyst at DataInnovators
+   - **Education:** Bachelor in Engineering from Business School
+   - **References:** Yuki Kumar, Lead, jack_taylor@example.com
+Xena Jackson, Analyst, sam_chen@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** bob_cruz@example.com, City, Green Valley
+   - **Projects:** Contributed to the Groundbreaking System for Enhancing Business Processes
+

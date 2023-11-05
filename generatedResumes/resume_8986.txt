@@ -1,0 +1,10 @@
+8986. **Name:** Xena Miller
+   - **Skills:** HTML, IoT, C#, Cybersecurity
+   - **Experience:** Junior Engineer at TechInnovate
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Victoria Cruz, Engineer, ulysses_lee@example.com
+Alice Miller, Manager, jack_white@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** patrick_lópez@example.com, Village, Green Valley
+   - **Projects:** Led the Groundbreaking Framework for Enhancing Problem-solving
+

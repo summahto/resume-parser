@@ -1,0 +1,10 @@
+5687. **Name:** Quinn Lee
+   - **Skills:** DevOps, Agile, Python, Node.js
+   - **Experience:** Junior Scientist at DigitalSolutions
+   - **Education:** Master in Data Science from Creative Arts College
+   - **References:** Tina Taylor, Coordinator, zane_patel@example.com
+Rachel Patel, Developer, ulysses_white@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** victoria_gupta@example.com, Town, Innovation Meadows
+   - **Projects:** Led the Innovative Project for Solving Collaboration
+

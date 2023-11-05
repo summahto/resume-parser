@@ -1,0 +1,10 @@
+3612. **Name:** Mia Rodriguez
+   - **Skills:** Big Data, Data Analysis, Angular, IoT
+   - **Experience:** Lead Designer at DataExperts
+   - **Education:** Master in Physics from Data Science School
+   - **References:** David Yamamoto, Coordinator, grace_rodriguez@example.com
+Mia Sato, Lead, ulysses_nguyen@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** david_jones@example.com, City, Inno Haven
+   - **Projects:** Developed the Revolutionary Framework for Streamlining Problem-solving
+

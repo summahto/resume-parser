@@ -1,0 +1,10 @@
+6803. **Name:** Charlie Rodriguez
+   - **Skills:** Angular, Project Management, CSS, Java
+   - **Experience:** Lead Scientist at CreativeMinds
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Grace Jackson, Developer, leo_white@example.com
+Jack Lopez, Coordinator, yuki_jones@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** zane_yamamoto@example.com, Town, Data City
+   - **Projects:** Led the Innovative Framework for Enhancing User Experience
+

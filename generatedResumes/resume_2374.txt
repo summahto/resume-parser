@@ -1,0 +1,10 @@
+2374. **Name:** David Wang
+   - **Skills:** SQL, Kubernetes, Angular, AR/VR Development
+   - **Experience:** Lead Engineer at DataExperts
+   - **Education:** Bachelor in Art from Physics Academy
+   - **References:** Quinn Kumar, Analyst, ulysses_miller@example.com
+Zane Rodriguez, Engineer, sam_miller@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** charlie_cruz@example.com, City, Scienceburg
+   - **Projects:** Contributed to the Groundbreaking App for Solving Data Analysis
+

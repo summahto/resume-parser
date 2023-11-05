@@ -1,0 +1,10 @@
+753. **Name:** Charlie Lopez
+   - **Skills:** Network Administration, Vue.js, Agile, AR/VR Development
+   - **Experience:** Lead Designer at DataInnovators
+   - **Education:** Bachelor in Physics from Inno Institute
+   - **References:** Henry Müller, Analyst, leo_cruz@example.com
+Ivy Cruz, Coordinator, leo_jackson@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** leo_johnson@example.com, Town, Innovation Meadows
+   - **Projects:** Developed the Innovative Framework for Solving Collaboration
+

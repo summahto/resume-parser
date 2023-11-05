@@ -1,0 +1,10 @@
+9158. **Name:** Charlie Miller
+   - **Skills:** DevOps, JavaScript, UI/UX Design, Angular
+   - **Experience:** Junior Analyst at DataExperts
+   - **Education:** Master in Computer Science from Inno Institute
+   - **References:** Mia Miller, Scientist, quinn_garcia@example.com
+Henry Davis, Analyst, quinn_nguyen@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** katherine_sato@example.com, Town, Data City
+   - **Projects:** Developed the Cutting-edge Platform for Enhancing Problem-solving
+

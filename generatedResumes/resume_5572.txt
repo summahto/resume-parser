@@ -1,0 +1,10 @@
+5572. **Name:** Jack Miller
+   - **Skills:** AR/VR Development, Python, DevOps, Agile
+   - **Experience:** Lead Analyst at DataInnovators
+   - **Education:** Master in Business Administration from Business School
+   - **References:** Mia Kumar, Manager, mia_suzuki@example.com
+Sam Kumar, Analyst, rachel_lee@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** nathan_wang@example.com, Village, Innoville
+   - **Projects:** Developed the Cutting-edge Framework for Optimizing Problem-solving
+

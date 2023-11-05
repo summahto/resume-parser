@@ -1,0 +1,10 @@
+9180. **Name:** Rachel Nguyen
+   - **Skills:** Project Management, Graphic Design, Agile, Python
+   - **Experience:** Senior Developer at TechInnovate
+   - **Education:** Bachelor in Physics from Inno Institute
+   - **References:** Katherine Cruz, Lead, katherine_miller@example.com
+Nathan Lopez, Director, patrick_yamamoto@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** jack_cruz@example.com, Village, Data Haven
+   - **Projects:** Developed the Innovative Framework for Optimizing Problem-solving
+

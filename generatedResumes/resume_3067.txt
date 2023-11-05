@@ -1,0 +1,10 @@
+3067. **Name:** Henry Garcia
+   - **Skills:** Swift, Angular, Blockchain, Cloud Computing
+   - **Experience:** Lead Scientist at TechCorp
+   - **Education:** Master in Data Science from Physics Academy
+   - **References:** Bob Sato, CTO, xena_gupta@example.com
+Jack Miller, Scientist, leo_patel@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** olivia_lópez@example.com, City, Techland
+   - **Projects:** Contributed to the Cutting-edge Platform for Solving Business Processes
+

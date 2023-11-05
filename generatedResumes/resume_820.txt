@@ -1,0 +1,10 @@
+820. **Name:** Olivia Jackson
+   - **Skills:** SQL, Network Administration, AR/VR Development, IoT
+   - **Experience:** Junior Engineer at CreativeMinds
+   - **Education:** Bachelor in Engineering from Creative Arts College
+   - **References:** Zane Cruz, Lead, bob_lopez@example.com
+Henry White, Lead, tina_jackson@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** katherine_taylor@example.com, Town, Data City
+   - **Projects:** Led the Groundbreaking Framework for Streamlining Collaboration
+

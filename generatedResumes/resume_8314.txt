@@ -1,0 +1,10 @@
+8314. **Name:** Grace Kumar
+   - **Skills:** Project Management, Network Administration, Machine Learning, C#
+   - **Experience:** Junior Designer at CodeCrafters
+   - **Education:** Bachelor in Engineering from Inno Institute
+   - **References:** Olivia Gupta, Scientist, henry_cruz@example.com
+Charlie Brown, CEO, eva_garcia@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** katherine_white@example.com, Village, Artopia
+   - **Projects:** Developed the Groundbreaking Project for Solving Data Analysis
+

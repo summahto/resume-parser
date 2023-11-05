@@ -1,0 +1,10 @@
+1813. **Name:** Sam Rodriguez
+   - **Skills:** IoT, DevOps, Big Data, C#
+   - **Experience:** Lead Scientist at DataInnovators
+   - **Education:** Ph.D. in Art from Inno Institute
+   - **References:** Olivia Jones, Director, ulysses_lee@example.com
+Quinn Smith, Designer, katherine_hernandez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** katherine_nguyen@example.com, Village, Techtopia
+   - **Projects:** Developed the Cutting-edge App for Optimizing Business Processes
+

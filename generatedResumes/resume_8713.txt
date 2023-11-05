@@ -1,0 +1,10 @@
+8713. **Name:** Ulysses Rodriguez
+   - **Skills:** Big Data, Data Analysis, Network Administration, Python
+   - **Experience:** Lead Scientist at InnoSolutions
+   - **Education:** Ph.D. in Art from Tech University
+   - **References:** Katherine Patel, Scientist, zane_brown@example.com
+Ivy Jackson, CTO, patrick_white@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** zane_garcia@example.com, City, Data Haven
+   - **Projects:** Led the Cutting-edge Framework for Solving Business Processes
+

@@ -1,0 +1,10 @@
+5065. **Name:** Eva Chen
+   - **Skills:** UI/UX Design, JavaScript, Graphic Design, SQL
+   - **Experience:** Senior Designer at DataExperts
+   - **Education:** Bachelor in Business Administration from Physics Academy
+   - **References:** Jack Miller, Scientist, alice_singh@example.com
+Sam Gupta, Designer, quinn_wang@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** jack_lopez@example.com, City, Techtopia
+   - **Projects:** Developed the Cutting-edge Platform for Solving Collaboration
+

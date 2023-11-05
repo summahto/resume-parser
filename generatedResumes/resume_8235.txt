@@ -1,0 +1,10 @@
+8235. **Name:** Sam Singh
+   - **Skills:** SQL, AR/VR Development, CSS, Git
+   - **Experience:** Senior Manager at CreativeMinds
+   - **Education:** Ph.D. in Business Administration from Data Science School
+   - **References:** Patrick Gupta, Analyst, charlie_chen@example.com
+Henry Miller, Manager, charlie_lee@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** nathan_wang@example.com, City, Techland
+   - **Projects:** Contributed to the Cutting-edge System for Solving User Experience
+

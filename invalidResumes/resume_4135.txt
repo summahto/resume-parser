@@ -1,0 +1,10 @@
+4135. **Name:** Grace Jackson
+   - **Skills:** Project Management, IoT, Machine Learning, Cybersecurity
+   - **Experience:** Junior Engineer at DigitalSolutions
+   - **Education:** Master in Computer Science from Data Science School
+   - **References:** Ulysses Müller, Manager, katherine_kumar@example.com
+Leo Jones, CEO, nathan_nguyen@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** charlie_patel@example.com, Village, Inno Haven
+   - **Projects:** Led the Cutting-edge System for Streamlining Collaboration
+

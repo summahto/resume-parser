@@ -1,0 +1,10 @@
+6777. **Name:** Sam Lopez
+   - **Skills:** HTML, Machine Learning, Vue.js, React
+   - **Experience:** Junior Engineer at DataInnovators
+   - **Education:** Bachelor in Engineering from Inno Institute
+   - **References:** Katherine Wu, Lead, frank_wu@example.com
+Xena Chen, Coordinator, grace_lee@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** ulysses_wang@example.com, City, Techland
+   - **Projects:** Developed the Revolutionary Platform for Solving Data Analysis
+

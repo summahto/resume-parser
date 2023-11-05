@@ -1,0 +1,10 @@
+9730. **Name:** Leo Smith
+   - **Skills:** React, UI/UX Design, Machine Learning, Angular
+   - **Experience:** Lead Developer at CreativeMinds
+   - **Education:** Bachelor in Data Science from Data Science School
+   - **References:** Ivy Jackson, CTO, mia_garcia@example.com
+Charlie Lopez, Scientist, patrick_taylor@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** nathan_lee@example.com, Town, Scienceburg
+   - **Projects:** Developed the Innovative Framework for Enhancing Data Analysis
+

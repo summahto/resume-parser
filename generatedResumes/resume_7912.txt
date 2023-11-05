@@ -1,0 +1,10 @@
+7912. **Name:** Quinn Li
+   - **Skills:** Big Data, DevOps, JavaScript, Python
+   - **Experience:** Junior Engineer at InnovativeTech
+   - **Education:** Master in Data Science from Business School
+   - **References:** Quinn Williams, Developer, henry_patel@example.com
+Zane Garcia, Coordinator, katherine_kumar@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** grace_nguyen@example.com, City, Inno Haven
+   - **Projects:** Developed the Revolutionary Framework for Optimizing Business Processes
+

@@ -1,0 +1,10 @@
+7859. **Name:** Quinn Lee
+   - **Skills:** Network Administration, Android Development, Big Data, C#
+   - **Experience:** Junior Engineer at DataExperts
+   - **Education:** Bachelor in Engineering from Inno Institute
+   - **References:** Charlie Wu, Engineer, david_wang@example.com
+Jack Wu, Developer, charlie_nguyen@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** leo_jones@example.com, Town, Innovation Meadows
+   - **Projects:** Led the Cutting-edge Project for Optimizing Data Analysis
+

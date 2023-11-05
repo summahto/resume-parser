@@ -1,0 +1,10 @@
+8035. **Name:** Grace Rodriguez
+   - **Skills:** IoT, Graphic Design, Docker, Project Management
+   - **Experience:** Senior Scientist at DigitalSolutions
+   - **Education:** Master in Data Science from Creative Arts College
+   - **References:** Frank Rodriguez, CEO, nathan_wang@example.com
+Olivia Miller, Engineer, frank_patel@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** sam_wu@example.com, Town, Data Haven
+   - **Projects:** Contributed to the Cutting-edge Platform for Enhancing Problem-solving
+

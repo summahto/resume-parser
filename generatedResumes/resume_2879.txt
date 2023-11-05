@@ -1,0 +1,10 @@
+2879. **Name:** Mia Lee
+   - **Skills:** UI/UX Design, CSS, Project Management, HTML
+   - **Experience:** Senior Designer at DataExperts
+   - **Education:** Ph.D. in Computer Science from Tech University
+   - **References:** Ulysses Chen, Lead, alice_nguyen@example.com
+Olivia Jones, Lead, mia_silva@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** eva_lópez@example.com, Town, Artopia
+   - **Projects:** Developed the Groundbreaking Framework for Enhancing Business Processes
+

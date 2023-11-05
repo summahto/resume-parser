@@ -1,0 +1,10 @@
+2384. **Name:** Mia Kumar
+   - **Skills:** DevOps, SQL, React, IoT
+   - **Experience:** Junior Analyst at DataInnovators
+   - **Education:** Ph.D. in Engineering from Business School
+   - **References:** Sam Taylor, Coordinator, victoria_patel@example.com
+Leo Wang, Lead, charlie_white@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** eva_wang@example.com, City, Innovation Meadows
+   - **Projects:** Developed the Innovative Project for Enhancing Business Processes
+

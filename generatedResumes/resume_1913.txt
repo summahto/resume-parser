@@ -1,0 +1,10 @@
+1913. **Name:** David Lopez
+   - **Skills:** IoT, Network Administration, Blockchain, Python
+   - **Experience:** Senior Designer at DataInnovators
+   - **Education:** Bachelor in Business Administration from Inno Institute
+   - **References:** Frank Lee, Engineer, katherine_gupta@example.com
+Patrick Yamamoto, Designer, tina_rodriguez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** quinn_rodriguez@example.com, Village, Data Haven
+   - **Projects:** Led the Cutting-edge Platform for Solving Collaboration
+

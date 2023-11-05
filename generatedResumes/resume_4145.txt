@@ -1,0 +1,10 @@
+4145. **Name:** David Chen
+   - **Skills:** UI/UX Design, IoT, C#, Swift
+   - **Experience:** Junior Developer at InnovativeTech
+   - **Education:** Bachelor in Business Administration from Data Science School
+   - **References:** Nathan Silva, Designer, sam_jackson@example.com
+Victoria Nguyen, CEO, yuki_wu@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** tina_wang@example.com, Town, Techland
+   - **Projects:** Led the Cutting-edge Platform for Optimizing Business Processes
+

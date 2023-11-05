@@ -1,0 +1,10 @@
+6432. **Name:** Ulysses Lopez
+   - **Skills:** C#, SQL, iOS Development, Git
+   - **Experience:** Senior Scientist at DigitalSolutions
+   - **Education:** Ph.D. in Art from Inno Institute
+   - **References:** Katherine Gonzalez, Lead, walter_cruz@example.com
+Sam White, Developer, mia_taylor@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** david_lopez@example.com, Town, Artopia
+   - **Projects:** Led the Revolutionary App for Optimizing Problem-solving
+

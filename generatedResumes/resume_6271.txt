@@ -1,0 +1,10 @@
+6271. **Name:** Sam Cruz
+   - **Skills:** Cybersecurity, Python, Git, UI/UX Design
+   - **Experience:** Junior Engineer at DataInnovators
+   - **Education:** Master in Engineering from Data Science School
+   - **References:** David Suzuki, CEO, eva_smith@example.com
+Victoria Gupta, Developer, jack_johnson@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** yuki_yamamoto@example.com, City, Green Valley
+   - **Projects:** Developed the Innovative Project for Enhancing Problem-solving
+

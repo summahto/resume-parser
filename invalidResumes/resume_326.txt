@@ -1,0 +1,10 @@
+326. **Name:** Sam Cruz
+   - **Skills:** Angular, Big Data, JavaScript, Swift
+   - **Experience:** Lead Manager at DataExperts
+   - **Education:** Ph.D. in Business Administration from Tech University
+   - **References:** Grace Silva, CTO, olivia_lopez@example.com
+Jack López, Analyst, yuki_jackson@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** yuki_brown@example.com, Village, Data City
+   - **Projects:** Contributed to the Cutting-edge App for Streamlining Problem-solving
+

@@ -1,0 +1,10 @@
+3570. **Name:** Katherine Cruz
+   - **Skills:** CSS, AR/VR Development, Swift, Cloud Computing
+   - **Experience:** Lead Manager at DataInnovators
+   - **Education:** Bachelor in Engineering from Data Science School
+   - **References:** Quinn Gupta, Designer, yuki_singh@example.com
+Frank Lopez, CTO, frank_chen@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** frank_wang@example.com, Village, Data City
+   - **Projects:** Led the Innovative App for Streamlining Problem-solving
+

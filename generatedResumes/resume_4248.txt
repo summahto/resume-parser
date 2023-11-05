@@ -1,0 +1,10 @@
+4248. **Name:** Jack Patel
+   - **Skills:** Network Administration, UI/UX Design, Swift, Graphic Design
+   - **Experience:** Lead Manager at InnoSolutions
+   - **Education:** Bachelor in Business Administration from Inno Institute
+   - **References:** Jack Wang, Director, nathan_wu@example.com
+Alice Garcia, Lead, xena_kumar@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** quinn_smith@example.com, Town, Techtopia
+   - **Projects:** Developed the Cutting-edge Framework for Streamlining Problem-solving
+

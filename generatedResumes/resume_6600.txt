@@ -1,0 +1,10 @@
+6600. **Name:** Leo Patel
+   - **Skills:** Big Data, Cloud Computing, React, JavaScript
+   - **Experience:** Junior Analyst at InnoSolutions
+   - **Education:** Master in Business Administration from Physics Academy
+   - **References:** Nathan Lee, Engineer, ivy_cruz@example.com
+Xena Wu, Lead, ivy_johnson@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** walter_chen@example.com, Village, Techland
+   - **Projects:** Developed the Groundbreaking Framework for Enhancing Data Analysis
+

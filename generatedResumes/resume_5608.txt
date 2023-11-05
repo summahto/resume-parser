@@ -1,0 +1,10 @@
+5608. **Name:** Mia Nguyen
+   - **Skills:** HTML, IoT, Java, Android Development
+   - **Experience:** Lead Designer at DigitalSolutions
+   - **Education:** Bachelor in Art from Tech University
+   - **References:** Grace Kumar, Developer, olivia_lee@example.com
+Mia Miller, Manager, tina_jones@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** rachel_chen@example.com, City, Data City
+   - **Projects:** Developed the Cutting-edge Platform for Optimizing Data Analysis
+

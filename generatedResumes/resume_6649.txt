@@ -1,0 +1,10 @@
+6649. **Name:** Grace Chen
+   - **Skills:** Big Data, Graphic Design, SQL, CSS
+   - **Experience:** Lead Engineer at TechInnovate
+   - **Education:** Master in Data Science from Data Science School
+   - **References:** Yuki Wu, Designer, zane_garcia@example.com
+David Wu, Scientist, ulysses_sato@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** eva_gupta@example.com, City, Techland
+   - **Projects:** Led the Revolutionary App for Optimizing Data Analysis
+

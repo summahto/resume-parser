@@ -1,0 +1,10 @@
+5142. **Name:** Katherine Brown
+   - **Skills:** IoT, C#, Network Administration, HTML
+   - **Experience:** Junior Analyst at CreativeMinds
+   - **Education:** Bachelor in Computer Science from Physics Academy
+   - **References:** Bob Silva, Analyst, david_lee@example.com
+Ivy Yamamoto, Manager, grace_suzuki@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** tina_chen@example.com, Village, Data City
+   - **Projects:** Led the Groundbreaking App for Optimizing Business Processes
+

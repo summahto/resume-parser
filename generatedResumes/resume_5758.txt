@@ -1,0 +1,10 @@
+5758. **Name:** Leo White
+   - **Skills:** Data Analysis, iOS Development, Cloud Computing, Git
+   - **Experience:** Junior Analyst at InnovativeTech
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Walter Miller, CTO, eva_patel@example.com
+Quinn Miller, Manager, leo_patel@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** alice_patel@example.com, City, Innovation Meadows
+   - **Projects:** Contributed to the Innovative Project for Enhancing Business Processes
+

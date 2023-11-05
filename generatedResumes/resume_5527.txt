@@ -1,0 +1,10 @@
+5527. **Name:** Ivy Jones
+   - **Skills:** Cybersecurity, Android Development, Kubernetes, Machine Learning
+   - **Experience:** Senior Analyst at DataInnovators
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Nathan Lopez, Lead, frank_lee@example.com
+Eva Rodriguez, Engineer, sam_kumar@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** frank_wu@example.com, Village, Innoville
+   - **Projects:** Contributed to the Groundbreaking Framework for Streamlining Problem-solving
+

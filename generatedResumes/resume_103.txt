@@ -1,0 +1,10 @@
+103. **Name:** Charlie Lopez
+   - **Skills:** Data Analysis, Network Administration, Graphic Design, DevOps
+   - **Experience:** Junior Manager at TechInnovate
+   - **Education:** Bachelor in Data Science from Creative Arts College
+   - **References:** Xena Hernandez, Designer, tina_müller@example.com
+David Cruz, Analyst, alice_smith@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** yuki_wu@example.com, Town, Techtopia
+   - **Projects:** Led the Cutting-edge Platform for Optimizing Data Analysis
+

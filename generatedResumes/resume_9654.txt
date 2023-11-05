@@ -1,0 +1,10 @@
+9654. **Name:** Charlie Brown
+   - **Skills:** AR/VR Development, SQL, Java, DevOps
+   - **Experience:** Lead Manager at CreativeSolutions
+   - **Education:** Ph.D. in Engineering from Data Science School
+   - **References:** Xena Wu, Coordinator, leo_chen@example.com
+Zane White, Analyst, jack_kim@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** mia_taylor@example.com, City, Inno Haven
+   - **Projects:** Led the Revolutionary System for Enhancing User Experience
+

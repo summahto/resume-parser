@@ -1,0 +1,10 @@
+1040. **Name:** Mia Lopez
+   - **Skills:** Java, JavaScript, IoT, HTML
+   - **Experience:** Junior Developer at InnoSolutions
+   - **Education:** Bachelor in Business Administration from Tech University
+   - **References:** Jack Wu, Director, victoria_kim@example.com
+Ulysses Lee, Designer, sam_yamamoto@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** olivia_lee@example.com, City, Data Haven
+   - **Projects:** Contributed to the Innovative Project for Solving Problem-solving
+

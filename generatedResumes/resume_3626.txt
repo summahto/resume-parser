@@ -1,0 +1,10 @@
+3626. **Name:** Grace Nguyen
+   - **Skills:** React, Angular, Docker, Kubernetes
+   - **Experience:** Lead Manager at CreativeMinds
+   - **Education:** Master in Computer Science from Inno Institute
+   - **References:** Mia Kumar, Manager, zane_taylor@example.com
+Walter Gonzalez, Lead, olivia_williams@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** walter_gonzalez@example.com, Village, Inno Haven
+   - **Projects:** Developed the Innovative App for Enhancing Data Analysis
+

@@ -1,0 +1,10 @@
+2311. **Name:** Jack Miller
+   - **Skills:** Agile, iOS Development, Vue.js, Node.js
+   - **Experience:** Senior Developer at CodeCrafters
+   - **Education:** Bachelor in Physics from Physics Academy
+   - **References:** Xena Nguyen, Director, nathan_jackson@example.com
+Alice Garcia, Designer, zane_lopez@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** tina_taylor@example.com, City, Artopia
+   - **Projects:** Developed the Revolutionary System for Solving Collaboration
+

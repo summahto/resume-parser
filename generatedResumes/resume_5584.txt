@@ -1,0 +1,10 @@
+5584. **Name:** David Nguyen
+   - **Skills:** Python, Cybersecurity, Vue.js, Project Management
+   - **Experience:** Junior Analyst at DataInnovators
+   - **Education:** Master in Physics from Creative Arts College
+   - **References:** Xena Brown, Analyst, leo_taylor@example.com
+Patrick Kumar, Scientist, mia_smith@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** eva_nguyen@example.com, City, Data Haven
+   - **Projects:** Developed the Cutting-edge Platform for Solving User Experience
+

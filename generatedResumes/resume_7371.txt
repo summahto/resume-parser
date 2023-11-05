@@ -1,0 +1,10 @@
+7371. **Name:** Eva White
+   - **Skills:** IoT, Node.js, Android Development, Blockchain
+   - **Experience:** Junior Analyst at CreativeSolutions
+   - **Education:** Bachelor in Art from Creative Arts College
+   - **References:** Rachel Lopez, Lead, charlie_nguyen@example.com
+Nathan Jackson, Scientist, tina_garcia@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** mia_wang@example.com, Town, Data City
+   - **Projects:** Contributed to the Revolutionary Project for Optimizing Business Processes
+

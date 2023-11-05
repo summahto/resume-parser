@@ -1,0 +1,10 @@
+4895. **Name:** Sam Patel
+   - **Skills:** Blockchain, HTML, Big Data, React
+   - **Experience:** Junior Developer at InnoSolutions
+   - **Education:** Master in Computer Science from Inno Institute
+   - **References:** Eva Jones, Developer, yuki_silva@example.com
+Xena Smith, Lead, alice_rodriguez@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** yuki_jones@example.com, Village, Data City
+   - **Projects:** Led the Innovative System for Enhancing Data Analysis
+

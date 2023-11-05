@@ -1,0 +1,10 @@
+9441. **Name:** Bob López
+   - **Skills:** React, CSS, Vue.js, IoT
+   - **Experience:** Senior Engineer at InnoSolutions
+   - **Education:** Master in Business Administration from Business School
+   - **References:** Nathan Jones, Developer, walter_lee@example.com
+Henry Nguyen, CTO, olivia_johnson@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** victoria_cruz@example.com, City, Inno Haven
+   - **Projects:** Contributed to the Cutting-edge System for Optimizing Collaboration
+

@@ -1,0 +1,10 @@
+8560. **Name:** Rachel Kumar
+   - **Skills:** UI/UX Design, HTML, Angular, Data Analysis
+   - **Experience:** Junior Engineer at CodeCrafters
+   - **Education:** Bachelor in Art from Business School
+   - **References:** Sam Kumar, Manager, olivia_nguyen@example.com
+Victoria Jones, Manager, mia_smith@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** katherine_kumar@example.com, City, Green Valley
+   - **Projects:** Developed the Groundbreaking Project for Solving Data Analysis
+

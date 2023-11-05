@@ -1,0 +1,10 @@
+6171. **Name:** Tina Jones
+   - **Skills:** Swift, Vue.js, Java, Node.js
+   - **Experience:** Senior Designer at TechCorp
+   - **Education:** Master in Engineering from Tech University
+   - **References:** Grace Gupta, Developer, patrick_yamamoto@example.com
+Henry Kumar, Manager, tina_miller@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** quinn_wu@example.com, Town, Techland
+   - **Projects:** Led the Groundbreaking App for Solving Problem-solving
+

@@ -1,0 +1,10 @@
+7998. **Name:** Quinn Jones
+   - **Skills:** Project Management, React, Cloud Computing, Cybersecurity
+   - **Experience:** Junior Analyst at DigitalSolutions
+   - **Education:** Bachelor in Business Administration from Inno Institute
+   - **References:** Nathan Nguyen, Coordinator, david_jones@example.com
+Katherine López, CEO, xena_li@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** xena_wu@example.com, Village, Techland
+   - **Projects:** Contributed to the Innovative System for Solving User Experience
+

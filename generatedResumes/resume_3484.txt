@@ -1,0 +1,10 @@
+3484. **Name:** Henry Lee
+   - **Skills:** IoT, Project Management, iOS Development, Big Data
+   - **Experience:** Lead Manager at DataInnovators
+   - **Education:** Master in Art from Tech University
+   - **References:** Yuki Yamamoto, Manager, ivy_wang@example.com
+Jack Nguyen, CEO, frank_kumar@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** charlie_nguyen@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Innovative Framework for Enhancing Problem-solving
+

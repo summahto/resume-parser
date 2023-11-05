@@ -1,0 +1,10 @@
+2955. **Name:** Quinn Nguyen
+   - **Skills:** Git, Project Management, Agile, Docker
+   - **Experience:** Senior Scientist at CodeCrafters
+   - **Education:** Master in Computer Science from Tech University
+   - **References:** Nathan Lopez, Engineer, patrick_kumar@example.com
+Leo Gupta, CEO, zane_gupta@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** jack_nguyen@example.com, City, Innovation Meadows
+   - **Projects:** Developed the Innovative Framework for Solving Data Analysis
+

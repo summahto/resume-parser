@@ -1,0 +1,10 @@
+1750. **Name:** Leo Lee
+   - **Skills:** Network Administration, Node.js, HTML, DevOps
+   - **Experience:** Senior Designer at TechCorp
+   - **Education:** Master in Physics from Physics Academy
+   - **References:** Eva Chen, Lead, frank_rodriguez@example.com
+Charlie Silva, Designer, walter_jackson@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** olivia_jones@example.com, Village, Techtopia
+   - **Projects:** Led the Groundbreaking Platform for Optimizing Data Analysis
+

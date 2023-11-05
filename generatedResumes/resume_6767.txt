@@ -1,0 +1,10 @@
+6767. **Name:** Xena López
+   - **Skills:** JavaScript, Swift, Git, Node.js
+   - **Experience:** Lead Engineer at TechCorp
+   - **Education:** Ph.D. in Computer Science from Inno Institute
+   - **References:** Grace Patel, CTO, charlie_smith@example.com
+Ulysses Garcia, Scientist, tina_silva@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** grace_garcia@example.com, Village, Inno Haven
+   - **Projects:** Led the Innovative Framework for Optimizing User Experience
+

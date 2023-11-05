@@ -1,0 +1,10 @@
+4352. **Name:** Xena Lee
+   - **Skills:** Node.js, Data Analysis, Graphic Design, Blockchain
+   - **Experience:** Lead Engineer at InnoSolutions
+   - **Education:** Ph.D. in Business Administration from Data Science School
+   - **References:** Bob Gupta, Lead, patrick_williams@example.com
+Jack Nguyen, Director, rachel_chen@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** mia_kumar@example.com, Village, Artopia
+   - **Projects:** Developed the Innovative Platform for Streamlining Problem-solving
+

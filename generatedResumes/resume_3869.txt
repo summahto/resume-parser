@@ -1,0 +1,10 @@
+3869. **Name:** Quinn Nguyen
+   - **Skills:** IoT, Machine Learning, C#, Big Data
+   - **Experience:** Lead Developer at CreativeSolutions
+   - **Education:** Ph.D. in Physics from Inno Institute
+   - **References:** Quinn Kumar, Manager, ivy_chen@example.com
+Yuki Lee, CEO, eva_white@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** tina_lee@example.com, Village, Inno Haven
+   - **Projects:** Developed the Revolutionary System for Solving Data Analysis
+

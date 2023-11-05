@@ -1,0 +1,10 @@
+7423. **Name:** Patrick Nguyen
+   - **Skills:** Agile, JavaScript, Project Management, C#
+   - **Experience:** Senior Manager at DataInnovators
+   - **Education:** Bachelor in Computer Science from Business School
+   - **References:** Sam Lopez, CTO, mia_jackson@example.com
+Patrick Lee, Engineer, patrick_jackson@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** grace_nguyen@example.com, Village, Artopia
+   - **Projects:** Contributed to the Cutting-edge System for Enhancing Data Analysis
+

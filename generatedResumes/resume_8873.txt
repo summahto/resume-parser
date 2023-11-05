@@ -1,0 +1,10 @@
+8873. **Name:** Mia Lee
+   - **Skills:** Docker, Graphic Design, HTML, Vue.js
+   - **Experience:** Senior Designer at CreativeMinds
+   - **Education:** Master in Business Administration from Inno Institute
+   - **References:** David Lopez, Designer, eva_li@example.com
+Grace Silva, Director, jack_lee@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** victoria_nguyen@example.com, Town, Techtopia
+   - **Projects:** Led the Innovative Platform for Streamlining Problem-solving
+

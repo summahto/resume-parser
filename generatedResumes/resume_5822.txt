@@ -1,0 +1,10 @@
+5822. **Name:** Xena Taylor
+   - **Skills:** Big Data, C#, Cybersecurity, Node.js
+   - **Experience:** Junior Engineer at DataInnovators
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Walter Nguyen, Analyst, leo_smith@example.com
+Ulysses Patel, CTO, katherine_garcia@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** quinn_rodriguez@example.com, Village, Artopia
+   - **Projects:** Contributed to the Innovative App for Optimizing Business Processes
+

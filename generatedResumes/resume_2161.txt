@@ -1,0 +1,10 @@
+2161. **Name:** Ivy Gupta
+   - **Skills:** Angular, SQL, Node.js, HTML
+   - **Experience:** Lead Scientist at CodeCrafters
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Jack Singh, Analyst, ulysses_suzuki@example.com
+David Gonzalez, Analyst, zane_garcia@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** leo_jackson@example.com, City, Inno Haven
+   - **Projects:** Led the Groundbreaking System for Optimizing User Experience
+

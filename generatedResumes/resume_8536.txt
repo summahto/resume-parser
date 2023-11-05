@@ -1,0 +1,10 @@
+8536. **Name:** David Wang
+   - **Skills:** CSS, UI/UX Design, Python, C#
+   - **Experience:** Senior Scientist at TechCorp
+   - **Education:** Ph.D. in Business Administration from Creative Arts College
+   - **References:** Zane Jackson, Coordinator, patrick_garcia@example.com
+Henry Rodriguez, CEO, henry_jackson@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** rachel_gupta@example.com, Town, Data Haven
+   - **Projects:** Led the Cutting-edge Platform for Streamlining Collaboration
+

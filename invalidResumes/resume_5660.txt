@@ -1,0 +1,10 @@
+5660. **Name:** Ivy Cruz
+   - **Skills:** Docker, Big Data, C#, CSS
+   - **Experience:** Lead Analyst at TechCorp
+   - **Education:** Master in Computer Science from Inno Institute
+   - **References:** Rachel Hernandez, Analyst, leo_lópez@example.com
+Alice White, Scientist, xena_davis@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** ivy_miller@example.com, City, Data Haven
+   - **Projects:** Contributed to the Innovative Project for Enhancing Business Processes
+

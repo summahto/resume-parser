@@ -1,0 +1,10 @@
+4476. **Name:** Zane Garcia
+   - **Skills:** Network Administration, C#, Kubernetes, JavaScript
+   - **Experience:** Junior Designer at DataExperts
+   - **Education:** Ph.D. in Computer Science from Business School
+   - **References:** Charlie Wu, Director, sam_rodriguez@example.com
+Rachel Jackson, CEO, katherine_lopez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** yuki_chen@example.com, City, Techland
+   - **Projects:** Led the Cutting-edge App for Solving Collaboration
+

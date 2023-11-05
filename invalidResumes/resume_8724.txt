@@ -1,0 +1,10 @@
+8724. **Name:** Sam White
+   - **Skills:** UI/UX Design, Kubernetes, Angular, DevOps
+   - **Experience:** Lead Analyst at CreativeSolutions
+   - **Education:** Ph.D. in Data Science from Data Science School
+   - **References:** Olivia Taylor, Analyst, frank_wang@example.com
+Leo López, Designer, yuki_silva@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** henry_wang@example.com, Village, Artopia
+   - **Projects:** Contributed to the Cutting-edge Project for Enhancing Collaboration
+

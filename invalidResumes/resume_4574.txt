@@ -1,0 +1,10 @@
+4574. **Name:** Eva Gupta
+   - **Skills:** DevOps, Angular, Git, CSS
+   - **Experience:** Senior Scientist at CreativeSolutions
+   - **Education:** Bachelor in Business Administration from Business School
+   - **References:** Mia Lee, Engineer, alice_lee@example.com
+Bob Chen, Manager, quinn_lópez@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** alice_williams@example.com, Town, Data City
+   - **Projects:** Led the Revolutionary App for Enhancing Business Processes
+

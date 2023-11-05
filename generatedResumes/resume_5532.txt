@@ -1,0 +1,10 @@
+5532. **Name:** Nathan Gupta
+   - **Skills:** Data Analysis, React, Node.js, SQL
+   - **Experience:** Junior Designer at DigitalSolutions
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** David Jackson, Director, jack_rodriguez@example.com
+Frank Kumar, Scientist, leo_garcia@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** quinn_davis@example.com, Village, Techtopia
+   - **Projects:** Developed the Innovative Platform for Streamlining Business Processes
+

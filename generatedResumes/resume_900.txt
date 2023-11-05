@@ -1,0 +1,10 @@
+900. **Name:** Zane Gupta
+   - **Skills:** DevOps, AR/VR Development, JavaScript, Cybersecurity
+   - **Experience:** Lead Scientist at DataInnovators
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Quinn Gupta, CEO, alice_smith@example.com
+Jack Patel, Analyst, patrick_lee@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** eva_jones@example.com, City, Inno Haven
+   - **Projects:** Led the Groundbreaking Platform for Solving Problem-solving
+

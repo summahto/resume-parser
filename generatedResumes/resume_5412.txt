@@ -1,0 +1,10 @@
+5412. **Name:** Rachel Kim
+   - **Skills:** Agile, Docker, Node.js, Cybersecurity
+   - **Experience:** Junior Engineer at DataExperts
+   - **Education:** Ph.D. in Computer Science from Data Science School
+   - **References:** Henry Rodriguez, Lead, henry_lopez@example.com
+Katherine Gupta, Coordinator, alice_rodriguez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** patrick_chen@example.com, City, Data City
+   - **Projects:** Developed the Groundbreaking Platform for Enhancing Collaboration
+

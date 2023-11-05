@@ -1,0 +1,10 @@
+5226. **Name:** Patrick Chen
+   - **Skills:** Git, Data Analysis, Project Management, Graphic Design
+   - **Experience:** Senior Engineer at TechCorp
+   - **Education:** Bachelor in Business Administration from Data Science School
+   - **References:** Xena Patel, Designer, charlie_jones@example.com
+Grace White, Engineer, henry_chen@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** ulysses_garcia@example.com, City, Inno Haven
+   - **Projects:** Developed the Cutting-edge Project for Solving Collaboration
+

@@ -1,0 +1,10 @@
+7646. **Name:** Xena Lee
+   - **Skills:** Java, Agile, Angular, SQL
+   - **Experience:** Lead Scientist at DataInnovators
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Henry Jackson, Designer, victoria_white@example.com
+Bob Smith, Director, frank_garcia@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** katherine_lee@example.com, Village, Data City
+   - **Projects:** Contributed to the Innovative Framework for Streamlining Collaboration
+

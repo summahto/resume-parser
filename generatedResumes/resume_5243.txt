@@ -1,0 +1,10 @@
+5243. **Name:** Bob Wu
+   - **Skills:** IoT, Big Data, Vue.js, Java
+   - **Experience:** Senior Scientist at DigitalSolutions
+   - **Education:** Bachelor in Art from Inno Institute
+   - **References:** Zane Cruz, Analyst, ulysses_miller@example.com
+Alice López, Analyst, henry_silva@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** henry_white@example.com, Town, Artopia
+   - **Projects:** Led the Cutting-edge App for Optimizing Collaboration
+

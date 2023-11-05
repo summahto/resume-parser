@@ -1,0 +1,10 @@
+1310. **Name:** David Wu
+   - **Skills:** Project Management, Java, Graphic Design, C#
+   - **Experience:** Junior Scientist at TechInnovate
+   - **Education:** Master in Art from Inno Institute
+   - **References:** Jack Wu, Manager, yuki_lee@example.com
+Sam Taylor, Scientist, yuki_lee@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** tina_silva@example.com, Village, Techtopia
+   - **Projects:** Contributed to the Innovative Framework for Optimizing User Experience
+

@@ -1,0 +1,10 @@
+9864. **Name:** Nathan Wu
+   - **Skills:** Blockchain, Big Data, Angular, Agile
+   - **Experience:** Junior Engineer at DataInnovators
+   - **Education:** Ph.D. in Computer Science from Inno Institute
+   - **References:** Rachel Rodriguez, Manager, quinn_rodriguez@example.com
+Patrick Miller, Designer, zane_lopez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** charlie_silva@example.com, Village, Data City
+   - **Projects:** Contributed to the Cutting-edge Project for Streamlining Collaboration
+

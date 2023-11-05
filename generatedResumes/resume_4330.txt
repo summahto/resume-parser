@@ -1,0 +1,10 @@
+4330. **Name:** Quinn Kumar
+   - **Skills:** iOS Development, React, Swift, Cloud Computing
+   - **Experience:** Senior Manager at CreativeMinds
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Tina Wu, Engineer, david_wu@example.com
+Nathan Smith, Designer, patrick_lopez@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** olivia_rodriguez@example.com, City, Innovation Meadows
+   - **Projects:** Contributed to the Groundbreaking App for Solving Problem-solving
+

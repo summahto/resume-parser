@@ -1,0 +1,10 @@
+7528. **Name:** Quinn Gupta
+   - **Skills:** Vue.js, Network Administration, IoT, UI/UX Design
+   - **Experience:** Senior Scientist at DigitalSolutions
+   - **Education:** Master in Computer Science from Inno Institute
+   - **References:** Bob Smith, Scientist, nathan_silva@example.com
+Bob White, Lead, tina_nguyen@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** patrick_wu@example.com, Town, Innovation Meadows
+   - **Projects:** Developed the Revolutionary Project for Enhancing Problem-solving
+

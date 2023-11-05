@@ -1,0 +1,10 @@
+2756. **Name:** Alice Lee
+   - **Skills:** iOS Development, Project Management, Angular, DevOps
+   - **Experience:** Junior Analyst at DataExperts
+   - **Education:** Master in Business Administration from Creative Arts College
+   - **References:** Frank Johnson, Scientist, yuki_sato@example.com
+Jack Gonzalez, Designer, katherine_nguyen@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** grace_suzuki@example.com, City, Innoville
+   - **Projects:** Led the Cutting-edge Platform for Enhancing Business Processes
+

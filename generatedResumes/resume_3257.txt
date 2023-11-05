@@ -1,0 +1,10 @@
+3257. **Name:** Nathan Silva
+   - **Skills:** Swift, Docker, DevOps, Agile
+   - **Experience:** Junior Scientist at CodeCrafters
+   - **Education:** Master in Physics from Data Science School
+   - **References:** Grace Wang, Director, alice_cruz@example.com
+Olivia Gupta, CEO, rachel_jones@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** olivia_lopez@example.com, Village, Green Valley
+   - **Projects:** Led the Revolutionary App for Streamlining Problem-solving
+

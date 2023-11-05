@@ -1,0 +1,10 @@
+1649. **Name:** Ivy Nguyen
+   - **Skills:** DevOps, Docker, C#, Android Development
+   - **Experience:** Junior Engineer at DigitalSolutions
+   - **Education:** Ph.D. in Computer Science from Physics Academy
+   - **References:** Bob Kumar, Scientist, victoria_lópez@example.com
+Yuki Wang, CTO, grace_jones@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** nathan_nguyen@example.com, Village, Data Haven
+   - **Projects:** Developed the Cutting-edge Framework for Optimizing User Experience
+

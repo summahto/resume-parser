@@ -1,0 +1,10 @@
+7723. **Name:** Zane Wu
+   - **Skills:** Git, Graphic Design, SQL, C#
+   - **Experience:** Junior Manager at CreativeMinds
+   - **Education:** Ph.D. in Computer Science from Creative Arts College
+   - **References:** David López, Developer, yuki_silva@example.com
+Patrick Kumar, Designer, grace_nguyen@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** ivy_garcia@example.com, City, Innoville
+   - **Projects:** Developed the Revolutionary Platform for Enhancing User Experience
+

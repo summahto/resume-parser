@@ -1,0 +1,10 @@
+454. **Name:** Charlie Smith
+   - **Skills:** Agile, Project Management, Data Analysis, JavaScript
+   - **Experience:** Junior Manager at CreativeMinds
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Henry Rodriguez, Coordinator, yuki_rodriguez@example.com
+Rachel Kumar, Engineer, frank_brown@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** yuki_silva@example.com, City, Green Valley
+   - **Projects:** Contributed to the Revolutionary Project for Solving User Experience
+

@@ -1,0 +1,10 @@
+9126. **Name:** Mia Miller
+   - **Skills:** Data Analysis, Blockchain, UI/UX Design, CSS
+   - **Experience:** Senior Manager at InnovativeTech
+   - **Education:** Bachelor in Business Administration from Inno Institute
+   - **References:** David Kumar, Director, alice_gupta@example.com
+Quinn Jones, Lead, katherine_jackson@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** alice_kumar@example.com, City, Scienceburg
+   - **Projects:** Led the Cutting-edge App for Solving User Experience
+

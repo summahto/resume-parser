@@ -1,0 +1,10 @@
+8307. **Name:** Jack Lee
+   - **Skills:** iOS Development, Python, CSS, Machine Learning
+   - **Experience:** Senior Scientist at DataExperts
+   - **Education:** Master in Engineering from Business School
+   - **References:** Quinn López, Lead, nathan_wang@example.com
+Xena Wu, Lead, ivy_lopez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** nathan_lópez@example.com, City, Green Valley
+   - **Projects:** Developed the Groundbreaking App for Enhancing Business Processes
+

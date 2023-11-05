@@ -1,0 +1,10 @@
+8126. **Name:** Katherine Silva
+   - **Skills:** Git, Cybersecurity, Graphic Design, Node.js
+   - **Experience:** Junior Manager at InnoSolutions
+   - **Education:** Master in Art from Inno Institute
+   - **References:** Jack Smith, Coordinator, eva_lopez@example.com
+Charlie Wang, Developer, yuki_kumar@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** ulysses_miller@example.com, Village, Green Valley
+   - **Projects:** Led the Groundbreaking App for Optimizing Business Processes
+

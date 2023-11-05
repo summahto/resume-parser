@@ -1,0 +1,10 @@
+1231. **Name:** Frank Garcia
+   - **Skills:** Big Data, CSS, Cybersecurity, Machine Learning
+   - **Experience:** Junior Developer at CreativeSolutions
+   - **Education:** Master in Data Science from Business School
+   - **References:** Charlie Jones, CEO, yuki_wu@example.com
+Frank Smith, Designer, bob_garcia@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** grace_jones@example.com, City, Innoville
+   - **Projects:** Led the Innovative Framework for Enhancing Data Analysis
+

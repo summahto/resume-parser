@@ -1,0 +1,10 @@
+6020. **Name:** Henry Kumar
+   - **Skills:** Angular, Docker, Machine Learning, Cybersecurity
+   - **Experience:** Junior Developer at CodeCrafters
+   - **Education:** Ph.D. in Business Administration from Business School
+   - **References:** Ivy Smith, Developer, patrick_jackson@example.com
+Jack Lopez, Analyst, ulysses_li@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** david_wu@example.com, City, Innoville
+   - **Projects:** Led the Revolutionary Project for Optimizing Business Processes
+

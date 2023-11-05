@@ -1,0 +1,10 @@
+9369. **Name:** Xena Miller
+   - **Skills:** Agile, Python, C#, Big Data
+   - **Experience:** Senior Developer at InnovativeTech
+   - **Education:** Bachelor in Data Science from Tech University
+   - **References:** Leo Jones, Analyst, katherine_smith@example.com
+David Kumar, Manager, ulysses_lópez@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** nathan_lee@example.com, Town, Techtopia
+   - **Projects:** Developed the Cutting-edge App for Optimizing Data Analysis
+

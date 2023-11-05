@@ -1,0 +1,10 @@
+4147. **Name:** Eva López
+   - **Skills:** Vue.js, Python, Cybersecurity, SQL
+   - **Experience:** Lead Manager at CodeCrafters
+   - **Education:** Master in Physics from Tech University
+   - **References:** Charlie Taylor, CEO, ivy_cruz@example.com
+Alice Miller, Developer, zane_silva@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** xena_garcia@example.com, Town, Innoville
+   - **Projects:** Developed the Groundbreaking Platform for Optimizing User Experience
+

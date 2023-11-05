@@ -1,0 +1,10 @@
+844. **Name:** Katherine López
+   - **Skills:** JavaScript, AR/VR Development, Angular, Project Management
+   - **Experience:** Lead Engineer at InnoSolutions
+   - **Education:** Bachelor in Physics from Inno Institute
+   - **References:** Katherine Johnson, Developer, rachel_white@example.com
+Frank White, Manager, eva_hernandez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** charlie_silva@example.com, City, Green Valley
+   - **Projects:** Led the Cutting-edge Framework for Optimizing Business Processes
+

@@ -1,0 +1,10 @@
+3526. **Name:** Tina Cruz
+   - **Skills:** Java, Node.js, CSS, Data Analysis
+   - **Experience:** Lead Manager at CreativeSolutions
+   - **Education:** Master in Data Science from Data Science School
+   - **References:** Mia Miller, Lead, victoria_white@example.com
+Mia Kumar, Manager, david_chen@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** sam_smith@example.com, Town, Scienceburg
+   - **Projects:** Developed the Revolutionary Project for Solving Problem-solving
+

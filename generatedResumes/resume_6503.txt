@@ -1,0 +1,10 @@
+6503. **Name:** Jack Nguyen
+   - **Skills:** Docker, SQL, Git, Cybersecurity
+   - **Experience:** Senior Designer at CodeCrafters
+   - **Education:** Bachelor in Physics from Tech University
+   - **References:** Jack Rodriguez, Analyst, leo_smith@example.com
+Sam Rodriguez, Manager, katherine_kumar@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** nathan_miller@example.com, City, Artopia
+   - **Projects:** Contributed to the Revolutionary Platform for Streamlining User Experience
+

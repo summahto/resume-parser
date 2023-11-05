@@ -1,0 +1,10 @@
+2652. **Name:** Ivy Kumar
+   - **Skills:** Android Development, JavaScript, Kubernetes, AR/VR Development
+   - **Experience:** Senior Engineer at TechInnovate
+   - **Education:** Master in Computer Science from Creative Arts College
+   - **References:** Walter Jackson, Designer, nathan_miller@example.com
+Yuki Brown, Scientist, alice_garcia@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** ulysses_smith@example.com, City, Techtopia
+   - **Projects:** Developed the Groundbreaking App for Optimizing Business Processes
+

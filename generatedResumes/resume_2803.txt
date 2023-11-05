@@ -1,0 +1,10 @@
+2803. **Name:** Frank Cruz
+   - **Skills:** UI/UX Design, Git, Blockchain, Java
+   - **Experience:** Lead Engineer at TechInnovate
+   - **Education:** Master in Physics from Data Science School
+   - **References:** Yuki Silva, Developer, patrick_jackson@example.com
+Eva Williams, Coordinator, nathan_brown@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** nathan_lopez@example.com, Town, Inno Haven
+   - **Projects:** Led the Cutting-edge Platform for Streamlining Data Analysis
+

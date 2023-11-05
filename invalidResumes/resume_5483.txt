@@ -1,0 +1,10 @@
+5483. **Name:** Grace Lee
+   - **Skills:** C#, Swift, Graphic Design, DevOps
+   - **Experience:** Lead Analyst at InnovativeTech
+   - **Education:** Master in Physics from Inno Institute
+   - **References:** Leo Müller, Engineer, leo_chen@example.com
+Nathan Kumar, Analyst, jack_brown@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** tina_kim@example.com, Village, Techtopia
+   - **Projects:** Contributed to the Groundbreaking Framework for Enhancing Problem-solving
+

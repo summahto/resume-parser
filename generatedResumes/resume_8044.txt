@@ -1,0 +1,10 @@
+8044. **Name:** Zane Li
+   - **Skills:** Machine Learning, Project Management, SQL, Swift
+   - **Experience:** Junior Designer at CodeCrafters
+   - **Education:** Ph.D. in Physics from Physics Academy
+   - **References:** Mia Sato, Director, frank_garcia@example.com
+Ulysses Gupta, Scientist, nathan_taylor@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** patrick_jones@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Innovative Project for Solving Business Processes
+

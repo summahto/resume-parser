@@ -1,0 +1,10 @@
+7726. **Name:** Leo Patel
+   - **Skills:** CSS, Git, Project Management, React
+   - **Experience:** Lead Designer at DataInnovators
+   - **Education:** Bachelor in Computer Science from Business School
+   - **References:** Ivy Brown, CTO, sam_wu@example.com
+Ivy Miller, Coordinator, mia_garcia@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** yuki_singh@example.com, City, Scienceburg
+   - **Projects:** Led the Revolutionary Project for Optimizing User Experience
+

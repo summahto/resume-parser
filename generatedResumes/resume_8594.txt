@@ -1,0 +1,10 @@
+8594. **Name:** Leo Johnson
+   - **Skills:** CSS, Angular, Project Management, Kubernetes
+   - **Experience:** Senior Manager at CreativeMinds
+   - **Education:** Ph.D. in Computer Science from Creative Arts College
+   - **References:** Sam Lee, Lead, xena_lee@example.com
+Nathan Wu, Coordinator, victoria_lopez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** sam_williams@example.com, Village, Data City
+   - **Projects:** Contributed to the Revolutionary Framework for Solving Problem-solving
+

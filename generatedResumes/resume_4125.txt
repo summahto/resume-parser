@@ -1,0 +1,10 @@
+4125. **Name:** Quinn Brown
+   - **Skills:** Python, Kubernetes, Graphic Design, iOS Development
+   - **Experience:** Senior Analyst at DigitalSolutions
+   - **Education:** Bachelor in Business Administration from Data Science School
+   - **References:** Mia Nguyen, Director, sam_nguyen@example.com
+Ivy Lopez, Manager, quinn_wu@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** zane_jones@example.com, Village, Data Haven
+   - **Projects:** Led the Revolutionary App for Enhancing Collaboration
+

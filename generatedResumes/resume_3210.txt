@@ -1,0 +1,10 @@
+3210. **Name:** Tina Wu
+   - **Skills:** Project Management, Data Analysis, Vue.js, Python
+   - **Experience:** Lead Analyst at DataInnovators
+   - **Education:** Master in Data Science from Business School
+   - **References:** Eva Lee, Scientist, mia_chen@example.com
+Tina Nguyen, CEO, leo_wu@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** frank_davis@example.com, Town, Artopia
+   - **Projects:** Led the Innovative Platform for Enhancing Problem-solving
+

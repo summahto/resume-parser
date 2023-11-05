@@ -1,0 +1,10 @@
+3620. **Name:** Charlie Wu
+   - **Skills:** Graphic Design, AR/VR Development, Swift, iOS Development
+   - **Experience:** Lead Engineer at CodeCrafters
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Olivia Cruz, Director, leo_li@example.com
+Sam Lee, CTO, bob_gupta@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** ulysses_wang@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Cutting-edge Project for Solving Business Processes
+

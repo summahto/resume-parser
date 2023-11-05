@@ -1,0 +1,10 @@
+5735. **Name:** David Sato
+   - **Skills:** Graphic Design, Project Management, C#, JavaScript
+   - **Experience:** Junior Developer at CreativeSolutions
+   - **Education:** Master in Business Administration from Tech University
+   - **References:** Yuki Gonzalez, CEO, alice_yamamoto@example.com
+Sam Rodriguez, Coordinator, tina_gupta@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** yuki_jones@example.com, City, Data City
+   - **Projects:** Contributed to the Revolutionary Platform for Solving User Experience
+

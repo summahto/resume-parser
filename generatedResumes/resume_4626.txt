@@ -1,0 +1,10 @@
+4626. **Name:** David Nguyen
+   - **Skills:** HTML, DevOps, JavaScript, AR/VR Development
+   - **Experience:** Lead Developer at TechInnovate
+   - **Education:** Ph.D. in Art from Creative Arts College
+   - **References:** Nathan Nguyen, Lead, alice_miller@example.com
+Frank Lee, Designer, quinn_rodriguez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** ivy_white@example.com, City, Green Valley
+   - **Projects:** Contributed to the Innovative Project for Streamlining Data Analysis
+

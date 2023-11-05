@@ -1,0 +1,10 @@
+180. **Name:** Quinn Rodriguez
+   - **Skills:** SQL, Cloud Computing, Big Data, Blockchain
+   - **Experience:** Senior Scientist at TechCorp
+   - **Education:** Bachelor in Art from Data Science School
+   - **References:** Mia Lopez, Analyst, ulysses_brown@example.com
+David Cruz, Manager, walter_rodriguez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** ivy_cruz@example.com, City, Techtopia
+   - **Projects:** Contributed to the Cutting-edge App for Optimizing Data Analysis
+

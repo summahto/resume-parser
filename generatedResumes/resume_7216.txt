@@ -1,0 +1,10 @@
+7216. **Name:** Leo Nguyen
+   - **Skills:** Swift, SQL, HTML, C#
+   - **Experience:** Lead Analyst at TechInnovate
+   - **Education:** Bachelor in Data Science from Data Science School
+   - **References:** David Taylor, Analyst, olivia_chen@example.com
+Zane Hernandez, Director, david_singh@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** charlie_kim@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Revolutionary Platform for Solving Business Processes
+

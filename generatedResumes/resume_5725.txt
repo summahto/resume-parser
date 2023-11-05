@@ -1,0 +1,10 @@
+5725. **Name:** Victoria Suzuki
+   - **Skills:** Big Data, Machine Learning, Swift, Android Development
+   - **Experience:** Lead Designer at CodeCrafters
+   - **Education:** Bachelor in Data Science from Inno Institute
+   - **References:** Xena Rodriguez, Scientist, david_li@example.com
+Rachel Miller, Scientist, bob_jones@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** leo_garcia@example.com, Village, Techland
+   - **Projects:** Developed the Groundbreaking System for Streamlining Data Analysis
+

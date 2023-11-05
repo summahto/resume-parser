@@ -1,0 +1,10 @@
+9875. **Name:** Yuki Lopez
+   - **Skills:** Docker, SQL, Swift, Angular
+   - **Experience:** Senior Designer at InnoSolutions
+   - **Education:** Ph.D. in Art from Creative Arts College
+   - **References:** Olivia Davis, Designer, zane_smith@example.com
+David Lopez, Engineer, ulysses_brown@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** mia_brown@example.com, Town, Artopia
+   - **Projects:** Led the Cutting-edge System for Solving Data Analysis
+

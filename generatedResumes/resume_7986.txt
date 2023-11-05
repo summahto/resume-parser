@@ -1,0 +1,10 @@
+7986. **Name:** Ivy Cruz
+   - **Skills:** Machine Learning, Cloud Computing, Angular, Docker
+   - **Experience:** Senior Designer at DigitalSolutions
+   - **Education:** Master in Data Science from Data Science School
+   - **References:** Patrick Cruz, Engineer, henry_lópez@example.com
+Charlie Kumar, Designer, rachel_gupta@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** frank_lópez@example.com, Town, Scienceburg
+   - **Projects:** Contributed to the Groundbreaking Framework for Enhancing Business Processes
+

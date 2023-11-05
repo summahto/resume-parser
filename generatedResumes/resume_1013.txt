@@ -1,0 +1,10 @@
+1013. **Name:** Frank Kumar
+   - **Skills:** JavaScript, Python, Android Development, DevOps
+   - **Experience:** Junior Engineer at InnovativeTech
+   - **Education:** Master in Physics from Inno Institute
+   - **References:** Bob Kim, Developer, olivia_chen@example.com
+Sam López, Scientist, olivia_suzuki@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** leo_rodriguez@example.com, Town, Techtopia
+   - **Projects:** Developed the Cutting-edge Platform for Solving Problem-solving
+

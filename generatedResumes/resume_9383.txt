@@ -1,0 +1,10 @@
+9383. **Name:** Frank Rodriguez
+   - **Skills:** Angular, Swift, DevOps, Docker
+   - **Experience:** Junior Scientist at DataInnovators
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Mia Jones, Designer, charlie_jones@example.com
+Jack Nguyen, Engineer, ulysses_jackson@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** katherine_cruz@example.com, City, Inno Haven
+   - **Projects:** Led the Groundbreaking Project for Enhancing Collaboration
+

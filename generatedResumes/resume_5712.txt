@@ -1,0 +1,10 @@
+5712. **Name:** Frank Jones
+   - **Skills:** Git, Project Management, DevOps, AR/VR Development
+   - **Experience:** Lead Scientist at TechCorp
+   - **Education:** Ph.D. in Engineering from Inno Institute
+   - **References:** Yuki Smith, Director, frank_miller@example.com
+Charlie Jones, Manager, nathan_patel@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** rachel_kim@example.com, Village, Innoville
+   - **Projects:** Led the Revolutionary Project for Streamlining Business Processes
+

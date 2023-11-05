@@ -1,0 +1,10 @@
+9433. **Name:** Xena Garcia
+   - **Skills:** UI/UX Design, Big Data, Angular, Project Management
+   - **Experience:** Lead Scientist at TechCorp
+   - **Education:** Ph.D. in Business Administration from Creative Arts College
+   - **References:** Xena López, Director, bob_lee@example.com
+Katherine Brown, Coordinator, xena_cruz@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** nathan_rodriguez@example.com, City, Innoville
+   - **Projects:** Developed the Innovative Platform for Streamlining Problem-solving
+

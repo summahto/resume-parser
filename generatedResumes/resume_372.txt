@@ -1,0 +1,10 @@
+372. **Name:** Eva Wu
+   - **Skills:** Project Management, Cloud Computing, CSS, Cybersecurity
+   - **Experience:** Lead Analyst at DataExperts
+   - **Education:** Master in Engineering from Inno Institute
+   - **References:** Patrick Singh, Developer, rachel_lee@example.com
+Sam Garcia, Developer, nathan_rodriguez@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** charlie_chen@example.com, Town, Scienceburg
+   - **Projects:** Led the Innovative Project for Streamlining Data Analysis
+

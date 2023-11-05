@@ -1,0 +1,10 @@
+9002. **Name:** Walter Lopez
+   - **Skills:** Agile, HTML, Data Analysis, Network Administration
+   - **Experience:** Junior Analyst at InnovativeTech
+   - **Education:** Bachelor in Engineering from Creative Arts College
+   - **References:** Eva Miller, Director, bob_lópez@example.com
+Katherine Silva, Analyst, quinn_miller@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** olivia_nguyen@example.com, Town, Techland
+   - **Projects:** Developed the Groundbreaking Framework for Optimizing User Experience
+

@@ -1,0 +1,10 @@
+5792. **Name:** David Garcia
+   - **Skills:** JavaScript, Java, Angular, SQL
+   - **Experience:** Senior Developer at InnovativeTech
+   - **Education:** Bachelor in Business Administration from Business School
+   - **References:** Nathan Lee, CEO, walter_kim@example.com
+Mia Gupta, Coordinator, yuki_wang@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** walter_wu@example.com, City, Data City
+   - **Projects:** Contributed to the Cutting-edge App for Enhancing Data Analysis
+

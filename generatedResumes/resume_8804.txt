@@ -1,0 +1,10 @@
+8804. **Name:** Xena Kumar
+   - **Skills:** UI/UX Design, Angular, Machine Learning, SQL
+   - **Experience:** Senior Manager at DataExperts
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Henry Chen, Manager, leo_white@example.com
+Grace Li, Manager, victoria_rodriguez@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** frank_smith@example.com, City, Scienceburg
+   - **Projects:** Developed the Revolutionary System for Solving Collaboration
+

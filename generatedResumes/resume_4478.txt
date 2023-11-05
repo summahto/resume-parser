@@ -1,0 +1,10 @@
+4478. **Name:** Xena Lee
+   - **Skills:** Java, Project Management, IoT, Android Development
+   - **Experience:** Junior Developer at InnoSolutions
+   - **Education:** Master in Business Administration from Inno Institute
+   - **References:** Tina Wu, Engineer, nathan_taylor@example.com
+Yuki Silva, CTO, katherine_jackson@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** xena_brown@example.com, Town, Data City
+   - **Projects:** Developed the Revolutionary Platform for Solving User Experience
+

@@ -1,0 +1,10 @@
+6329. **Name:** Victoria Smith
+   - **Skills:** UI/UX Design, IoT, Node.js, Data Analysis
+   - **Experience:** Junior Developer at InnoSolutions
+   - **Education:** Bachelor in Art from Creative Arts College
+   - **References:** Bob White, Scientist, mia_gupta@example.com
+Leo Miller, CEO, katherine_lopez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** tina_taylor@example.com, City, Techtopia
+   - **Projects:** Led the Revolutionary App for Optimizing Problem-solving
+

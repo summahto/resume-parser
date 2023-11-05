@@ -1,0 +1,10 @@
+4833. **Name:** Tina Wang
+   - **Skills:** Node.js, Python, Angular, Git
+   - **Experience:** Junior Analyst at InnoSolutions
+   - **Education:** Bachelor in Business Administration from Business School
+   - **References:** Tina Jones, Engineer, david_lopez@example.com
+Grace Lopez, Analyst, ulysses_patel@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** zane_johnson@example.com, Town, Data Haven
+   - **Projects:** Led the Cutting-edge System for Enhancing User Experience
+

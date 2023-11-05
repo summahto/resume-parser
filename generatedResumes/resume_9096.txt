@@ -1,0 +1,10 @@
+9096. **Name:** David López
+   - **Skills:** Python, Data Analysis, Git, Angular
+   - **Experience:** Lead Scientist at CodeCrafters
+   - **Education:** Ph.D. in Engineering from Inno Institute
+   - **References:** Katherine Jones, Designer, ulysses_wu@example.com
+Ulysses Patel, Scientist, patrick_li@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** ulysses_lópez@example.com, City, Techland
+   - **Projects:** Developed the Revolutionary App for Optimizing User Experience
+

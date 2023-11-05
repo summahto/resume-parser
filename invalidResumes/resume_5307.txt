@@ -1,0 +1,10 @@
+5307. **Name:** Patrick Wu
+   - **Skills:** Node.js, Angular, Graphic Design, Big Data
+   - **Experience:** Senior Developer at InnoSolutions
+   - **Education:** Master in Business Administration from Business School
+   - **References:** Katherine López, Manager, rachel_jones@example.com
+David Wang, Manager, nathan_gupta@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** zane_cruz@example.com, City, Innovation Meadows
+   - **Projects:** Led the Cutting-edge Project for Enhancing User Experience
+

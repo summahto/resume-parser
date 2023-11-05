@@ -1,0 +1,10 @@
+9756. **Name:** Quinn Johnson
+   - **Skills:** Android Development, SQL, iOS Development, C#
+   - **Experience:** Junior Analyst at TechCorp
+   - **Education:** Bachelor in Engineering from Tech University
+   - **References:** Charlie Silva, Analyst, tina_nguyen@example.com
+Tina Yamamoto, Lead, mia_kumar@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** mia_patel@example.com, City, Techland
+   - **Projects:** Contributed to the Cutting-edge Project for Solving Collaboration
+

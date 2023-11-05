@@ -1,0 +1,10 @@
+6207. **Name:** David Lopez
+   - **Skills:** Swift, JavaScript, Graphic Design, SQL
+   - **Experience:** Junior Scientist at DataExperts
+   - **Education:** Master in Engineering from Creative Arts College
+   - **References:** Victoria Rodriguez, Designer, alice_smith@example.com
+Eva Sato, Designer, quinn_kim@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** charlie_rodriguez@example.com, City, Data Haven
+   - **Projects:** Led the Groundbreaking System for Optimizing Problem-solving
+

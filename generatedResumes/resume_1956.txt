@@ -1,0 +1,10 @@
+1956. **Name:** Yuki Wu
+   - **Skills:** Machine Learning, React, JavaScript, Docker
+   - **Experience:** Junior Engineer at DataExperts
+   - **Education:** Master in Art from Business School
+   - **References:** Sam Smith, Director, victoria_brown@example.com
+David Taylor, Manager, yuki_taylor@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** ivy_nguyen@example.com, Town, Artopia
+   - **Projects:** Contributed to the Innovative Framework for Streamlining User Experience
+

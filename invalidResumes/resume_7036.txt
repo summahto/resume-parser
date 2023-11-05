@@ -1,0 +1,10 @@
+7036. **Name:** Zane Brown
+   - **Skills:** Git, IoT, UI/UX Design, Java
+   - **Experience:** Senior Manager at DataExperts
+   - **Education:** Master in Data Science from Inno Institute
+   - **References:** Zane López, CEO, ivy_chen@example.com
+Rachel Rodriguez, Developer, henry_gupta@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** david_wu@example.com, City, Scienceburg
+   - **Projects:** Developed the Cutting-edge Project for Optimizing Data Analysis
+

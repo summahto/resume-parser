@@ -1,0 +1,10 @@
+4680. **Name:** Ivy White
+   - **Skills:** Project Management, Python, Git, Vue.js
+   - **Experience:** Junior Developer at DataInnovators
+   - **Education:** Bachelor in Art from Business School
+   - **References:** Charlie Singh, Designer, olivia_smith@example.com
+Bob Taylor, Director, xena_williams@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** mia_wu@example.com, Town, Scienceburg
+   - **Projects:** Led the Revolutionary Framework for Streamlining Data Analysis
+

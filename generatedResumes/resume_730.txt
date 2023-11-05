@@ -1,0 +1,10 @@
+730. **Name:** Quinn Lopez
+   - **Skills:** UI/UX Design, Node.js, HTML, IoT
+   - **Experience:** Senior Manager at DataExperts
+   - **Education:** Ph.D. in Computer Science from Creative Arts College
+   - **References:** Nathan Lee, Manager, patrick_lee@example.com
+Katherine Chen, Director, david_wang@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** victoria_nguyen@example.com, Town, Data Haven
+   - **Projects:** Developed the Innovative Framework for Solving User Experience
+

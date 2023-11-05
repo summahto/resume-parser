@@ -1,0 +1,10 @@
+1625. **Name:** Ulysses Wu
+   - **Skills:** Graphic Design, IoT, React, AR/VR Development
+   - **Experience:** Senior Manager at DataInnovators
+   - **Education:** Master in Data Science from Creative Arts College
+   - **References:** Alice Wu, Developer, katherine_smith@example.com
+Leo Garcia, Developer, mia_lopez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** sam_kumar@example.com, Town, Data Haven
+   - **Projects:** Led the Cutting-edge System for Streamlining Business Processes
+

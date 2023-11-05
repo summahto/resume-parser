@@ -1,0 +1,10 @@
+9890. **Name:** Mia Lee
+   - **Skills:** CSS, React, Git, JavaScript
+   - **Experience:** Senior Manager at CodeCrafters
+   - **Education:** Master in Data Science from Creative Arts College
+   - **References:** Patrick Lee, Coordinator, olivia_jackson@example.com
+Ivy Lopez, Manager, ivy_rodriguez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** mia_sato@example.com, City, Artopia
+   - **Projects:** Developed the Groundbreaking System for Optimizing User Experience
+

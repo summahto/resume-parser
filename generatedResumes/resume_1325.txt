@@ -1,0 +1,10 @@
+1325. **Name:** Charlie Wang
+   - **Skills:** JavaScript, Swift, Git, AR/VR Development
+   - **Experience:** Lead Designer at TechInnovate
+   - **Education:** Ph.D. in Business Administration from Inno Institute
+   - **References:** Bob Williams, Engineer, zane_kumar@example.com
+Nathan Lee, Developer, ivy_cruz@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** nathan_suzuki@example.com, Town, Green Valley
+   - **Projects:** Developed the Groundbreaking Project for Optimizing User Experience
+

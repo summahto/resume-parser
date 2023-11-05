@@ -1,0 +1,10 @@
+6383. **Name:** Nathan Gupta
+   - **Skills:** IoT, Blockchain, React, Swift
+   - **Experience:** Senior Designer at DigitalSolutions
+   - **Education:** Ph.D. in Data Science from Tech University
+   - **References:** Eva Silva, Developer, alice_kumar@example.com
+Zane Müller, CEO, katherine_wu@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** mia_lee@example.com, City, Inno Haven
+   - **Projects:** Developed the Revolutionary System for Enhancing Collaboration
+

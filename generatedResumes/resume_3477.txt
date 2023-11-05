@@ -1,0 +1,10 @@
+3477. **Name:** Olivia Hernandez
+   - **Skills:** SQL, Agile, Cloud Computing, Swift
+   - **Experience:** Junior Engineer at CreativeMinds
+   - **Education:** Master in Data Science from Tech University
+   - **References:** David Chen, Manager, ivy_taylor@example.com
+Grace Kumar, Developer, henry_li@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** jack_rodriguez@example.com, Village, Techland
+   - **Projects:** Developed the Cutting-edge Project for Solving User Experience
+

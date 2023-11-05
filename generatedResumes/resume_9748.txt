@@ -1,0 +1,10 @@
+9748. **Name:** Grace Jones
+   - **Skills:** Android Development, CSS, Angular, Data Analysis
+   - **Experience:** Senior Scientist at CreativeSolutions
+   - **Education:** Master in Computer Science from Data Science School
+   - **References:** Charlie Chen, Developer, katherine_jackson@example.com
+David Jackson, Coordinator, quinn_brown@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** frank_chen@example.com, Village, Innoville
+   - **Projects:** Led the Cutting-edge Platform for Enhancing Collaboration
+

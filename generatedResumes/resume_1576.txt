@@ -1,0 +1,10 @@
+1576. **Name:** Walter Gupta
+   - **Skills:** Project Management, Swift, Android Development, iOS Development
+   - **Experience:** Senior Scientist at DataExperts
+   - **Education:** Ph.D. in Data Science from Data Science School
+   - **References:** Ulysses Garcia, Developer, henry_lee@example.com
+Victoria Garcia, Designer, walter_sato@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** charlie_wang@example.com, Village, Innoville
+   - **Projects:** Contributed to the Groundbreaking Project for Streamlining Collaboration
+

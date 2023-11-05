@@ -1,0 +1,10 @@
+5462. **Name:** Mia Nguyen
+   - **Skills:** Vue.js, Big Data, Swift, Agile
+   - **Experience:** Lead Developer at TechInnovate
+   - **Education:** Bachelor in Business Administration from Physics Academy
+   - **References:** Frank Nguyen, Analyst, henry_jones@example.com
+Mia Silva, Director, victoria_nguyen@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** ulysses_brown@example.com, City, Techtopia
+   - **Projects:** Developed the Cutting-edge System for Enhancing Problem-solving
+

@@ -1,0 +1,10 @@
+2945. **Name:** Mia White
+   - **Skills:** Big Data, Cybersecurity, Kubernetes, Git
+   - **Experience:** Junior Manager at DataInnovators
+   - **Education:** Bachelor in Data Science from Data Science School
+   - **References:** Henry Garcia, Scientist, eva_lee@example.com
+Victoria Li, Engineer, victoria_rodriguez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** patrick_silva@example.com, City, Green Valley
+   - **Projects:** Led the Revolutionary Platform for Streamlining User Experience
+

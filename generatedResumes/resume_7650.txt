@@ -1,0 +1,10 @@
+7650. **Name:** Patrick Lopez
+   - **Skills:** CSS, UI/UX Design, JavaScript, React
+   - **Experience:** Junior Scientist at TechInnovate
+   - **Education:** Master in Computer Science from Business School
+   - **References:** Katherine Jones, Analyst, katherine_brown@example.com
+Frank Wang, Coordinator, katherine_nguyen@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** zane_lopez@example.com, Town, Data City
+   - **Projects:** Contributed to the Cutting-edge Platform for Solving Data Analysis
+

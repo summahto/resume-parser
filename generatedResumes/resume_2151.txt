@@ -1,0 +1,10 @@
+2151. **Name:** Frank White
+   - **Skills:** Java, IoT, Agile, Big Data
+   - **Experience:** Senior Designer at DataInnovators
+   - **Education:** Bachelor in Art from Data Science School
+   - **References:** Ulysses Silva, Manager, xena_lee@example.com
+Alice Lee, Designer, tina_rodriguez@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** victoria_cruz@example.com, City, Innovation Meadows
+   - **Projects:** Contributed to the Revolutionary App for Solving User Experience
+

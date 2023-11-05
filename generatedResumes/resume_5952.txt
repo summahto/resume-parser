@@ -1,0 +1,10 @@
+5952. **Name:** Patrick Brown
+   - **Skills:** Graphic Design, AR/VR Development, Python, Data Analysis
+   - **Experience:** Senior Scientist at InnovativeTech
+   - **Education:** Master in Physics from Inno Institute
+   - **References:** Sam Cruz, Coordinator, olivia_smith@example.com
+Olivia Lee, CTO, eva_rodriguez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** walter_lópez@example.com, City, Scienceburg
+   - **Projects:** Developed the Groundbreaking Framework for Solving Collaboration
+

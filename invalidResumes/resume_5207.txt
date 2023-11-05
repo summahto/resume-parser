@@ -1,0 +1,10 @@
+5207. **Name:** Patrick Lopez
+   - **Skills:** IoT, HTML, AR/VR Development, JavaScript
+   - **Experience:** Junior Engineer at TechInnovate
+   - **Education:** Master in Business Administration from Creative Arts College
+   - **References:** Zane Wu, CTO, ivy_gonzalez@example.com
+Katherine Johnson, Director, katherine_lópez@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** bob_gonzalez@example.com, City, Techland
+   - **Projects:** Contributed to the Cutting-edge System for Streamlining Data Analysis
+

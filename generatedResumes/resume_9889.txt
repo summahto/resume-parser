@@ -1,0 +1,10 @@
+9889. **Name:** Alice Kim
+   - **Skills:** Machine Learning, UI/UX Design, Project Management, IoT
+   - **Experience:** Lead Designer at DataExperts
+   - **Education:** Master in Business Administration from Inno Institute
+   - **References:** Frank Kim, Developer, henry_wu@example.com
+Eva Jones, Scientist, rachel_wu@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** henry_chen@example.com, City, Data City
+   - **Projects:** Led the Innovative Framework for Streamlining User Experience
+

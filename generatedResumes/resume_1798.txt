@@ -1,0 +1,10 @@
+1798. **Name:** Ivy Silva
+   - **Skills:** Git, Big Data, Cloud Computing, Kubernetes
+   - **Experience:** Junior Developer at InnoSolutions
+   - **Education:** Ph.D. in Computer Science from Data Science School
+   - **References:** Olivia Gonzalez, Designer, ulysses_cruz@example.com
+Yuki Kim, CEO, patrick_garcia@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** frank_jackson@example.com, Village, Artopia
+   - **Projects:** Developed the Revolutionary App for Optimizing Data Analysis
+

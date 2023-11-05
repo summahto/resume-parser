@@ -1,0 +1,10 @@
+6839. **Name:** Olivia Gupta
+   - **Skills:** JavaScript, Vue.js, iOS Development, Data Analysis
+   - **Experience:** Lead Analyst at CreativeSolutions
+   - **Education:** Ph.D. in Art from Inno Institute
+   - **References:** Quinn Gonzalez, Lead, grace_chen@example.com
+Ivy Cruz, Engineer, david_silva@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** walter_miller@example.com, Village, Data City
+   - **Projects:** Developed the Revolutionary Project for Enhancing User Experience
+

@@ -1,0 +1,10 @@
+9500. **Name:** Mia Nguyen
+   - **Skills:** Git, Cloud Computing, CSS, SQL
+   - **Experience:** Senior Manager at InnovativeTech
+   - **Education:** Bachelor in Computer Science from Physics Academy
+   - **References:** Katherine Silva, Analyst, bob_patel@example.com
+Tina White, Designer, sam_lopez@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** grace_kumar@example.com, Town, Scienceburg
+   - **Projects:** Contributed to the Revolutionary App for Enhancing Problem-solving
+

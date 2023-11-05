@@ -1,0 +1,10 @@
+8306. **Name:** Tina Lopez
+   - **Skills:** Machine Learning, Docker, Angular, Kubernetes
+   - **Experience:** Lead Manager at InnoSolutions
+   - **Education:** Master in Engineering from Data Science School
+   - **References:** Alice Miller, Analyst, zane_kumar@example.com
+Zane Smith, Coordinator, quinn_jackson@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** olivia_nguyen@example.com, City, Innovation Meadows
+   - **Projects:** Contributed to the Cutting-edge Framework for Optimizing User Experience
+

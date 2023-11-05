@@ -1,0 +1,10 @@
+2420. **Name:** Frank Garcia
+   - **Skills:** HTML, CSS, SQL, Kubernetes
+   - **Experience:** Lead Developer at TechCorp
+   - **Education:** Master in Business Administration from Creative Arts College
+   - **References:** Victoria Li, Lead, eva_chen@example.com
+Quinn Hernandez, Analyst, victoria_hernandez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** eva_kumar@example.com, Town, Techland
+   - **Projects:** Developed the Revolutionary App for Streamlining Problem-solving
+

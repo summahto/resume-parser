@@ -1,0 +1,10 @@
+234. **Name:** Ivy Smith
+   - **Skills:** Cybersecurity, SQL, Python, Android Development
+   - **Experience:** Junior Manager at DataExperts
+   - **Education:** Ph.D. in Art from Physics Academy
+   - **References:** Rachel Williams, Manager, david_wang@example.com
+Jack Silva, Analyst, sam_li@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** bob_silva@example.com, Town, Techtopia
+   - **Projects:** Contributed to the Innovative Framework for Streamlining Data Analysis
+

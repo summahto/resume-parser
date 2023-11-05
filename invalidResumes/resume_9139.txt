@@ -1,0 +1,10 @@
+9139. **Name:** Olivia Patel
+   - **Skills:** Graphic Design, Agile, DevOps, React
+   - **Experience:** Senior Designer at TechCorp
+   - **Education:** Bachelor in Physics from Physics Academy
+   - **References:** Quinn White, Lead, olivia_lee@example.com
+Xena Miller, Scientist, rachel_lópez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** patrick_kim@example.com, Town, Techtopia
+   - **Projects:** Contributed to the Innovative App for Streamlining Collaboration
+

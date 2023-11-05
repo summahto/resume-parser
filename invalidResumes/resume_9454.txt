@@ -1,0 +1,10 @@
+9454. **Name:** Yuki López
+   - **Skills:** Android Development, IoT, Swift, DevOps
+   - **Experience:** Junior Designer at DigitalSolutions
+   - **Education:** Bachelor in Business Administration from Data Science School
+   - **References:** Tina Wu, Manager, charlie_kim@example.com
+Jack Wang, Scientist, mia_wu@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** rachel_white@example.com, City, Innoville
+   - **Projects:** Led the Innovative App for Enhancing User Experience
+

@@ -1,0 +1,10 @@
+5820. **Name:** Mia Brown
+   - **Skills:** Blockchain, Graphic Design, UI/UX Design, Android Development
+   - **Experience:** Lead Manager at CreativeMinds
+   - **Education:** Bachelor in Computer Science from Physics Academy
+   - **References:** Eva Lopez, Lead, bob_white@example.com
+Mia Lopez, CEO, tina_johnson@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** walter_johnson@example.com, Village, Data Haven
+   - **Projects:** Developed the Innovative Platform for Solving Data Analysis
+

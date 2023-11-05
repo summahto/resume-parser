@@ -1,0 +1,10 @@
+6287. **Name:** Ulysses Kim
+   - **Skills:** Kubernetes, Cloud Computing, Git, iOS Development
+   - **Experience:** Junior Analyst at CreativeMinds
+   - **Education:** Master in Art from Inno Institute
+   - **References:** Ulysses White, Developer, quinn_nguyen@example.com
+Yuki Chen, Manager, xena_garcia@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** jack_kumar@example.com, City, Data City
+   - **Projects:** Led the Groundbreaking Project for Solving User Experience
+

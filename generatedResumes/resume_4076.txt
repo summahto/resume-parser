@@ -1,0 +1,10 @@
+4076. **Name:** David Brown
+   - **Skills:** Swift, Project Management, Angular, UI/UX Design
+   - **Experience:** Senior Designer at InnovativeTech
+   - **Education:** Master in Physics from Inno Institute
+   - **References:** Mia Patel, Scientist, katherine_white@example.com
+Mia Cruz, CTO, frank_cruz@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** henry_kumar@example.com, Town, Green Valley
+   - **Projects:** Led the Cutting-edge Project for Streamlining Problem-solving
+

@@ -1,0 +1,10 @@
+5492. **Name:** Xena Li
+   - **Skills:** Graphic Design, Kubernetes, Agile, IoT
+   - **Experience:** Senior Developer at InnoSolutions
+   - **Education:** Master in Engineering from Creative Arts College
+   - **References:** Patrick Lee, CEO, ulysses_patel@example.com
+Frank Wang, Analyst, jack_jackson@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** david_white@example.com, Village, Techland
+   - **Projects:** Contributed to the Groundbreaking System for Streamlining Collaboration
+

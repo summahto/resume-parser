@@ -1,0 +1,10 @@
+5925. **Name:** Leo Cruz
+   - **Skills:** DevOps, Cybersecurity, Data Analysis, Swift
+   - **Experience:** Lead Developer at TechCorp
+   - **Education:** Master in Computer Science from Physics Academy
+   - **References:** David Brown, Lead, yuki_lopez@example.com
+Leo Taylor, Scientist, leo_cruz@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** tina_lee@example.com, Village, Innoville
+   - **Projects:** Led the Cutting-edge Project for Enhancing Data Analysis
+

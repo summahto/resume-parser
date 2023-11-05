@@ -1,0 +1,10 @@
+8483. **Name:** Charlie Williams
+   - **Skills:** iOS Development, React, UI/UX Design, Big Data
+   - **Experience:** Senior Designer at DataExperts
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Leo Chen, Designer, ivy_kumar@example.com
+Grace Gupta, CTO, frank_cruz@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** quinn_wang@example.com, Village, Artopia
+   - **Projects:** Contributed to the Groundbreaking Platform for Streamlining Collaboration
+

@@ -1,0 +1,10 @@
+3770. **Name:** Eva Wang
+   - **Skills:** Project Management, Kubernetes, HTML, Network Administration
+   - **Experience:** Junior Developer at CreativeSolutions
+   - **Education:** Master in Data Science from Business School
+   - **References:** Rachel Yamamoto, Developer, eva_müller@example.com
+Zane Nguyen, Designer, sam_jones@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** bob_chen@example.com, Village, Innoville
+   - **Projects:** Led the Cutting-edge System for Optimizing Business Processes
+

@@ -1,0 +1,10 @@
+2906. **Name:** Katherine Wang
+   - **Skills:** Git, Vue.js, Graphic Design, Docker
+   - **Experience:** Lead Engineer at CreativeMinds
+   - **Education:** Bachelor in Physics from Business School
+   - **References:** Victoria Chen, Manager, katherine_li@example.com
+Olivia Kumar, CTO, sam_nguyen@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** alice_wu@example.com, Village, Data Haven
+   - **Projects:** Contributed to the Innovative Platform for Solving Data Analysis
+

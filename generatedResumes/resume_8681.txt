@@ -1,0 +1,10 @@
+8681. **Name:** Tina Nguyen
+   - **Skills:** HTML, Docker, Angular, Data Analysis
+   - **Experience:** Junior Manager at CreativeSolutions
+   - **Education:** Master in Data Science from Creative Arts College
+   - **References:** Walter Hernandez, Manager, nathan_patel@example.com
+Quinn Rodriguez, Scientist, ivy_gupta@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** katherine_smith@example.com, Village, Innoville
+   - **Projects:** Contributed to the Cutting-edge Platform for Streamlining Problem-solving
+

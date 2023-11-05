@@ -1,0 +1,10 @@
+8657. **Name:** Olivia Kumar
+   - **Skills:** Big Data, Data Analysis, Angular, C#
+   - **Experience:** Lead Analyst at CreativeMinds
+   - **Education:** Ph.D. in Computer Science from Tech University
+   - **References:** Yuki Jones, Director, rachel_jones@example.com
+Rachel Smith, Manager, rachel_yamamoto@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** charlie_li@example.com, City, Data City
+   - **Projects:** Led the Revolutionary Platform for Solving User Experience
+

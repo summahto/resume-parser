@@ -1,0 +1,10 @@
+8135. **Name:** Xena Garcia
+   - **Skills:** iOS Development, Docker, Python, CSS
+   - **Experience:** Lead Designer at DataInnovators
+   - **Education:** Bachelor in Art from Physics Academy
+   - **References:** Jack Nguyen, Developer, quinn_wu@example.com
+Xena Smith, Director, jack_nguyen@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** ivy_kumar@example.com, City, Data Haven
+   - **Projects:** Led the Revolutionary Platform for Solving User Experience
+

@@ -1,0 +1,10 @@
+9456. **Name:** Leo Rodriguez
+   - **Skills:** Android Development, Docker, Cloud Computing, Python
+   - **Experience:** Senior Scientist at TechCorp
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Walter Smith, Coordinator, nathan_taylor@example.com
+Eva Suzuki, Analyst, zane_lee@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** charlie_kim@example.com, Village, Techtopia
+   - **Projects:** Developed the Revolutionary Framework for Enhancing Business Processes
+

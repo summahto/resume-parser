@@ -1,0 +1,10 @@
+3852. **Name:** Walter Rodriguez
+   - **Skills:** Project Management, Blockchain, iOS Development, Angular
+   - **Experience:** Lead Designer at DataInnovators
+   - **Education:** Bachelor in Business Administration from Tech University
+   - **References:** Walter Lee, Analyst, grace_chen@example.com
+Katherine Gupta, Analyst, bob_jones@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** walter_wu@example.com, Village, Data City
+   - **Projects:** Contributed to the Innovative System for Enhancing User Experience
+

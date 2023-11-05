@@ -1,0 +1,10 @@
+3923. **Name:** Eva Rodriguez
+   - **Skills:** React, Android Development, Git, Swift
+   - **Experience:** Junior Scientist at DataExperts
+   - **Education:** Master in Computer Science from Data Science School
+   - **References:** Ivy Patel, Scientist, grace_chen@example.com
+Walter Patel, Analyst, rachel_gupta@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** mia_silva@example.com, Town, Artopia
+   - **Projects:** Led the Cutting-edge Platform for Streamlining Problem-solving
+

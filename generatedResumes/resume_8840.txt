@@ -1,0 +1,10 @@
+8840. **Name:** Charlie López
+   - **Skills:** Network Administration, JavaScript, React, Project Management
+   - **Experience:** Junior Analyst at DataInnovators
+   - **Education:** Master in Data Science from Data Science School
+   - **References:** Tina Yamamoto, Manager, zane_jackson@example.com
+Eva Lopez, CEO, victoria_lee@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** rachel_miller@example.com, City, Green Valley
+   - **Projects:** Developed the Cutting-edge Project for Optimizing User Experience
+

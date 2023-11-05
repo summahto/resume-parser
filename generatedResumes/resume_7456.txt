@@ -1,0 +1,10 @@
+7456. **Name:** Tina White
+   - **Skills:** SQL, Project Management, UI/UX Design, Graphic Design
+   - **Experience:** Junior Analyst at InnovativeTech
+   - **Education:** Master in Art from Inno Institute
+   - **References:** Alice Johnson, Lead, yuki_wu@example.com
+Bob Davis, Analyst, rachel_suzuki@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** walter_taylor@example.com, City, Data Haven
+   - **Projects:** Developed the Groundbreaking Framework for Streamlining Business Processes
+

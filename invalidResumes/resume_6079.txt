@@ -1,0 +1,10 @@
+6079. **Name:** Ulysses López
+   - **Skills:** UI/UX Design, iOS Development, Project Management, Swift
+   - **Experience:** Senior Developer at DataInnovators
+   - **Education:** Bachelor in Business Administration from Data Science School
+   - **References:** Nathan Kim, Director, walter_kumar@example.com
+Quinn Williams, Manager, xena_williams@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** nathan_miller@example.com, Town, Inno Haven
+   - **Projects:** Led the Innovative Platform for Solving Data Analysis
+

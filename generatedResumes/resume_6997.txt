@@ -1,0 +1,10 @@
+6997. **Name:** Xena Kim
+   - **Skills:** Android Development, IoT, DevOps, Big Data
+   - **Experience:** Senior Designer at TechCorp
+   - **Education:** Ph.D. in Art from Data Science School
+   - **References:** Rachel Silva, Analyst, alice_gupta@example.com
+Bob Wu, Engineer, ulysses_gupta@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** walter_gupta@example.com, Town, Techtopia
+   - **Projects:** Contributed to the Innovative Framework for Streamlining Business Processes
+

@@ -1,0 +1,10 @@
+7133. **Name:** Jack Miller
+   - **Skills:** Vue.js, CSS, Swift, Java
+   - **Experience:** Lead Manager at CreativeSolutions
+   - **Education:** Bachelor in Business Administration from Business School
+   - **References:** Sam López, Engineer, jack_miller@example.com
+Leo Kumar, Manager, patrick_taylor@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** henry_yamamoto@example.com, Village, Scienceburg
+   - **Projects:** Developed the Revolutionary Project for Solving User Experience
+

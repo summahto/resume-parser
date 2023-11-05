@@ -1,0 +1,10 @@
+5432. **Name:** David Chen
+   - **Skills:** SQL, Node.js, React, UI/UX Design
+   - **Experience:** Senior Designer at TechInnovate
+   - **Education:** Ph.D. in Engineering from Creative Arts College
+   - **References:** Patrick Cruz, Lead, quinn_kumar@example.com
+Yuki Gupta, Coordinator, jack_chen@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** olivia_davis@example.com, Village, Green Valley
+   - **Projects:** Contributed to the Cutting-edge Project for Optimizing Problem-solving
+

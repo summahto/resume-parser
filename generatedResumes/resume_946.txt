@@ -1,0 +1,10 @@
+946. **Name:** Tina Wang
+   - **Skills:** HTML, Docker, SQL, Git
+   - **Experience:** Senior Developer at CodeCrafters
+   - **Education:** Master in Computer Science from Physics Academy
+   - **References:** Quinn Garcia, Designer, walter_wu@example.com
+Walter Chen, CEO, zane_kumar@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** walter_davis@example.com, Village, Data City
+   - **Projects:** Led the Innovative System for Solving User Experience
+

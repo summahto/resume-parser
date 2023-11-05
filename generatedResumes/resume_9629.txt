@@ -1,0 +1,10 @@
+9629. **Name:** Leo Lee
+   - **Skills:** Node.js, Blockchain, Machine Learning, IoT
+   - **Experience:** Junior Designer at TechInnovate
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** Alice Wang, CEO, jack_lópez@example.com
+Rachel Kim, Coordinator, nathan_rodriguez@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** patrick_garcia@example.com, Village, Techtopia
+   - **Projects:** Led the Revolutionary Platform for Solving Business Processes
+

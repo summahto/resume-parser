@@ -1,0 +1,10 @@
+3789. **Name:** David Nguyen
+   - **Skills:** SQL, Vue.js, Cybersecurity, Agile
+   - **Experience:** Senior Developer at CodeCrafters
+   - **Education:** Ph.D. in Engineering from Business School
+   - **References:** Tina Patel, Manager, jack_yamamoto@example.com
+Patrick Brown, Lead, david_kim@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** ulysses_yamamoto@example.com, Village, Data City
+   - **Projects:** Developed the Cutting-edge Framework for Solving Data Analysis
+

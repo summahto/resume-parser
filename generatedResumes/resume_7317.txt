@@ -1,0 +1,10 @@
+7317. **Name:** Sam Gupta
+   - **Skills:** C#, Cybersecurity, CSS, Data Analysis
+   - **Experience:** Junior Engineer at CreativeMinds
+   - **Education:** Bachelor in Engineering from Tech University
+   - **References:** Katherine Hernandez, CEO, zane_rodriguez@example.com
+Zane Smith, Engineer, walter_gupta@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** david_rodriguez@example.com, City, Innoville
+   - **Projects:** Contributed to the Groundbreaking System for Optimizing Collaboration
+

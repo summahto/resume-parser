@@ -1,0 +1,10 @@
+2506. **Name:** Jack Wang
+   - **Skills:** iOS Development, Project Management, Big Data, React
+   - **Experience:** Senior Analyst at InnovativeTech
+   - **Education:** Bachelor in Art from Creative Arts College
+   - **References:** Henry Wang, CTO, victoria_kumar@example.com
+Walter Silva, Designer, jack_garcia@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** quinn_smith@example.com, Village, Scienceburg
+   - **Projects:** Developed the Groundbreaking System for Optimizing Problem-solving
+

@@ -1,0 +1,10 @@
+2790. **Name:** Quinn Kim
+   - **Skills:** Vue.js, Cybersecurity, Agile, DevOps
+   - **Experience:** Lead Developer at CreativeSolutions
+   - **Education:** Master in Engineering from Business School
+   - **References:** Nathan Lopez, Lead, david_lee@example.com
+Ivy Yamamoto, Developer, patrick_lópez@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** david_kumar@example.com, City, Inno Haven
+   - **Projects:** Led the Cutting-edge App for Streamlining Problem-solving
+

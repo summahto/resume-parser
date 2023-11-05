@@ -1,0 +1,10 @@
+6003. **Name:** Nathan Yamamoto
+   - **Skills:** Swift, JavaScript, Kubernetes, Agile
+   - **Experience:** Junior Manager at CodeCrafters
+   - **Education:** Bachelor in Art from Data Science School
+   - **References:** Alice Lopez, Director, charlie_lee@example.com
+Quinn Rodriguez, Analyst, alice_wang@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** patrick_wang@example.com, Town, Data Haven
+   - **Projects:** Developed the Cutting-edge Platform for Optimizing Data Analysis
+

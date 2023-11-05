@@ -1,0 +1,10 @@
+7814. **Name:** Xena Lopez
+   - **Skills:** Android Development, Network Administration, Big Data, Vue.js
+   - **Experience:** Junior Engineer at TechInnovate
+   - **Education:** Ph.D. in Data Science from Inno Institute
+   - **References:** Ulysses Wang, Manager, charlie_wang@example.com
+Xena Chen, Coordinator, charlie_hernandez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** patrick_silva@example.com, Town, Data Haven
+   - **Projects:** Led the Innovative App for Optimizing Collaboration
+

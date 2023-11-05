@@ -1,0 +1,10 @@
+5946. **Name:** Olivia Jackson
+   - **Skills:** Machine Learning, Cybersecurity, Cloud Computing, React
+   - **Experience:** Junior Developer at DataExperts
+   - **Education:** Ph.D. in Business Administration from Tech University
+   - **References:** Alice Wang, CTO, charlie_rodriguez@example.com
+Alice Kumar, CEO, quinn_gupta@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** olivia_kumar@example.com, City, Artopia
+   - **Projects:** Led the Groundbreaking App for Solving Collaboration
+

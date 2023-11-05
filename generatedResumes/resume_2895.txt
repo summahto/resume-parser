@@ -1,0 +1,10 @@
+2895. **Name:** Eva Garcia
+   - **Skills:** C#, React, UI/UX Design, Cybersecurity
+   - **Experience:** Junior Designer at CreativeMinds
+   - **Education:** Master in Engineering from Physics Academy
+   - **References:** Victoria Jackson, CEO, sam_kim@example.com
+Tina Rodriguez, Manager, zane_johnson@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** zane_jackson@example.com, Village, Scienceburg
+   - **Projects:** Led the Revolutionary Framework for Solving Collaboration
+

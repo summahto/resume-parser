@@ -1,0 +1,10 @@
+5985. **Name:** Charlie White
+   - **Skills:** Docker, IoT, Machine Learning, Data Analysis
+   - **Experience:** Lead Manager at InnoSolutions
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** Zane Taylor, Scientist, ivy_silva@example.com
+Katherine Kim, Developer, grace_rodriguez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** leo_nguyen@example.com, Village, Innovation Meadows
+   - **Projects:** Developed the Revolutionary Project for Streamlining Business Processes
+

@@ -1,0 +1,10 @@
+530. **Name:** Grace White
+   - **Skills:** Graphic Design, Big Data, iOS Development, C#
+   - **Experience:** Lead Scientist at TechInnovate
+   - **Education:** Bachelor in Data Science from Inno Institute
+   - **References:** Nathan Kumar, Designer, frank_smith@example.com
+Henry Jones, CTO, rachel_patel@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** ulysses_lópez@example.com, Village, Data Haven
+   - **Projects:** Developed the Groundbreaking System for Optimizing Collaboration
+

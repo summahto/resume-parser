@@ -1,0 +1,10 @@
+3026. **Name:** Tina Rodriguez
+   - **Skills:** UI/UX Design, Data Analysis, Network Administration, CSS
+   - **Experience:** Junior Designer at DigitalSolutions
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Walter Wu, Manager, bob_nguyen@example.com
+Bob White, Lead, alice_brown@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** bob_davis@example.com, Village, Inno Haven
+   - **Projects:** Led the Innovative Platform for Optimizing Data Analysis
+

@@ -1,0 +1,10 @@
+6244. **Name:** Olivia Gupta
+   - **Skills:** CSS, Graphic Design, Machine Learning, Data Analysis
+   - **Experience:** Senior Developer at DigitalSolutions
+   - **Education:** Ph.D. in Art from Business School
+   - **References:** Tina Rodriguez, CTO, charlie_brown@example.com
+Sam Lopez, Director, quinn_jones@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** olivia_lee@example.com, Village, Techland
+   - **Projects:** Contributed to the Revolutionary App for Optimizing Collaboration
+

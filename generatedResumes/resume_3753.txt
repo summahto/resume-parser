@@ -1,0 +1,10 @@
+3753. **Name:** Xena Patel
+   - **Skills:** Machine Learning, iOS Development, Node.js, Network Administration
+   - **Experience:** Senior Scientist at CodeCrafters
+   - **Education:** Ph.D. in Art from Creative Arts College
+   - **References:** David Taylor, CTO, henry_sato@example.com
+Patrick Wu, Engineer, zane_wu@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** jack_wang@example.com, Town, Data Haven
+   - **Projects:** Led the Groundbreaking Project for Enhancing Data Analysis
+

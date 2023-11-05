@@ -1,0 +1,10 @@
+1958. **Name:** Leo Silva
+   - **Skills:** Project Management, IoT, Graphic Design, DevOps
+   - **Experience:** Senior Developer at CodeCrafters
+   - **Education:** Master in Engineering from Tech University
+   - **References:** Xena Lee, Scientist, leo_cruz@example.com
+Sam Hernandez, Manager, sam_rodriguez@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** yuki_silva@example.com, City, Techtopia
+   - **Projects:** Led the Innovative System for Solving Data Analysis
+

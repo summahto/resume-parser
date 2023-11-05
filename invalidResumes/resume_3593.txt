@@ -1,0 +1,10 @@
+3593. **Name:** Mia Jackson
+   - **Skills:** UI/UX Design, Big Data, DevOps, AR/VR Development
+   - **Experience:** Lead Designer at DataInnovators
+   - **Education:** Bachelor in Physics from Physics Academy
+   - **References:** Mia Nguyen, Lead, nathan_chen@example.com
+Grace White, CTO, quinn_smith@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** david_müller@example.com, City, Data City
+   - **Projects:** Developed the Cutting-edge Platform for Streamlining Problem-solving
+

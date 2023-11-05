@@ -1,0 +1,10 @@
+8423. **Name:** Frank Jones
+   - **Skills:** Python, CSS, JavaScript, AR/VR Development
+   - **Experience:** Senior Scientist at DataExperts
+   - **Education:** Master in Physics from Creative Arts College
+   - **References:** Alice Lee, Manager, olivia_lópez@example.com
+Xena Nguyen, Engineer, eva_jackson@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** katherine_wang@example.com, City, Scienceburg
+   - **Projects:** Developed the Groundbreaking App for Optimizing Data Analysis
+

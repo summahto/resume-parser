@@ -1,0 +1,10 @@
+5257. **Name:** Rachel Gupta
+   - **Skills:** Angular, Big Data, Android Development, Cybersecurity
+   - **Experience:** Senior Designer at DataExperts
+   - **Education:** Master in Engineering from Tech University
+   - **References:** Grace Singh, Manager, david_jackson@example.com
+Leo Garcia, Engineer, frank_rodriguez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** rachel_chen@example.com, Town, Data Haven
+   - **Projects:** Developed the Innovative Platform for Streamlining Business Processes
+

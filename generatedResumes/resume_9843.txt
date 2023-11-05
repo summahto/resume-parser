@@ -1,0 +1,10 @@
+9843. **Name:** Nathan Lopez
+   - **Skills:** Big Data, IoT, Graphic Design, JavaScript
+   - **Experience:** Senior Scientist at DataExperts
+   - **Education:** Master in Data Science from Data Science School
+   - **References:** Henry Wu, Developer, bob_jones@example.com
+Charlie Wang, CTO, zane_taylor@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** bob_nguyen@example.com, City, Inno Haven
+   - **Projects:** Developed the Innovative Project for Enhancing Business Processes
+

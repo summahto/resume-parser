@@ -1,0 +1,10 @@
+3837. **Name:** Walter Singh
+   - **Skills:** Graphic Design, Project Management, UI/UX Design, Docker
+   - **Experience:** Junior Scientist at CodeCrafters
+   - **Education:** Master in Engineering from Inno Institute
+   - **References:** Tina White, Analyst, nathan_smith@example.com
+Quinn Kumar, Director, henry_wu@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** quinn_garcia@example.com, Village, Techland
+   - **Projects:** Contributed to the Innovative Project for Streamlining User Experience
+

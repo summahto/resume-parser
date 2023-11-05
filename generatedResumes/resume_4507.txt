@@ -1,0 +1,10 @@
+4507. **Name:** Leo Cruz
+   - **Skills:** SQL, iOS Development, UI/UX Design, Network Administration
+   - **Experience:** Lead Developer at InnoSolutions
+   - **Education:** Bachelor in Data Science from Data Science School
+   - **References:** Jack Wu, Lead, ivy_kim@example.com
+Mia Garcia, Designer, henry_chen@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** eva_lee@example.com, City, Techland
+   - **Projects:** Led the Innovative System for Solving User Experience
+

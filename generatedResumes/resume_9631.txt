@@ -1,0 +1,10 @@
+9631. **Name:** Victoria Jones
+   - **Skills:** Project Management, iOS Development, Vue.js, CSS
+   - **Experience:** Junior Analyst at CreativeMinds
+   - **Education:** Ph.D. in Engineering from Data Science School
+   - **References:** Eva Lee, Coordinator, rachel_yamamoto@example.com
+Charlie Wu, Scientist, bob_lee@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** katherine_johnson@example.com, City, Techland
+   - **Projects:** Developed the Groundbreaking System for Solving Problem-solving
+

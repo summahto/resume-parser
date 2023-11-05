@@ -1,0 +1,10 @@
+296. **Name:** Leo Kim
+   - **Skills:** Cloud Computing, Python, Agile, DevOps
+   - **Experience:** Lead Analyst at CreativeMinds
+   - **Education:** Bachelor in Data Science from Data Science School
+   - **References:** Sam Lopez, Director, walter_garcia@example.com
+Xena White, CTO, patrick_sato@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** leo_kumar@example.com, Town, Data Haven
+   - **Projects:** Developed the Groundbreaking App for Streamlining Data Analysis
+

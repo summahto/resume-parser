@@ -1,0 +1,10 @@
+760. **Name:** Frank Garcia
+   - **Skills:** Graphic Design, IoT, Big Data, Node.js
+   - **Experience:** Junior Designer at DataExperts
+   - **Education:** Bachelor in Data Science from Creative Arts College
+   - **References:** Olivia Wu, Director, mia_jackson@example.com
+Frank Taylor, Coordinator, walter_patel@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** rachel_wang@example.com, Town, Techtopia
+   - **Projects:** Developed the Cutting-edge Framework for Streamlining Problem-solving
+

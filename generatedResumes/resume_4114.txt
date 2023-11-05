@@ -1,0 +1,10 @@
+4114. **Name:** David Wu
+   - **Skills:** Vue.js, AR/VR Development, Git, Blockchain
+   - **Experience:** Lead Developer at CreativeSolutions
+   - **Education:** Master in Data Science from Inno Institute
+   - **References:** Walter Kim, Coordinator, zane_jackson@example.com
+Xena Rodriguez, Designer, katherine_lopez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** leo_jones@example.com, City, Techland
+   - **Projects:** Developed the Innovative System for Enhancing User Experience
+

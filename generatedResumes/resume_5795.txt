@@ -1,0 +1,10 @@
+5795. **Name:** Sam Brown
+   - **Skills:** Node.js, React, IoT, Machine Learning
+   - **Experience:** Lead Scientist at DigitalSolutions
+   - **Education:** Bachelor in Data Science from Inno Institute
+   - **References:** Bob Williams, Designer, henry_lee@example.com
+Sam Chen, Designer, victoria_johnson@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** charlie_taylor@example.com, Town, Innoville
+   - **Projects:** Contributed to the Innovative App for Enhancing Collaboration
+

@@ -1,0 +1,10 @@
+9521. **Name:** Bob Wang
+   - **Skills:** Agile, React, Machine Learning, Data Analysis
+   - **Experience:** Lead Designer at TechCorp
+   - **Education:** Bachelor in Engineering from Business School
+   - **References:** Ivy Rodriguez, Engineer, yuki_nguyen@example.com
+Leo Gupta, Analyst, victoria_silva@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** frank_silva@example.com, City, Scienceburg
+   - **Projects:** Led the Groundbreaking Project for Optimizing Data Analysis
+

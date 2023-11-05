@@ -1,0 +1,10 @@
+9972. **Name:** Sam López
+   - **Skills:** UI/UX Design, SQL, React, Cybersecurity
+   - **Experience:** Lead Scientist at InnoSolutions
+   - **Education:** Ph.D. in Physics from Data Science School
+   - **References:** Yuki Cruz, Director, bob_wang@example.com
+Ivy Nguyen, Analyst, nathan_kim@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** xena_kim@example.com, Town, Inno Haven
+   - **Projects:** Led the Cutting-edge Project for Streamlining Collaboration
+

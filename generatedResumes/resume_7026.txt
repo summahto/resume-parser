@@ -1,0 +1,10 @@
+7026. **Name:** Nathan Gupta
+   - **Skills:** C#, Git, HTML, Kubernetes
+   - **Experience:** Lead Analyst at InnovativeTech
+   - **Education:** Bachelor in Physics from Inno Institute
+   - **References:** Mia Garcia, Analyst, alice_garcia@example.com
+Mia Kim, CTO, bob_patel@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** zane_suzuki@example.com, Village, Data City
+   - **Projects:** Developed the Innovative Framework for Streamlining Data Analysis
+

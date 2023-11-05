@@ -1,0 +1,10 @@
+7753. **Name:** Bob Nguyen
+   - **Skills:** DevOps, React, Project Management, Agile
+   - **Experience:** Senior Scientist at CodeCrafters
+   - **Education:** Bachelor in Business Administration from Tech University
+   - **References:** Zane Garcia, Manager, jack_smith@example.com
+Patrick Jackson, Developer, yuki_cruz@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** xena_nguyen@example.com, Town, Techtopia
+   - **Projects:** Developed the Groundbreaking Project for Streamlining Collaboration
+

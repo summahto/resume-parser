@@ -1,0 +1,10 @@
+4211. **Name:** Charlie Nguyen
+   - **Skills:** React, Big Data, Data Analysis, DevOps
+   - **Experience:** Lead Designer at InnovativeTech
+   - **Education:** Bachelor in Computer Science from Tech University
+   - **References:** Ivy Cruz, Designer, quinn_li@example.com
+Mia Rodriguez, Lead, david_jones@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** quinn_kumar@example.com, Town, Techland
+   - **Projects:** Led the Innovative Platform for Enhancing Data Analysis
+

@@ -1,0 +1,10 @@
+471. **Name:** Eva Singh
+   - **Skills:** Android Development, Graphic Design, iOS Development, Java
+   - **Experience:** Junior Scientist at InnoSolutions
+   - **Education:** Ph.D. in Business Administration from Data Science School
+   - **References:** Jack Jones, CEO, alice_yamamoto@example.com
+Bob Lee, Director, quinn_lee@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** alice_rodriguez@example.com, Village, Artopia
+   - **Projects:** Contributed to the Cutting-edge App for Optimizing Problem-solving
+

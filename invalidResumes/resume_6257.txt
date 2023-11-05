@@ -1,0 +1,10 @@
+6257. **Name:** Ulysses Kumar
+   - **Skills:** Python, SQL, UI/UX Design, Node.js
+   - **Experience:** Junior Analyst at DataInnovators
+   - **Education:** Ph.D. in Art from Data Science School
+   - **References:** Frank Taylor, CTO, nathan_smith@example.com
+Jack López, Scientist, frank_smith@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** nathan_brown@example.com, Village, Green Valley
+   - **Projects:** Developed the Innovative System for Optimizing Collaboration
+

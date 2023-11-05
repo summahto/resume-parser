@@ -1,0 +1,10 @@
+1341. **Name:** Alice Jones
+   - **Skills:** C#, iOS Development, Network Administration, AR/VR Development
+   - **Experience:** Lead Designer at CodeCrafters
+   - **Education:** Master in Computer Science from Inno Institute
+   - **References:** Victoria White, Developer, eva_kumar@example.com
+Jack Lopez, Coordinator, charlie_silva@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** charlie_silva@example.com, Town, Inno Haven
+   - **Projects:** Developed the Innovative Framework for Solving Collaboration
+

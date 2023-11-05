@@ -1,0 +1,10 @@
+1074. **Name:** Eva Kim
+   - **Skills:** UI/UX Design, IoT, Python, Cloud Computing
+   - **Experience:** Senior Scientist at DigitalSolutions
+   - **Education:** Ph.D. in Engineering from Creative Arts College
+   - **References:** Henry Jackson, Engineer, yuki_gupta@example.com
+Ivy Lee, Designer, grace_lopez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** henry_müller@example.com, Village, Data City
+   - **Projects:** Led the Cutting-edge Framework for Enhancing Business Processes
+

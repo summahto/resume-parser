@@ -1,0 +1,10 @@
+1049. **Name:** Leo Kumar
+   - **Skills:** CSS, Big Data, Git, Blockchain
+   - **Experience:** Lead Scientist at DataExperts
+   - **Education:** Ph.D. in Data Science from Business School
+   - **References:** Tina Cruz, Engineer, xena_singh@example.com
+Zane Silva, Scientist, eva_lee@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** ivy_cruz@example.com, Town, Green Valley
+   - **Projects:** Contributed to the Innovative System for Solving User Experience
+

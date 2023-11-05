@@ -1,0 +1,10 @@
+9820. **Name:** Patrick Silva
+   - **Skills:** UI/UX Design, Agile, HTML, IoT
+   - **Experience:** Senior Manager at DigitalSolutions
+   - **Education:** Ph.D. in Data Science from Physics Academy
+   - **References:** Alice Garcia, Manager, rachel_cruz@example.com
+Tina Silva, Designer, katherine_lópez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** eva_patel@example.com, Town, Data Haven
+   - **Projects:** Developed the Groundbreaking Platform for Solving User Experience
+

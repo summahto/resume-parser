@@ -1,0 +1,10 @@
+9069. **Name:** Leo Smith
+   - **Skills:** Angular, JavaScript, Git, CSS
+   - **Experience:** Junior Manager at TechCorp
+   - **Education:** Bachelor in Physics from Inno Institute
+   - **References:** Frank Patel, Developer, tina_suzuki@example.com
+Mia Smith, Manager, yuki_gupta@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** bob_cruz@example.com, City, Green Valley
+   - **Projects:** Led the Groundbreaking Project for Solving Problem-solving
+

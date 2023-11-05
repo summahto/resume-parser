@@ -1,0 +1,10 @@
+1355. **Name:** Ivy Wu
+   - **Skills:** Android Development, React, CSS, SQL
+   - **Experience:** Lead Analyst at DataExperts
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Xena Taylor, Engineer, rachel_jones@example.com
+Bob Cruz, Scientist, nathan_gupta@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** alice_gupta@example.com, Town, Techland
+   - **Projects:** Developed the Revolutionary Framework for Enhancing Business Processes
+

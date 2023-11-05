@@ -1,0 +1,10 @@
+7088. **Name:** Yuki Gupta
+   - **Skills:** Machine Learning, Angular, Node.js, HTML
+   - **Experience:** Senior Engineer at CreativeMinds
+   - **Education:** Bachelor in Engineering from Creative Arts College
+   - **References:** Jack Davis, Manager, grace_miller@example.com
+Leo White, Engineer, leo_white@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** sam_lopez@example.com, Village, Techtopia
+   - **Projects:** Contributed to the Cutting-edge Project for Solving Business Processes
+

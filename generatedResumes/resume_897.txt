@@ -1,0 +1,10 @@
+897. **Name:** David White
+   - **Skills:** Machine Learning, JavaScript, C#, Android Development
+   - **Experience:** Lead Analyst at TechInnovate
+   - **Education:** Ph.D. in Art from Inno Institute
+   - **References:** Henry Chen, Engineer, xena_wu@example.com
+Nathan Cruz, Developer, tina_suzuki@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** ivy_white@example.com, Town, Innoville
+   - **Projects:** Contributed to the Cutting-edge System for Streamlining User Experience
+

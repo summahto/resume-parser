@@ -1,0 +1,10 @@
+8293. **Name:** Walter Kim
+   - **Skills:** React, UI/UX Design, iOS Development, DevOps
+   - **Experience:** Senior Scientist at DataExperts
+   - **Education:** Master in Business Administration from Creative Arts College
+   - **References:** Alice Lopez, Director, leo_white@example.com
+Mia Kim, Director, katherine_kumar@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** sam_chen@example.com, Village, Scienceburg
+   - **Projects:** Led the Groundbreaking Project for Solving Business Processes
+

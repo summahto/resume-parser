@@ -1,0 +1,10 @@
+8120. **Name:** Tina Gupta
+   - **Skills:** iOS Development, JavaScript, Data Analysis, Angular
+   - **Experience:** Lead Developer at CodeCrafters
+   - **Education:** Ph.D. in Physics from Physics Academy
+   - **References:** Ulysses Lee, Lead, patrick_garcia@example.com
+Katherine Wu, CEO, david_gupta@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** zane_silva@example.com, Town, Artopia
+   - **Projects:** Led the Innovative Platform for Optimizing Collaboration
+

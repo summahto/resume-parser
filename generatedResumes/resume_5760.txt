@@ -1,0 +1,10 @@
+5760. **Name:** Rachel Gupta
+   - **Skills:** DevOps, CSS, Network Administration, React
+   - **Experience:** Junior Engineer at TechCorp
+   - **Education:** Bachelor in Engineering from Inno Institute
+   - **References:** Walter Lee, Developer, tina_gupta@example.com
+Rachel Garcia, Lead, quinn_garcia@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** sam_rodriguez@example.com, Town, Innoville
+   - **Projects:** Led the Groundbreaking Framework for Streamlining Collaboration
+

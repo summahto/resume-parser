@@ -1,0 +1,10 @@
+8715. **Name:** Olivia Miller
+   - **Skills:** Network Administration, UI/UX Design, Android Development, Kubernetes
+   - **Experience:** Junior Analyst at DataExperts
+   - **Education:** Master in Business Administration from Creative Arts College
+   - **References:** Ulysses Wu, Developer, jack_patel@example.com
+Leo Miller, CEO, charlie_hernandez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** olivia_white@example.com, Village, Scienceburg
+   - **Projects:** Led the Revolutionary App for Solving Problem-solving
+

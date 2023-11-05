@@ -1,0 +1,10 @@
+8620. **Name:** Sam Kumar
+   - **Skills:** JavaScript, SQL, AR/VR Development, IoT
+   - **Experience:** Senior Designer at CodeCrafters
+   - **Education:** Ph.D. in Business Administration from Inno Institute
+   - **References:** Victoria Johnson, Lead, nathan_yamamoto@example.com
+Charlie Gupta, Coordinator, jack_miller@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** olivia_rodriguez@example.com, City, Techland
+   - **Projects:** Developed the Groundbreaking App for Enhancing User Experience
+

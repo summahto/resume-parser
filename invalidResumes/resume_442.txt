@@ -1,0 +1,10 @@
+442. **Name:** Nathan Wu
+   - **Skills:** Docker, Data Analysis, SQL, CSS
+   - **Experience:** Senior Analyst at TechInnovate
+   - **Education:** Master in Engineering from Tech University
+   - **References:** Ulysses Müller, Director, bob_gupta@example.com
+Rachel Wu, Director, rachel_kim@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** quinn_johnson@example.com, Village, Innoville
+   - **Projects:** Developed the Groundbreaking App for Enhancing User Experience
+

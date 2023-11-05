@@ -1,0 +1,10 @@
+3433. **Name:** Xena Lee
+   - **Skills:** Kubernetes, Angular, HTML, Android Development
+   - **Experience:** Lead Designer at DataInnovators
+   - **Education:** Master in Data Science from Creative Arts College
+   - **References:** Xena Chen, Designer, zane_miller@example.com
+David Kumar, Engineer, patrick_gupta@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** walter_lopez@example.com, Village, Green Valley
+   - **Projects:** Developed the Innovative System for Enhancing Problem-solving
+

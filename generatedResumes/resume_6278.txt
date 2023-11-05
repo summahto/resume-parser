@@ -1,0 +1,10 @@
+6278. **Name:** Ulysses Gupta
+   - **Skills:** Cybersecurity, IoT, Cloud Computing, Angular
+   - **Experience:** Senior Designer at InnoSolutions
+   - **Education:** Ph.D. in Physics from Inno Institute
+   - **References:** Charlie Miller, Developer, zane_gonzalez@example.com
+David Garcia, Manager, sam_lee@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** yuki_lee@example.com, Town, Techland
+   - **Projects:** Developed the Innovative Project for Optimizing Problem-solving
+

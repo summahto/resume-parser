@@ -1,0 +1,10 @@
+3434. **Name:** Mia Wang
+   - **Skills:** Git, Agile, Big Data, Docker
+   - **Experience:** Senior Manager at DataInnovators
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** Charlie Silva, Analyst, alice_wu@example.com
+Nathan Rodriguez, Lead, alice_smith@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** ivy_suzuki@example.com, City, Data Haven
+   - **Projects:** Contributed to the Revolutionary System for Streamlining Business Processes
+

@@ -1,0 +1,10 @@
+8740. **Name:** Rachel White
+   - **Skills:** Docker, AR/VR Development, Python, Node.js
+   - **Experience:** Lead Developer at DataInnovators
+   - **Education:** Bachelor in Data Science from Creative Arts College
+   - **References:** Eva Chen, Coordinator, grace_miller@example.com
+Ulysses Silva, Analyst, quinn_patel@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** rachel_smith@example.com, Town, Inno Haven
+   - **Projects:** Developed the Revolutionary App for Enhancing Data Analysis
+

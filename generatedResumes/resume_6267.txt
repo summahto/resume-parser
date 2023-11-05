@@ -1,0 +1,10 @@
+6267. **Name:** Alice Rodriguez
+   - **Skills:** iOS Development, Git, Swift, UI/UX Design
+   - **Experience:** Junior Manager at DataExperts
+   - **Education:** Ph.D. in Business Administration from Data Science School
+   - **References:** Mia Miller, Manager, grace_nguyen@example.com
+Grace Smith, CEO, david_white@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** ivy_smith@example.com, Town, Inno Haven
+   - **Projects:** Led the Cutting-edge Framework for Solving Problem-solving
+

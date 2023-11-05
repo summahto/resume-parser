@@ -1,0 +1,10 @@
+6473. **Name:** Quinn Cruz
+   - **Skills:** AR/VR Development, Angular, Cloud Computing, C#
+   - **Experience:** Senior Analyst at DataExperts
+   - **Education:** Ph.D. in Business Administration from Inno Institute
+   - **References:** Xena Lee, Director, rachel_garcia@example.com
+Nathan Kumar, Designer, bob_jones@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** walter_kumar@example.com, Village, Scienceburg
+   - **Projects:** Developed the Revolutionary App for Optimizing Problem-solving
+

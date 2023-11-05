@@ -1,0 +1,10 @@
+230. **Name:** Leo Silva
+   - **Skills:** Docker, Node.js, Blockchain, CSS
+   - **Experience:** Junior Manager at DataExperts
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Tina Lee, Scientist, walter_taylor@example.com
+Walter Gupta, Scientist, bob_taylor@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** katherine_cruz@example.com, City, Techland
+   - **Projects:** Led the Cutting-edge Project for Solving Data Analysis
+

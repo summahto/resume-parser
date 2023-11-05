@@ -1,0 +1,10 @@
+5533. **Name:** Charlie Silva
+   - **Skills:** Vue.js, IoT, C#, Data Analysis
+   - **Experience:** Lead Manager at CodeCrafters
+   - **Education:** Master in Art from Inno Institute
+   - **References:** Quinn Rodriguez, CTO, yuki_lee@example.com
+Yuki López, Director, patrick_rodriguez@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** mia_brown@example.com, Town, Artopia
+   - **Projects:** Led the Groundbreaking Project for Solving User Experience
+

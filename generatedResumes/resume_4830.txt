@@ -1,0 +1,10 @@
+4830. **Name:** Katherine Nguyen
+   - **Skills:** SQL, HTML, Big Data, Vue.js
+   - **Experience:** Senior Engineer at DataExperts
+   - **Education:** Bachelor in Art from Inno Institute
+   - **References:** Ulysses Kumar, Scientist, rachel_jackson@example.com
+Walter Jackson, Developer, xena_silva@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** tina_kim@example.com, Village, Scienceburg
+   - **Projects:** Developed the Groundbreaking Project for Solving Collaboration
+

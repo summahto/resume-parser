@@ -1,0 +1,10 @@
+1965. **Name:** David Gupta
+   - **Skills:** Agile, Git, Java, Blockchain
+   - **Experience:** Lead Engineer at DataExperts
+   - **Education:** Bachelor in Engineering from Tech University
+   - **References:** Mia Lee, Manager, rachel_patel@example.com
+Walter Jackson, Coordinator, yuki_davis@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** yuki_wang@example.com, Town, Scienceburg
+   - **Projects:** Led the Innovative System for Optimizing Collaboration
+

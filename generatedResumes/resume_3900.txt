@@ -1,0 +1,10 @@
+3900. **Name:** Tina Jackson
+   - **Skills:** Agile, Kubernetes, HTML, Java
+   - **Experience:** Lead Designer at DataInnovators
+   - **Education:** Master in Art from Data Science School
+   - **References:** Olivia Gupta, Developer, xena_silva@example.com
+Katherine Garcia, Coordinator, mia_davis@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** xena_white@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Groundbreaking App for Enhancing Data Analysis
+

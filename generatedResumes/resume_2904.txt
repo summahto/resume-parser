@@ -1,0 +1,10 @@
+2904. **Name:** Tina Patel
+   - **Skills:** Git, UI/UX Design, IoT, Blockchain
+   - **Experience:** Senior Manager at DataInnovators
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Jack Kumar, Developer, grace_lopez@example.com
+Ulysses Chen, CTO, zane_lee@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** charlie_chen@example.com, Town, Data City
+   - **Projects:** Led the Revolutionary Project for Streamlining Problem-solving
+

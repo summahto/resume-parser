@@ -1,0 +1,10 @@
+8058. **Name:** Charlie Kumar
+   - **Skills:** AR/VR Development, Git, JavaScript, Agile
+   - **Experience:** Lead Developer at InnoSolutions
+   - **Education:** Ph.D. in Art from Creative Arts College
+   - **References:** Alice Gupta, Engineer, eva_patel@example.com
+Quinn López, Analyst, quinn_white@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** charlie_kim@example.com, Town, Inno Haven
+   - **Projects:** Developed the Cutting-edge App for Solving Business Processes
+

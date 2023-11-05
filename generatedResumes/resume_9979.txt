@@ -1,0 +1,10 @@
+9979. **Name:** Ivy Garcia
+   - **Skills:** Node.js, SQL, UI/UX Design, DevOps
+   - **Experience:** Lead Developer at TechCorp
+   - **Education:** Ph.D. in Data Science from Physics Academy
+   - **References:** Patrick Garcia, Manager, ivy_nguyen@example.com
+Frank Kumar, Developer, sam_nguyen@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** nathan_jones@example.com, Town, Artopia
+   - **Projects:** Contributed to the Cutting-edge Framework for Solving Data Analysis
+

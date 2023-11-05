@@ -1,0 +1,10 @@
+9942. **Name:** Charlie Kumar
+   - **Skills:** AR/VR Development, Docker, Vue.js, Python
+   - **Experience:** Junior Designer at InnovativeTech
+   - **Education:** Master in Engineering from Physics Academy
+   - **References:** Patrick Lopez, Manager, leo_garcia@example.com
+Mia Suzuki, CEO, bob_silva@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** frank_brown@example.com, City, Techland
+   - **Projects:** Developed the Cutting-edge Platform for Streamlining Business Processes
+

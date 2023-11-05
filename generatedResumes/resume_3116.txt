@@ -1,0 +1,10 @@
+3116. **Name:** Charlie Smith
+   - **Skills:** iOS Development, Project Management, Cloud Computing, DevOps
+   - **Experience:** Junior Analyst at CodeCrafters
+   - **Education:** Master in Engineering from Physics Academy
+   - **References:** Grace Smith, Analyst, yuki_taylor@example.com
+Quinn White, Developer, leo_lopez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** eva_nguyen@example.com, Town, Techtopia
+   - **Projects:** Contributed to the Cutting-edge System for Enhancing Problem-solving
+

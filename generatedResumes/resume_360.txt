@@ -1,0 +1,10 @@
+360. **Name:** Leo Davis
+   - **Skills:** AR/VR Development, Big Data, Docker, Git
+   - **Experience:** Junior Manager at DigitalSolutions
+   - **Education:** Ph.D. in Physics from Tech University
+   - **References:** Quinn Silva, Developer, grace_smith@example.com
+Patrick Kumar, Director, eva_kim@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** yuki_gonzalez@example.com, Town, Techtopia
+   - **Projects:** Contributed to the Innovative System for Streamlining Problem-solving
+

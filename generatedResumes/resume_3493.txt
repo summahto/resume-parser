@@ -1,0 +1,10 @@
+3493. **Name:** Leo Smith
+   - **Skills:** Machine Learning, iOS Development, Python, React
+   - **Experience:** Lead Designer at DataExperts
+   - **Education:** Master in Engineering from Data Science School
+   - **References:** Sam Kumar, Manager, jack_patel@example.com
+Nathan Brown, Developer, bob_hernandez@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** katherine_silva@example.com, Village, Artopia
+   - **Projects:** Contributed to the Cutting-edge Platform for Solving Data Analysis
+

@@ -1,0 +1,10 @@
+750. **Name:** Xena Rodriguez
+   - **Skills:** Git, Python, Vue.js, DevOps
+   - **Experience:** Senior Analyst at InnoSolutions
+   - **Education:** Bachelor in Engineering from Business School
+   - **References:** Victoria Miller, Scientist, sam_lópez@example.com
+Zane Sato, CTO, sam_nguyen@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** olivia_li@example.com, City, Techland
+   - **Projects:** Contributed to the Revolutionary Project for Streamlining User Experience
+

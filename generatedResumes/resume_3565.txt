@@ -1,0 +1,10 @@
+3565. **Name:** Mia Garcia
+   - **Skills:** Node.js, JavaScript, IoT, Blockchain
+   - **Experience:** Senior Manager at CreativeSolutions
+   - **Education:** Master in Data Science from Tech University
+   - **References:** David Garcia, Scientist, victoria_chen@example.com
+Walter Jackson, Analyst, mia_wang@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** katherine_lee@example.com, City, Techland
+   - **Projects:** Led the Revolutionary Project for Enhancing Business Processes
+

@@ -1,0 +1,10 @@
+4967. **Name:** Katherine Wang
+   - **Skills:** DevOps, Git, SQL, CSS
+   - **Experience:** Lead Designer at TechCorp
+   - **Education:** Master in Computer Science from Business School
+   - **References:** Grace Nguyen, Scientist, henry_taylor@example.com
+Tina Taylor, Engineer, quinn_lópez@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** david_chen@example.com, Town, Techtopia
+   - **Projects:** Led the Cutting-edge App for Solving Business Processes
+

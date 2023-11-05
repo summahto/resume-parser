@@ -1,0 +1,10 @@
+5733. **Name:** Tina Kumar
+   - **Skills:** Python, React, Agile, IoT
+   - **Experience:** Senior Engineer at CodeCrafters
+   - **Education:** Ph.D. in Physics from Inno Institute
+   - **References:** Zane Jackson, Coordinator, rachel_brown@example.com
+Frank Sato, Scientist, quinn_cruz@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** leo_lópez@example.com, Village, Artopia
+   - **Projects:** Led the Groundbreaking App for Enhancing User Experience
+

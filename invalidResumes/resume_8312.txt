@@ -1,0 +1,10 @@
+8312. **Name:** David Wu
+   - **Skills:** iOS Development, Big Data, SQL, C#
+   - **Experience:** Senior Developer at CreativeMinds
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Tina Brown, CEO, ivy_wu@example.com
+Nathan Sato, CEO, yuki_smith@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** grace_müller@example.com, Town, Techland
+   - **Projects:** Developed the Innovative System for Streamlining User Experience
+

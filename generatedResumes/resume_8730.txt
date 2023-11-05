@@ -1,0 +1,10 @@
+8730. **Name:** Charlie Chen
+   - **Skills:** Android Development, Big Data, CSS, Agile
+   - **Experience:** Senior Scientist at TechCorp
+   - **Education:** Bachelor in Art from Business School
+   - **References:** Sam Cruz, Coordinator, nathan_white@example.com
+Bob Lopez, Coordinator, alice_gupta@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** bob_kumar@example.com, City, Data Haven
+   - **Projects:** Developed the Cutting-edge System for Enhancing Problem-solving
+

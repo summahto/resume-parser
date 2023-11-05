@@ -1,0 +1,10 @@
+6654. **Name:** Quinn Gupta
+   - **Skills:** React, Agile, Swift, Big Data
+   - **Experience:** Lead Manager at DataExperts
+   - **Education:** Ph.D. in Data Science from Physics Academy
+   - **References:** Mia Wang, Scientist, katherine_cruz@example.com
+Rachel Miller, Designer, alice_chen@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** victoria_lee@example.com, Village, Data Haven
+   - **Projects:** Contributed to the Innovative Project for Enhancing Collaboration
+

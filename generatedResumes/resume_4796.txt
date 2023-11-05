@@ -1,0 +1,10 @@
+4796. **Name:** Nathan Lopez
+   - **Skills:** Project Management, Docker, JavaScript, SQL
+   - **Experience:** Senior Designer at InnovativeTech
+   - **Education:** Bachelor in Engineering from Creative Arts College
+   - **References:** Katherine Gupta, Developer, patrick_jones@example.com
+Olivia Silva, Designer, yuki_yamamoto@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** tina_patel@example.com, Village, Inno Haven
+   - **Projects:** Developed the Groundbreaking Framework for Streamlining Data Analysis
+

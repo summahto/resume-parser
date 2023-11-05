@@ -1,0 +1,10 @@
+7116. **Name:** Katherine Li
+   - **Skills:** DevOps, Docker, Machine Learning, Git
+   - **Experience:** Senior Developer at DataInnovators
+   - **Education:** Master in Business Administration from Business School
+   - **References:** Walter Nguyen, Engineer, eva_gupta@example.com
+Frank Gupta, CTO, bob_nguyen@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** sam_jackson@example.com, City, Techland
+   - **Projects:** Contributed to the Groundbreaking Platform for Optimizing User Experience
+

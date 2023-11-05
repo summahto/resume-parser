@@ -1,0 +1,10 @@
+5116. **Name:** Jack Kumar
+   - **Skills:** Graphic Design, iOS Development, DevOps, Kubernetes
+   - **Experience:** Senior Manager at CodeCrafters
+   - **Education:** Ph.D. in Business Administration from Inno Institute
+   - **References:** Victoria Jones, Coordinator, jack_garcia@example.com
+Jack Brown, CEO, katherine_jones@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** olivia_patel@example.com, Village, Artopia
+   - **Projects:** Contributed to the Cutting-edge Platform for Solving Business Processes
+

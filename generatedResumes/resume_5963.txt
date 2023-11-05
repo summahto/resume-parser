@@ -1,0 +1,10 @@
+5963. **Name:** Jack Silva
+   - **Skills:** iOS Development, Node.js, Blockchain, IoT
+   - **Experience:** Junior Developer at CodeCrafters
+   - **Education:** Ph.D. in Data Science from Data Science School
+   - **References:** Mia Li, Engineer, grace_chen@example.com
+Zane Williams, Analyst, grace_wang@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** tina_nguyen@example.com, Village, Data Haven
+   - **Projects:** Contributed to the Revolutionary Framework for Solving User Experience
+

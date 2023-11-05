@@ -1,0 +1,10 @@
+4896. **Name:** Jack Wang
+   - **Skills:** Vue.js, Agile, UI/UX Design, Blockchain
+   - **Experience:** Lead Analyst at CreativeSolutions
+   - **Education:** Ph.D. in Art from Data Science School
+   - **References:** Grace Wang, Lead, eva_lópez@example.com
+Olivia Sato, Lead, henry_gonzalez@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** ulysses_chen@example.com, Village, Inno Haven
+   - **Projects:** Contributed to the Revolutionary Platform for Streamlining User Experience
+

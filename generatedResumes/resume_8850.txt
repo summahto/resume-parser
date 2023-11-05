@@ -1,0 +1,10 @@
+8850. **Name:** Frank Nguyen
+   - **Skills:** Big Data, iOS Development, Android Development, C#
+   - **Experience:** Lead Designer at CreativeMinds
+   - **Education:** Master in Physics from Inno Institute
+   - **References:** Leo Sato, CEO, ulysses_li@example.com
+Bob Chen, Engineer, david_smith@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** jack_taylor@example.com, Village, Data Haven
+   - **Projects:** Led the Groundbreaking Framework for Streamlining User Experience
+

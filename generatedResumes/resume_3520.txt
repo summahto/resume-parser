@@ -1,0 +1,10 @@
+3520. **Name:** Frank Kumar
+   - **Skills:** CSS, Node.js, AR/VR Development, Network Administration
+   - **Experience:** Senior Manager at TechCorp
+   - **Education:** Bachelor in Business Administration from Physics Academy
+   - **References:** Xena Kumar, Engineer, charlie_white@example.com
+Sam Lee, Analyst, xena_wu@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** leo_smith@example.com, City, Data City
+   - **Projects:** Developed the Revolutionary System for Enhancing Collaboration
+

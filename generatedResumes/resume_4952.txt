@@ -1,0 +1,10 @@
+4952. **Name:** Frank Jones
+   - **Skills:** Android Development, UI/UX Design, Java, Machine Learning
+   - **Experience:** Lead Developer at InnovativeTech
+   - **Education:** Bachelor in Business Administration from Inno Institute
+   - **References:** Jack Nguyen, Director, mia_kumar@example.com
+Yuki Chen, Analyst, olivia_brown@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** katherine_cruz@example.com, City, Green Valley
+   - **Projects:** Developed the Groundbreaking Platform for Enhancing Data Analysis
+

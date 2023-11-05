@@ -1,0 +1,10 @@
+7778. **Name:** Victoria Garcia
+   - **Skills:** Cloud Computing, React, Python, Android Development
+   - **Experience:** Senior Designer at InnovativeTech
+   - **Education:** Bachelor in Art from Physics Academy
+   - **References:** David Miller, Designer, quinn_miller@example.com
+Sam White, Scientist, xena_miller@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** david_cruz@example.com, City, Data City
+   - **Projects:** Developed the Groundbreaking Platform for Enhancing Collaboration
+

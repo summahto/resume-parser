@@ -1,0 +1,10 @@
+4532. **Name:** Alice Gupta
+   - **Skills:** UI/UX Design, Network Administration, iOS Development, IoT
+   - **Experience:** Senior Designer at DataExperts
+   - **Education:** Master in Engineering from Physics Academy
+   - **References:** Ulysses Patel, CTO, tina_jackson@example.com
+Patrick Brown, Director, henry_li@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** sam_kumar@example.com, Town, Scienceburg
+   - **Projects:** Led the Revolutionary Framework for Enhancing User Experience
+

@@ -1,0 +1,10 @@
+2809. **Name:** Charlie Lee
+   - **Skills:** Machine Learning, Cloud Computing, Angular, IoT
+   - **Experience:** Senior Manager at InnovativeTech
+   - **Education:** Bachelor in Data Science from Data Science School
+   - **References:** Frank Chen, CEO, leo_white@example.com
+Jack Singh, Manager, yuki_silva@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** ivy_cruz@example.com, Village, Green Valley
+   - **Projects:** Contributed to the Revolutionary Project for Solving Collaboration
+

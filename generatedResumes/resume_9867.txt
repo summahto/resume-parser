@@ -1,0 +1,10 @@
+9867. **Name:** Ivy Cruz
+   - **Skills:** Kubernetes, C#, DevOps, Cloud Computing
+   - **Experience:** Junior Manager at CreativeMinds
+   - **Education:** Bachelor in Business Administration from Inno Institute
+   - **References:** Olivia Smith, Lead, walter_smith@example.com
+Nathan Taylor, Developer, yuki_chen@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** xena_miller@example.com, City, Innoville
+   - **Projects:** Led the Revolutionary App for Solving Business Processes
+

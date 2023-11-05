@@ -1,0 +1,10 @@
+7770. **Name:** David Li
+   - **Skills:** Java, React, HTML, SQL
+   - **Experience:** Senior Scientist at InnovativeTech
+   - **Education:** Master in Computer Science from Creative Arts College
+   - **References:** Charlie Williams, Scientist, quinn_white@example.com
+Henry Jones, CEO, ulysses_brown@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** patrick_garcia@example.com, Town, Green Valley
+   - **Projects:** Led the Groundbreaking App for Optimizing User Experience
+

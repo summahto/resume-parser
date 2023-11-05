@@ -1,0 +1,10 @@
+1205. **Name:** Ivy Williams
+   - **Skills:** Cloud Computing, Docker, Big Data, C#
+   - **Experience:** Junior Analyst at CreativeMinds
+   - **Education:** Master in Physics from Inno Institute
+   - **References:** Alice Silva, Developer, zane_chen@example.com
+Sam Kumar, Manager, bob_wu@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** ulysses_jackson@example.com, Village, Inno Haven
+   - **Projects:** Developed the Cutting-edge System for Optimizing Data Analysis
+

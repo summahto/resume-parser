@@ -1,0 +1,10 @@
+6666. **Name:** Zane Rodriguez
+   - **Skills:** SQL, JavaScript, CSS, Java
+   - **Experience:** Senior Developer at DataInnovators
+   - **Education:** Master in Business Administration from Physics Academy
+   - **References:** Frank Kim, Manager, charlie_smith@example.com
+Frank Wu, Director, jack_cruz@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** katherine_kumar@example.com, Village, Techland
+   - **Projects:** Led the Cutting-edge App for Optimizing Data Analysis
+

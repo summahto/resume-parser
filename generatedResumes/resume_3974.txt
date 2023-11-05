@@ -1,0 +1,10 @@
+3974. **Name:** Patrick Wang
+   - **Skills:** Big Data, Blockchain, Kubernetes, Node.js
+   - **Experience:** Senior Designer at DataInnovators
+   - **Education:** Master in Computer Science from Physics Academy
+   - **References:** Katherine Wang, Director, alice_gupta@example.com
+Eva Garcia, CTO, charlie_nguyen@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** charlie_chen@example.com, Town, Data City
+   - **Projects:** Developed the Cutting-edge Platform for Solving Data Analysis
+

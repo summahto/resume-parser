@@ -1,0 +1,10 @@
+4513. **Name:** Ulysses Kumar
+   - **Skills:** Project Management, SQL, Docker, Node.js
+   - **Experience:** Senior Designer at CodeCrafters
+   - **Education:** Master in Engineering from Data Science School
+   - **References:** Leo Chen, Lead, charlie_brown@example.com
+Alice Rodriguez, Coordinator, david_müller@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** bob_lee@example.com, Town, Inno Haven
+   - **Projects:** Led the Groundbreaking Platform for Streamlining Business Processes
+

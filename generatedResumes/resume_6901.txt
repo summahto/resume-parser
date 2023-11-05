@@ -1,0 +1,10 @@
+6901. **Name:** Mia Lopez
+   - **Skills:** JavaScript, SQL, iOS Development, Cybersecurity
+   - **Experience:** Senior Engineer at DataExperts
+   - **Education:** Master in Computer Science from Inno Institute
+   - **References:** Quinn Hernandez, Lead, charlie_sato@example.com
+Zane Suzuki, CTO, zane_kumar@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** tina_kumar@example.com, Village, Data Haven
+   - **Projects:** Contributed to the Groundbreaking Project for Optimizing Collaboration
+

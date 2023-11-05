@@ -1,0 +1,10 @@
+4176. **Name:** Tina Rodriguez
+   - **Skills:** Agile, Cybersecurity, Project Management, Swift
+   - **Experience:** Junior Manager at DataExperts
+   - **Education:** Ph.D. in Engineering from Tech University
+   - **References:** Nathan Lopez, Engineer, tina_yamamoto@example.com
+Leo Johnson, Director, henry_gupta@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** patrick_müller@example.com, City, Inno Haven
+   - **Projects:** Led the Innovative Platform for Streamlining User Experience
+

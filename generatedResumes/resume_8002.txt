@@ -1,0 +1,10 @@
+8002. **Name:** Leo Chen
+   - **Skills:** UI/UX Design, Python, AR/VR Development, SQL
+   - **Experience:** Lead Designer at CreativeSolutions
+   - **Education:** Master in Physics from Data Science School
+   - **References:** Nathan Sato, Director, eva_cruz@example.com
+Olivia Gupta, CTO, bob_miller@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** yuki_yamamoto@example.com, City, Inno Haven
+   - **Projects:** Led the Innovative Platform for Optimizing Problem-solving
+

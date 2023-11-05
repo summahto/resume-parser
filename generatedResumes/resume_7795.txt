@@ -1,0 +1,10 @@
+7795. **Name:** Mia Gupta
+   - **Skills:** Docker, SQL, Kubernetes, Network Administration
+   - **Experience:** Senior Analyst at DataExperts
+   - **Education:** Bachelor in Business Administration from Tech University
+   - **References:** Frank Garcia, Manager, frank_nguyen@example.com
+Nathan Silva, Analyst, patrick_smith@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** mia_jackson@example.com, Village, Techland
+   - **Projects:** Led the Revolutionary System for Enhancing Data Analysis
+

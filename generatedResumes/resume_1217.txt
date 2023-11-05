@@ -1,0 +1,10 @@
+1217. **Name:** Frank López
+   - **Skills:** IoT, iOS Development, Git, Java
+   - **Experience:** Lead Engineer at TechInnovate
+   - **Education:** Bachelor in Business Administration from Physics Academy
+   - **References:** Sam Wang, Manager, charlie_chen@example.com
+Eva Cruz, Manager, bob_müller@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** victoria_brown@example.com, City, Data Haven
+   - **Projects:** Developed the Groundbreaking Platform for Solving Collaboration
+

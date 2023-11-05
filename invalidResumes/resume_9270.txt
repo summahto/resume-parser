@@ -1,0 +1,10 @@
+9270. **Name:** Tina López
+   - **Skills:** iOS Development, Agile, Git, HTML
+   - **Experience:** Lead Engineer at CreativeSolutions
+   - **Education:** Master in Business Administration from Data Science School
+   - **References:** Bob Nguyen, Coordinator, victoria_gonzalez@example.com
+Sam Li, Manager, ivy_wu@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** zane_white@example.com, Village, Inno Haven
+   - **Projects:** Led the Innovative Platform for Streamlining Collaboration
+

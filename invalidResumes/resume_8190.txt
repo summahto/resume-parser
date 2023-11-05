@@ -1,0 +1,10 @@
+8190. **Name:** Leo López
+   - **Skills:** Java, C#, Kubernetes, IoT
+   - **Experience:** Lead Analyst at CodeCrafters
+   - **Education:** Master in Art from Physics Academy
+   - **References:** Katherine Brown, Analyst, nathan_garcia@example.com
+Jack Nguyen, Engineer, victoria_brown@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** yuki_yamamoto@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Cutting-edge Project for Solving Data Analysis
+

@@ -1,0 +1,10 @@
+3361. **Name:** Yuki Smith
+   - **Skills:** Git, Kubernetes, IoT, Python
+   - **Experience:** Senior Designer at DataExperts
+   - **Education:** Bachelor in Computer Science from Inno Institute
+   - **References:** Ulysses Lee, Designer, grace_nguyen@example.com
+Yuki Lopez, CTO, quinn_wu@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** eva_lópez@example.com, Village, Data Haven
+   - **Projects:** Led the Innovative Framework for Optimizing Problem-solving
+

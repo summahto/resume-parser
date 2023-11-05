@@ -1,0 +1,10 @@
+1478. **Name:** David Garcia
+   - **Skills:** Big Data, Swift, HTML, Git
+   - **Experience:** Senior Manager at CreativeSolutions
+   - **Education:** Ph.D. in Business Administration from Physics Academy
+   - **References:** Bob Gupta, Scientist, patrick_gupta@example.com
+Xena Kumar, Designer, xena_garcia@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** jack_garcia@example.com, Village, Data Haven
+   - **Projects:** Contributed to the Groundbreaking Platform for Streamlining Collaboration
+

@@ -1,0 +1,10 @@
+9068. **Name:** Ivy White
+   - **Skills:** iOS Development, Cloud Computing, Node.js, UI/UX Design
+   - **Experience:** Junior Manager at TechInnovate
+   - **Education:** Master in Data Science from Creative Arts College
+   - **References:** Tina Lee, Director, patrick_garcia@example.com
+Alice Taylor, Scientist, alice_miller@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** charlie_brown@example.com, Village, Inno Haven
+   - **Projects:** Led the Cutting-edge App for Optimizing Problem-solving
+

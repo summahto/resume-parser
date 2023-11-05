@@ -1,0 +1,10 @@
+4310. **Name:** Bob Gupta
+   - **Skills:** Agile, Cloud Computing, AR/VR Development, Angular
+   - **Experience:** Senior Developer at CreativeSolutions
+   - **Education:** Ph.D. in Physics from Data Science School
+   - **References:** Sam Jackson, Designer, quinn_white@example.com
+Jack White, Developer, walter_silva@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** walter_silva@example.com, City, Scienceburg
+   - **Projects:** Developed the Groundbreaking Project for Streamlining User Experience
+

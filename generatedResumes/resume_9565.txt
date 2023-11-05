@@ -1,0 +1,10 @@
+9565. **Name:** Xena Cruz
+   - **Skills:** C#, Node.js, Graphic Design, IoT
+   - **Experience:** Senior Engineer at TechInnovate
+   - **Education:** Master in Computer Science from Physics Academy
+   - **References:** Sam Wu, Coordinator, victoria_silva@example.com
+Ivy Miller, Manager, bob_müller@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** david_lópez@example.com, City, Artopia
+   - **Projects:** Led the Cutting-edge Framework for Optimizing User Experience
+

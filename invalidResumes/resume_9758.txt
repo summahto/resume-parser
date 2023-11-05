@@ -1,0 +1,10 @@
+9758. **Name:** Mia White
+   - **Skills:** IoT, Git, Graphic Design, Java
+   - **Experience:** Lead Developer at TechCorp
+   - **Education:** Bachelor in Physics from Inno Institute
+   - **References:** Katherine Taylor, Analyst, alice_wu@example.com
+Sam Kumar, Designer, charlie_chen@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** mia_lópez@example.com, Town, Scienceburg
+   - **Projects:** Developed the Revolutionary Framework for Enhancing Collaboration
+

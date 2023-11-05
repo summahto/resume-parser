@@ -1,0 +1,10 @@
+5170. **Name:** Frank Silva
+   - **Skills:** Big Data, iOS Development, AR/VR Development, CSS
+   - **Experience:** Junior Scientist at CodeCrafters
+   - **Education:** Master in Engineering from Creative Arts College
+   - **References:** Jack Jackson, Scientist, grace_lopez@example.com
+Katherine Miller, Scientist, david_cruz@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** leo_jones@example.com, Village, Techtopia
+   - **Projects:** Developed the Groundbreaking System for Optimizing User Experience
+

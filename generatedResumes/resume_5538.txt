@@ -1,0 +1,10 @@
+5538. **Name:** Olivia Wu
+   - **Skills:** Git, HTML, Node.js, CSS
+   - **Experience:** Senior Manager at InnoSolutions
+   - **Education:** Bachelor in Physics from Tech University
+   - **References:** Patrick White, Designer, katherine_gonzalez@example.com
+Ulysses Rodriguez, CEO, katherine_wu@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** charlie_cruz@example.com, Village, Techtopia
+   - **Projects:** Developed the Innovative Project for Optimizing Problem-solving
+

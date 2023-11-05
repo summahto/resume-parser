@@ -1,0 +1,10 @@
+8584. **Name:** Jack Gonzalez
+   - **Skills:** Swift, IoT, HTML, Node.js
+   - **Experience:** Junior Developer at DataExperts
+   - **Education:** Master in Physics from Inno Institute
+   - **References:** Nathan López, Director, ivy_lee@example.com
+Walter Taylor, Scientist, frank_smith@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** olivia_gupta@example.com, City, Artopia
+   - **Projects:** Led the Revolutionary Platform for Optimizing Business Processes
+

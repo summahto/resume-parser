@@ -1,0 +1,10 @@
+9360. **Name:** Leo Kumar
+   - **Skills:** Agile, UI/UX Design, Blockchain, Kubernetes
+   - **Experience:** Senior Developer at CodeCrafters
+   - **Education:** Bachelor in Physics from Inno Institute
+   - **References:** Jack Silva, CEO, henry_gupta@example.com
+Rachel Johnson, Manager, patrick_jackson@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** alice_smith@example.com, Village, Data Haven
+   - **Projects:** Contributed to the Revolutionary Platform for Optimizing Business Processes
+

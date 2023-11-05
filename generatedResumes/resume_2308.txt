@@ -1,0 +1,10 @@
+2308. **Name:** Frank Hernandez
+   - **Skills:** Java, SQL, Blockchain, iOS Development
+   - **Experience:** Junior Designer at CreativeSolutions
+   - **Education:** Master in Art from Creative Arts College
+   - **References:** Henry Garcia, Coordinator, olivia_jones@example.com
+David Kumar, Manager, charlie_li@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** frank_miller@example.com, Village, Scienceburg
+   - **Projects:** Led the Innovative App for Solving Data Analysis
+

@@ -1,0 +1,10 @@
+4675. **Name:** David Patel
+   - **Skills:** DevOps, IoT, iOS Development, C#
+   - **Experience:** Junior Designer at DataInnovators
+   - **Education:** Ph.D. in Data Science from Creative Arts College
+   - **References:** Ivy Lee, Designer, xena_brown@example.com
+Leo Kumar, Designer, jack_brown@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** xena_lópez@example.com, City, Artopia
+   - **Projects:** Contributed to the Innovative Framework for Optimizing Collaboration
+

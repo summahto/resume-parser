@@ -1,0 +1,10 @@
+8287. **Name:** Xena Singh
+   - **Skills:** AR/VR Development, Python, HTML, Git
+   - **Experience:** Junior Engineer at InnoSolutions
+   - **Education:** Ph.D. in Art from Physics Academy
+   - **References:** Jack Patel, Designer, walter_lee@example.com
+Bob Lopez, Scientist, grace_smith@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** patrick_patel@example.com, City, Scienceburg
+   - **Projects:** Led the Innovative Platform for Streamlining Business Processes
+

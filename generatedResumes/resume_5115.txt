@@ -1,0 +1,10 @@
+5115. **Name:** Sam Lopez
+   - **Skills:** Big Data, Cloud Computing, Docker, SQL
+   - **Experience:** Lead Developer at InnovativeTech
+   - **Education:** Ph.D. in Business Administration from Business School
+   - **References:** Sam Gupta, Lead, leo_jones@example.com
+Olivia Silva, CEO, zane_brown@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** charlie_patel@example.com, Town, Artopia
+   - **Projects:** Led the Revolutionary App for Streamlining Problem-solving
+

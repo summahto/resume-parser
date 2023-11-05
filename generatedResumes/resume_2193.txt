@@ -1,0 +1,10 @@
+2193. **Name:** Xena Miller
+   - **Skills:** CSS, C#, Java, Cloud Computing
+   - **Experience:** Junior Scientist at InnovativeTech
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** Bob Williams, Scientist, ivy_lee@example.com
+Henry Garcia, Manager, leo_jackson@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** rachel_silva@example.com, Village, Scienceburg
+   - **Projects:** Led the Groundbreaking Platform for Solving User Experience
+

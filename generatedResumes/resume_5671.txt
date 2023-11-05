@@ -1,0 +1,10 @@
+5671. **Name:** Nathan Nguyen
+   - **Skills:** DevOps, Cybersecurity, JavaScript, AR/VR Development
+   - **Experience:** Senior Scientist at DataInnovators
+   - **Education:** Master in Data Science from Physics Academy
+   - **References:** Alice White, Coordinator, leo_patel@example.com
+Jack Silva, Scientist, charlie_jones@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** patrick_gupta@example.com, Town, Techland
+   - **Projects:** Led the Innovative Project for Solving Problem-solving
+

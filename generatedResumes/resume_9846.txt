@@ -1,0 +1,10 @@
+9846. **Name:** Sam Garcia
+   - **Skills:** iOS Development, Big Data, CSS, Vue.js
+   - **Experience:** Senior Scientist at DigitalSolutions
+   - **Education:** Bachelor in Art from Creative Arts College
+   - **References:** Zane Silva, Lead, ulysses_kim@example.com
+Olivia Patel, Analyst, sam_kumar@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** ulysses_davis@example.com, Town, Innoville
+   - **Projects:** Led the Cutting-edge Framework for Enhancing Business Processes
+

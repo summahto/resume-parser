@@ -1,0 +1,10 @@
+1443. **Name:** Leo Kumar
+   - **Skills:** Kubernetes, UI/UX Design, HTML, Git
+   - **Experience:** Senior Developer at DataExperts
+   - **Education:** Master in Art from Inno Institute
+   - **References:** Rachel Miller, CTO, eva_yamamoto@example.com
+Frank Chen, Manager, eva_cruz@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** eva_white@example.com, Village, Scienceburg
+   - **Projects:** Led the Revolutionary Platform for Enhancing Data Analysis
+

@@ -1,0 +1,10 @@
+3479. **Name:** Leo Smith
+   - **Skills:** Big Data, Graphic Design, Java, CSS
+   - **Experience:** Senior Developer at DigitalSolutions
+   - **Education:** Master in Business Administration from Physics Academy
+   - **References:** Patrick Kim, Analyst, zane_smith@example.com
+Quinn Johnson, Coordinator, leo_rodriguez@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** quinn_kumar@example.com, City, Inno Haven
+   - **Projects:** Developed the Revolutionary App for Streamlining Problem-solving
+

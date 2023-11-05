@@ -1,10 +1,10 @@
-**Name:** Stardust Symphony
-- **Skills:** Meteorite Music, Constellation Concertos, Galactic Guitar, Python
-- **Experience:** Cosmic Composer of Stellar Symphonies, Guitarist of the Galactic Harmony Orchestra
-- **Education:** Celestial Music Conservatory, Galactic Guitar School
-- **References:**
-- Stardust Serenader, Celestial Composer, stardust.serenader@email.com
-- Galactic Guitarist, Harmony Virtuoso, galactic.guitarist@email.com
-- **Volunteering:** Music for Meteorites, Harmony for Humanity
-- **Contact Information:** stardust.symphony@email.com, Symphony Space, Harmonia
+34. **Name:** Henry Gupta
+   - **Skills:** Vue.js, Big Data, SQL, C#
+   - **Experience:** Senior Engineer at InnovativeTech
+   - **Education:** Ph.D. in Engineering from Business School
+   - **References:** Xena Brown, Engineer, david_johnson@example.com
+Rachel Rodriguez, Engineer, sam_rodriguez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** patrick_brown@example.com, City, Techland
+   - **Projects:** Developed the Groundbreaking Platform for Streamlining Data Analysis
 

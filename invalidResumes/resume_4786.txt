@@ -1,0 +1,10 @@
+4786. **Name:** Ivy Kumar
+   - **Skills:** IoT, Cloud Computing, Big Data, React
+   - **Experience:** Junior Analyst at CreativeMinds
+   - **Education:** Bachelor in Physics from Business School
+   - **References:** Henry López, Analyst, bob_taylor@example.com
+Henry Wu, Coordinator, frank_smith@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** sam_jackson@example.com, City, Innoville
+   - **Projects:** Led the Cutting-edge Project for Streamlining Collaboration
+

@@ -1,0 +1,10 @@
+4372. **Name:** Patrick Wu
+   - **Skills:** HTML, Graphic Design, React, C#
+   - **Experience:** Lead Designer at CreativeMinds
+   - **Education:** Ph.D. in Computer Science from Inno Institute
+   - **References:** Zane Lee, Designer, ulysses_kumar@example.com
+Olivia Kim, Scientist, charlie_taylor@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** sam_wu@example.com, City, Techland
+   - **Projects:** Led the Groundbreaking Project for Solving Data Analysis
+

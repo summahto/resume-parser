@@ -1,0 +1,10 @@
+6231. **Name:** Xena White
+   - **Skills:** SQL, Project Management, AR/VR Development, C#
+   - **Experience:** Lead Developer at CreativeMinds
+   - **Education:** Master in Art from Data Science School
+   - **References:** Walter Singh, Developer, henry_williams@example.com
+Sam Silva, Analyst, patrick_patel@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** rachel_lee@example.com, Village, Techland
+   - **Projects:** Developed the Groundbreaking Platform for Enhancing Problem-solving
+

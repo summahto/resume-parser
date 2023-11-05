@@ -1,0 +1,10 @@
+8708. **Name:** Katherine Gupta
+   - **Skills:** Docker, Project Management, Graphic Design, Swift
+   - **Experience:** Junior Developer at InnovativeTech
+   - **Education:** Bachelor in Physics from Tech University
+   - **References:** Tina Patel, Developer, henry_garcia@example.com
+Katherine Nguyen, Director, yuki_nguyen@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** quinn_rodriguez@example.com, Town, Data City
+   - **Projects:** Contributed to the Cutting-edge Platform for Optimizing User Experience
+

@@ -1,0 +1,10 @@
+780. **Name:** Ivy Jones
+   - **Skills:** Data Analysis, Android Development, UI/UX Design, Network Administration
+   - **Experience:** Lead Designer at InnovativeTech
+   - **Education:** Master in Engineering from Data Science School
+   - **References:** Alice López, Analyst, leo_lee@example.com
+Walter Kim, CEO, henry_kumar@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** victoria_miller@example.com, City, Innoville
+   - **Projects:** Contributed to the Cutting-edge Project for Streamlining Problem-solving
+

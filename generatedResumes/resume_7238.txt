@@ -1,0 +1,10 @@
+7238. **Name:** Leo Li
+   - **Skills:** Docker, Angular, SQL, C#
+   - **Experience:** Junior Designer at DataInnovators
+   - **Education:** Bachelor in Business Administration from Data Science School
+   - **References:** Rachel Jackson, Scientist, ivy_taylor@example.com
+Patrick Rodriguez, Engineer, tina_rodriguez@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** katherine_chen@example.com, Town, Scienceburg
+   - **Projects:** Developed the Groundbreaking System for Streamlining Collaboration
+

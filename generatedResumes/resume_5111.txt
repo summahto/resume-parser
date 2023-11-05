@@ -1,0 +1,10 @@
+5111. **Name:** Grace Taylor
+   - **Skills:** Agile, Python, HTML, Docker
+   - **Experience:** Lead Designer at CodeCrafters
+   - **Education:** Bachelor in Business Administration from Data Science School
+   - **References:** Charlie Garcia, CTO, henry_rodriguez@example.com
+Charlie Chen, Designer, mia_rodriguez@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** henry_silva@example.com, City, Data Haven
+   - **Projects:** Led the Innovative Framework for Enhancing User Experience
+

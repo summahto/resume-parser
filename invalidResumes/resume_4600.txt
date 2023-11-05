@@ -1,0 +1,10 @@
+4600. **Name:** Mia Lopez
+   - **Skills:** Kubernetes, Blockchain, Machine Learning, JavaScript
+   - **Experience:** Lead Scientist at CreativeMinds
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Charlie Lee, Scientist, yuki_taylor@example.com
+Katherine Lopez, CEO, david_lópez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** zane_gupta@example.com, City, Artopia
+   - **Projects:** Led the Groundbreaking Framework for Optimizing Collaboration
+

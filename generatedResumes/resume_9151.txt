@@ -1,0 +1,10 @@
+9151. **Name:** Zane White
+   - **Skills:** C#, Node.js, Big Data, Docker
+   - **Experience:** Lead Manager at InnoSolutions
+   - **Education:** Ph.D. in Business Administration from Data Science School
+   - **References:** Henry López, CEO, yuki_silva@example.com
+Mia Smith, Lead, bob_chen@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** david_cruz@example.com, City, Data City
+   - **Projects:** Led the Revolutionary App for Enhancing Problem-solving
+

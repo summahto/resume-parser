@@ -1,0 +1,10 @@
+4903. **Name:** Sam Chen
+   - **Skills:** Java, Graphic Design, Android Development, React
+   - **Experience:** Lead Scientist at TechInnovate
+   - **Education:** Bachelor in Business Administration from Inno Institute
+   - **References:** Ulysses Williams, Developer, ulysses_lopez@example.com
+Tina Lopez, Lead, alice_patel@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** sam_lee@example.com, Village, Data City
+   - **Projects:** Led the Innovative App for Enhancing Problem-solving
+

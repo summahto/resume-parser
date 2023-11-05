@@ -1,0 +1,10 @@
+8125. **Name:** Mia Nguyen
+   - **Skills:** Network Administration, Cybersecurity, iOS Development, Agile
+   - **Experience:** Junior Developer at DataExperts
+   - **Education:** Master in Engineering from Creative Arts College
+   - **References:** Yuki Silva, Developer, patrick_jones@example.com
+Zane Davis, Engineer, zane_kim@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** walter_smith@example.com, Village, Scienceburg
+   - **Projects:** Led the Innovative App for Solving Data Analysis
+

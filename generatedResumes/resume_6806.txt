@@ -1,0 +1,10 @@
+6806. **Name:** Zane Gupta
+   - **Skills:** Git, C#, Blockchain, DevOps
+   - **Experience:** Senior Designer at CreativeMinds
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Xena Chen, CTO, ulysses_hernandez@example.com
+Jack Smith, Lead, mia_jackson@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** nathan_garcia@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Innovative System for Solving Problem-solving
+

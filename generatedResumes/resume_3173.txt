@@ -1,0 +1,10 @@
+3173. **Name:** Victoria Jones
+   - **Skills:** Big Data, iOS Development, Graphic Design, SQL
+   - **Experience:** Junior Designer at CreativeSolutions
+   - **Education:** Bachelor in Physics from Business School
+   - **References:** Olivia Jones, Engineer, leo_nguyen@example.com
+Sam Wu, Coordinator, david_lopez@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** david_garcia@example.com, Town, Artopia
+   - **Projects:** Developed the Innovative Platform for Streamlining User Experience
+

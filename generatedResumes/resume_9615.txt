@@ -1,0 +1,10 @@
+9615. **Name:** Quinn Wu
+   - **Skills:** Agile, Machine Learning, SQL, Git
+   - **Experience:** Lead Manager at CodeCrafters
+   - **Education:** Ph.D. in Data Science from Business School
+   - **References:** Mia Brown, Manager, tina_lópez@example.com
+Tina Lopez, Scientist, walter_jones@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** zane_suzuki@example.com, Village, Techland
+   - **Projects:** Led the Innovative Platform for Streamlining User Experience
+

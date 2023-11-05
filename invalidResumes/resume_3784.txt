@@ -1,0 +1,10 @@
+3784. **Name:** Quinn Silva
+   - **Skills:** Python, Angular, UI/UX Design, Cloud Computing
+   - **Experience:** Junior Designer at DataInnovators
+   - **Education:** Master in Computer Science from Tech University
+   - **References:** Zane Cruz, Developer, alice_wu@example.com
+Patrick Patel, Lead, leo_lópez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** charlie_kumar@example.com, Town, Data City
+   - **Projects:** Developed the Innovative Platform for Solving Collaboration
+

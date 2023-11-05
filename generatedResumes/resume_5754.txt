@@ -1,0 +1,10 @@
+5754. **Name:** Mia Hernandez
+   - **Skills:** Project Management, Cloud Computing, DevOps, Angular
+   - **Experience:** Junior Scientist at CreativeMinds
+   - **Education:** Ph.D. in Data Science from Inno Institute
+   - **References:** Alice Garcia, Lead, xena_patel@example.com
+Patrick Lopez, Developer, grace_wu@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** henry_gupta@example.com, Town, Green Valley
+   - **Projects:** Contributed to the Cutting-edge Platform for Streamlining Data Analysis
+

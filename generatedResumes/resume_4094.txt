@@ -1,0 +1,10 @@
+4094. **Name:** Zane Kim
+   - **Skills:** Angular, Project Management, CSS, IoT
+   - **Experience:** Senior Designer at InnovativeTech
+   - **Education:** Master in Physics from Inno Institute
+   - **References:** Sam Kim, CEO, eva_white@example.com
+Bob Yamamoto, Developer, zane_cruz@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** nathan_white@example.com, Town, Artopia
+   - **Projects:** Led the Groundbreaking Framework for Streamlining Business Processes
+

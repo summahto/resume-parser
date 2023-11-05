@@ -1,0 +1,10 @@
+4941. **Name:** David Kumar
+   - **Skills:** Data Analysis, CSS, SQL, React
+   - **Experience:** Lead Manager at InnovativeTech
+   - **Education:** Master in Data Science from Data Science School
+   - **References:** Ulysses Garcia, Analyst, david_white@example.com
+Eva Chen, Engineer, grace_kumar@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** quinn_nguyen@example.com, City, Innovation Meadows
+   - **Projects:** Developed the Cutting-edge App for Optimizing Problem-solving
+

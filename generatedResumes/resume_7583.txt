@@ -1,0 +1,10 @@
+7583. **Name:** Zane Nguyen
+   - **Skills:** JavaScript, iOS Development, Cybersecurity, C#
+   - **Experience:** Lead Designer at DigitalSolutions
+   - **Education:** Bachelor in Computer Science from Business School
+   - **References:** Zane Lee, Manager, mia_nguyen@example.com
+Victoria Kumar, Scientist, charlie_chen@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** frank_gupta@example.com, Village, Artopia
+   - **Projects:** Developed the Groundbreaking Platform for Streamlining User Experience
+

@@ -1,0 +1,10 @@
+5222. **Name:** Patrick Sato
+   - **Skills:** Angular, Java, React, SQL
+   - **Experience:** Junior Manager at DataInnovators
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Quinn Miller, Developer, alice_chen@example.com
+Sam Jones, Developer, ulysses_yamamoto@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** ulysses_chen@example.com, Town, Data Haven
+   - **Projects:** Led the Groundbreaking App for Solving Problem-solving
+

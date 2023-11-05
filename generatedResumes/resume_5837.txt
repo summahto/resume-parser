@@ -1,0 +1,10 @@
+5837. **Name:** Katherine Lee
+   - **Skills:** SQL, JavaScript, HTML, Android Development
+   - **Experience:** Lead Manager at InnovativeTech
+   - **Education:** Master in Art from Physics Academy
+   - **References:** Ulysses Nguyen, Engineer, mia_white@example.com
+Zane Jones, Analyst, nathan_nguyen@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** sam_wu@example.com, Village, Techland
+   - **Projects:** Led the Cutting-edge Project for Optimizing Data Analysis
+

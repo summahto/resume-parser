@@ -1,0 +1,10 @@
+2522. **Name:** Olivia White
+   - **Skills:** Vue.js, UI/UX Design, HTML, Android Development
+   - **Experience:** Lead Analyst at DataInnovators
+   - **Education:** Master in Data Science from Physics Academy
+   - **References:** Henry Lee, Designer, mia_lee@example.com
+Frank Jackson, CEO, quinn_white@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** quinn_white@example.com, City, Techland
+   - **Projects:** Contributed to the Innovative Project for Solving Collaboration
+

@@ -1,0 +1,10 @@
+4276. **Name:** Charlie Silva
+   - **Skills:** Cybersecurity, Cloud Computing, Big Data, DevOps
+   - **Experience:** Lead Engineer at DataExperts
+   - **Education:** Master in Computer Science from Creative Arts College
+   - **References:** Bob Lee, Coordinator, mia_kumar@example.com
+Henry Lee, Lead, bob_smith@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** bob_patel@example.com, Town, Green Valley
+   - **Projects:** Contributed to the Revolutionary System for Optimizing Collaboration
+

@@ -1,0 +1,10 @@
+5126. **Name:** Xena Smith
+   - **Skills:** CSS, Cloud Computing, Swift, Vue.js
+   - **Experience:** Junior Designer at TechCorp
+   - **Education:** Master in Business Administration from Creative Arts College
+   - **References:** Zane Wang, Coordinator, alice_singh@example.com
+Tina Jackson, Manager, jack_silva@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** charlie_cruz@example.com, Village, Inno Haven
+   - **Projects:** Developed the Groundbreaking Platform for Solving Data Analysis
+

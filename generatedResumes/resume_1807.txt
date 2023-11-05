@@ -1,0 +1,10 @@
+1807. **Name:** Ivy Jackson
+   - **Skills:** DevOps, Agile, Java, SQL
+   - **Experience:** Junior Manager at DataInnovators
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Eva Li, Analyst, olivia_wu@example.com
+Alice Garcia, Analyst, eva_kumar@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** frank_lopez@example.com, City, Green Valley
+   - **Projects:** Developed the Cutting-edge Platform for Optimizing Problem-solving
+

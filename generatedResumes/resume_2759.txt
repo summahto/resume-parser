@@ -1,0 +1,10 @@
+2759. **Name:** Quinn White
+   - **Skills:** React, Graphic Design, HTML, Git
+   - **Experience:** Junior Engineer at TechInnovate
+   - **Education:** Bachelor in Engineering from Inno Institute
+   - **References:** Olivia Kumar, Manager, frank_jackson@example.com
+Grace Rodriguez, Developer, ulysses_li@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** mia_hernandez@example.com, City, Green Valley
+   - **Projects:** Led the Innovative Project for Solving Business Processes
+

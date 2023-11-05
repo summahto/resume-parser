@@ -1,0 +1,10 @@
+4332. **Name:** Tina Smith
+   - **Skills:** IoT, UI/UX Design, Node.js, Python
+   - **Experience:** Senior Designer at DigitalSolutions
+   - **Education:** Bachelor in Engineering from Inno Institute
+   - **References:** Ivy Chen, Analyst, alice_miller@example.com
+Quinn Taylor, Coordinator, david_kumar@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** ivy_davis@example.com, Town, Green Valley
+   - **Projects:** Developed the Groundbreaking App for Solving Business Processes
+

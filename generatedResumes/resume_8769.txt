@@ -1,0 +1,10 @@
+8769. **Name:** Ulysses Kumar
+   - **Skills:** Data Analysis, Docker, HTML, Java
+   - **Experience:** Senior Engineer at DigitalSolutions
+   - **Education:** Ph.D. in Business Administration from Inno Institute
+   - **References:** Jack Rodriguez, Manager, frank_wu@example.com
+Patrick White, Analyst, leo_chen@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** mia_hernandez@example.com, City, Techtopia
+   - **Projects:** Developed the Innovative Platform for Solving Business Processes
+

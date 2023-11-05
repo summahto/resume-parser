@@ -1,0 +1,10 @@
+4198. **Name:** Olivia Lopez
+   - **Skills:** Project Management, C#, Big Data, Android Development
+   - **Experience:** Junior Developer at CreativeMinds
+   - **Education:** Bachelor in Physics from Tech University
+   - **References:** Xena Chen, Lead, patrick_silva@example.com
+Frank Suzuki, Manager, katherine_singh@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** olivia_patel@example.com, Town, Data Haven
+   - **Projects:** Led the Groundbreaking App for Solving User Experience
+

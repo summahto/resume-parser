@@ -1,0 +1,10 @@
+5590. **Name:** Patrick Wang
+   - **Skills:** Cybersecurity, Machine Learning, AR/VR Development, Java
+   - **Experience:** Senior Engineer at CreativeMinds
+   - **Education:** Master in Computer Science from Inno Institute
+   - **References:** Quinn Davis, Manager, henry_kumar@example.com
+Mia Jackson, Director, mia_garcia@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** olivia_rodriguez@example.com, Town, Data City
+   - **Projects:** Led the Cutting-edge App for Solving Business Processes
+

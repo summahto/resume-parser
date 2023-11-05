@@ -1,0 +1,10 @@
+2379. **Name:** Xena Lopez
+   - **Skills:** React, Angular, IoT, AR/VR Development
+   - **Experience:** Senior Scientist at DataInnovators
+   - **Education:** Bachelor in Physics from Creative Arts College
+   - **References:** Jack Garcia, Manager, tina_sato@example.com
+Jack Sato, CTO, rachel_gupta@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** david_wang@example.com, Village, Techtopia
+   - **Projects:** Contributed to the Cutting-edge System for Optimizing User Experience
+

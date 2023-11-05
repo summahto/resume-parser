@@ -1,0 +1,10 @@
+3618. **Name:** Jack Garcia
+   - **Skills:** Cloud Computing, Kubernetes, Android Development, SQL
+   - **Experience:** Senior Developer at DigitalSolutions
+   - **Education:** Bachelor in Physics from Physics Academy
+   - **References:** Patrick Garcia, CEO, olivia_nguyen@example.com
+Henry Lee, Designer, rachel_lee@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** grace_miller@example.com, Town, Innoville
+   - **Projects:** Contributed to the Innovative Project for Solving Collaboration
+

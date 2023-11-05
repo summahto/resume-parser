@@ -1,0 +1,10 @@
+6164. **Name:** Zane Kumar
+   - **Skills:** Java, AR/VR Development, Git, Node.js
+   - **Experience:** Junior Scientist at DataInnovators
+   - **Education:** Ph.D. in Business Administration from Creative Arts College
+   - **References:** Leo Nguyen, Designer, eva_kumar@example.com
+Bob Cruz, Lead, patrick_lopez@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** nathan_li@example.com, Village, Techtopia
+   - **Projects:** Contributed to the Cutting-edge Project for Streamlining Collaboration
+

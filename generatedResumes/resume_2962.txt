@@ -1,0 +1,10 @@
+2962. **Name:** Mia Nguyen
+   - **Skills:** Cybersecurity, iOS Development, Blockchain, JavaScript
+   - **Experience:** Lead Developer at DataExperts
+   - **Education:** Master in Physics from Tech University
+   - **References:** Bob Wu, Engineer, quinn_wu@example.com
+Katherine Li, Designer, rachel_chen@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** nathan_kumar@example.com, Town, Inno Haven
+   - **Projects:** Led the Innovative Project for Solving Business Processes
+

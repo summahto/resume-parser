@@ -1,0 +1,10 @@
+1988. **Name:** Nathan Nguyen
+   - **Skills:** HTML, Blockchain, DevOps, Swift
+   - **Experience:** Junior Developer at CreativeSolutions
+   - **Education:** Master in Art from Data Science School
+   - **References:** Ivy Suzuki, Developer, alice_jones@example.com
+Grace White, Lead, david_miller@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** olivia_gupta@example.com, Town, Green Valley
+   - **Projects:** Led the Revolutionary App for Enhancing Problem-solving
+

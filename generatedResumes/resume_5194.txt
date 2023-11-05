@@ -1,0 +1,10 @@
+5194. **Name:** Leo Rodriguez
+   - **Skills:** Cybersecurity, Project Management, Data Analysis, Angular
+   - **Experience:** Lead Analyst at DataExperts
+   - **Education:** Master in Data Science from Tech University
+   - **References:** Alice Gupta, Engineer, victoria_white@example.com
+Sam Müller, Developer, ulysses_nguyen@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** olivia_silva@example.com, City, Green Valley
+   - **Projects:** Developed the Revolutionary App for Optimizing Collaboration
+

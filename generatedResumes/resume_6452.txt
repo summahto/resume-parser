@@ -1,0 +1,10 @@
+6452. **Name:** Xena Rodriguez
+   - **Skills:** Machine Learning, Git, Python, Blockchain
+   - **Experience:** Senior Developer at DataInnovators
+   - **Education:** Bachelor in Business Administration from Inno Institute
+   - **References:** Eva Chen, Scientist, alice_rodriguez@example.com
+Nathan Chen, Analyst, xena_patel@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** nathan_miller@example.com, Village, Techland
+   - **Projects:** Developed the Revolutionary Platform for Enhancing Data Analysis
+

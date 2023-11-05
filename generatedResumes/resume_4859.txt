@@ -1,0 +1,10 @@
+4859. **Name:** David Lee
+   - **Skills:** Project Management, React, Cloud Computing, HTML
+   - **Experience:** Senior Designer at CodeCrafters
+   - **Education:** Ph.D. in Business Administration from Business School
+   - **References:** Grace Johnson, Director, bob_white@example.com
+Alice Brown, Coordinator, eva_jackson@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** xena_jones@example.com, City, Data Haven
+   - **Projects:** Led the Cutting-edge App for Streamlining Business Processes
+

@@ -1,0 +1,10 @@
+2883. **Name:** Leo Jones
+   - **Skills:** Graphic Design, Vue.js, Kubernetes, C#
+   - **Experience:** Junior Developer at CreativeSolutions
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Xena Cruz, CEO, olivia_müller@example.com
+Charlie Gupta, Developer, victoria_rodriguez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** leo_white@example.com, Village, Inno Haven
+   - **Projects:** Contributed to the Innovative Platform for Enhancing Collaboration
+

@@ -1,0 +1,10 @@
+9177. **Name:** Bob Lopez
+   - **Skills:** Blockchain, React, Git, CSS
+   - **Experience:** Junior Designer at TechInnovate
+   - **Education:** Bachelor in Computer Science from Inno Institute
+   - **References:** Nathan Wang, Coordinator, eva_müller@example.com
+Jack Davis, Designer, henry_wang@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** tina_white@example.com, Town, Data City
+   - **Projects:** Developed the Groundbreaking Framework for Enhancing Problem-solving
+

@@ -1,0 +1,10 @@
+554. **Name:** Leo White
+   - **Skills:** Project Management, JavaScript, AR/VR Development, UI/UX Design
+   - **Experience:** Junior Analyst at InnovativeTech
+   - **Education:** Ph.D. in Computer Science from Creative Arts College
+   - **References:** Leo Kumar, Scientist, frank_lopez@example.com
+Mia Lopez, Lead, walter_jackson@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** victoria_miller@example.com, Village, Innoville
+   - **Projects:** Developed the Cutting-edge Framework for Enhancing Data Analysis
+

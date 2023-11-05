@@ -1,0 +1,10 @@
+9896. **Name:** Bob Nguyen
+   - **Skills:** iOS Development, UI/UX Design, DevOps, HTML
+   - **Experience:** Senior Designer at DataExperts
+   - **Education:** Master in Physics from Business School
+   - **References:** Grace Wu, Director, tina_yamamoto@example.com
+Xena White, Director, walter_taylor@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** zane_suzuki@example.com, Town, Techland
+   - **Projects:** Developed the Innovative Framework for Solving Business Processes
+

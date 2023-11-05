@@ -1,0 +1,10 @@
+143. **Name:** David Wu
+   - **Skills:** Big Data, Agile, Cybersecurity, Blockchain
+   - **Experience:** Junior Manager at InnoSolutions
+   - **Education:** Ph.D. in Computer Science from Physics Academy
+   - **References:** Eva Chen, CEO, quinn_kumar@example.com
+Walter Lee, Developer, grace_miller@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** yuki_chen@example.com, City, Innovation Meadows
+   - **Projects:** Contributed to the Innovative System for Streamlining Business Processes
+

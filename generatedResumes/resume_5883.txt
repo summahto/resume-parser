@@ -1,0 +1,10 @@
+5883. **Name:** Olivia Johnson
+   - **Skills:** HTML, Project Management, Cloud Computing, DevOps
+   - **Experience:** Junior Designer at TechCorp
+   - **Education:** Master in Art from Creative Arts College
+   - **References:** Zane Jones, Developer, frank_miller@example.com
+Nathan Patel, Coordinator, ivy_yamamoto@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** david_smith@example.com, Village, Green Valley
+   - **Projects:** Developed the Revolutionary Project for Optimizing Collaboration
+

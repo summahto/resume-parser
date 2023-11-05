@@ -1,0 +1,10 @@
+6695. **Name:** Alice Lopez
+   - **Skills:** IoT, HTML, Java, Vue.js
+   - **Experience:** Junior Manager at CreativeMinds
+   - **Education:** Bachelor in Business Administration from Physics Academy
+   - **References:** Leo Miller, Engineer, tina_taylor@example.com
+Frank Lee, Manager, rachel_lee@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** rachel_lee@example.com, Town, Techland
+   - **Projects:** Led the Innovative App for Solving Business Processes
+

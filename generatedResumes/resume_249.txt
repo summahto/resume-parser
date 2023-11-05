@@ -1,0 +1,10 @@
+249. **Name:** Nathan Chen
+   - **Skills:** Project Management, Network Administration, Node.js, Machine Learning
+   - **Experience:** Lead Scientist at TechCorp
+   - **Education:** Master in Engineering from Data Science School
+   - **References:** Jack Yamamoto, Analyst, eva_kim@example.com
+Rachel Gupta, Developer, yuki_jones@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** alice_patel@example.com, Village, Green Valley
+   - **Projects:** Contributed to the Cutting-edge Project for Optimizing Business Processes
+

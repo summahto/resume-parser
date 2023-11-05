@@ -1,0 +1,10 @@
+1587. **Name:** Jack Patel
+   - **Skills:** SQL, Agile, Big Data, Cloud Computing
+   - **Experience:** Lead Engineer at InnoSolutions
+   - **Education:** Master in Data Science from Business School
+   - **References:** Frank Chen, Scientist, jack_kumar@example.com
+Nathan Jackson, Manager, eva_cruz@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** frank_patel@example.com, City, Artopia
+   - **Projects:** Led the Cutting-edge Framework for Optimizing Problem-solving
+

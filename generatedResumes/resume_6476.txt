@@ -1,0 +1,10 @@
+6476. **Name:** Henry Chen
+   - **Skills:** JavaScript, CSS, Node.js, Graphic Design
+   - **Experience:** Junior Analyst at DataInnovators
+   - **Education:** Master in Physics from Inno Institute
+   - **References:** Olivia Brown, Developer, yuki_lopez@example.com
+Walter Taylor, Manager, nathan_lopez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** jack_miller@example.com, Town, Artopia
+   - **Projects:** Contributed to the Innovative App for Streamlining Collaboration
+

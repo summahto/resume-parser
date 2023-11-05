@@ -1,0 +1,10 @@
+4549. **Name:** Charlie Rodriguez
+   - **Skills:** Vue.js, HTML, C#, React
+   - **Experience:** Senior Scientist at InnovativeTech
+   - **Education:** Bachelor in Art from Physics Academy
+   - **References:** Olivia López, Manager, eva_jones@example.com
+Olivia Kumar, Lead, zane_lopez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** ivy_silva@example.com, City, Green Valley
+   - **Projects:** Contributed to the Innovative Framework for Solving Collaboration
+

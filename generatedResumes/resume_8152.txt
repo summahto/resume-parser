@@ -1,0 +1,10 @@
+8152. **Name:** David Jones
+   - **Skills:** SQL, Blockchain, Big Data, Python
+   - **Experience:** Junior Analyst at CreativeMinds
+   - **Education:** Ph.D. in Computer Science from Data Science School
+   - **References:** Mia Sato, Lead, sam_williams@example.com
+Xena Wang, Analyst, leo_rodriguez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** walter_singh@example.com, City, Scienceburg
+   - **Projects:** Contributed to the Cutting-edge Framework for Enhancing User Experience
+

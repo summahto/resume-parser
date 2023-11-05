@@ -1,0 +1,10 @@
+1174. **Name:** Tina Rodriguez
+   - **Skills:** AR/VR Development, Docker, Project Management, UI/UX Design
+   - **Experience:** Lead Manager at InnovativeTech
+   - **Education:** Ph.D. in Physics from Business School
+   - **References:** Nathan Miller, Designer, xena_silva@example.com
+Bob Patel, Director, leo_nguyen@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** rachel_taylor@example.com, City, Inno Haven
+   - **Projects:** Contributed to the Innovative Framework for Streamlining Problem-solving
+

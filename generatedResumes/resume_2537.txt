@@ -1,0 +1,10 @@
+2537. **Name:** Rachel Gupta
+   - **Skills:** DevOps, Kubernetes, Blockchain, HTML
+   - **Experience:** Senior Manager at CodeCrafters
+   - **Education:** Ph.D. in Data Science from Creative Arts College
+   - **References:** Olivia López, Coordinator, victoria_jones@example.com
+Alice Brown, Designer, jack_wang@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** ulysses_rodriguez@example.com, City, Inno Haven
+   - **Projects:** Led the Cutting-edge Project for Optimizing Business Processes
+

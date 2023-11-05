@@ -1,0 +1,10 @@
+5247. **Name:** Nathan White
+   - **Skills:** iOS Development, Node.js, Network Administration, React
+   - **Experience:** Senior Analyst at DataExperts
+   - **Education:** Master in Computer Science from Creative Arts College
+   - **References:** Alice Kim, Engineer, sam_rodriguez@example.com
+Henry Taylor, Engineer, eva_patel@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** yuki_wu@example.com, City, Inno Haven
+   - **Projects:** Led the Groundbreaking Project for Optimizing Collaboration
+

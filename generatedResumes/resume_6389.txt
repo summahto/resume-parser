@@ -1,0 +1,10 @@
+6389. **Name:** Ivy Gupta
+   - **Skills:** HTML, Java, IoT, Node.js
+   - **Experience:** Junior Developer at CreativeSolutions
+   - **Education:** Master in Engineering from Physics Academy
+   - **References:** Rachel Kumar, Developer, walter_nguyen@example.com
+Ulysses Wu, CEO, david_cruz@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** zane_nguyen@example.com, Town, Data Haven
+   - **Projects:** Developed the Innovative Platform for Streamlining Business Processes
+

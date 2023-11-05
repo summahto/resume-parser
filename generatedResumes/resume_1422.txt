@@ -1,0 +1,10 @@
+1422. **Name:** Ivy Wu
+   - **Skills:** Big Data, JavaScript, Python, Cybersecurity
+   - **Experience:** Lead Manager at DigitalSolutions
+   - **Education:** Ph.D. in Physics from Creative Arts College
+   - **References:** Ulysses Wang, Analyst, bob_hernandez@example.com
+Sam Brown, Developer, olivia_kim@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** olivia_chen@example.com, City, Techtopia
+   - **Projects:** Led the Cutting-edge Framework for Optimizing Collaboration
+

@@ -1,0 +1,10 @@
+3251. **Name:** Henry Gupta
+   - **Skills:** Node.js, SQL, HTML, Cloud Computing
+   - **Experience:** Lead Manager at CreativeMinds
+   - **Education:** Ph.D. in Data Science from Creative Arts College
+   - **References:** Jack Gupta, Scientist, frank_white@example.com
+Eva Lee, Designer, ulysses_patel@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** henry_jones@example.com, Village, Innovation Meadows
+   - **Projects:** Developed the Revolutionary App for Solving Collaboration
+

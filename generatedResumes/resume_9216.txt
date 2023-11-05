@@ -1,0 +1,10 @@
+9216. **Name:** Charlie Wang
+   - **Skills:** Agile, iOS Development, Kubernetes, Java
+   - **Experience:** Lead Analyst at CreativeMinds
+   - **Education:** Master in Art from Business School
+   - **References:** Patrick Lee, CTO, bob_jackson@example.com
+Leo Li, Director, leo_garcia@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** yuki_gupta@example.com, Town, Data Haven
+   - **Projects:** Developed the Innovative System for Enhancing User Experience
+

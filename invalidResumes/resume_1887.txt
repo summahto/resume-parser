@@ -1,0 +1,10 @@
+1887. **Name:** Quinn Singh
+   - **Skills:** iOS Development, DevOps, C#, AR/VR Development
+   - **Experience:** Junior Developer at DataInnovators
+   - **Education:** Master in Engineering from Tech University
+   - **References:** Eva Lee, CTO, frank_müller@example.com
+Olivia Jackson, Analyst, jack_silva@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** rachel_jackson@example.com, Village, Innovation Meadows
+   - **Projects:** Led the Innovative System for Enhancing Data Analysis
+

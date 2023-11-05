@@ -1,0 +1,10 @@
+2371. **Name:** Patrick Wang
+   - **Skills:** Big Data, Project Management, Docker, Vue.js
+   - **Experience:** Lead Scientist at CodeCrafters
+   - **Education:** Bachelor in Art from Business School
+   - **References:** Quinn White, Manager, patrick_cruz@example.com
+Rachel Lopez, Director, ulysses_patel@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** sam_chen@example.com, Town, Techtopia
+   - **Projects:** Led the Innovative Platform for Optimizing Problem-solving
+

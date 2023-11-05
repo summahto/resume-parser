@@ -1,0 +1,10 @@
+4108. **Name:** David Chen
+   - **Skills:** HTML, Big Data, Agile, Docker
+   - **Experience:** Senior Manager at DigitalSolutions
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Eva Hernandez, Designer, quinn_patel@example.com
+Ulysses Kumar, Director, david_johnson@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** yuki_lopez@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Cutting-edge Platform for Solving Business Processes
+

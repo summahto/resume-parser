@@ -1,0 +1,10 @@
+2796. **Name:** Yuki Yamamoto
+   - **Skills:** React, Cloud Computing, SQL, Swift
+   - **Experience:** Junior Designer at CreativeMinds
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Victoria Lopez, Developer, charlie_jones@example.com
+Henry Wu, Coordinator, mia_lópez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** grace_cruz@example.com, Village, Scienceburg
+   - **Projects:** Developed the Revolutionary Project for Enhancing Problem-solving
+

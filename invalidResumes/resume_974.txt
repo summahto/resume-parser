@@ -1,0 +1,10 @@
+974. **Name:** Charlie López
+   - **Skills:** Docker, IoT, Swift, Machine Learning
+   - **Experience:** Lead Designer at CreativeMinds
+   - **Education:** Ph.D. in Physics from Tech University
+   - **References:** Quinn Suzuki, Engineer, zane_nguyen@example.com
+Ulysses Patel, Designer, bob_patel@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** katherine_gupta@example.com, Village, Scienceburg
+   - **Projects:** Contributed to the Groundbreaking App for Enhancing Business Processes
+

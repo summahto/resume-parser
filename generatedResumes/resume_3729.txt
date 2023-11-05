@@ -1,0 +1,10 @@
+3729. **Name:** Quinn Kumar
+   - **Skills:** SQL, DevOps, Python, Network Administration
+   - **Experience:** Junior Analyst at CreativeMinds
+   - **Education:** Ph.D. in Business Administration from Creative Arts College
+   - **References:** Bob Taylor, Designer, henry_nguyen@example.com
+Nathan Kim, Coordinator, sam_kumar@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** eva_jackson@example.com, City, Techtopia
+   - **Projects:** Developed the Groundbreaking System for Solving Collaboration
+

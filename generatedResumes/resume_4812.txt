@@ -1,0 +1,10 @@
+4812. **Name:** Leo Nguyen
+   - **Skills:** HTML, React, Machine Learning, Vue.js
+   - **Experience:** Junior Manager at CreativeSolutions
+   - **Education:** Master in Engineering from Data Science School
+   - **References:** Nathan Cruz, Developer, david_kumar@example.com
+Olivia Lopez, CEO, tina_wang@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** ivy_lee@example.com, City, Innoville
+   - **Projects:** Developed the Innovative Project for Solving Collaboration
+

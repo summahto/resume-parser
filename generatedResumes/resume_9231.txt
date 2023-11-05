@@ -1,0 +1,10 @@
+9231. **Name:** Jack Nguyen
+   - **Skills:** Network Administration, C#, Docker, Vue.js
+   - **Experience:** Junior Analyst at TechCorp
+   - **Education:** Ph.D. in Data Science from Inno Institute
+   - **References:** Victoria Silva, Analyst, ulysses_lopez@example.com
+Jack Sato, Analyst, frank_patel@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** ivy_garcia@example.com, Village, Scienceburg
+   - **Projects:** Contributed to the Groundbreaking App for Solving Business Processes
+

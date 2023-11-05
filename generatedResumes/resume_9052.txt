@@ -1,0 +1,10 @@
+9052. **Name:** Ivy Rodriguez
+   - **Skills:** Agile, Kubernetes, iOS Development, HTML
+   - **Experience:** Senior Developer at DataExperts
+   - **Education:** Bachelor in Data Science from Data Science School
+   - **References:** Olivia Lopez, Developer, patrick_kim@example.com
+Rachel Smith, Coordinator, frank_brown@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** walter_lópez@example.com, City, Innoville
+   - **Projects:** Contributed to the Cutting-edge Platform for Enhancing User Experience
+

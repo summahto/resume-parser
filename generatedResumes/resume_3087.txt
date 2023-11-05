@@ -1,0 +1,10 @@
+3087. **Name:** Ivy Wang
+   - **Skills:** Project Management, Docker, Machine Learning, Android Development
+   - **Experience:** Lead Engineer at DataInnovators
+   - **Education:** Bachelor in Engineering from Business School
+   - **References:** Tina Smith, Analyst, mia_kumar@example.com
+Ulysses Cruz, Scientist, henry_jackson@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** ivy_nguyen@example.com, Village, Techtopia
+   - **Projects:** Led the Groundbreaking System for Solving User Experience
+

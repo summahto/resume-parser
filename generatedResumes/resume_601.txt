@@ -1,0 +1,10 @@
+601. **Name:** Sam Silva
+   - **Skills:** Blockchain, DevOps, HTML, Git
+   - **Experience:** Junior Manager at DataExperts
+   - **Education:** Bachelor in Engineering from Inno Institute
+   - **References:** Leo Garcia, Manager, ivy_yamamoto@example.com
+Walter Wu, Director, yuki_lee@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** sam_lee@example.com, Town, Techland
+   - **Projects:** Contributed to the Cutting-edge App for Solving Business Processes
+

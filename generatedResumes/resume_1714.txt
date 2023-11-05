@@ -1,0 +1,10 @@
+1714. **Name:** Ivy Suzuki
+   - **Skills:** HTML, Python, CSS, JavaScript
+   - **Experience:** Junior Developer at InnovativeTech
+   - **Education:** Ph.D. in Computer Science from Tech University
+   - **References:** Jack Williams, Developer, david_nguyen@example.com
+Victoria White, Developer, tina_wu@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** katherine_lopez@example.com, Village, Scienceburg
+   - **Projects:** Developed the Innovative Project for Streamlining Data Analysis
+

@@ -1,0 +1,10 @@
+5437. **Name:** Olivia Smith
+   - **Skills:** SQL, HTML, UI/UX Design, Graphic Design
+   - **Experience:** Junior Analyst at DigitalSolutions
+   - **Education:** Master in Art from Creative Arts College
+   - **References:** David Taylor, Director, frank_patel@example.com
+Quinn Patel, CEO, alice_wang@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** olivia_suzuki@example.com, City, Innovation Meadows
+   - **Projects:** Contributed to the Revolutionary App for Streamlining Problem-solving
+

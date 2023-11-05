@@ -1,0 +1,10 @@
+1133. **Name:** Grace Gupta
+   - **Skills:** DevOps, Node.js, Graphic Design, Machine Learning
+   - **Experience:** Lead Engineer at DataInnovators
+   - **Education:** Bachelor in Data Science from Creative Arts College
+   - **References:** Ivy Kumar, Manager, bob_brown@example.com
+Mia Kumar, Manager, katherine_davis@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** quinn_smith@example.com, Town, Innovation Meadows
+   - **Projects:** Developed the Innovative Project for Optimizing Business Processes
+

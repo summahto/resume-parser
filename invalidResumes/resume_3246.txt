@@ -1,0 +1,10 @@
+3246. **Name:** Bob Kumar
+   - **Skills:** Swift, iOS Development, Graphic Design, React
+   - **Experience:** Junior Developer at CreativeSolutions
+   - **Education:** Master in Computer Science from Business School
+   - **References:** Frank Li, CEO, yuki_lópez@example.com
+Frank Cruz, Analyst, katherine_lee@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** leo_taylor@example.com, Village, Data Haven
+   - **Projects:** Developed the Cutting-edge App for Solving Collaboration
+

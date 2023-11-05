@@ -1,0 +1,10 @@
+5300. **Name:** Leo Jackson
+   - **Skills:** HTML, SQL, Network Administration, Project Management
+   - **Experience:** Senior Analyst at DataInnovators
+   - **Education:** Master in Data Science from Business School
+   - **References:** Patrick Rodriguez, Lead, henry_kumar@example.com
+Ivy Wang, Director, quinn_yamamoto@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** ivy_brown@example.com, Village, Data Haven
+   - **Projects:** Developed the Innovative Platform for Optimizing Data Analysis
+

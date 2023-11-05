@@ -1,0 +1,10 @@
+4551. **Name:** Ivy Nguyen
+   - **Skills:** Agile, IoT, Kubernetes, Network Administration
+   - **Experience:** Junior Designer at DataExperts
+   - **Education:** Bachelor in Business Administration from Inno Institute
+   - **References:** Alice Jones, Developer, yuki_brown@example.com
+Sam Kumar, Director, frank_garcia@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** charlie_wu@example.com, City, Innoville
+   - **Projects:** Developed the Innovative Framework for Enhancing Collaboration
+

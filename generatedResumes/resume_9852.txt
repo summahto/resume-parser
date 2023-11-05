@@ -1,0 +1,10 @@
+9852. **Name:** Ulysses Gupta
+   - **Skills:** Java, HTML, Angular, Android Development
+   - **Experience:** Senior Manager at DigitalSolutions
+   - **Education:** Master in Business Administration from Data Science School
+   - **References:** Eva Cruz, Director, ivy_white@example.com
+David Patel, CEO, quinn_kumar@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** henry_rodriguez@example.com, Village, Data City
+   - **Projects:** Led the Innovative Platform for Streamlining Collaboration
+

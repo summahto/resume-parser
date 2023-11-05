@@ -1,0 +1,10 @@
+6499. **Name:** Rachel Gupta
+   - **Skills:** Swift, Project Management, React, iOS Development
+   - **Experience:** Junior Developer at DataInnovators
+   - **Education:** Ph.D. in Art from Physics Academy
+   - **References:** Tina Smith, Director, ulysses_wang@example.com
+Quinn Silva, Director, frank_silva@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** eva_rodriguez@example.com, Town, Data Haven
+   - **Projects:** Contributed to the Cutting-edge Framework for Solving User Experience
+

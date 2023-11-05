@@ -1,0 +1,10 @@
+2260. **Name:** Ulysses Nguyen
+   - **Skills:** Node.js, Machine Learning, DevOps, Graphic Design
+   - **Experience:** Senior Scientist at CreativeMinds
+   - **Education:** Bachelor in Engineering from Creative Arts College
+   - **References:** Tina Jones, Engineer, xena_lee@example.com
+Charlie Kumar, Manager, sam_wu@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** olivia_nguyen@example.com, Town, Data Haven
+   - **Projects:** Led the Groundbreaking App for Enhancing Data Analysis
+

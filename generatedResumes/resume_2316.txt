@@ -1,0 +1,10 @@
+2316. **Name:** Alice Gupta
+   - **Skills:** Project Management, Graphic Design, CSS, Swift
+   - **Experience:** Lead Manager at TechCorp
+   - **Education:** Bachelor in Data Science from Inno Institute
+   - **References:** Patrick Miller, Manager, charlie_kumar@example.com
+Rachel Chen, Analyst, tina_white@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** quinn_li@example.com, City, Inno Haven
+   - **Projects:** Led the Innovative App for Streamlining Business Processes
+

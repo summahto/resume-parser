@@ -1,0 +1,10 @@
+2180. **Name:** Olivia Kumar
+   - **Skills:** Docker, C#, SQL, Graphic Design
+   - **Experience:** Junior Scientist at CreativeMinds
+   - **Education:** Master in Business Administration from Data Science School
+   - **References:** Victoria Cruz, CEO, katherine_wu@example.com
+Bob White, Designer, nathan_wu@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** mia_gupta@example.com, Town, Data Haven
+   - **Projects:** Contributed to the Groundbreaking Project for Streamlining Problem-solving
+

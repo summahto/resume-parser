@@ -1,0 +1,10 @@
+5851. **Name:** Olivia López
+   - **Skills:** CSS, Big Data, Vue.js, HTML
+   - **Experience:** Junior Developer at TechCorp
+   - **Education:** Bachelor in Engineering from Creative Arts College
+   - **References:** Patrick Kim, Director, leo_white@example.com
+Katherine Rodriguez, Scientist, frank_lopez@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** xena_wang@example.com, City, Innoville
+   - **Projects:** Led the Cutting-edge Project for Streamlining Data Analysis
+

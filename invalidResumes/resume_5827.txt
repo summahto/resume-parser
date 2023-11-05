@@ -1,0 +1,10 @@
+5827. **Name:** Olivia Wang
+   - **Skills:** Android Development, iOS Development, SQL, React
+   - **Experience:** Junior Engineer at InnoSolutions
+   - **Education:** Ph.D. in Computer Science from Creative Arts College
+   - **References:** Ulysses Kumar, Lead, sam_miller@example.com
+Victoria Jones, CTO, zane_lópez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** eva_smith@example.com, Village, Scienceburg
+   - **Projects:** Led the Groundbreaking Framework for Enhancing Problem-solving
+

@@ -1,0 +1,10 @@
+8374. **Name:** Sam Wu
+   - **Skills:** React, Angular, CSS, Vue.js
+   - **Experience:** Junior Designer at DataExperts
+   - **Education:** Bachelor in Business Administration from Physics Academy
+   - **References:** Ivy Kumar, CEO, david_rodriguez@example.com
+Eva Rodriguez, Coordinator, rachel_patel@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** alice_white@example.com, City, Innoville
+   - **Projects:** Developed the Innovative App for Enhancing Data Analysis
+

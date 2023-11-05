@@ -1,0 +1,10 @@
+9182. **Name:** Zane Smith
+   - **Skills:** Big Data, Agile, C#, CSS
+   - **Experience:** Junior Developer at DataExperts
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Nathan Rodriguez, Engineer, patrick_cruz@example.com
+Victoria Chen, Manager, alice_lee@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** leo_silva@example.com, Town, Innoville
+   - **Projects:** Developed the Cutting-edge System for Optimizing Data Analysis
+

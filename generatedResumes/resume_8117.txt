@@ -1,0 +1,10 @@
+8117. **Name:** David López
+   - **Skills:** C#, Node.js, Java, DevOps
+   - **Experience:** Lead Analyst at CodeCrafters
+   - **Education:** Ph.D. in Business Administration from Physics Academy
+   - **References:** Grace López, CTO, zane_gupta@example.com
+Xena Kumar, Developer, sam_sato@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** zane_silva@example.com, City, Techtopia
+   - **Projects:** Developed the Revolutionary System for Streamlining Data Analysis
+

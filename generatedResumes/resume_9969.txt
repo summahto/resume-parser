@@ -1,0 +1,10 @@
+9969. **Name:** Frank Nguyen
+   - **Skills:** iOS Development, Android Development, Big Data, IoT
+   - **Experience:** Lead Developer at DigitalSolutions
+   - **Education:** Master in Art from Business School
+   - **References:** Henry Wu, CEO, jack_lee@example.com
+Katherine Patel, Lead, david_nguyen@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** alice_garcia@example.com, Town, Data Haven
+   - **Projects:** Developed the Innovative App for Streamlining Data Analysis
+

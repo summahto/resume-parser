@@ -1,0 +1,10 @@
+1712. **Name:** Katherine Gupta
+   - **Skills:** DevOps, IoT, Vue.js, Big Data
+   - **Experience:** Junior Designer at InnoSolutions
+   - **Education:** Master in Computer Science from Creative Arts College
+   - **References:** Mia López, Analyst, bob_smith@example.com
+Alice Smith, Coordinator, nathan_lee@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** alice_gonzalez@example.com, Village, Scienceburg
+   - **Projects:** Led the Cutting-edge App for Streamlining Data Analysis
+

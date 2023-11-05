@@ -1,0 +1,10 @@
+118. **Name:** Alice López
+   - **Skills:** Swift, Graphic Design, Big Data, React
+   - **Experience:** Lead Manager at DataExperts
+   - **Education:** Bachelor in Art from Physics Academy
+   - **References:** Mia Kumar, Engineer, patrick_johnson@example.com
+Sam Patel, Designer, charlie_kumar@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** xena_lópez@example.com, City, Innoville
+   - **Projects:** Led the Cutting-edge App for Solving Collaboration
+

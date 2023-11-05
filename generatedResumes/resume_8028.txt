@@ -1,0 +1,10 @@
+8028. **Name:** Olivia Wu
+   - **Skills:** Graphic Design, SQL, AR/VR Development, Agile
+   - **Experience:** Junior Scientist at TechCorp
+   - **Education:** Master in Business Administration from Data Science School
+   - **References:** Ivy Wu, Lead, xena_wu@example.com
+Katherine Kumar, Designer, frank_li@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** bob_lee@example.com, Town, Innovation Meadows
+   - **Projects:** Contributed to the Cutting-edge Framework for Streamlining Problem-solving
+

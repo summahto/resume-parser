@@ -1,0 +1,10 @@
+7127. **Name:** Victoria Li
+   - **Skills:** Git, Network Administration, Graphic Design, Android Development
+   - **Experience:** Lead Manager at TechCorp
+   - **Education:** Bachelor in Business Administration from Physics Academy
+   - **References:** Yuki Yamamoto, CEO, nathan_li@example.com
+Mia Wu, CTO, victoria_jones@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** olivia_rodriguez@example.com, Village, Data City
+   - **Projects:** Developed the Revolutionary Framework for Solving Problem-solving
+

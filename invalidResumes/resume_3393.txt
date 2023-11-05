@@ -1,0 +1,10 @@
+3393. **Name:** Mia Johnson
+   - **Skills:** iOS Development, Project Management, Git, Machine Learning
+   - **Experience:** Lead Scientist at CodeCrafters
+   - **Education:** Bachelor in Engineering from Data Science School
+   - **References:** Sam Patel, Analyst, eva_jackson@example.com
+Mia López, CTO, ulysses_chen@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** xena_kumar@example.com, Town, Innoville
+   - **Projects:** Led the Groundbreaking Project for Enhancing Problem-solving
+

@@ -1,0 +1,10 @@
+6869. **Name:** Grace Taylor
+   - **Skills:** Kubernetes, Java, C#, Agile
+   - **Experience:** Junior Scientist at CreativeMinds
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** Zane Kumar, Analyst, patrick_rodriguez@example.com
+Grace Patel, Lead, katherine_lee@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** jack_patel@example.com, Village, Techland
+   - **Projects:** Contributed to the Groundbreaking App for Streamlining Data Analysis
+

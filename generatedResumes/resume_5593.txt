@@ -1,0 +1,10 @@
+5593. **Name:** Ivy Garcia
+   - **Skills:** Angular, iOS Development, IoT, Android Development
+   - **Experience:** Junior Analyst at CreativeSolutions
+   - **Education:** Master in Data Science from Physics Academy
+   - **References:** Quinn Nguyen, Lead, henry_kumar@example.com
+Bob Patel, Scientist, leo_taylor@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** rachel_singh@example.com, Village, Data City
+   - **Projects:** Led the Cutting-edge Project for Enhancing Data Analysis
+

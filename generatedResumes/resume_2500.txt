@@ -1,0 +1,10 @@
+2500. **Name:** Victoria Taylor
+   - **Skills:** HTML, Blockchain, Android Development, React
+   - **Experience:** Senior Scientist at CodeCrafters
+   - **Education:** Bachelor in Art from Data Science School
+   - **References:** Xena Cruz, CTO, eva_kumar@example.com
+Nathan Jones, Engineer, bob_miller@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** grace_lopez@example.com, Village, Innovation Meadows
+   - **Projects:** Led the Innovative Framework for Streamlining Business Processes
+

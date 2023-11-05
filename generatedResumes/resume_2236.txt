@@ -1,0 +1,10 @@
+2236. **Name:** Ulysses Garcia
+   - **Skills:** HTML, Graphic Design, JavaScript, Java
+   - **Experience:** Lead Designer at TechCorp
+   - **Education:** Ph.D. in Data Science from Physics Academy
+   - **References:** Xena Silva, Manager, yuki_gupta@example.com
+Alice Kim, CTO, ulysses_jones@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** ulysses_silva@example.com, City, Techland
+   - **Projects:** Led the Groundbreaking System for Streamlining Problem-solving
+

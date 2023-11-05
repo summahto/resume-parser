@@ -1,0 +1,10 @@
+1858. **Name:** Frank Jackson
+   - **Skills:** Git, Docker, Cloud Computing, iOS Development
+   - **Experience:** Senior Developer at InnoSolutions
+   - **Education:** Ph.D. in Engineering from Business School
+   - **References:** Walter Gupta, CEO, patrick_chen@example.com
+Ulysses White, CTO, grace_rodriguez@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** frank_kumar@example.com, Village, Data City
+   - **Projects:** Led the Cutting-edge Project for Enhancing User Experience
+

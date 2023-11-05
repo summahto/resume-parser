@@ -1,0 +1,10 @@
+5547. **Name:** Mia Jackson
+   - **Skills:** React, Graphic Design, C#, Docker
+   - **Experience:** Senior Designer at DataInnovators
+   - **Education:** Bachelor in Physics from Tech University
+   - **References:** Tina Gupta, Lead, frank_wu@example.com
+Ulysses Silva, Coordinator, patrick_rodriguez@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** alice_gonzalez@example.com, Town, Data City
+   - **Projects:** Developed the Innovative Framework for Solving Business Processes
+

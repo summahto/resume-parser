@@ -1,0 +1,10 @@
+4086. **Name:** Olivia Cruz
+   - **Skills:** Swift, AR/VR Development, Kubernetes, DevOps
+   - **Experience:** Lead Analyst at CreativeSolutions
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Katherine Miller, Designer, frank_nguyen@example.com
+Jack Kim, Engineer, quinn_taylor@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** victoria_lee@example.com, Village, Innoville
+   - **Projects:** Developed the Groundbreaking Platform for Streamlining Collaboration
+

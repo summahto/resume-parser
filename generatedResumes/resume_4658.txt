@@ -1,0 +1,10 @@
+4658. **Name:** Leo Taylor
+   - **Skills:** Big Data, Agile, IoT, Data Analysis
+   - **Experience:** Junior Designer at InnovativeTech
+   - **Education:** Ph.D. in Engineering from Inno Institute
+   - **References:** Victoria Lee, Director, nathan_jones@example.com
+Ulysses Cruz, Engineer, grace_patel@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** yuki_kumar@example.com, City, Techland
+   - **Projects:** Led the Innovative Framework for Solving Collaboration
+

@@ -1,0 +1,10 @@
+7391. **Name:** Quinn Nguyen
+   - **Skills:** SQL, Blockchain, Git, iOS Development
+   - **Experience:** Junior Developer at InnovativeTech
+   - **Education:** Ph.D. in Art from Data Science School
+   - **References:** Zane Wang, Manager, grace_white@example.com
+Bob Silva, Coordinator, quinn_nguyen@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** xena_chen@example.com, Village, Scienceburg
+   - **Projects:** Contributed to the Innovative Platform for Enhancing Problem-solving
+

@@ -1,0 +1,10 @@
+3428. **Name:** Alice Singh
+   - **Skills:** Big Data, Python, Git, Data Analysis
+   - **Experience:** Junior Developer at DataExperts
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Xena Brown, Director, yuki_wang@example.com
+Rachel Silva, Manager, nathan_silva@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** olivia_wu@example.com, Village, Data City
+   - **Projects:** Developed the Innovative System for Streamlining Collaboration
+

@@ -1,0 +1,10 @@
+6910. **Name:** David Miller
+   - **Skills:** iOS Development, Git, Android Development, C#
+   - **Experience:** Senior Engineer at CodeCrafters
+   - **Education:** Master in Computer Science from Physics Academy
+   - **References:** Leo Wang, Lead, katherine_smith@example.com
+Yuki Jackson, Scientist, grace_chen@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** olivia_wu@example.com, Village, Techland
+   - **Projects:** Led the Cutting-edge System for Optimizing Data Analysis
+

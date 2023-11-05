@@ -1,0 +1,10 @@
+8515. **Name:** Sam White
+   - **Skills:** Kubernetes, Angular, Cybersecurity, DevOps
+   - **Experience:** Senior Scientist at DataExperts
+   - **Education:** Bachelor in Art from Physics Academy
+   - **References:** Victoria Lee, Scientist, mia_wu@example.com
+Bob Singh, Analyst, walter_lopez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** yuki_lópez@example.com, City, Scienceburg
+   - **Projects:** Led the Groundbreaking Platform for Solving Problem-solving
+

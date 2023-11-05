@@ -1,0 +1,10 @@
+6218. **Name:** Sam White
+   - **Skills:** C#, HTML, Graphic Design, Vue.js
+   - **Experience:** Senior Manager at TechCorp
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Nathan Jackson, Lead, sam_suzuki@example.com
+Rachel Patel, Director, victoria_silva@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** alice_davis@example.com, City, Techland
+   - **Projects:** Contributed to the Cutting-edge Platform for Streamlining User Experience
+

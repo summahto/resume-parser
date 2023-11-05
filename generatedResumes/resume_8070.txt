@@ -1,0 +1,10 @@
+8070. **Name:** Grace Lopez
+   - **Skills:** Angular, HTML, Docker, Agile
+   - **Experience:** Senior Designer at DataExperts
+   - **Education:** Bachelor in Business Administration from Inno Institute
+   - **References:** Katherine Kumar, Scientist, leo_nguyen@example.com
+Alice Kumar, Designer, henry_brown@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** zane_patel@example.com, Town, Techtopia
+   - **Projects:** Developed the Cutting-edge Platform for Solving Business Processes
+

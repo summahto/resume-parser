@@ -1,0 +1,10 @@
+78. **Name:** Jack Gonzalez
+   - **Skills:** Vue.js, Agile, Graphic Design, Node.js
+   - **Experience:** Junior Developer at TechCorp
+   - **Education:** Ph.D. in Computer Science from Tech University
+   - **References:** Leo Patel, Director, grace_taylor@example.com
+Walter López, Coordinator, frank_lopez@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** nathan_chen@example.com, Town, Data City
+   - **Projects:** Led the Innovative Project for Enhancing Business Processes
+

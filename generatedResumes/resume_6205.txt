@@ -1,0 +1,10 @@
+6205. **Name:** Ivy Garcia
+   - **Skills:** Python, Agile, React, CSS
+   - **Experience:** Senior Scientist at TechInnovate
+   - **Education:** Bachelor in Physics from Physics Academy
+   - **References:** Mia Wu, Scientist, xena_kim@example.com
+Grace Jackson, Analyst, alice_garcia@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** mia_nguyen@example.com, Town, Techland
+   - **Projects:** Led the Groundbreaking Project for Enhancing Data Analysis
+

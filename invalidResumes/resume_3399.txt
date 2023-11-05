@@ -1,0 +1,10 @@
+3399. **Name:** Xena López
+   - **Skills:** Graphic Design, IoT, Kubernetes, Project Management
+   - **Experience:** Junior Analyst at InnoSolutions
+   - **Education:** Master in Business Administration from Data Science School
+   - **References:** Patrick White, CTO, jack_white@example.com
+Patrick Wang, Director, david_cruz@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** quinn_nguyen@example.com, City, Inno Haven
+   - **Projects:** Contributed to the Revolutionary System for Enhancing Data Analysis
+

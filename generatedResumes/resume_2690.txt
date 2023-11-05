@@ -1,0 +1,10 @@
+2690. **Name:** Katherine Jackson
+   - **Skills:** Project Management, UI/UX Design, SQL, IoT
+   - **Experience:** Lead Designer at DataInnovators
+   - **Education:** Master in Data Science from Inno Institute
+   - **References:** Mia Patel, Director, ivy_silva@example.com
+Victoria Lopez, CEO, jack_miller@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** mia_garcia@example.com, Town, Data Haven
+   - **Projects:** Contributed to the Revolutionary System for Streamlining User Experience
+

@@ -1,0 +1,10 @@
+3514. **Name:** Grace Nguyen
+   - **Skills:** C#, Machine Learning, iOS Development, UI/UX Design
+   - **Experience:** Lead Engineer at TechCorp
+   - **Education:** Bachelor in Computer Science from Business School
+   - **References:** Zane Lopez, CEO, rachel_lee@example.com
+Ivy Singh, Manager, ulysses_silva@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** jack_kumar@example.com, Town, Techland
+   - **Projects:** Led the Innovative System for Optimizing Data Analysis
+

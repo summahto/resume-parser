@@ -1,0 +1,10 @@
+3765. **Name:** Leo Nguyen
+   - **Skills:** Java, JavaScript, iOS Development, Android Development
+   - **Experience:** Junior Scientist at CreativeSolutions
+   - **Education:** Bachelor in Computer Science from Physics Academy
+   - **References:** Yuki Kumar, Director, eva_patel@example.com
+Victoria Jackson, CTO, nathan_taylor@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** grace_lee@example.com, City, Techtopia
+   - **Projects:** Contributed to the Revolutionary System for Solving Collaboration
+

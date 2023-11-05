@@ -1,0 +1,10 @@
+7991. **Name:** Sam Jones
+   - **Skills:** Docker, SQL, Vue.js, UI/UX Design
+   - **Experience:** Junior Engineer at CodeCrafters
+   - **Education:** Bachelor in Engineering from Physics Academy
+   - **References:** Bob Jones, Engineer, bob_kumar@example.com
+Bob Wu, CEO, sam_garcia@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** henry_brown@example.com, Village, Scienceburg
+   - **Projects:** Developed the Cutting-edge Platform for Enhancing Collaboration
+

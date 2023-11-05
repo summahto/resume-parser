@@ -1,0 +1,10 @@
+6739. **Name:** Ivy Chen
+   - **Skills:** Project Management, Machine Learning, Network Administration, React
+   - **Experience:** Lead Developer at CodeCrafters
+   - **Education:** Bachelor in Engineering from Inno Institute
+   - **References:** Xena Miller, Engineer, ivy_lopez@example.com
+Leo Cruz, Coordinator, sam_jones@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** ulysses_kim@example.com, City, Techland
+   - **Projects:** Led the Groundbreaking App for Optimizing User Experience
+

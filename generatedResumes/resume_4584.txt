@@ -1,0 +1,10 @@
+4584. **Name:** Zane White
+   - **Skills:** HTML, Git, Data Analysis, UI/UX Design
+   - **Experience:** Senior Manager at DataExperts
+   - **Education:** Bachelor in Engineering from Data Science School
+   - **References:** Quinn Garcia, Coordinator, ulysses_taylor@example.com
+Grace Suzuki, Scientist, grace_silva@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** victoria_lee@example.com, Village, Data City
+   - **Projects:** Developed the Revolutionary Platform for Optimizing Data Analysis
+

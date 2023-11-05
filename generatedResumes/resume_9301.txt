@@ -1,0 +1,10 @@
+9301. **Name:** Henry Silva
+   - **Skills:** HTML, UI/UX Design, Blockchain, JavaScript
+   - **Experience:** Junior Developer at InnoSolutions
+   - **Education:** Master in Data Science from Creative Arts College
+   - **References:** Leo Wang, Coordinator, grace_kim@example.com
+Ulysses Cruz, Engineer, sam_brown@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** patrick_kumar@example.com, Village, Artopia
+   - **Projects:** Developed the Groundbreaking Platform for Streamlining Collaboration
+

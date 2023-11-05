@@ -1,0 +1,10 @@
+8297. **Name:** Nathan Rodriguez
+   - **Skills:** Vue.js, Node.js, Android Development, UI/UX Design
+   - **Experience:** Junior Scientist at InnoSolutions
+   - **Education:** Bachelor in Business Administration from Physics Academy
+   - **References:** Patrick Wang, CTO, victoria_taylor@example.com
+Nathan White, Designer, alice_lee@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** patrick_lópez@example.com, Town, Innoville
+   - **Projects:** Developed the Innovative System for Enhancing Problem-solving
+

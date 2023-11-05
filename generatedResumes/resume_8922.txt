@@ -1,0 +1,10 @@
+8922. **Name:** Xena Gupta
+   - **Skills:** Angular, SQL, Android Development, Data Analysis
+   - **Experience:** Lead Designer at CodeCrafters
+   - **Education:** Ph.D. in Business Administration from Creative Arts College
+   - **References:** Ulysses Jones, Coordinator, bob_patel@example.com
+Leo Patel, CTO, nathan_miller@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** grace_wang@example.com, City, Techtopia
+   - **Projects:** Developed the Cutting-edge Platform for Optimizing Data Analysis
+

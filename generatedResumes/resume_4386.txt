@@ -1,0 +1,10 @@
+4386. **Name:** Katherine Gupta
+   - **Skills:** Java, CSS, Cloud Computing, Blockchain
+   - **Experience:** Junior Analyst at CodeCrafters
+   - **Education:** Bachelor in Physics from Inno Institute
+   - **References:** Grace Lopez, Director, xena_miller@example.com
+Henry Gupta, Director, alice_garcia@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** xena_nguyen@example.com, Town, Data City
+   - **Projects:** Developed the Revolutionary Platform for Streamlining Problem-solving
+

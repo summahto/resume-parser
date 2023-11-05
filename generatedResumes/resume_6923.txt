@@ -1,0 +1,10 @@
+6923. **Name:** Charlie Jones
+   - **Skills:** Java, HTML, Agile, Swift
+   - **Experience:** Senior Engineer at CreativeSolutions
+   - **Education:** Master in Computer Science from Inno Institute
+   - **References:** Ulysses López, Scientist, jack_lopez@example.com
+Mia Patel, CEO, henry_jackson@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** henry_patel@example.com, City, Data Haven
+   - **Projects:** Led the Groundbreaking App for Streamlining Business Processes
+

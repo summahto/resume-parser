@@ -1,0 +1,10 @@
+4113. **Name:** Sam White
+   - **Skills:** Machine Learning, IoT, Swift, UI/UX Design
+   - **Experience:** Senior Manager at InnovativeTech
+   - **Education:** Master in Business Administration from Creative Arts College
+   - **References:** Victoria Silva, Engineer, david_silva@example.com
+Rachel Taylor, Coordinator, xena_silva@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** tina_jackson@example.com, Village, Techland
+   - **Projects:** Led the Groundbreaking Project for Optimizing Problem-solving
+

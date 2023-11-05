@@ -1,0 +1,10 @@
+3446. **Name:** Leo Nguyen
+   - **Skills:** Agile, AR/VR Development, DevOps, Vue.js
+   - **Experience:** Junior Designer at TechInnovate
+   - **Education:** Bachelor in Data Science from Data Science School
+   - **References:** Mia Müller, CTO, david_wu@example.com
+Bob Jones, Analyst, xena_jones@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** yuki_smith@example.com, Village, Inno Haven
+   - **Projects:** Developed the Cutting-edge Platform for Optimizing Data Analysis
+

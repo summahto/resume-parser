@@ -1,0 +1,10 @@
+3786. **Name:** David Yamamoto
+   - **Skills:** IoT, C#, JavaScript, Agile
+   - **Experience:** Junior Engineer at CreativeSolutions
+   - **Education:** Ph.D. in Art from Tech University
+   - **References:** Ulysses Cruz, Scientist, henry_jones@example.com
+Ivy Jackson, Analyst, yuki_suzuki@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** charlie_williams@example.com, City, Techland
+   - **Projects:** Led the Innovative Platform for Enhancing Business Processes
+

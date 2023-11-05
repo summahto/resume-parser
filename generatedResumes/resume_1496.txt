@@ -1,0 +1,10 @@
+1496. **Name:** Katherine Smith
+   - **Skills:** Git, JavaScript, UI/UX Design, IoT
+   - **Experience:** Senior Manager at DigitalSolutions
+   - **Education:** Ph.D. in Engineering from Business School
+   - **References:** Frank Nguyen, Scientist, ivy_smith@example.com
+Katherine Jackson, Scientist, yuki_johnson@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** eva_davis@example.com, Town, Inno Haven
+   - **Projects:** Developed the Revolutionary App for Solving Business Processes
+

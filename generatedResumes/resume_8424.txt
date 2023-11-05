@@ -1,0 +1,10 @@
+8424. **Name:** Walter Taylor
+   - **Skills:** React, AR/VR Development, Git, IoT
+   - **Experience:** Junior Engineer at TechInnovate
+   - **Education:** Master in Computer Science from Business School
+   - **References:** Quinn Taylor, Designer, charlie_nguyen@example.com
+Walter Kumar, Designer, patrick_brown@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** victoria_garcia@example.com, City, Techtopia
+   - **Projects:** Developed the Groundbreaking System for Streamlining Problem-solving
+

@@ -1,0 +1,10 @@
+4666. **Name:** Olivia Wang
+   - **Skills:** Angular, iOS Development, Big Data, IoT
+   - **Experience:** Senior Engineer at TechCorp
+   - **Education:** Master in Physics from Physics Academy
+   - **References:** Henry Kumar, Designer, rachel_lee@example.com
+Quinn Wang, Analyst, david_lee@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** nathan_miller@example.com, Village, Data Haven
+   - **Projects:** Developed the Groundbreaking Platform for Solving Data Analysis
+

@@ -1,0 +1,10 @@
+5723. **Name:** Yuki Jackson
+   - **Skills:** Angular, Graphic Design, Cybersecurity, AR/VR Development
+   - **Experience:** Senior Manager at CreativeMinds
+   - **Education:** Master in Business Administration from Physics Academy
+   - **References:** Patrick López, Coordinator, yuki_wang@example.com
+Sam Silva, Designer, nathan_jackson@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** david_gupta@example.com, City, Data City
+   - **Projects:** Led the Revolutionary System for Streamlining Collaboration
+

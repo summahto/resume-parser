@@ -1,0 +1,10 @@
+1908. **Name:** Jack Kumar
+   - **Skills:** Graphic Design, Project Management, Angular, AR/VR Development
+   - **Experience:** Junior Analyst at DataInnovators
+   - **Education:** Master in Engineering from Inno Institute
+   - **References:** Charlie Chen, Designer, olivia_white@example.com
+Grace Yamamoto, Coordinator, nathan_smith@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** jack_singh@example.com, City, Artopia
+   - **Projects:** Contributed to the Revolutionary Platform for Enhancing User Experience
+

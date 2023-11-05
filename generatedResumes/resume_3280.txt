@@ -1,0 +1,10 @@
+3280. **Name:** Jack Li
+   - **Skills:** Cybersecurity, Vue.js, IoT, Data Analysis
+   - **Experience:** Junior Analyst at DataExperts
+   - **Education:** Ph.D. in Art from Business School
+   - **References:** Walter Kumar, Engineer, ivy_jones@example.com
+David Jones, Analyst, frank_white@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** walter_lee@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Innovative Framework for Solving Data Analysis
+

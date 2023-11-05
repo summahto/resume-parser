@@ -1,0 +1,10 @@
+9051. **Name:** Bob White
+   - **Skills:** SQL, React, Docker, Big Data
+   - **Experience:** Lead Manager at DataExperts
+   - **Education:** Master in Art from Data Science School
+   - **References:** David Singh, Developer, leo_silva@example.com
+Eva López, Director, sam_johnson@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** ivy_jones@example.com, City, Data City
+   - **Projects:** Contributed to the Revolutionary Project for Solving Data Analysis
+

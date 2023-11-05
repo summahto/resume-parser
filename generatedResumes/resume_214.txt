@@ -1,0 +1,10 @@
+214. **Name:** Patrick Gupta
+   - **Skills:** C#, Docker, IoT, Cloud Computing
+   - **Experience:** Junior Developer at CreativeSolutions
+   - **Education:** Ph.D. in Engineering from Inno Institute
+   - **References:** Xena Johnson, Lead, ivy_patel@example.com
+Bob Li, Coordinator, yuki_miller@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** tina_kumar@example.com, City, Innovation Meadows
+   - **Projects:** Contributed to the Revolutionary System for Optimizing Data Analysis
+

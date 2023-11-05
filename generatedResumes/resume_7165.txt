@@ -1,0 +1,10 @@
+7165. **Name:** Eva Chen
+   - **Skills:** Project Management, SQL, DevOps, HTML
+   - **Experience:** Lead Developer at CreativeSolutions
+   - **Education:** Master in Physics from Inno Institute
+   - **References:** David White, Analyst, david_taylor@example.com
+Tina Taylor, Coordinator, grace_hernandez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** sam_yamamoto@example.com, Town, Innoville
+   - **Projects:** Led the Innovative System for Optimizing Problem-solving
+

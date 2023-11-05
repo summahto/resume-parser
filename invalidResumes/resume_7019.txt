@@ -1,0 +1,10 @@
+7019. **Name:** Leo Chen
+   - **Skills:** iOS Development, C#, Network Administration, Git
+   - **Experience:** Junior Scientist at TechCorp
+   - **Education:** Ph.D. in Physics from Data Science School
+   - **References:** Jack Kumar, Lead, yuki_gupta@example.com
+Bob Rodriguez, Analyst, bob_nguyen@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** olivia_lópez@example.com, Village, Innovation Meadows
+   - **Projects:** Developed the Innovative Framework for Enhancing User Experience
+

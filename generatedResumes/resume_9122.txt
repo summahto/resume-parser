@@ -1,0 +1,10 @@
+9122. **Name:** Charlie Garcia
+   - **Skills:** Machine Learning, C#, Blockchain, Docker
+   - **Experience:** Senior Developer at DataExperts
+   - **Education:** Master in Business Administration from Tech University
+   - **References:** Xena Silva, Manager, rachel_kumar@example.com
+Alice Lee, Lead, mia_nguyen@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** walter_smith@example.com, Village, Innoville
+   - **Projects:** Led the Groundbreaking System for Solving Collaboration
+

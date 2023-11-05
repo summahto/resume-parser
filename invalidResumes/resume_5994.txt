@@ -1,0 +1,10 @@
+5994. **Name:** Katherine Brown
+   - **Skills:** Python, Data Analysis, Vue.js, Agile
+   - **Experience:** Lead Developer at InnoSolutions
+   - **Education:** Ph.D. in Data Science from Data Science School
+   - **References:** Yuki Jackson, Engineer, eva_nguyen@example.com
+Walter López, Manager, tina_white@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** charlie_patel@example.com, City, Data City
+   - **Projects:** Led the Cutting-edge Platform for Streamlining Business Processes
+

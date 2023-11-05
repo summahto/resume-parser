@@ -1,0 +1,10 @@
+3261. **Name:** Leo López
+   - **Skills:** Java, iOS Development, Project Management, React
+   - **Experience:** Lead Developer at DataExperts
+   - **Education:** Master in Physics from Business School
+   - **References:** Ulysses Silva, Designer, henry_lee@example.com
+Bob Lopez, Director, xena_lópez@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** victoria_smith@example.com, Town, Green Valley
+   - **Projects:** Contributed to the Innovative Platform for Streamlining Collaboration
+

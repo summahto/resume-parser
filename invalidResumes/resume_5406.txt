@@ -1,0 +1,10 @@
+5406. **Name:** Mia Rodriguez
+   - **Skills:** SQL, Graphic Design, Swift, C#
+   - **Experience:** Lead Engineer at DataExperts
+   - **Education:** Ph.D. in Physics from Data Science School
+   - **References:** Tina Patel, Lead, katherine_lópez@example.com
+Bob López, Engineer, ivy_patel@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** yuki_miller@example.com, Town, Innoville
+   - **Projects:** Developed the Innovative Platform for Solving Problem-solving
+

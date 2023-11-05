@@ -1,0 +1,10 @@
+4041. **Name:** Frank Kumar
+   - **Skills:** Git, AR/VR Development, Big Data, React
+   - **Experience:** Junior Developer at CodeCrafters
+   - **Education:** Master in Physics from Creative Arts College
+   - **References:** Katherine Wu, Designer, ulysses_kumar@example.com
+Walter Williams, Manager, nathan_kumar@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** quinn_white@example.com, City, Data Haven
+   - **Projects:** Developed the Innovative System for Solving Collaboration
+

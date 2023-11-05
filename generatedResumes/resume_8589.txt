@@ -1,0 +1,10 @@
+8589. **Name:** Nathan Wang
+   - **Skills:** Docker, React, Blockchain, Git
+   - **Experience:** Lead Manager at TechCorp
+   - **Education:** Ph.D. in Art from Tech University
+   - **References:** Yuki Lee, Coordinator, nathan_wu@example.com
+Zane Davis, Analyst, walter_suzuki@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** nathan_patel@example.com, City, Data Haven
+   - **Projects:** Developed the Innovative System for Solving Problem-solving
+

@@ -1,0 +1,10 @@
+1984. **Name:** David Wu
+   - **Skills:** Big Data, Project Management, Android Development, Machine Learning
+   - **Experience:** Junior Engineer at InnoSolutions
+   - **Education:** Bachelor in Data Science from Creative Arts College
+   - **References:** Bob Gupta, Director, yuki_wu@example.com
+Grace Rodriguez, CEO, zane_jones@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** frank_wang@example.com, Village, Techtopia
+   - **Projects:** Developed the Innovative System for Enhancing Collaboration
+

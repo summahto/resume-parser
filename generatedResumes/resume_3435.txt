@@ -1,0 +1,10 @@
+3435. **Name:** Leo Silva
+   - **Skills:** Blockchain, Git, IoT, iOS Development
+   - **Experience:** Senior Scientist at DigitalSolutions
+   - **Education:** Master in Computer Science from Inno Institute
+   - **References:** Grace Kumar, CEO, ivy_garcia@example.com
+Eva Miller, Engineer, jack_rodriguez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** grace_miller@example.com, Town, Artopia
+   - **Projects:** Led the Revolutionary Project for Optimizing User Experience
+

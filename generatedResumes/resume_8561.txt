@@ -1,0 +1,10 @@
+8561. **Name:** Jack Kumar
+   - **Skills:** SQL, Agile, Network Administration, UI/UX Design
+   - **Experience:** Junior Manager at InnoSolutions
+   - **Education:** Ph.D. in Engineering from Business School
+   - **References:** Yuki Lopez, Lead, mia_singh@example.com
+Leo Wang, Designer, sam_wu@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** nathan_patel@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Cutting-edge Project for Enhancing Business Processes
+

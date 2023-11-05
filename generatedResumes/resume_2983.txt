@@ -1,0 +1,10 @@
+2983. **Name:** Xena Garcia
+   - **Skills:** Android Development, Node.js, iOS Development, SQL
+   - **Experience:** Lead Developer at DataInnovators
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** Zane Patel, Engineer, patrick_white@example.com
+Sam Kumar, CEO, bob_jackson@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** olivia_müller@example.com, Town, Data City
+   - **Projects:** Led the Cutting-edge Platform for Optimizing User Experience
+

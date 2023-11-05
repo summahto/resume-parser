@@ -1,0 +1,10 @@
+4994. **Name:** Frank Jones
+   - **Skills:** IoT, Angular, Data Analysis, Android Development
+   - **Experience:** Senior Developer at DataExperts
+   - **Education:** Master in Business Administration from Business School
+   - **References:** Tina Kim, Engineer, rachel_garcia@example.com
+Frank Patel, Scientist, katherine_white@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** nathan_kim@example.com, Village, Inno Haven
+   - **Projects:** Developed the Groundbreaking App for Optimizing Problem-solving
+

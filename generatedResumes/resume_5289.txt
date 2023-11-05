@@ -1,0 +1,10 @@
+5289. **Name:** Alice Wu
+   - **Skills:** Big Data, Docker, Vue.js, Data Analysis
+   - **Experience:** Senior Scientist at InnovativeTech
+   - **Education:** Master in Engineering from Tech University
+   - **References:** Henry Cruz, Analyst, yuki_wu@example.com
+Katherine Taylor, Lead, leo_silva@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** xena_chen@example.com, Village, Scienceburg
+   - **Projects:** Led the Innovative System for Streamlining Data Analysis
+

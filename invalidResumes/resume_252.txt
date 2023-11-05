@@ -1,0 +1,10 @@
+252. **Name:** Olivia Gupta
+   - **Skills:** JavaScript, iOS Development, Vue.js, HTML
+   - **Experience:** Senior Manager at InnoSolutions
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Patrick Chen, Engineer, sam_rodriguez@example.com
+Frank López, Scientist, charlie_gupta@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** quinn_kim@example.com, Town, Innoville
+   - **Projects:** Contributed to the Groundbreaking Project for Solving User Experience
+

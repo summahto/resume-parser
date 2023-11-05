@@ -1,0 +1,10 @@
+2773. **Name:** Mia Jones
+   - **Skills:** Graphic Design, Android Development, IoT, Java
+   - **Experience:** Senior Engineer at InnoSolutions
+   - **Education:** Ph.D. in Engineering from Business School
+   - **References:** Yuki Lee, Designer, mia_lee@example.com
+Charlie Smith, Scientist, henry_nguyen@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** ulysses_wang@example.com, Town, Innoville
+   - **Projects:** Contributed to the Groundbreaking System for Enhancing Data Analysis
+

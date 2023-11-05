@@ -1,0 +1,10 @@
+9726. **Name:** Tina Hernandez
+   - **Skills:** Data Analysis, Project Management, Cloud Computing, Git
+   - **Experience:** Junior Manager at CreativeSolutions
+   - **Education:** Master in Data Science from Creative Arts College
+   - **References:** Walter Cruz, Lead, rachel_jackson@example.com
+Henry Silva, Coordinator, jack_garcia@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** ivy_lopez@example.com, Village, Techland
+   - **Projects:** Led the Groundbreaking System for Enhancing Data Analysis
+

@@ -1,0 +1,10 @@
+3028. **Name:** Rachel Lee
+   - **Skills:** iOS Development, Kubernetes, Project Management, C#
+   - **Experience:** Junior Manager at InnovativeTech
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Alice Wu, Manager, patrick_lee@example.com
+Yuki Patel, Engineer, victoria_brown@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** tina_wu@example.com, Town, Innoville
+   - **Projects:** Developed the Groundbreaking Project for Optimizing Problem-solving
+

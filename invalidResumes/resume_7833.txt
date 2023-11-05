@@ -1,0 +1,10 @@
+7833. **Name:** Charlie Kumar
+   - **Skills:** Node.js, Git, React, Cloud Computing
+   - **Experience:** Junior Developer at CreativeSolutions
+   - **Education:** Master in Data Science from Business School
+   - **References:** Jack Lee, Analyst, quinn_jones@example.com
+Grace Wu, Coordinator, victoria_nguyen@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** jack_müller@example.com, City, Techland
+   - **Projects:** Contributed to the Groundbreaking Platform for Enhancing Business Processes
+

@@ -1,0 +1,10 @@
+4749. **Name:** Zane Patel
+   - **Skills:** HTML, React, Machine Learning, Project Management
+   - **Experience:** Lead Scientist at CodeCrafters
+   - **Education:** Bachelor in Business Administration from Business School
+   - **References:** Frank Rodriguez, Analyst, leo_rodriguez@example.com
+Bob Singh, Designer, yuki_brown@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** david_gupta@example.com, Town, Inno Haven
+   - **Projects:** Led the Revolutionary Platform for Streamlining User Experience
+

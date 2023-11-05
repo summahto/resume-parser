@@ -1,0 +1,10 @@
+3255. **Name:** Olivia Cruz
+   - **Skills:** Swift, Graphic Design, Python, Git
+   - **Experience:** Junior Scientist at CodeCrafters
+   - **Education:** Ph.D. in Art from Business School
+   - **References:** Frank Silva, Manager, david_cruz@example.com
+Frank Jackson, CEO, bob_lópez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** yuki_yamamoto@example.com, Town, Inno Haven
+   - **Projects:** Led the Groundbreaking Project for Optimizing Data Analysis
+

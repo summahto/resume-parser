@@ -1,0 +1,10 @@
+4834. **Name:** Katherine Garcia
+   - **Skills:** Cloud Computing, Graphic Design, Angular, C#
+   - **Experience:** Junior Engineer at CreativeSolutions
+   - **Education:** Ph.D. in Data Science from Creative Arts College
+   - **References:** Katherine Miller, Lead, nathan_brown@example.com
+David Yamamoto, CEO, olivia_lópez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** frank_yamamoto@example.com, Town, Data City
+   - **Projects:** Contributed to the Groundbreaking System for Optimizing Collaboration
+

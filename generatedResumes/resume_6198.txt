@@ -1,0 +1,10 @@
+6198. **Name:** Sam Wang
+   - **Skills:** Cybersecurity, React, Machine Learning, IoT
+   - **Experience:** Junior Analyst at CodeCrafters
+   - **Education:** Master in Physics from Creative Arts College
+   - **References:** Grace Nguyen, Designer, patrick_rodriguez@example.com
+Xena Patel, Manager, leo_cruz@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** charlie_li@example.com, City, Artopia
+   - **Projects:** Led the Cutting-edge App for Enhancing Data Analysis
+

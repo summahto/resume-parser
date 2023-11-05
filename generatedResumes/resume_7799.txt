@@ -1,0 +1,10 @@
+7799. **Name:** Ulysses Lopez
+   - **Skills:** SQL, AR/VR Development, Java, React
+   - **Experience:** Junior Designer at CodeCrafters
+   - **Education:** Bachelor in Art from Inno Institute
+   - **References:** Tina White, CEO, henry_jones@example.com
+Walter Wang, Engineer, sam_cruz@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** ivy_lopez@example.com, Town, Inno Haven
+   - **Projects:** Led the Innovative Framework for Streamlining Data Analysis
+

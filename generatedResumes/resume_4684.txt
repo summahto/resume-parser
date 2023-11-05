@@ -1,0 +1,10 @@
+4684. **Name:** Jack Li
+   - **Skills:** CSS, Java, HTML, Big Data
+   - **Experience:** Lead Analyst at DataExperts
+   - **Education:** Bachelor in Data Science from Creative Arts College
+   - **References:** Katherine Cruz, Analyst, tina_taylor@example.com
+Walter Cruz, CTO, ivy_lópez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** sam_silva@example.com, Town, Data City
+   - **Projects:** Led the Cutting-edge System for Optimizing User Experience
+

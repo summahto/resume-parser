@@ -1,0 +1,10 @@
+225. **Name:** David Lee
+   - **Skills:** JavaScript, Vue.js, SQL, Machine Learning
+   - **Experience:** Senior Designer at CreativeSolutions
+   - **Education:** Ph.D. in Computer Science from Data Science School
+   - **References:** Sam Jones, Analyst, bob_li@example.com
+Eva Gupta, Lead, eva_jackson@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** grace_jackson@example.com, Town, Innoville
+   - **Projects:** Developed the Innovative System for Solving Problem-solving
+

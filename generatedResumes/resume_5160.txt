@@ -1,0 +1,10 @@
+5160. **Name:** Olivia Chen
+   - **Skills:** C#, UI/UX Design, Kubernetes, Data Analysis
+   - **Experience:** Lead Developer at DataExperts
+   - **Education:** Master in Business Administration from Data Science School
+   - **References:** David Jackson, Engineer, quinn_suzuki@example.com
+Leo Wang, Coordinator, tina_lopez@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** victoria_wang@example.com, Village, Techtopia
+   - **Projects:** Led the Groundbreaking System for Streamlining Data Analysis
+

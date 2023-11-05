@@ -1,0 +1,10 @@
+4718. **Name:** Sam López
+   - **Skills:** Big Data, Cloud Computing, JavaScript, Git
+   - **Experience:** Senior Scientist at TechCorp
+   - **Education:** Bachelor in Business Administration from Physics Academy
+   - **References:** Grace Patel, Coordinator, patrick_kumar@example.com
+Quinn Kumar, Manager, eva_miller@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** david_smith@example.com, City, Green Valley
+   - **Projects:** Developed the Revolutionary Project for Solving Problem-solving
+

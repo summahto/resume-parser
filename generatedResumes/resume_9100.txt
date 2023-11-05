@@ -1,0 +1,10 @@
+9100. **Name:** Nathan Gupta
+   - **Skills:** Blockchain, JavaScript, Java, Data Analysis
+   - **Experience:** Senior Designer at CreativeSolutions
+   - **Education:** Ph.D. in Computer Science from Physics Academy
+   - **References:** Jack Smith, CEO, eva_hernandez@example.com
+Jack Lopez, Director, henry_wu@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** bob_gupta@example.com, City, Data Haven
+   - **Projects:** Contributed to the Cutting-edge Project for Streamlining Business Processes
+

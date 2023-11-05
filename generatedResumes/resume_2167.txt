@@ -1,0 +1,10 @@
+2167. **Name:** Jack Garcia
+   - **Skills:** iOS Development, Angular, AR/VR Development, Kubernetes
+   - **Experience:** Lead Analyst at DigitalSolutions
+   - **Education:** Master in Art from Inno Institute
+   - **References:** Walter Lee, Scientist, henry_lee@example.com
+Charlie Kumar, Scientist, charlie_lee@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** frank_nguyen@example.com, Town, Green Valley
+   - **Projects:** Developed the Innovative Project for Optimizing Data Analysis
+

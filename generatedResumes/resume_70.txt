@@ -1,0 +1,10 @@
+70. **Name:** Leo Jackson
+   - **Skills:** Cybersecurity, C#, Big Data, HTML
+   - **Experience:** Junior Engineer at DigitalSolutions
+   - **Education:** Master in Art from Data Science School
+   - **References:** Frank Smith, Scientist, bob_garcia@example.com
+Victoria White, Coordinator, david_brown@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** grace_nguyen@example.com, City, Data City
+   - **Projects:** Developed the Groundbreaking Platform for Enhancing Data Analysis
+

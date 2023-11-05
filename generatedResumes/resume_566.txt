@@ -1,0 +1,10 @@
+566. **Name:** Leo Taylor
+   - **Skills:** AR/VR Development, Kubernetes, Cybersecurity, React
+   - **Experience:** Junior Analyst at DigitalSolutions
+   - **Education:** Bachelor in Engineering from Data Science School
+   - **References:** Leo Lee, Analyst, olivia_gupta@example.com
+Leo Hernandez, Manager, victoria_nguyen@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** patrick_chen@example.com, City, Data Haven
+   - **Projects:** Led the Innovative Platform for Solving User Experience
+

@@ -1,0 +1,10 @@
+7024. **Name:** Katherine Lee
+   - **Skills:** C#, Swift, UI/UX Design, JavaScript
+   - **Experience:** Senior Designer at DigitalSolutions
+   - **Education:** Bachelor in Physics from Business School
+   - **References:** Mia Miller, Scientist, bob_chen@example.com
+Yuki Johnson, Coordinator, olivia_wu@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** frank_taylor@example.com, City, Data Haven
+   - **Projects:** Developed the Cutting-edge Project for Solving Problem-solving
+

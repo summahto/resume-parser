@@ -1,0 +1,10 @@
+5936. **Name:** David Jones
+   - **Skills:** Cybersecurity, Blockchain, JavaScript, iOS Development
+   - **Experience:** Senior Scientist at TechInnovate
+   - **Education:** Ph.D. in Data Science from Business School
+   - **References:** Frank Jones, CTO, henry_lee@example.com
+Ulysses Suzuki, Designer, eva_kim@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** frank_lópez@example.com, City, Innovation Meadows
+   - **Projects:** Developed the Innovative Framework for Streamlining Business Processes
+

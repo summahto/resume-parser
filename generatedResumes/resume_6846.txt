@@ -1,0 +1,10 @@
+6846. **Name:** Jack Wu
+   - **Skills:** CSS, JavaScript, iOS Development, Cybersecurity
+   - **Experience:** Lead Engineer at DigitalSolutions
+   - **Education:** Bachelor in Art from Business School
+   - **References:** Quinn Jackson, Analyst, olivia_jackson@example.com
+Katherine Kim, CTO, zane_lee@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** jack_kumar@example.com, City, Data City
+   - **Projects:** Developed the Cutting-edge Platform for Streamlining Data Analysis
+

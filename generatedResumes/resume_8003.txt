@@ -1,0 +1,10 @@
+8003. **Name:** Leo López
+   - **Skills:** Graphic Design, Python, IoT, JavaScript
+   - **Experience:** Junior Manager at DataInnovators
+   - **Education:** Ph.D. in Computer Science from Physics Academy
+   - **References:** Rachel Kumar, CEO, yuki_lee@example.com
+Rachel Hernandez, CTO, xena_kumar@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** walter_kumar@example.com, City, Innoville
+   - **Projects:** Contributed to the Revolutionary System for Optimizing Data Analysis
+

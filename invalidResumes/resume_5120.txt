@@ -1,0 +1,10 @@
+5120. **Name:** Olivia Lee
+   - **Skills:** Project Management, iOS Development, Swift, Android Development
+   - **Experience:** Senior Designer at TechInnovate
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Zane Smith, Director, frank_miller@example.com
+Mia Lopez, Manager, ulysses_silva@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** alice_lópez@example.com, Town, Data City
+   - **Projects:** Contributed to the Cutting-edge System for Solving Business Processes
+

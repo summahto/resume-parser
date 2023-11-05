@@ -1,0 +1,10 @@
+3412. **Name:** Grace Gupta
+   - **Skills:** Kubernetes, Graphic Design, Docker, Git
+   - **Experience:** Lead Designer at TechCorp
+   - **Education:** Master in Art from Physics Academy
+   - **References:** Sam Lee, Lead, mia_taylor@example.com
+Ivy Silva, Developer, mia_white@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** ulysses_nguyen@example.com, Town, Data City
+   - **Projects:** Developed the Innovative Framework for Streamlining Problem-solving
+

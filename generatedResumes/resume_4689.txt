@@ -1,0 +1,10 @@
+4689. **Name:** Charlie Lee
+   - **Skills:** Kubernetes, IoT, Cloud Computing, SQL
+   - **Experience:** Lead Developer at DigitalSolutions
+   - **Education:** Master in Art from Business School
+   - **References:** Alice Lee, Designer, quinn_miller@example.com
+Henry White, Coordinator, zane_kumar@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** eva_kumar@example.com, Town, Innoville
+   - **Projects:** Developed the Cutting-edge Framework for Solving Problem-solving
+

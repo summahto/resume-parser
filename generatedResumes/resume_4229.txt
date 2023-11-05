@@ -1,0 +1,10 @@
+4229. **Name:** Frank Wu
+   - **Skills:** Machine Learning, IoT, CSS, Vue.js
+   - **Experience:** Junior Engineer at CreativeMinds
+   - **Education:** Master in Engineering from Creative Arts College
+   - **References:** Victoria Nguyen, CEO, ulysses_rodriguez@example.com
+Eva Miller, Coordinator, tina_nguyen@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** ulysses_patel@example.com, Town, Artopia
+   - **Projects:** Contributed to the Cutting-edge Project for Enhancing Collaboration
+

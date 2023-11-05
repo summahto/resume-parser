@@ -1,0 +1,10 @@
+9503. **Name:** Xena Smith
+   - **Skills:** Cybersecurity, Vue.js, Docker, Swift
+   - **Experience:** Senior Developer at DataInnovators
+   - **Education:** Master in Computer Science from Inno Institute
+   - **References:** David Cruz, Designer, david_wang@example.com
+Quinn Wang, Developer, leo_cruz@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** mia_silva@example.com, City, Data Haven
+   - **Projects:** Led the Cutting-edge Project for Solving Problem-solving
+

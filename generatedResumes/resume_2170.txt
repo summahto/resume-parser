@@ -1,0 +1,10 @@
+2170. **Name:** Patrick Gupta
+   - **Skills:** SQL, HTML, React, Python
+   - **Experience:** Lead Designer at InnoSolutions
+   - **Education:** Ph.D. in Art from Physics Academy
+   - **References:** Henry Gupta, CTO, olivia_silva@example.com
+Mia Smith, CTO, frank_sato@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** ivy_patel@example.com, Town, Innovation Meadows
+   - **Projects:** Contributed to the Revolutionary App for Enhancing Problem-solving
+

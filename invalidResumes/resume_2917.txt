@@ -1,0 +1,10 @@
+2917. **Name:** Charlie Nguyen
+   - **Skills:** Node.js, Android Development, Cloud Computing, Java
+   - **Experience:** Senior Manager at CodeCrafters
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Charlie Cruz, CTO, ivy_lópez@example.com
+Charlie Chen, Manager, nathan_cruz@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** nathan_patel@example.com, City, Green Valley
+   - **Projects:** Contributed to the Innovative Platform for Enhancing Data Analysis
+

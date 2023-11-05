@@ -1,0 +1,10 @@
+4686. **Name:** Leo Gonzalez
+   - **Skills:** React, Graphic Design, UI/UX Design, Big Data
+   - **Experience:** Lead Engineer at DigitalSolutions
+   - **Education:** Ph.D. in Data Science from Data Science School
+   - **References:** Patrick Jones, Developer, bob_chen@example.com
+Frank Cruz, Director, henry_wu@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** patrick_smith@example.com, City, Innoville
+   - **Projects:** Led the Groundbreaking Framework for Solving Collaboration
+

@@ -1,0 +1,10 @@
+8665. **Name:** Patrick Nguyen
+   - **Skills:** Agile, iOS Development, Graphic Design, IoT
+   - **Experience:** Lead Analyst at TechCorp
+   - **Education:** Bachelor in Data Science from Business School
+   - **References:** Katherine Kim, Lead, grace_nguyen@example.com
+Alice Kim, Manager, olivia_kumar@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** bob_wu@example.com, Town, Inno Haven
+   - **Projects:** Led the Innovative Framework for Streamlining Data Analysis
+

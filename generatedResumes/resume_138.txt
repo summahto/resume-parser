@@ -1,0 +1,10 @@
+138. **Name:** Yuki Wu
+   - **Skills:** Network Administration, Vue.js, Swift, Big Data
+   - **Experience:** Junior Scientist at TechCorp
+   - **Education:** Ph.D. in Business Administration from Inno Institute
+   - **References:** Jack Jackson, CEO, grace_jackson@example.com
+Tina Lee, Analyst, leo_jones@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** alice_chen@example.com, City, Innoville
+   - **Projects:** Led the Innovative Platform for Solving Problem-solving
+

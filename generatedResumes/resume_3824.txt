@@ -1,0 +1,10 @@
+3824. **Name:** Katherine Lee
+   - **Skills:** Node.js, Data Analysis, Swift, Git
+   - **Experience:** Junior Designer at InnoSolutions
+   - **Education:** Ph.D. in Art from Business School
+   - **References:** Nathan Patel, Scientist, sam_wang@example.com
+Mia Yamamoto, Coordinator, grace_kumar@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** leo_johnson@example.com, City, Innoville
+   - **Projects:** Developed the Innovative System for Optimizing User Experience
+

@@ -1,0 +1,10 @@
+7149. **Name:** David Lee
+   - **Skills:** Cloud Computing, Docker, Big Data, IoT
+   - **Experience:** Junior Designer at DataExperts
+   - **Education:** Ph.D. in Computer Science from Physics Academy
+   - **References:** Nathan López, Lead, grace_gonzalez@example.com
+Walter Cruz, Lead, mia_hernandez@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** sam_silva@example.com, Village, Innoville
+   - **Projects:** Developed the Revolutionary Framework for Optimizing Collaboration
+

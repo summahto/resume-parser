@@ -1,0 +1,10 @@
+2133. **Name:** Frank Garcia
+   - **Skills:** SQL, DevOps, iOS Development, Blockchain
+   - **Experience:** Senior Scientist at CreativeMinds
+   - **Education:** Master in Engineering from Inno Institute
+   - **References:** Mia Brown, Manager, nathan_smith@example.com
+David Chen, Scientist, sam_taylor@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** xena_white@example.com, City, Inno Haven
+   - **Projects:** Led the Cutting-edge Framework for Enhancing Collaboration
+

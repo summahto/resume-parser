@@ -1,0 +1,10 @@
+5087. **Name:** Yuki Miller
+   - **Skills:** Agile, HTML, Swift, CSS
+   - **Experience:** Lead Designer at CreativeMinds
+   - **Education:** Bachelor in Physics from Physics Academy
+   - **References:** Xena Kumar, CTO, patrick_smith@example.com
+Frank Jackson, Analyst, xena_silva@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** walter_patel@example.com, Town, Artopia
+   - **Projects:** Developed the Groundbreaking Platform for Streamlining Business Processes
+

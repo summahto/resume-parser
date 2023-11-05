@@ -1,0 +1,10 @@
+4872. **Name:** Grace Miller
+   - **Skills:** DevOps, IoT, Swift, Angular
+   - **Experience:** Junior Developer at DataExperts
+   - **Education:** Ph.D. in Data Science from Tech University
+   - **References:** Xena Cruz, CTO, leo_lópez@example.com
+Quinn Patel, CTO, quinn_rodriguez@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** katherine_rodriguez@example.com, Town, Artopia
+   - **Projects:** Led the Groundbreaking App for Solving Collaboration
+

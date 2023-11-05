@@ -1,0 +1,10 @@
+3701. **Name:** Eva Brown
+   - **Skills:** Angular, Git, Java, HTML
+   - **Experience:** Senior Engineer at DataExperts
+   - **Education:** Ph.D. in Computer Science from Data Science School
+   - **References:** Patrick Gupta, Designer, eva_lee@example.com
+Sam Kumar, Designer, tina_patel@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** alice_silva@example.com, City, Innoville
+   - **Projects:** Contributed to the Innovative Framework for Streamlining Business Processes
+

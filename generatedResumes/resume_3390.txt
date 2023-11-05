@@ -1,0 +1,10 @@
+3390. **Name:** Mia Lee
+   - **Skills:** UI/UX Design, Cybersecurity, SQL, Android Development
+   - **Experience:** Junior Manager at DigitalSolutions
+   - **Education:** Master in Computer Science from Physics Academy
+   - **References:** Zane Kim, CTO, jack_white@example.com
+Henry Taylor, Director, yuki_lee@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** walter_lopez@example.com, Town, Innovation Meadows
+   - **Projects:** Contributed to the Cutting-edge Platform for Streamlining User Experience
+

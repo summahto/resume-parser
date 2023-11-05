@@ -1,0 +1,10 @@
+7184. **Name:** Jack Taylor
+   - **Skills:** Angular, C#, Git, Docker
+   - **Experience:** Junior Developer at CreativeSolutions
+   - **Education:** Master in Business Administration from Physics Academy
+   - **References:** Ivy Brown, Engineer, alice_white@example.com
+Victoria Kumar, Analyst, ivy_jones@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** rachel_jackson@example.com, Town, Techland
+   - **Projects:** Led the Innovative App for Optimizing User Experience
+

@@ -1,0 +1,10 @@
+9213. **Name:** Walter Garcia
+   - **Skills:** C#, Swift, UI/UX Design, Graphic Design
+   - **Experience:** Lead Engineer at InnoSolutions
+   - **Education:** Bachelor in Physics from Physics Academy
+   - **References:** Yuki Singh, Analyst, nathan_suzuki@example.com
+Leo Gupta, CEO, jack_wang@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** mia_sato@example.com, City, Artopia
+   - **Projects:** Developed the Cutting-edge Project for Streamlining Business Processes
+

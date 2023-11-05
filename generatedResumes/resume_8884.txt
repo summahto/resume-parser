@@ -1,0 +1,10 @@
+8884. **Name:** Leo Brown
+   - **Skills:** Swift, Kubernetes, HTML, C#
+   - **Experience:** Junior Manager at DataExperts
+   - **Education:** Ph.D. in Art from Data Science School
+   - **References:** Nathan Garcia, Director, david_wu@example.com
+Katherine Jones, Developer, walter_white@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** henry_jones@example.com, Town, Techtopia
+   - **Projects:** Led the Cutting-edge System for Optimizing User Experience
+

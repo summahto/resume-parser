@@ -1,0 +1,10 @@
+7193. **Name:** Katherine Silva
+   - **Skills:** DevOps, Kubernetes, Agile, React
+   - **Experience:** Junior Manager at InnoSolutions
+   - **Education:** Master in Computer Science from Inno Institute
+   - **References:** Olivia Gupta, Developer, jack_yamamoto@example.com
+Mia Gupta, Engineer, leo_brown@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** mia_jones@example.com, City, Artopia
+   - **Projects:** Developed the Innovative App for Streamlining User Experience
+

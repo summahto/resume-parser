@@ -1,0 +1,10 @@
+1134. **Name:** Jack Yamamoto
+   - **Skills:** Git, Graphic Design, AR/VR Development, Java
+   - **Experience:** Lead Analyst at InnoSolutions
+   - **Education:** Master in Business Administration from Inno Institute
+   - **References:** Frank Jones, CEO, ulysses_lópez@example.com
+Tina Silva, Coordinator, rachel_lee@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** rachel_brown@example.com, City, Green Valley
+   - **Projects:** Developed the Innovative Framework for Optimizing Problem-solving
+

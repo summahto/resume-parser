@@ -1,0 +1,10 @@
+9444. **Name:** Leo Gupta
+   - **Skills:** Docker, Data Analysis, JavaScript, CSS
+   - **Experience:** Senior Developer at DataExperts
+   - **Education:** Master in Physics from Physics Academy
+   - **References:** Eva Kim, Director, frank_rodriguez@example.com
+Patrick Rodriguez, CTO, david_gupta@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** yuki_sato@example.com, Town, Techtopia
+   - **Projects:** Contributed to the Innovative Platform for Solving User Experience
+

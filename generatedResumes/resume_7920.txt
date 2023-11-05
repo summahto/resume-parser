@@ -1,0 +1,10 @@
+7920. **Name:** Alice Nguyen
+   - **Skills:** iOS Development, Swift, Data Analysis, Project Management
+   - **Experience:** Junior Engineer at DigitalSolutions
+   - **Education:** Bachelor in Engineering from Creative Arts College
+   - **References:** Nathan Silva, Manager, grace_lee@example.com
+Grace Taylor, Scientist, quinn_taylor@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** olivia_kim@example.com, Town, Green Valley
+   - **Projects:** Developed the Cutting-edge Project for Streamlining Collaboration
+

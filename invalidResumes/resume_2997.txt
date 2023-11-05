@@ -1,0 +1,10 @@
+2997. **Name:** Bob Gonzalez
+   - **Skills:** Angular, Android Development, Graphic Design, Docker
+   - **Experience:** Junior Designer at DataExperts
+   - **Education:** Master in Data Science from Tech University
+   - **References:** Yuki López, CEO, sam_davis@example.com
+Charlie White, Lead, david_williams@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** yuki_nguyen@example.com, Town, Inno Haven
+   - **Projects:** Led the Cutting-edge Framework for Enhancing Data Analysis
+

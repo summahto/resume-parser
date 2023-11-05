@@ -1,0 +1,10 @@
+2515. **Name:** Yuki Gupta
+   - **Skills:** JavaScript, C#, Machine Learning, Graphic Design
+   - **Experience:** Lead Developer at TechCorp
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Nathan Kim, CEO, victoria_nguyen@example.com
+Walter White, Engineer, patrick_lee@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** eva_taylor@example.com, Town, Innoville
+   - **Projects:** Led the Cutting-edge System for Enhancing Business Processes
+

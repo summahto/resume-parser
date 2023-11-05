@@ -1,0 +1,10 @@
+6511. **Name:** Yuki Rodriguez
+   - **Skills:** C#, Cybersecurity, Angular, Blockchain
+   - **Experience:** Junior Manager at DataExperts
+   - **Education:** Master in Engineering from Physics Academy
+   - **References:** Henry Chen, CTO, jack_lee@example.com
+Yuki Rodriguez, Scientist, alice_kumar@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** xena_nguyen@example.com, Village, Techtopia
+   - **Projects:** Contributed to the Innovative Project for Optimizing User Experience
+

@@ -1,0 +1,10 @@
+3749. **Name:** Mia Kumar
+   - **Skills:** iOS Development, Python, Docker, Android Development
+   - **Experience:** Junior Designer at CodeCrafters
+   - **Education:** Bachelor in Business Administration from Data Science School
+   - **References:** Jack Gupta, Analyst, xena_silva@example.com
+Leo López, Developer, xena_jackson@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** zane_jackson@example.com, City, Green Valley
+   - **Projects:** Developed the Cutting-edge Project for Enhancing Data Analysis
+

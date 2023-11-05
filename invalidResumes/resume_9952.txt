@@ -1,0 +1,10 @@
+9952. **Name:** Mia Jackson
+   - **Skills:** Network Administration, Kubernetes, Java, C#
+   - **Experience:** Junior Engineer at InnoSolutions
+   - **Education:** Bachelor in Art from Creative Arts College
+   - **References:** Katherine López, Developer, xena_taylor@example.com
+Mia Kumar, CTO, sam_wang@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** grace_lópez@example.com, City, Data City
+   - **Projects:** Developed the Innovative System for Enhancing Business Processes
+

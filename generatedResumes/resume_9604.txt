@@ -1,0 +1,10 @@
+9604. **Name:** Ulysses Wu
+   - **Skills:** Java, Graphic Design, Network Administration, Angular
+   - **Experience:** Junior Developer at InnoSolutions
+   - **Education:** Master in Physics from Inno Institute
+   - **References:** Ulysses Gonzalez, Lead, bob_brown@example.com
+Katherine Hernandez, Developer, sam_jones@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** bob_garcia@example.com, City, Innoville
+   - **Projects:** Developed the Groundbreaking Platform for Optimizing Business Processes
+

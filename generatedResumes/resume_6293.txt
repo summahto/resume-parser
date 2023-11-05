@@ -1,0 +1,10 @@
+6293. **Name:** Quinn Lopez
+   - **Skills:** iOS Development, IoT, Big Data, Python
+   - **Experience:** Junior Scientist at CreativeSolutions
+   - **Education:** Bachelor in Art from Tech University
+   - **References:** Yuki Sato, Manager, alice_jackson@example.com
+Zane Patel, Designer, xena_taylor@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** alice_cruz@example.com, City, Techland
+   - **Projects:** Contributed to the Innovative App for Enhancing Problem-solving
+

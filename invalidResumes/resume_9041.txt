@@ -1,0 +1,10 @@
+9041. **Name:** Leo Taylor
+   - **Skills:** Android Development, Big Data, React, Kubernetes
+   - **Experience:** Lead Developer at DataExperts
+   - **Education:** Master in Computer Science from Data Science School
+   - **References:** Jack Davis, Designer, ivy_miller@example.com
+Charlie Wu, CEO, grace_lópez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** katherine_miller@example.com, City, Scienceburg
+   - **Projects:** Developed the Cutting-edge Framework for Streamlining Collaboration
+

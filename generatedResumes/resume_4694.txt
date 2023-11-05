@@ -1,0 +1,10 @@
+4694. **Name:** Grace Garcia
+   - **Skills:** Big Data, DevOps, Android Development, Python
+   - **Experience:** Senior Designer at TechCorp
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** Leo Gupta, CEO, rachel_white@example.com
+Grace Rodriguez, Designer, victoria_patel@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** rachel_kumar@example.com, City, Scienceburg
+   - **Projects:** Contributed to the Innovative Framework for Optimizing Business Processes
+

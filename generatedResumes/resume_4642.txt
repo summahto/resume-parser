@@ -1,0 +1,10 @@
+4642. **Name:** Sam Wang
+   - **Skills:** Docker, iOS Development, Android Development, Node.js
+   - **Experience:** Junior Scientist at CreativeSolutions
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** Olivia Gupta, CEO, jack_jones@example.com
+Yuki Patel, Scientist, victoria_jones@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** katherine_yamamoto@example.com, Village, Data City
+   - **Projects:** Contributed to the Revolutionary System for Optimizing Collaboration
+

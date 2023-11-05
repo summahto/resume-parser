@@ -1,0 +1,10 @@
+4776. **Name:** Leo Chen
+   - **Skills:** DevOps, Project Management, JavaScript, C#
+   - **Experience:** Junior Designer at DataExperts
+   - **Education:** Master in Data Science from Creative Arts College
+   - **References:** Leo Smith, Developer, ivy_chen@example.com
+Zane Patel, Director, zane_chen@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** quinn_silva@example.com, City, Techtopia
+   - **Projects:** Developed the Revolutionary Platform for Streamlining Business Processes
+

@@ -1,0 +1,10 @@
+7412. **Name:** Frank Nguyen
+   - **Skills:** DevOps, Graphic Design, Agile, Kubernetes
+   - **Experience:** Lead Manager at DataExperts
+   - **Education:** Ph.D. in Computer Science from Creative Arts College
+   - **References:** Jack Gupta, Manager, victoria_nguyen@example.com
+Nathan Jones, Scientist, henry_cruz@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** ulysses_suzuki@example.com, Town, Scienceburg
+   - **Projects:** Led the Innovative Project for Solving Collaboration
+

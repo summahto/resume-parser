@@ -1,0 +1,10 @@
+1081. **Name:** Nathan Gupta
+   - **Skills:** Network Administration, Big Data, Angular, Node.js
+   - **Experience:** Lead Designer at CodeCrafters
+   - **Education:** Master in Art from Inno Institute
+   - **References:** Olivia Rodriguez, Lead, frank_garcia@example.com
+Katherine Nguyen, Manager, rachel_lópez@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** victoria_jackson@example.com, Town, Inno Haven
+   - **Projects:** Led the Cutting-edge Platform for Enhancing Problem-solving
+

@@ -1,0 +1,10 @@
+7305. **Name:** Yuki Chen
+   - **Skills:** Cybersecurity, AR/VR Development, Graphic Design, Kubernetes
+   - **Experience:** Junior Manager at CreativeSolutions
+   - **Education:** Master in Data Science from Business School
+   - **References:** Zane Williams, Designer, bob_yamamoto@example.com
+David Silva, CEO, ivy_taylor@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** sam_nguyen@example.com, Village, Inno Haven
+   - **Projects:** Developed the Revolutionary System for Optimizing Data Analysis
+

@@ -1,0 +1,10 @@
+2028. **Name:** Charlie Kumar
+   - **Skills:** Network Administration, AR/VR Development, Graphic Design, Java
+   - **Experience:** Senior Developer at InnoSolutions
+   - **Education:** Master in Data Science from Creative Arts College
+   - **References:** Bob Miller, Scientist, ulysses_wu@example.com
+Nathan Gupta, Analyst, patrick_kumar@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** yuki_white@example.com, Village, Techland
+   - **Projects:** Contributed to the Revolutionary System for Streamlining Data Analysis
+

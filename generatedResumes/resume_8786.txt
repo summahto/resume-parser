@@ -1,0 +1,10 @@
+8786. **Name:** Eva Kumar
+   - **Skills:** Graphic Design, Node.js, Swift, CSS
+   - **Experience:** Senior Designer at InnovativeTech
+   - **Education:** Bachelor in Computer Science from Business School
+   - **References:** Leo Gupta, Analyst, rachel_smith@example.com
+Bob Jones, Director, leo_cruz@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** ivy_jackson@example.com, Village, Innovation Meadows
+   - **Projects:** Contributed to the Revolutionary Framework for Streamlining Problem-solving
+

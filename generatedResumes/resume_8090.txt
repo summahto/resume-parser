@@ -1,0 +1,10 @@
+8090. **Name:** Frank Nguyen
+   - **Skills:** IoT, Swift, Graphic Design, Android Development
+   - **Experience:** Lead Designer at TechCorp
+   - **Education:** Bachelor in Art from Inno Institute
+   - **References:** Jack Taylor, Scientist, leo_lee@example.com
+Bob Chen, Manager, mia_white@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** ivy_patel@example.com, Town, Inno Haven
+   - **Projects:** Led the Cutting-edge Framework for Optimizing Collaboration
+

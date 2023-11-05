@@ -1,0 +1,10 @@
+711. **Name:** Katherine Jackson
+   - **Skills:** UI/UX Design, Big Data, Cloud Computing, Swift
+   - **Experience:** Senior Developer at DigitalSolutions
+   - **Education:** Master in Data Science from Physics Academy
+   - **References:** Eva López, Designer, rachel_kumar@example.com
+Leo Rodriguez, CTO, tina_silva@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** leo_rodriguez@example.com, Village, Innoville
+   - **Projects:** Contributed to the Revolutionary System for Solving Business Processes
+

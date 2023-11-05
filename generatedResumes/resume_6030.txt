@@ -1,0 +1,10 @@
+6030. **Name:** Eva Lopez
+   - **Skills:** Vue.js, React, Kubernetes, Node.js
+   - **Experience:** Junior Manager at InnovativeTech
+   - **Education:** Master in Computer Science from Business School
+   - **References:** Ulysses Williams, Analyst, xena_taylor@example.com
+Frank Jones, Engineer, charlie_patel@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** nathan_gupta@example.com, City, Techtopia
+   - **Projects:** Led the Groundbreaking Framework for Enhancing Collaboration
+

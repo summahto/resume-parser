@@ -1,0 +1,10 @@
+2076. **Name:** Jack Patel
+   - **Skills:** IoT, JavaScript, Cybersecurity, React
+   - **Experience:** Senior Designer at CreativeMinds
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Ulysses Müller, Director, bob_nguyen@example.com
+Henry Jackson, CTO, olivia_lee@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** tina_wang@example.com, City, Innovation Meadows
+   - **Projects:** Developed the Revolutionary Framework for Streamlining User Experience
+

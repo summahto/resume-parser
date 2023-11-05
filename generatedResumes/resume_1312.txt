@@ -1,0 +1,10 @@
+1312. **Name:** Yuki Lopez
+   - **Skills:** Node.js, C#, Swift, Python
+   - **Experience:** Junior Developer at DigitalSolutions
+   - **Education:** Ph.D. in Art from Business School
+   - **References:** Henry Chen, Designer, grace_nguyen@example.com
+Leo Chen, Developer, charlie_kim@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** ivy_white@example.com, City, Green Valley
+   - **Projects:** Led the Cutting-edge Platform for Optimizing Data Analysis
+

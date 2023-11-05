@@ -1,0 +1,10 @@
+6924. **Name:** Eva Gupta
+   - **Skills:** Machine Learning, C#, Swift, JavaScript
+   - **Experience:** Lead Manager at CodeCrafters
+   - **Education:** Ph.D. in Engineering from Creative Arts College
+   - **References:** Charlie White, Lead, jack_nguyen@example.com
+Xena Chen, Engineer, xena_gonzalez@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** walter_kim@example.com, Village, Green Valley
+   - **Projects:** Developed the Groundbreaking System for Streamlining Business Processes
+

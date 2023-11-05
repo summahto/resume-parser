@@ -1,0 +1,10 @@
+5345. **Name:** David Miller
+   - **Skills:** Android Development, Network Administration, CSS, HTML
+   - **Experience:** Lead Manager at CodeCrafters
+   - **Education:** Master in Computer Science from Business School
+   - **References:** Sam Kumar, Lead, bob_wang@example.com
+Yuki Kim, Engineer, nathan_nguyen@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** olivia_lee@example.com, Village, Green Valley
+   - **Projects:** Led the Revolutionary Platform for Enhancing Problem-solving
+

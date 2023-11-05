@@ -1,0 +1,10 @@
+8140. **Name:** David White
+   - **Skills:** CSS, Cybersecurity, Graphic Design, Machine Learning
+   - **Experience:** Senior Scientist at DataExperts
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** Ivy Silva, Lead, sam_kumar@example.com
+Patrick Lopez, Director, rachel_chen@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** zane_lee@example.com, City, Green Valley
+   - **Projects:** Led the Groundbreaking Platform for Optimizing Data Analysis
+

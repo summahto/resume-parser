@@ -1,0 +1,10 @@
+863. **Name:** Mia López
+   - **Skills:** Big Data, Swift, Angular, AR/VR Development
+   - **Experience:** Lead Developer at CodeCrafters
+   - **Education:** Bachelor in Engineering from Inno Institute
+   - **References:** Katherine Smith, Developer, olivia_gupta@example.com
+Leo Smith, CEO, frank_taylor@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** tina_miller@example.com, City, Inno Haven
+   - **Projects:** Led the Innovative Project for Streamlining Data Analysis
+

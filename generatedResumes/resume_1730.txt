@@ -1,0 +1,10 @@
+1730. **Name:** Alice Patel
+   - **Skills:** Project Management, Git, CSS, iOS Development
+   - **Experience:** Senior Analyst at DataExperts
+   - **Education:** Bachelor in Data Science from Inno Institute
+   - **References:** Victoria Sato, Director, ivy_lopez@example.com
+Eva Müller, CEO, xena_kim@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** rachel_lopez@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Groundbreaking Framework for Solving Data Analysis
+

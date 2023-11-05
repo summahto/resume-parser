@@ -1,0 +1,10 @@
+8255. **Name:** Eva López
+   - **Skills:** Vue.js, CSS, Node.js, Android Development
+   - **Experience:** Senior Scientist at CodeCrafters
+   - **Education:** Ph.D. in Data Science from Business School
+   - **References:** Jack Yamamoto, Designer, rachel_jackson@example.com
+Grace Cruz, Director, walter_taylor@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** david_sato@example.com, City, Techland
+   - **Projects:** Led the Cutting-edge Platform for Streamlining Data Analysis
+

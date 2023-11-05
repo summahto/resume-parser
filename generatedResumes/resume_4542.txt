@@ -1,0 +1,10 @@
+4542. **Name:** Sam Garcia
+   - **Skills:** Data Analysis, Android Development, SQL, C#
+   - **Experience:** Junior Designer at TechInnovate
+   - **Education:** Ph.D. in Business Administration from Business School
+   - **References:** Charlie White, Developer, zane_jackson@example.com
+Charlie Kim, CTO, david_jackson@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** charlie_wang@example.com, City, Data City
+   - **Projects:** Led the Cutting-edge Project for Streamlining Collaboration
+

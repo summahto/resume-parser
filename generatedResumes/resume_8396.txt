@@ -1,0 +1,10 @@
+8396. **Name:** Zane Miller
+   - **Skills:** Cloud Computing, Data Analysis, Project Management, Java
+   - **Experience:** Junior Developer at TechCorp
+   - **Education:** Bachelor in Engineering from Tech University
+   - **References:** David Nguyen, Director, jack_chen@example.com
+Charlie Wu, Engineer, ulysses_miller@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** ulysses_taylor@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Groundbreaking Platform for Streamlining Collaboration
+

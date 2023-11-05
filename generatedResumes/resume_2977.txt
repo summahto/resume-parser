@@ -1,0 +1,10 @@
+2977. **Name:** Xena Gupta
+   - **Skills:** C#, Agile, Git, Java
+   - **Experience:** Junior Developer at TechCorp
+   - **Education:** Master in Art from Creative Arts College
+   - **References:** Zane Smith, Developer, victoria_kumar@example.com
+Xena Kumar, CEO, walter_rodriguez@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** yuki_smith@example.com, Town, Inno Haven
+   - **Projects:** Developed the Cutting-edge System for Streamlining Collaboration
+

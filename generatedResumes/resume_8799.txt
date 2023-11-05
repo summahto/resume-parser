@@ -1,0 +1,10 @@
+8799. **Name:** Tina Miller
+   - **Skills:** C#, Data Analysis, HTML, Graphic Design
+   - **Experience:** Junior Manager at CodeCrafters
+   - **Education:** Master in Art from Data Science School
+   - **References:** Walter Brown, CTO, walter_jackson@example.com
+Walter Kim, Manager, henry_cruz@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** katherine_nguyen@example.com, Village, Scienceburg
+   - **Projects:** Developed the Innovative System for Solving Problem-solving
+

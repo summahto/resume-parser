@@ -1,0 +1,10 @@
+5699. **Name:** Xena Miller
+   - **Skills:** HTML, Graphic Design, JavaScript, Agile
+   - **Experience:** Senior Scientist at TechCorp
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Victoria Garcia, Analyst, mia_smith@example.com
+Eva Chen, Analyst, david_lee@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** charlie_wu@example.com, City, Data Haven
+   - **Projects:** Contributed to the Revolutionary Platform for Enhancing Collaboration
+

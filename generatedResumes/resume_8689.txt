@@ -1,0 +1,10 @@
+8689. **Name:** Alice Gupta
+   - **Skills:** C#, Network Administration, Python, Machine Learning
+   - **Experience:** Junior Designer at DataInnovators
+   - **Education:** Bachelor in Computer Science from Inno Institute
+   - **References:** Walter Gupta, Lead, jack_williams@example.com
+Ulysses Lee, Engineer, alice_lee@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** olivia_wu@example.com, Village, Techland
+   - **Projects:** Contributed to the Revolutionary Project for Streamlining Business Processes
+

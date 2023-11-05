@@ -1,0 +1,10 @@
+2795. **Name:** Grace Kumar
+   - **Skills:** Android Development, Python, CSS, Graphic Design
+   - **Experience:** Junior Designer at DigitalSolutions
+   - **Education:** Master in Art from Physics Academy
+   - **References:** Victoria Lee, Director, nathan_kumar@example.com
+Grace Miller, Coordinator, patrick_rodriguez@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** rachel_patel@example.com, City, Inno Haven
+   - **Projects:** Developed the Groundbreaking App for Solving Collaboration
+

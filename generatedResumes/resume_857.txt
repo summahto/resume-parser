@@ -1,0 +1,10 @@
+857. **Name:** Eva White
+   - **Skills:** AR/VR Development, Big Data, Machine Learning, Kubernetes
+   - **Experience:** Lead Developer at DataExperts
+   - **Education:** Master in Data Science from Data Science School
+   - **References:** Walter Cruz, CEO, xena_kumar@example.com
+David Lee, CTO, charlie_miller@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** bob_nguyen@example.com, City, Techtopia
+   - **Projects:** Led the Cutting-edge System for Optimizing Data Analysis
+

@@ -1,0 +1,10 @@
+8130. **Name:** Sam Brown
+   - **Skills:** Docker, CSS, Node.js, Blockchain
+   - **Experience:** Junior Designer at DigitalSolutions
+   - **Education:** Master in Computer Science from Business School
+   - **References:** Bob Smith, CEO, patrick_wu@example.com
+Alice Sato, Manager, charlie_wu@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** mia_white@example.com, City, Techtopia
+   - **Projects:** Contributed to the Groundbreaking Project for Solving User Experience
+

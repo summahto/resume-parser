@@ -1,0 +1,10 @@
+2584. **Name:** Charlie Wang
+   - **Skills:** Big Data, Blockchain, React, Network Administration
+   - **Experience:** Senior Engineer at CodeCrafters
+   - **Education:** Ph.D. in Business Administration from Tech University
+   - **References:** Frank Jones, CTO, xena_lee@example.com
+Katherine Gupta, CTO, olivia_patel@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** leo_kim@example.com, Town, Artopia
+   - **Projects:** Contributed to the Revolutionary Framework for Solving Collaboration
+

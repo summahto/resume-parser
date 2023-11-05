@@ -1,0 +1,10 @@
+9702. **Name:** Bob Kim
+   - **Skills:** Android Development, Vue.js, Python, Big Data
+   - **Experience:** Junior Engineer at DigitalSolutions
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Zane Gupta, Analyst, bob_chen@example.com
+Zane Brown, Engineer, nathan_nguyen@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** charlie_williams@example.com, City, Data City
+   - **Projects:** Developed the Groundbreaking App for Streamlining Data Analysis
+

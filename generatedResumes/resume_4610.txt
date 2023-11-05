@@ -1,0 +1,10 @@
+4610. **Name:** Charlie Wu
+   - **Skills:** Android Development, Docker, IoT, Graphic Design
+   - **Experience:** Junior Scientist at CreativeSolutions
+   - **Education:** Bachelor in Physics from Creative Arts College
+   - **References:** Frank Miller, Designer, yuki_taylor@example.com
+Tina Silva, Scientist, walter_taylor@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** sam_garcia@example.com, City, Artopia
+   - **Projects:** Led the Innovative App for Optimizing User Experience
+

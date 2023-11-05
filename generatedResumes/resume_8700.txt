@@ -1,0 +1,10 @@
+8700. **Name:** Rachel Rodriguez
+   - **Skills:** Data Analysis, Angular, JavaScript, CSS
+   - **Experience:** Junior Analyst at CodeCrafters
+   - **Education:** Master in Data Science from Data Science School
+   - **References:** Olivia Rodriguez, Designer, rachel_rodriguez@example.com
+Tina Nguyen, Coordinator, xena_smith@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** david_garcia@example.com, City, Techland
+   - **Projects:** Contributed to the Cutting-edge Project for Optimizing User Experience
+

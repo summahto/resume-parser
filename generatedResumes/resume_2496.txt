@@ -1,0 +1,10 @@
+2496. **Name:** Alice Gupta
+   - **Skills:** IoT, Machine Learning, Node.js, Vue.js
+   - **Experience:** Lead Developer at InnovativeTech
+   - **Education:** Master in Data Science from Data Science School
+   - **References:** Henry White, Designer, leo_taylor@example.com
+Xena Miller, Lead, eva_patel@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** david_sato@example.com, City, Techland
+   - **Projects:** Led the Innovative App for Enhancing Collaboration
+

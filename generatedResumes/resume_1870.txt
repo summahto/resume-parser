@@ -1,0 +1,10 @@
+1870. **Name:** Ivy Garcia
+   - **Skills:** HTML, Android Development, Vue.js, Node.js
+   - **Experience:** Lead Manager at CreativeMinds
+   - **Education:** Ph.D. in Art from Inno Institute
+   - **References:** Tina Miller, Analyst, quinn_nguyen@example.com
+Yuki White, Manager, yuki_taylor@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** mia_cruz@example.com, Village, Inno Haven
+   - **Projects:** Developed the Cutting-edge Project for Streamlining Data Analysis
+

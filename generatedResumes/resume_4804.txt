@@ -1,0 +1,10 @@
+4804. **Name:** Quinn Kim
+   - **Skills:** Graphic Design, Data Analysis, DevOps, Android Development
+   - **Experience:** Senior Designer at CreativeSolutions
+   - **Education:** Master in Engineering from Creative Arts College
+   - **References:** Tina López, Engineer, charlie_taylor@example.com
+Jack Miller, Analyst, katherine_lopez@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** rachel_kumar@example.com, Town, Data City
+   - **Projects:** Led the Groundbreaking Project for Solving Business Processes
+

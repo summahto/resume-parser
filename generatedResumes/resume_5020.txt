@@ -1,0 +1,10 @@
+5020. **Name:** Ulysses Kumar
+   - **Skills:** HTML, JavaScript, C#, Node.js
+   - **Experience:** Junior Manager at DataExperts
+   - **Education:** Ph.D. in Art from Inno Institute
+   - **References:** Alice Jones, Scientist, walter_miller@example.com
+Henry White, Analyst, zane_brown@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** grace_chen@example.com, Village, Data Haven
+   - **Projects:** Developed the Cutting-edge Framework for Optimizing Business Processes
+

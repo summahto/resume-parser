@@ -1,0 +1,10 @@
+4678. **Name:** Jack Cruz
+   - **Skills:** HTML, Kubernetes, React, Big Data
+   - **Experience:** Lead Developer at CreativeSolutions
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Olivia Sato, Developer, olivia_jones@example.com
+Ivy White, Analyst, bob_lee@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** ulysses_gupta@example.com, Village, Artopia
+   - **Projects:** Contributed to the Innovative System for Optimizing Problem-solving
+

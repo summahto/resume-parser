@@ -1,0 +1,10 @@
+6507. **Name:** Yuki Garcia
+   - **Skills:** AR/VR Development, Cybersecurity, Node.js, React
+   - **Experience:** Senior Developer at TechCorp
+   - **Education:** Master in Data Science from Inno Institute
+   - **References:** Quinn Chen, Designer, yuki_garcia@example.com
+Quinn Garcia, Scientist, xena_lópez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** ulysses_nguyen@example.com, City, Green Valley
+   - **Projects:** Developed the Revolutionary Platform for Solving Data Analysis
+

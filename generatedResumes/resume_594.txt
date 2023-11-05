@@ -1,0 +1,10 @@
+594. **Name:** Jack Nguyen
+   - **Skills:** Angular, Java, Android Development, AR/VR Development
+   - **Experience:** Junior Designer at InnovativeTech
+   - **Education:** Master in Art from Business School
+   - **References:** Olivia Miller, Scientist, quinn_gupta@example.com
+Grace Lee, Engineer, charlie_garcia@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** zane_lee@example.com, City, Innoville
+   - **Projects:** Led the Revolutionary Project for Streamlining Business Processes
+

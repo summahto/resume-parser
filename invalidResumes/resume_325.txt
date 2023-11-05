@@ -1,0 +1,10 @@
+325. **Name:** Mia Brown
+   - **Skills:** Java, Blockchain, Node.js, Project Management
+   - **Experience:** Lead Analyst at InnoSolutions
+   - **Education:** Bachelor in Business Administration from Data Science School
+   - **References:** Xena Rodriguez, Director, walter_hernandez@example.com
+Jack López, Coordinator, alice_silva@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** charlie_lópez@example.com, City, Innoville
+   - **Projects:** Developed the Revolutionary App for Optimizing Business Processes
+

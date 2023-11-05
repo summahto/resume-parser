@@ -1,0 +1,10 @@
+8459. **Name:** Tina Singh
+   - **Skills:** Python, UI/UX Design, Swift, Angular
+   - **Experience:** Junior Designer at DigitalSolutions
+   - **Education:** Bachelor in Computer Science from Inno Institute
+   - **References:** Mia Cruz, Manager, patrick_hernandez@example.com
+Victoria Lee, CEO, victoria_nguyen@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** walter_rodriguez@example.com, City, Data City
+   - **Projects:** Led the Cutting-edge Project for Enhancing Business Processes
+

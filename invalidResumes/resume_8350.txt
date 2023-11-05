@@ -1,0 +1,10 @@
+8350. **Name:** Victoria Suzuki
+   - **Skills:** Graphic Design, SQL, iOS Development, React
+   - **Experience:** Lead Manager at DataExperts
+   - **Education:** Ph.D. in Physics from Creative Arts College
+   - **References:** Ulysses López, Manager, ivy_smith@example.com
+Charlie Taylor, Analyst, mia_kumar@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** katherine_white@example.com, City, Data City
+   - **Projects:** Contributed to the Innovative Platform for Solving Collaboration
+

@@ -1,0 +1,10 @@
+9789. **Name:** David White
+   - **Skills:** Project Management, Cloud Computing, Docker, Swift
+   - **Experience:** Lead Analyst at TechInnovate
+   - **Education:** Ph.D. in Business Administration from Tech University
+   - **References:** Leo Müller, Engineer, henry_yamamoto@example.com
+Mia Jones, Developer, jack_jones@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** katherine_silva@example.com, Town, Scienceburg
+   - **Projects:** Contributed to the Cutting-edge App for Solving Business Processes
+

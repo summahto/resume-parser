@@ -1,0 +1,10 @@
+4268. **Name:** Yuki Chen
+   - **Skills:** SQL, Android Development, Agile, Git
+   - **Experience:** Senior Designer at DataExperts
+   - **Education:** Master in Art from Data Science School
+   - **References:** Ulysses Patel, CEO, zane_garcia@example.com
+Alice Müller, Designer, katherine_yamamoto@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** alice_lópez@example.com, City, Artopia
+   - **Projects:** Contributed to the Groundbreaking Project for Enhancing User Experience
+

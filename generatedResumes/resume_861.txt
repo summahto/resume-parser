@@ -1,0 +1,10 @@
+861. **Name:** Sam White
+   - **Skills:** IoT, JavaScript, Android Development, Docker
+   - **Experience:** Senior Developer at DigitalSolutions
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** Walter Silva, Developer, ulysses_jones@example.com
+Bob Miller, Engineer, tina_cruz@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** bob_chen@example.com, City, Techtopia
+   - **Projects:** Contributed to the Innovative Project for Solving Collaboration
+

@@ -1,0 +1,10 @@
+8644. **Name:** Leo Patel
+   - **Skills:** React, iOS Development, Vue.js, Agile
+   - **Experience:** Senior Manager at CodeCrafters
+   - **Education:** Master in Physics from Inno Institute
+   - **References:** David Lopez, CEO, alice_kumar@example.com
+Bob Nguyen, Director, walter_patel@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** katherine_lee@example.com, Town, Scienceburg
+   - **Projects:** Led the Groundbreaking System for Optimizing Problem-solving
+

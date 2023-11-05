@@ -1,0 +1,10 @@
+1225. **Name:** Xena Smith
+   - **Skills:** Python, Project Management, Cloud Computing, CSS
+   - **Experience:** Lead Developer at DataExperts
+   - **Education:** Bachelor in Business Administration from Data Science School
+   - **References:** Charlie Müller, Engineer, frank_wang@example.com
+Rachel Jackson, Designer, katherine_chen@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** nathan_jones@example.com, City, Innoville
+   - **Projects:** Contributed to the Innovative System for Streamlining Data Analysis
+

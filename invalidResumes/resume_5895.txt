@@ -1,0 +1,10 @@
+5895. **Name:** Quinn Taylor
+   - **Skills:** IoT, Swift, AR/VR Development, Vue.js
+   - **Experience:** Senior Developer at CreativeMinds
+   - **Education:** Bachelor in Art from Inno Institute
+   - **References:** Rachel López, Designer, nathan_gupta@example.com
+Ivy Müller, Manager, walter_smith@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** katherine_miller@example.com, Village, Innoville
+   - **Projects:** Developed the Groundbreaking Framework for Optimizing Business Processes
+

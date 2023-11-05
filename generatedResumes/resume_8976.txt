@@ -1,0 +1,10 @@
+8976. **Name:** Henry López
+   - **Skills:** Project Management, Big Data, IoT, JavaScript
+   - **Experience:** Junior Developer at DataInnovators
+   - **Education:** Master in Data Science from Tech University
+   - **References:** Leo Miller, Manager, ulysses_kumar@example.com
+Walter Jones, Coordinator, mia_wang@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** ulysses_rodriguez@example.com, Village, Techtopia
+   - **Projects:** Led the Revolutionary Platform for Enhancing Collaboration
+

@@ -1,0 +1,10 @@
+2960. **Name:** Yuki Chen
+   - **Skills:** SQL, Angular, UI/UX Design, Node.js
+   - **Experience:** Junior Scientist at InnovativeTech
+   - **Education:** Ph.D. in Art from Tech University
+   - **References:** Victoria Gupta, Engineer, olivia_jones@example.com
+Ivy Rodriguez, Coordinator, jack_suzuki@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** grace_silva@example.com, City, Scienceburg
+   - **Projects:** Developed the Groundbreaking Framework for Enhancing User Experience
+

@@ -1,0 +1,10 @@
+6454. **Name:** Xena Cruz
+   - **Skills:** Docker, CSS, Vue.js, Cloud Computing
+   - **Experience:** Junior Developer at CreativeMinds
+   - **Education:** Bachelor in Business Administration from Inno Institute
+   - **References:** Patrick Taylor, Designer, leo_lopez@example.com
+Yuki Lopez, Coordinator, bob_taylor@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** zane_cruz@example.com, City, Techtopia
+   - **Projects:** Contributed to the Cutting-edge Platform for Optimizing Collaboration
+

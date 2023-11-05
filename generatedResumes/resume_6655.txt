@@ -1,0 +1,10 @@
+6655. **Name:** Olivia Gupta
+   - **Skills:** JavaScript, Big Data, Network Administration, Graphic Design
+   - **Experience:** Senior Developer at DigitalSolutions
+   - **Education:** Ph.D. in Physics from Physics Academy
+   - **References:** Mia Rodriguez, Developer, frank_brown@example.com
+Ivy Patel, Designer, charlie_smith@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** eva_silva@example.com, Town, Data Haven
+   - **Projects:** Contributed to the Innovative Platform for Solving Problem-solving
+

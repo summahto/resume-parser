@@ -1,0 +1,10 @@
+541. **Name:** Bob White
+   - **Skills:** IoT, Big Data, iOS Development, Android Development
+   - **Experience:** Junior Designer at InnoSolutions
+   - **Education:** Bachelor in Business Administration from Physics Academy
+   - **References:** Ivy Kumar, Designer, nathan_gupta@example.com
+Quinn Smith, Designer, quinn_miller@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** henry_davis@example.com, Town, Innoville
+   - **Projects:** Developed the Cutting-edge Platform for Optimizing User Experience
+

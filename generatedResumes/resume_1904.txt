@@ -1,0 +1,10 @@
+1904. **Name:** Xena Lopez
+   - **Skills:** Python, Cybersecurity, DevOps, Android Development
+   - **Experience:** Lead Designer at TechInnovate
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** Ivy Silva, Coordinator, mia_kumar@example.com
+David Gonzalez, Manager, katherine_patel@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** mia_lee@example.com, City, Inno Haven
+   - **Projects:** Developed the Revolutionary Project for Optimizing Problem-solving
+

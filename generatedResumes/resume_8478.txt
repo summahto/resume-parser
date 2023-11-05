@@ -1,0 +1,10 @@
+8478. **Name:** Frank White
+   - **Skills:** Blockchain, Java, IoT, JavaScript
+   - **Experience:** Senior Analyst at InnoSolutions
+   - **Education:** Master in Art from Physics Academy
+   - **References:** Katherine White, Manager, frank_williams@example.com
+Alice Chen, Designer, patrick_chen@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** ivy_williams@example.com, Village, Innovation Meadows
+   - **Projects:** Contributed to the Cutting-edge System for Solving Collaboration
+

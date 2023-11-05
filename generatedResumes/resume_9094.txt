@@ -1,0 +1,10 @@
+9094. **Name:** Frank Kumar
+   - **Skills:** Git, Cybersecurity, Machine Learning, C#
+   - **Experience:** Junior Manager at TechCorp
+   - **Education:** Master in Data Science from Creative Arts College
+   - **References:** Ulysses White, Manager, david_kumar@example.com
+Katherine Wang, Manager, patrick_gupta@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** tina_silva@example.com, Village, Inno Haven
+   - **Projects:** Led the Groundbreaking Platform for Solving User Experience
+

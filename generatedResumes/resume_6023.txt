@@ -1,0 +1,10 @@
+6023. **Name:** Walter Cruz
+   - **Skills:** React, Git, Big Data, Blockchain
+   - **Experience:** Junior Scientist at CreativeSolutions
+   - **Education:** Master in Art from Creative Arts College
+   - **References:** Quinn Jones, Coordinator, tina_silva@example.com
+Rachel Wang, Manager, ivy_chen@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** frank_chen@example.com, Village, Innovation Meadows
+   - **Projects:** Led the Innovative App for Streamlining Business Processes
+

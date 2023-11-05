@@ -1,0 +1,10 @@
+5947. **Name:** Leo Taylor
+   - **Skills:** Angular, Graphic Design, SQL, JavaScript
+   - **Experience:** Senior Manager at DataInnovators
+   - **Education:** Ph.D. in Physics from Inno Institute
+   - **References:** Ivy Cruz, Scientist, ivy_garcia@example.com
+Zane Lee, Coordinator, olivia_chen@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** frank_silva@example.com, City, Artopia
+   - **Projects:** Led the Cutting-edge Framework for Enhancing Data Analysis
+

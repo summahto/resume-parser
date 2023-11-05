@@ -1,0 +1,10 @@
+123. **Name:** Leo Gupta
+   - **Skills:** Project Management, Java, Data Analysis, iOS Development
+   - **Experience:** Lead Designer at InnovativeTech
+   - **Education:** Ph.D. in Engineering from Physics Academy
+   - **References:** Ulysses López, Coordinator, xena_white@example.com
+Mia Lee, Engineer, frank_garcia@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** patrick_chen@example.com, Village, Innovation Meadows
+   - **Projects:** Developed the Innovative Platform for Enhancing Business Processes
+

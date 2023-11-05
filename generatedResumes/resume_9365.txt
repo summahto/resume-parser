@@ -1,0 +1,10 @@
+9365. **Name:** Mia Davis
+   - **Skills:** Cloud Computing, C#, Git, Data Analysis
+   - **Experience:** Junior Analyst at CodeCrafters
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** Henry Wang, Manager, grace_wang@example.com
+Mia Miller, Coordinator, xena_brown@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** henry_taylor@example.com, Town, Innoville
+   - **Projects:** Led the Innovative Platform for Enhancing Business Processes
+

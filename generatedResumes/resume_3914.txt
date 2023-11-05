@@ -1,0 +1,10 @@
+3914. **Name:** Leo Rodriguez
+   - **Skills:** Agile, Swift, Docker, Vue.js
+   - **Experience:** Lead Engineer at InnoSolutions
+   - **Education:** Bachelor in Physics from Inno Institute
+   - **References:** Ivy Lopez, Manager, bob_miller@example.com
+Eva White, Coordinator, patrick_wu@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** frank_garcia@example.com, Town, Artopia
+   - **Projects:** Developed the Revolutionary Platform for Enhancing Collaboration
+

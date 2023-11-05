@@ -1,0 +1,10 @@
+2762. **Name:** Zane Garcia
+   - **Skills:** Project Management, Python, Android Development, CSS
+   - **Experience:** Junior Developer at CreativeSolutions
+   - **Education:** Master in Business Administration from Business School
+   - **References:** Victoria Smith, Scientist, charlie_gupta@example.com
+Charlie Jones, Director, frank_miller@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** bob_silva@example.com, Town, Inno Haven
+   - **Projects:** Led the Cutting-edge Platform for Optimizing User Experience
+

@@ -1,0 +1,10 @@
+2460. **Name:** Charlie Chen
+   - **Skills:** JavaScript, Project Management, Cloud Computing, SQL
+   - **Experience:** Lead Analyst at TechCorp
+   - **Education:** Bachelor in Business Administration from Business School
+   - **References:** Mia White, Developer, rachel_lee@example.com
+Sam Wu, Analyst, henry_patel@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** yuki_suzuki@example.com, Village, Techtopia
+   - **Projects:** Led the Innovative System for Solving Problem-solving
+

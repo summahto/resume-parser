@@ -1,0 +1,10 @@
+3001. **Name:** Tina Jones
+   - **Skills:** HTML, Network Administration, AR/VR Development, Git
+   - **Experience:** Lead Engineer at CodeCrafters
+   - **Education:** Master in Art from Inno Institute
+   - **References:** Eva Johnson, Analyst, frank_gupta@example.com
+Leo White, Manager, frank_singh@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** frank_li@example.com, Town, Data Haven
+   - **Projects:** Developed the Groundbreaking App for Streamlining Business Processes
+

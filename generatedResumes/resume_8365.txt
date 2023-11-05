@@ -1,0 +1,10 @@
+8365. **Name:** Jack Cruz
+   - **Skills:** Graphic Design, React, Agile, Blockchain
+   - **Experience:** Lead Engineer at DigitalSolutions
+   - **Education:** Master in Physics from Data Science School
+   - **References:** Rachel Kumar, Developer, charlie_wang@example.com
+Katherine Kim, Lead, xena_patel@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** mia_gupta@example.com, City, Data City
+   - **Projects:** Contributed to the Innovative Project for Enhancing User Experience
+

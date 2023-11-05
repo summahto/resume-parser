@@ -1,0 +1,10 @@
+9125. **Name:** Zane Lopez
+   - **Skills:** Angular, Git, HTML, Docker
+   - **Experience:** Junior Manager at TechInnovate
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Jack Wu, Manager, nathan_wu@example.com
+Xena Wu, Manager, nathan_wang@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** walter_white@example.com, Village, Scienceburg
+   - **Projects:** Led the Innovative Platform for Streamlining Business Processes
+

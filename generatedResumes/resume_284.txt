@@ -1,0 +1,10 @@
+284. **Name:** Quinn White
+   - **Skills:** C#, Git, Vue.js, Cybersecurity
+   - **Experience:** Senior Engineer at DataExperts
+   - **Education:** Bachelor in Art from Tech University
+   - **References:** Sam White, Designer, tina_white@example.com
+Tina Silva, CEO, olivia_gupta@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** jack_lopez@example.com, Village, Scienceburg
+   - **Projects:** Led the Revolutionary Framework for Streamlining Data Analysis
+

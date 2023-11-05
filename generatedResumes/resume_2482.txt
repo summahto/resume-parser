@@ -1,0 +1,10 @@
+2482. **Name:** Eva Chen
+   - **Skills:** Machine Learning, Node.js, iOS Development, Python
+   - **Experience:** Senior Scientist at DataExperts
+   - **Education:** Bachelor in Physics from Business School
+   - **References:** Olivia Li, CTO, sam_williams@example.com
+Jack Nguyen, Developer, yuki_nguyen@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** nathan_lee@example.com, Village, Scienceburg
+   - **Projects:** Led the Cutting-edge Framework for Solving Data Analysis
+

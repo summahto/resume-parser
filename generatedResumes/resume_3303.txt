@@ -1,0 +1,10 @@
+3303. **Name:** Ulysses Rodriguez
+   - **Skills:** Vue.js, AR/VR Development, React, UI/UX Design
+   - **Experience:** Lead Scientist at DataExperts
+   - **Education:** Bachelor in Physics from Inno Institute
+   - **References:** Nathan Jackson, Designer, rachel_lopez@example.com
+Ivy Brown, Lead, david_silva@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** tina_white@example.com, Town, Scienceburg
+   - **Projects:** Led the Revolutionary Framework for Enhancing Problem-solving
+

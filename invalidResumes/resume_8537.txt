@@ -1,0 +1,10 @@
+8537. **Name:** Mia Kumar
+   - **Skills:** IoT, Python, JavaScript, Android Development
+   - **Experience:** Junior Manager at TechCorp
+   - **Education:** Master in Business Administration from Tech University
+   - **References:** Sam Lee, Lead, bob_jones@example.com
+Patrick Jackson, CTO, leo_davis@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** charlie_lópez@example.com, City, Data City
+   - **Projects:** Developed the Groundbreaking App for Solving Business Processes
+

@@ -1,0 +1,10 @@
+7993. **Name:** Nathan Jackson
+   - **Skills:** Angular, UI/UX Design, Cybersecurity, Kubernetes
+   - **Experience:** Senior Analyst at CreativeSolutions
+   - **Education:** Ph.D. in Computer Science from Business School
+   - **References:** Henry Jackson, Engineer, yuki_white@example.com
+Olivia Chen, Designer, jack_johnson@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** olivia_wang@example.com, Town, Techland
+   - **Projects:** Led the Groundbreaking Framework for Optimizing Problem-solving
+

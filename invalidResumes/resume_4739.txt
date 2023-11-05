@@ -1,0 +1,10 @@
+4739. **Name:** David López
+   - **Skills:** Vue.js, Kubernetes, DevOps, Machine Learning
+   - **Experience:** Senior Designer at DataInnovators
+   - **Education:** Bachelor in Computer Science from Inno Institute
+   - **References:** Tina Patel, Director, frank_chen@example.com
+Ulysses Gonzalez, Coordinator, tina_suzuki@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** leo_white@example.com, Town, Innovation Meadows
+   - **Projects:** Developed the Revolutionary App for Enhancing Business Processes
+

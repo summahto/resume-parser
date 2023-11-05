@@ -1,0 +1,10 @@
+7908. **Name:** Charlie Gupta
+   - **Skills:** Big Data, C#, React, Cybersecurity
+   - **Experience:** Senior Engineer at TechInnovate
+   - **Education:** Master in Art from Physics Academy
+   - **References:** Nathan Wang, Scientist, walter_patel@example.com
+Quinn Wang, Director, yuki_gupta@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** rachel_taylor@example.com, Town, Artopia
+   - **Projects:** Led the Innovative App for Enhancing Business Processes
+

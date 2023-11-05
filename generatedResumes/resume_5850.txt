@@ -1,0 +1,10 @@
+5850. **Name:** Xena Gupta
+   - **Skills:** JavaScript, Python, React, Node.js
+   - **Experience:** Junior Engineer at InnovativeTech
+   - **Education:** Master in Physics from Inno Institute
+   - **References:** David White, Director, victoria_yamamoto@example.com
+David Chen, CEO, xena_miller@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** quinn_smith@example.com, City, Innoville
+   - **Projects:** Contributed to the Groundbreaking Framework for Solving User Experience
+

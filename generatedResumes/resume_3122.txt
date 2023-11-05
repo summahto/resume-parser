@@ -1,0 +1,10 @@
+3122. **Name:** Patrick Gupta
+   - **Skills:** C#, Cloud Computing, Data Analysis, Big Data
+   - **Experience:** Senior Scientist at CreativeSolutions
+   - **Education:** Bachelor in Physics from Physics Academy
+   - **References:** Quinn Lee, Director, ulysses_jones@example.com
+Jack Brown, Manager, katherine_williams@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** sam_rodriguez@example.com, Town, Scienceburg
+   - **Projects:** Developed the Innovative Platform for Optimizing Collaboration
+

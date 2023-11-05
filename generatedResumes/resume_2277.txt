@@ -1,0 +1,10 @@
+2277. **Name:** Eva Lopez
+   - **Skills:** Network Administration, IoT, AR/VR Development, Android Development
+   - **Experience:** Junior Manager at CreativeSolutions
+   - **Education:** Ph.D. in Engineering from Business School
+   - **References:** Victoria Smith, Engineer, henry_white@example.com
+Eva Gupta, CEO, grace_brown@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** bob_miller@example.com, Village, Artopia
+   - **Projects:** Contributed to the Groundbreaking System for Streamlining Collaboration
+

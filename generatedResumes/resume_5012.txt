@@ -1,0 +1,10 @@
+5012. **Name:** Zane Wang
+   - **Skills:** React, Angular, Kubernetes, Vue.js
+   - **Experience:** Junior Developer at DataExperts
+   - **Education:** Master in Engineering from Creative Arts College
+   - **References:** Victoria Jones, Lead, grace_miller@example.com
+Sam Lee, Coordinator, olivia_jones@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** zane_wang@example.com, City, Scienceburg
+   - **Projects:** Developed the Revolutionary App for Enhancing Collaboration
+

@@ -1,0 +1,10 @@
+5187. **Name:** Leo Gupta
+   - **Skills:** Git, Big Data, JavaScript, Swift
+   - **Experience:** Lead Analyst at TechCorp
+   - **Education:** Ph.D. in Business Administration from Data Science School
+   - **References:** Olivia Wu, Lead, patrick_jones@example.com
+Mia Lopez, Lead, frank_wang@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** ivy_lee@example.com, Town, Green Valley
+   - **Projects:** Led the Groundbreaking Project for Enhancing Collaboration
+

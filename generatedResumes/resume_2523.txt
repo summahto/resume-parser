@@ -1,0 +1,10 @@
+2523. **Name:** Charlie Lee
+   - **Skills:** Big Data, Blockchain, UI/UX Design, Java
+   - **Experience:** Junior Scientist at InnoSolutions
+   - **Education:** Master in Art from Business School
+   - **References:** Ulysses Williams, Scientist, xena_williams@example.com
+Tina Miller, Coordinator, jack_smith@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** frank_hernandez@example.com, City, Inno Haven
+   - **Projects:** Led the Cutting-edge App for Streamlining User Experience
+

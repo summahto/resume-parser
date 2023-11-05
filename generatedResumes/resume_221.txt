@@ -1,0 +1,10 @@
+221. **Name:** Alice Nguyen
+   - **Skills:** Angular, Graphic Design, Cybersecurity, Big Data
+   - **Experience:** Junior Developer at InnoSolutions
+   - **Education:** Bachelor in Computer Science from Data Science School
+   - **References:** Bob Silva, Manager, zane_taylor@example.com
+Victoria Silva, CTO, henry_rodriguez@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** victoria_rodriguez@example.com, Town, Techtopia
+   - **Projects:** Led the Groundbreaking App for Streamlining Business Processes
+

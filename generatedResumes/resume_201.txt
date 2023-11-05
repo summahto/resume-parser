@@ -1,0 +1,10 @@
+201. **Name:** Sam Gupta
+   - **Skills:** Big Data, AR/VR Development, Node.js, Graphic Design
+   - **Experience:** Junior Developer at TechCorp
+   - **Education:** Bachelor in Physics from Tech University
+   - **References:** Olivia Kumar, Manager, sam_silva@example.com
+Bob Suzuki, Manager, david_wu@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** ivy_smith@example.com, Town, Artopia
+   - **Projects:** Contributed to the Revolutionary Framework for Optimizing User Experience
+

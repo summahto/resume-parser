@@ -1,0 +1,10 @@
+2396. **Name:** Ivy Kumar
+   - **Skills:** CSS, Network Administration, Vue.js, AR/VR Development
+   - **Experience:** Junior Developer at DataInnovators
+   - **Education:** Ph.D. in Art from Data Science School
+   - **References:** Eva Silva, Director, henry_kumar@example.com
+David Nguyen, Scientist, david_rodriguez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** victoria_chen@example.com, City, Innovation Meadows
+   - **Projects:** Developed the Revolutionary Platform for Optimizing Collaboration
+

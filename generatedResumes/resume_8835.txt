@@ -1,0 +1,10 @@
+8835. **Name:** Ivy Lee
+   - **Skills:** UI/UX Design, C#, Kubernetes, iOS Development
+   - **Experience:** Junior Developer at DigitalSolutions
+   - **Education:** Ph.D. in Art from Inno Institute
+   - **References:** Walter Jackson, Coordinator, sam_silva@example.com
+David Lee, Manager, frank_kumar@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** ivy_chen@example.com, Town, Green Valley
+   - **Projects:** Developed the Groundbreaking Platform for Solving Business Processes
+

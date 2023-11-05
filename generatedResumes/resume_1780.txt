@@ -1,0 +1,10 @@
+1780. **Name:** Henry Cruz
+   - **Skills:** JavaScript, Cybersecurity, IoT, Python
+   - **Experience:** Junior Engineer at DataExperts
+   - **Education:** Bachelor in Computer Science from Creative Arts College
+   - **References:** Patrick Jackson, Developer, henry_garcia@example.com
+Rachel Wu, Director, olivia_suzuki@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** xena_lopez@example.com, Village, Techland
+   - **Projects:** Developed the Revolutionary System for Optimizing User Experience
+

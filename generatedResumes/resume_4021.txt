@@ -1,0 +1,10 @@
+4021. **Name:** Katherine Miller
+   - **Skills:** Git, Graphic Design, SQL, IoT
+   - **Experience:** Junior Designer at DigitalSolutions
+   - **Education:** Bachelor in Physics from Business School
+   - **References:** David Wu, CTO, yuki_jones@example.com
+Ivy Kumar, Developer, bob_nguyen@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** david_lee@example.com, Village, Innovation Meadows
+   - **Projects:** Contributed to the Innovative Project for Enhancing Data Analysis
+

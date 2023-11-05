@@ -1,0 +1,10 @@
+9132. **Name:** Xena López
+   - **Skills:** React, Project Management, Python, Machine Learning
+   - **Experience:** Junior Scientist at InnoSolutions
+   - **Education:** Master in Engineering from Business School
+   - **References:** Nathan Kim, CTO, frank_chen@example.com
+Henry Wang, Director, olivia_lópez@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** mia_kumar@example.com, Town, Inno Haven
+   - **Projects:** Led the Cutting-edge App for Solving User Experience
+

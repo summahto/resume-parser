@@ -1,0 +1,10 @@
+6867. **Name:** Sam Lee
+   - **Skills:** Big Data, Angular, UI/UX Design, C#
+   - **Experience:** Lead Manager at DigitalSolutions
+   - **Education:** Bachelor in Art from Tech University
+   - **References:** Henry Chen, Designer, rachel_taylor@example.com
+Katherine Wang, Analyst, victoria_kumar@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** nathan_lopez@example.com, Village, Inno Haven
+   - **Projects:** Led the Groundbreaking App for Optimizing User Experience
+

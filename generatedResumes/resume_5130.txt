@@ -1,0 +1,10 @@
+5130. **Name:** Leo Kim
+   - **Skills:** Data Analysis, iOS Development, Network Administration, Angular
+   - **Experience:** Senior Scientist at DigitalSolutions
+   - **Education:** Ph.D. in Engineering from Creative Arts College
+   - **References:** Tina Kumar, Lead, yuki_silva@example.com
+Ulysses Yamamoto, Manager, ulysses_miller@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** rachel_cruz@example.com, Town, Inno Haven
+   - **Projects:** Developed the Revolutionary System for Streamlining Collaboration
+

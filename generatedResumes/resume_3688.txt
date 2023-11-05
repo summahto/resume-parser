@@ -1,0 +1,10 @@
+3688. **Name:** Nathan Garcia
+   - **Skills:** Project Management, Git, JavaScript, iOS Development
+   - **Experience:** Lead Developer at TechCorp
+   - **Education:** Master in Physics from Physics Academy
+   - **References:** Yuki Nguyen, Developer, bob_jackson@example.com
+Jack Nguyen, CEO, alice_miller@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** sam_rodriguez@example.com, Village, Artopia
+   - **Projects:** Developed the Innovative System for Optimizing Problem-solving
+

@@ -1,0 +1,10 @@
+1387. **Name:** Sam Wu
+   - **Skills:** CSS, Vue.js, SQL, Blockchain
+   - **Experience:** Junior Scientist at CreativeSolutions
+   - **Education:** Master in Business Administration from Data Science School
+   - **References:** Alice Kumar, Engineer, david_jones@example.com
+Jack Kumar, Scientist, tina_suzuki@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** mia_nguyen@example.com, Town, Scienceburg
+   - **Projects:** Contributed to the Revolutionary Project for Solving User Experience
+

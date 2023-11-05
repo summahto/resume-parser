@@ -1,0 +1,10 @@
+495. **Name:** Mia Kumar
+   - **Skills:** Angular, SQL, Big Data, Cybersecurity
+   - **Experience:** Junior Designer at DigitalSolutions
+   - **Education:** Bachelor in Data Science from Data Science School
+   - **References:** Katherine Wu, Lead, katherine_smith@example.com
+Mia Silva, Manager, patrick_gupta@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** katherine_brown@example.com, Town, Techland
+   - **Projects:** Developed the Innovative Platform for Enhancing Collaboration
+

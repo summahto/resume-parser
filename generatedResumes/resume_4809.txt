@@ -1,0 +1,10 @@
+4809. **Name:** Tina Miller
+   - **Skills:** Node.js, Blockchain, IoT, AR/VR Development
+   - **Experience:** Lead Scientist at CreativeMinds
+   - **Education:** Master in Physics from Data Science School
+   - **References:** Ivy Kumar, Director, bob_lee@example.com
+Yuki Li, Lead, rachel_li@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** xena_wang@example.com, Town, Data Haven
+   - **Projects:** Developed the Innovative Project for Enhancing Business Processes
+

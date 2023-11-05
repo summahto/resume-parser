@@ -1,0 +1,10 @@
+9672. **Name:** Xena Jackson
+   - **Skills:** Git, C#, Android Development, Network Administration
+   - **Experience:** Senior Analyst at CreativeSolutions
+   - **Education:** Bachelor in Art from Creative Arts College
+   - **References:** Zane Kumar, Manager, victoria_cruz@example.com
+Grace Kim, Coordinator, xena_cruz@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** rachel_silva@example.com, Town, Scienceburg
+   - **Projects:** Contributed to the Cutting-edge Framework for Enhancing Data Analysis
+

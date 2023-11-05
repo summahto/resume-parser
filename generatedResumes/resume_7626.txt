@@ -1,0 +1,10 @@
+7626. **Name:** Patrick Chen
+   - **Skills:** HTML, Network Administration, Graphic Design, C#
+   - **Experience:** Lead Designer at CreativeSolutions
+   - **Education:** Bachelor in Data Science from Inno Institute
+   - **References:** Bob Jones, Manager, jack_taylor@example.com
+Rachel Lopez, Lead, charlie_gonzalez@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** charlie_garcia@example.com, City, Inno Haven
+   - **Projects:** Led the Cutting-edge App for Optimizing Collaboration
+

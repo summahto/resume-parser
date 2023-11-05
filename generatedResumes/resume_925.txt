@@ -1,0 +1,10 @@
+925. **Name:** Charlie Wang
+   - **Skills:** Agile, Machine Learning, iOS Development, SQL
+   - **Experience:** Lead Scientist at DigitalSolutions
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** Henry Wu, Designer, patrick_gupta@example.com
+Bob Silva, Designer, zane_cruz@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** eva_cruz@example.com, City, Green Valley
+   - **Projects:** Contributed to the Revolutionary Project for Enhancing Business Processes
+

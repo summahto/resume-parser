@@ -1,0 +1,10 @@
+2887. **Name:** Olivia Gupta
+   - **Skills:** AR/VR Development, UI/UX Design, React, Agile
+   - **Experience:** Junior Manager at TechInnovate
+   - **Education:** Ph.D. in Art from Inno Institute
+   - **References:** Olivia Lee, Manager, rachel_brown@example.com
+Leo Lee, Designer, henry_gupta@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** zane_smith@example.com, Village, Green Valley
+   - **Projects:** Developed the Cutting-edge Platform for Optimizing Collaboration
+

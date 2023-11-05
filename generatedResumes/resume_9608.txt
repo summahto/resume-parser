@@ -1,0 +1,10 @@
+9608. **Name:** David Jackson
+   - **Skills:** Data Analysis, CSS, SQL, React
+   - **Experience:** Senior Scientist at DigitalSolutions
+   - **Education:** Master in Business Administration from Business School
+   - **References:** Eva Garcia, Coordinator, tina_lópez@example.com
+Olivia Cruz, Coordinator, rachel_brown@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** yuki_smith@example.com, Town, Data Haven
+   - **Projects:** Developed the Revolutionary Platform for Solving User Experience
+

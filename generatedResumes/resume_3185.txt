@@ -1,0 +1,10 @@
+3185. **Name:** Ivy Li
+   - **Skills:** Vue.js, HTML, C#, Project Management
+   - **Experience:** Junior Analyst at DigitalSolutions
+   - **Education:** Bachelor in Physics from Creative Arts College
+   - **References:** Tina Smith, Manager, patrick_singh@example.com
+Henry Singh, Coordinator, leo_jones@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** ivy_jones@example.com, City, Green Valley
+   - **Projects:** Contributed to the Groundbreaking Framework for Streamlining User Experience
+

@@ -1,0 +1,10 @@
+306. **Name:** Eva Williams
+   - **Skills:** HTML, Swift, Angular, Android Development
+   - **Experience:** Senior Manager at CreativeSolutions
+   - **Education:** Master in Data Science from Tech University
+   - **References:** Quinn Davis, Coordinator, bob_wu@example.com
+Mia Miller, Director, eva_cruz@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** tina_li@example.com, City, Data Haven
+   - **Projects:** Developed the Cutting-edge App for Solving Business Processes
+

@@ -1,0 +1,10 @@
+6280. **Name:** Quinn Kumar
+   - **Skills:** Node.js, Graphic Design, AR/VR Development, Java
+   - **Experience:** Lead Manager at CodeCrafters
+   - **Education:** Ph.D. in Data Science from Tech University
+   - **References:** Eva Singh, Engineer, ulysses_wu@example.com
+Quinn Patel, Scientist, sam_garcia@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** rachel_white@example.com, City, Innovation Meadows
+   - **Projects:** Developed the Innovative System for Enhancing User Experience
+

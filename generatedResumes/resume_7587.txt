@@ -1,0 +1,10 @@
+7587. **Name:** Eva Gupta
+   - **Skills:** IoT, JavaScript, Data Analysis, C#
+   - **Experience:** Lead Engineer at TechInnovate
+   - **Education:** Ph.D. in Engineering from Data Science School
+   - **References:** Leo Kumar, Lead, ulysses_jackson@example.com
+Ivy Miller, Scientist, yuki_smith@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** sam_garcia@example.com, Town, Techland
+   - **Projects:** Developed the Revolutionary System for Optimizing Data Analysis
+

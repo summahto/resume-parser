@@ -1,0 +1,10 @@
+8095. **Name:** Sam White
+   - **Skills:** Project Management, IoT, Angular, Vue.js
+   - **Experience:** Senior Developer at InnovativeTech
+   - **Education:** Bachelor in Art from Creative Arts College
+   - **References:** Sam López, Scientist, victoria_lopez@example.com
+David Hernandez, Engineer, olivia_gupta@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** jack_li@example.com, Village, Innovation Meadows
+   - **Projects:** Led the Innovative App for Solving User Experience
+

@@ -1,0 +1,10 @@
+4970. **Name:** Ivy Nguyen
+   - **Skills:** Graphic Design, CSS, IoT, iOS Development
+   - **Experience:** Lead Scientist at DataInnovators
+   - **Education:** Master in Art from Creative Arts College
+   - **References:** Ulysses Taylor, Coordinator, alice_gupta@example.com
+Tina Gupta, Scientist, henry_müller@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** alice_white@example.com, Town, Inno Haven
+   - **Projects:** Developed the Innovative System for Streamlining Problem-solving
+

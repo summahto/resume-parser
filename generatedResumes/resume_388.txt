@@ -1,0 +1,10 @@
+388. **Name:** Henry Li
+   - **Skills:** AR/VR Development, Blockchain, JavaScript, Big Data
+   - **Experience:** Junior Manager at TechCorp
+   - **Education:** Bachelor in Computer Science from Business School
+   - **References:** Zane Brown, Manager, nathan_jones@example.com
+Ivy Brown, Designer, ulysses_jones@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** bob_miller@example.com, Town, Innovation Meadows
+   - **Projects:** Led the Cutting-edge System for Streamlining Data Analysis
+

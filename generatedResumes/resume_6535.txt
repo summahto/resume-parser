@@ -1,0 +1,10 @@
+6535. **Name:** Charlie Kumar
+   - **Skills:** Node.js, Android Development, CSS, AR/VR Development
+   - **Experience:** Lead Scientist at DigitalSolutions
+   - **Education:** Ph.D. in Business Administration from Inno Institute
+   - **References:** Nathan Cruz, CTO, david_taylor@example.com
+Henry Nguyen, CTO, jack_davis@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** tina_silva@example.com, Town, Inno Haven
+   - **Projects:** Contributed to the Cutting-edge Framework for Streamlining Data Analysis
+

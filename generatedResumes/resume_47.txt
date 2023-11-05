@@ -1,13 +1,10 @@
-**Name:** Captain Nebula Nova
-- **Skills:** Nebula Navigation, Star Mapping, Galactic Guidance, C#
-- **Experience:** Captain of the Celestial Cruiser, Navigator of the Nebula Nebula
-- **Education:** Galactic Navigation Academy, Stellar Cartography Institute
-- **References:**
-- Nebula Pathfinder, Starstruck Scholar, nebula.pathfinder@email.com
-- Celestial Cartographer, Galaxy Guide, celestial.cartographer@email.com
-- **Volunteering:** Stargazing for Students, Nebula Cleanup Crew
-- **Contact Information:** captain.nebula@email.com, Celestial Port, Starry Station
-- **Projects:**
-- Pioneered the Nebula Navigational Network for Spacefarers
-- Mapped the Celestial Constellations for Astronomical Advancements
+47. **Name:** Mia Jones
+   - **Skills:** CSS, Agile, DevOps, Android Development
+   - **Experience:** Lead Developer at CreativeMinds
+   - **Education:** Bachelor in Art from Creative Arts College
+   - **References:** David Rodriguez, Manager, jack_brown@example.com
+Olivia Wang, Analyst, tina_wu@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** tina_nguyen@example.com, Town, Techtopia
+   - **Projects:** Contributed to the Revolutionary App for Streamlining Collaboration
 

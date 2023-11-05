@@ -1,0 +1,10 @@
+4502. **Name:** Sam Nguyen
+   - **Skills:** Cybersecurity, Node.js, Android Development, Agile
+   - **Experience:** Senior Scientist at DataInnovators
+   - **Education:** Bachelor in Data Science from Creative Arts College
+   - **References:** Rachel Wu, Scientist, jack_lopez@example.com
+David Yamamoto, Director, frank_rodriguez@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** bob_kim@example.com, City, Innoville
+   - **Projects:** Led the Revolutionary System for Enhancing User Experience
+

@@ -1,10 +1,10 @@
-**Name:** Baroness Bubblegum
-- **Skills:** Bubblegum Sculpting, Sticky Situation Solving, Gumdrop Architecture
-- **Experience:** Architect of Sweet Structures, Sticky Strategist of the Bubblegum Empire
-- **Education:** Architectural Candy College, Bubblegum Design Institute
-- **References:**
-- Bubblegum Maestro, Architectural Artisan, bubblegum.maestro@email.com
-- Sweet Structure Engineer, Gumdrop Genius, sweet.structure@email.com
-- **Volunteering:** Bubblegum Bridges for Bunnies, Gumdrop Gardens for Giggles
-- **Contact Information:** baroness.bubblegum@email.com, Candy Castle, Sugaropolis
+23. **Name:** Bob Chen
+   - **Skills:** Android Development, Network Administration, Kubernetes, Git
+   - **Experience:** Lead Developer at DataExperts
+   - **Education:** Ph.D. in Computer Science from Tech University
+   - **References:** Katherine Williams, Director, david_miller@example.com
+Ulysses Li, Coordinator, henry_rodriguez@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** alice_jackson@example.com, Town, Scienceburg
+   - **Projects:** Led the Revolutionary App for Enhancing User Experience
 

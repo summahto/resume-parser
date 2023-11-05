@@ -1,0 +1,10 @@
+2510. **Name:** Katherine Garcia
+   - **Skills:** Big Data, HTML, Cloud Computing, CSS
+   - **Experience:** Senior Engineer at InnovativeTech
+   - **Education:** Bachelor in Computer Science from Physics Academy
+   - **References:** Bob Silva, Developer, frank_lopez@example.com
+Rachel Lee, Engineer, victoria_patel@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** rachel_wu@example.com, Village, Techtopia
+   - **Projects:** Led the Revolutionary Platform for Optimizing Collaboration
+

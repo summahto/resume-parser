@@ -1,0 +1,10 @@
+367. **Name:** Katherine López
+   - **Skills:** JavaScript, IoT, Git, HTML
+   - **Experience:** Lead Developer at CreativeMinds
+   - **Education:** Master in Engineering from Tech University
+   - **References:** Bob Li, Director, victoria_patel@example.com
+Sam Kumar, Engineer, olivia_kumar@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** nathan_chen@example.com, Town, Data City
+   - **Projects:** Contributed to the Revolutionary Project for Solving Problem-solving
+

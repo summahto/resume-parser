@@ -1,0 +1,10 @@
+481. **Name:** Leo Wang
+   - **Skills:** Java, Agile, Git, C#
+   - **Experience:** Senior Scientist at TechInnovate
+   - **Education:** Ph.D. in Data Science from Inno Institute
+   - **References:** David White, Manager, leo_gupta@example.com
+Tina Nguyen, Developer, tina_kumar@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** walter_johnson@example.com, City, Scienceburg
+   - **Projects:** Developed the Revolutionary Project for Enhancing Problem-solving
+

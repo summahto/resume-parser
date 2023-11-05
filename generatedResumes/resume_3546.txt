@@ -1,0 +1,10 @@
+3546. **Name:** Charlie Kumar
+   - **Skills:** Cloud Computing, Java, UI/UX Design, Angular
+   - **Experience:** Lead Designer at TechCorp
+   - **Education:** Bachelor in Business Administration from Creative Arts College
+   - **References:** Zane Garcia, CTO, rachel_lee@example.com
+David Hernandez, Analyst, olivia_kumar@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** mia_jones@example.com, Town, Techtopia
+   - **Projects:** Led the Revolutionary Framework for Optimizing Collaboration
+

@@ -1,0 +1,10 @@
+715. **Name:** Charlie Lee
+   - **Skills:** Blockchain, Cybersecurity, Angular, Machine Learning
+   - **Experience:** Lead Scientist at DigitalSolutions
+   - **Education:** Bachelor in Physics from Tech University
+   - **References:** Zane Yamamoto, Scientist, walter_wu@example.com
+Jack Jackson, CTO, henry_patel@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** tina_nguyen@example.com, Town, Innoville
+   - **Projects:** Developed the Groundbreaking Framework for Solving Collaboration
+

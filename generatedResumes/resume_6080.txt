@@ -1,0 +1,10 @@
+6080. **Name:** Jack Miller
+   - **Skills:** Cloud Computing, Angular, Java, Node.js
+   - **Experience:** Senior Manager at CreativeMinds
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** Grace Sato, Manager, leo_miller@example.com
+Tina Lopez, Developer, bob_white@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** quinn_chen@example.com, Village, Innovation Meadows
+   - **Projects:** Contributed to the Cutting-edge Framework for Optimizing Business Processes
+

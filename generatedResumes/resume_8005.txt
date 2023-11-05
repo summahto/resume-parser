@@ -1,0 +1,10 @@
+8005. **Name:** Ivy Wu
+   - **Skills:** Data Analysis, Git, Big Data, JavaScript
+   - **Experience:** Lead Designer at TechInnovate
+   - **Education:** Ph.D. in Data Science from Physics Academy
+   - **References:** Walter Chen, Engineer, eva_jackson@example.com
+Mia Hernandez, Lead, olivia_jackson@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** victoria_brown@example.com, Town, Innovation Meadows
+   - **Projects:** Led the Revolutionary App for Enhancing Problem-solving
+

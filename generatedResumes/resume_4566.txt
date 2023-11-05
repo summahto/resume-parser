@@ -1,0 +1,10 @@
+4566. **Name:** Tina Lopez
+   - **Skills:** Angular, HTML, Cloud Computing, DevOps
+   - **Experience:** Junior Scientist at DataInnovators
+   - **Education:** Bachelor in Computer Science from Physics Academy
+   - **References:** Eva Nguyen, Developer, katherine_nguyen@example.com
+Eva Cruz, Developer, grace_cruz@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** walter_williams@example.com, Town, Data Haven
+   - **Projects:** Led the Cutting-edge Project for Optimizing Collaboration
+

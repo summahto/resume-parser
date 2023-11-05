@@ -1,0 +1,10 @@
+916. **Name:** Ulysses Chen
+   - **Skills:** AR/VR Development, Kubernetes, Swift, Cloud Computing
+   - **Experience:** Lead Scientist at CodeCrafters
+   - **Education:** Bachelor in Engineering from Tech University
+   - **References:** Frank Jones, Coordinator, yuki_williams@example.com
+Nathan Wang, Engineer, henry_gupta@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** charlie_lópez@example.com, City, Scienceburg
+   - **Projects:** Led the Groundbreaking App for Enhancing Data Analysis
+

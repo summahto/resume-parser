@@ -1,0 +1,10 @@
+286. **Name:** Nathan Smith
+   - **Skills:** Agile, AR/VR Development, Java, Kubernetes
+   - **Experience:** Junior Developer at InnovativeTech
+   - **Education:** Bachelor in Art from Creative Arts College
+   - **References:** Victoria Brown, Designer, charlie_garcia@example.com
+Tina Wu, CTO, patrick_brown@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** patrick_wu@example.com, Town, Artopia
+   - **Projects:** Contributed to the Revolutionary Framework for Streamlining Problem-solving
+

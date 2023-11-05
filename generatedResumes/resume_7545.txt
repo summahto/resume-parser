@@ -1,0 +1,10 @@
+7545. **Name:** Leo Jones
+   - **Skills:** Project Management, C#, Graphic Design, Big Data
+   - **Experience:** Junior Scientist at TechCorp
+   - **Education:** Bachelor in Engineering from Physics Academy
+   - **References:** Tina Sato, Analyst, henry_kumar@example.com
+Henry Garcia, Analyst, jack_jackson@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** eva_lopez@example.com, City, Innovation Meadows
+   - **Projects:** Developed the Cutting-edge App for Enhancing User Experience
+

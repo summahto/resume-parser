@@ -1,0 +1,10 @@
+2033. **Name:** Ivy Gupta
+   - **Skills:** Java, UI/UX Design, Python, Cloud Computing
+   - **Experience:** Junior Scientist at InnovativeTech
+   - **Education:** Master in Business Administration from Inno Institute
+   - **References:** Henry Jackson, Developer, ulysses_miller@example.com
+Xena Lee, Scientist, charlie_jackson@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** ivy_smith@example.com, Town, Artopia
+   - **Projects:** Developed the Revolutionary System for Streamlining User Experience
+

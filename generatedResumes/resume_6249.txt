@@ -1,0 +1,10 @@
+6249. **Name:** Katherine Garcia
+   - **Skills:** AR/VR Development, React, HTML, DevOps
+   - **Experience:** Junior Scientist at InnovativeTech
+   - **Education:** Master in Business Administration from Physics Academy
+   - **References:** Eva Nguyen, Coordinator, mia_jones@example.com
+Ivy Wu, Manager, patrick_suzuki@example.com
+   - **Volunteering:** Environmental Conservation
+   - **Contact Information:** ivy_chen@example.com, Village, Data City
+   - **Projects:** Led the Cutting-edge Project for Streamlining User Experience
+

@@ -1,0 +1,10 @@
+6429. **Name:** Xena Lee
+   - **Skills:** IoT, Java, Data Analysis, iOS Development
+   - **Experience:** Senior Analyst at TechCorp
+   - **Education:** Bachelor in Physics from Tech University
+   - **References:** Patrick Li, Analyst, frank_miller@example.com
+Ivy López, Director, ivy_lee@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** walter_smith@example.com, Village, Artopia
+   - **Projects:** Led the Groundbreaking App for Streamlining Collaboration
+

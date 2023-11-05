@@ -1,0 +1,10 @@
+7288. **Name:** Frank Gonzalez
+   - **Skills:** IoT, Swift, AR/VR Development, UI/UX Design
+   - **Experience:** Junior Engineer at DataInnovators
+   - **Education:** Bachelor in Business Administration from Data Science School
+   - **References:** Mia Kumar, Engineer, ulysses_chen@example.com
+Grace Wu, Director, tina_patel@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** frank_kumar@example.com, City, Scienceburg
+   - **Projects:** Led the Innovative App for Optimizing Collaboration
+

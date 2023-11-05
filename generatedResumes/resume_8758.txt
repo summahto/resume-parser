@@ -1,0 +1,10 @@
+8758. **Name:** Yuki Miller
+   - **Skills:** Kubernetes, DevOps, UI/UX Design, Project Management
+   - **Experience:** Junior Manager at DataExperts
+   - **Education:** Master in Art from Data Science School
+   - **References:** Victoria Lopez, CEO, yuki_miller@example.com
+Alice Hernandez, Developer, olivia_brown@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** charlie_smith@example.com, Town, Data City
+   - **Projects:** Contributed to the Groundbreaking Framework for Enhancing Business Processes
+

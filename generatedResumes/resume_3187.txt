@@ -1,0 +1,10 @@
+3187. **Name:** Grace Lopez
+   - **Skills:** HTML, Graphic Design, React, Angular
+   - **Experience:** Junior Analyst at DataInnovators
+   - **Education:** Bachelor in Art from Tech University
+   - **References:** Grace Chen, Manager, leo_cruz@example.com
+Henry Kumar, Developer, grace_garcia@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** victoria_cruz@example.com, Village, Data Haven
+   - **Projects:** Contributed to the Innovative Framework for Streamlining Business Processes
+

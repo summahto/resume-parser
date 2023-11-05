@@ -1,0 +1,10 @@
+3140. **Name:** Victoria Wang
+   - **Skills:** Big Data, Docker, Android Development, Project Management
+   - **Experience:** Junior Analyst at CreativeMinds
+   - **Education:** Master in Data Science from Creative Arts College
+   - **References:** Nathan Cruz, Developer, henry_smith@example.com
+Olivia Cruz, Lead, leo_kumar@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** katherine_gupta@example.com, Town, Techland
+   - **Projects:** Developed the Groundbreaking Project for Streamlining Data Analysis
+

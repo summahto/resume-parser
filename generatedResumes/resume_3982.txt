@@ -1,0 +1,10 @@
+3982. **Name:** Alice Gupta
+   - **Skills:** iOS Development, Vue.js, HTML, Network Administration
+   - **Experience:** Junior Manager at TechInnovate
+   - **Education:** Ph.D. in Data Science from Data Science School
+   - **References:** Patrick Wu, Scientist, nathan_lee@example.com
+Jack Lopez, Manager, frank_wu@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** sam_garcia@example.com, Village, Techtopia
+   - **Projects:** Led the Cutting-edge Platform for Solving Problem-solving
+

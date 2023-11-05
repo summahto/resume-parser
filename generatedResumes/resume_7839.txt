@@ -1,0 +1,10 @@
+7839. **Name:** Tina Garcia
+   - **Skills:** DevOps, Cloud Computing, AR/VR Development, Vue.js
+   - **Experience:** Junior Scientist at InnoSolutions
+   - **Education:** Master in Business Administration from Creative Arts College
+   - **References:** Bob Jones, Coordinator, katherine_jones@example.com
+Ivy Lee, Engineer, eva_rodriguez@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** katherine_yamamoto@example.com, Village, Inno Haven
+   - **Projects:** Developed the Innovative Project for Optimizing User Experience
+

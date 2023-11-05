@@ -1,0 +1,10 @@
+4711. **Name:** David Miller
+   - **Skills:** iOS Development, Swift, SQL, Data Analysis
+   - **Experience:** Senior Analyst at CodeCrafters
+   - **Education:** Master in Engineering from Data Science School
+   - **References:** Jack Lee, Scientist, alice_garcia@example.com
+Xena Kumar, Analyst, nathan_lopez@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** xena_gupta@example.com, Village, Artopia
+   - **Projects:** Led the Cutting-edge System for Streamlining Collaboration
+

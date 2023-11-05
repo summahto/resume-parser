@@ -1,0 +1,10 @@
+9071. **Name:** Mia Nguyen
+   - **Skills:** Machine Learning, Agile, Swift, SQL
+   - **Experience:** Junior Analyst at InnoSolutions
+   - **Education:** Bachelor in Data Science from Physics Academy
+   - **References:** Henry Wang, Designer, olivia_kumar@example.com
+Eva Silva, CEO, leo_li@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** bob_garcia@example.com, Town, Green Valley
+   - **Projects:** Led the Innovative Framework for Streamlining User Experience
+

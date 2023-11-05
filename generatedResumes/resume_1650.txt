@@ -1,0 +1,10 @@
+1650. **Name:** Leo Lopez
+   - **Skills:** Machine Learning, SQL, Docker, Vue.js
+   - **Experience:** Senior Analyst at InnoSolutions
+   - **Education:** Master in Physics from Physics Academy
+   - **References:** Walter Gupta, Scientist, patrick_white@example.com
+Frank White, CEO, tina_suzuki@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** katherine_lee@example.com, Village, Data Haven
+   - **Projects:** Developed the Innovative Platform for Streamlining Data Analysis
+

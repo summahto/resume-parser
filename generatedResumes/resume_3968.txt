@@ -1,0 +1,10 @@
+3968. **Name:** Leo Wu
+   - **Skills:** Kubernetes, Network Administration, DevOps, AR/VR Development
+   - **Experience:** Junior Engineer at CreativeMinds
+   - **Education:** Master in Art from Creative Arts College
+   - **References:** Katherine Rodriguez, Designer, bob_miller@example.com
+Victoria Davis, Analyst, tina_wang@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** grace_brown@example.com, Town, Techland
+   - **Projects:** Developed the Groundbreaking Framework for Solving Collaboration
+

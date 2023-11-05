@@ -1,0 +1,10 @@
+394. **Name:** Jack Kumar
+   - **Skills:** Node.js, C#, DevOps, AR/VR Development
+   - **Experience:** Lead Developer at InnovativeTech
+   - **Education:** Ph.D. in Computer Science from Creative Arts College
+   - **References:** Walter Johnson, Manager, patrick_lopez@example.com
+Victoria Nguyen, Lead, olivia_lee@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** patrick_singh@example.com, Village, Data Haven
+   - **Projects:** Led the Cutting-edge Framework for Optimizing User Experience
+

@@ -1,0 +1,10 @@
+7402. **Name:** Mia Kumar
+   - **Skills:** Blockchain, Git, Python, Big Data
+   - **Experience:** Lead Engineer at CodeCrafters
+   - **Education:** Bachelor in Art from Data Science School
+   - **References:** Xena Brown, Manager, frank_li@example.com
+Charlie Lee, Scientist, eva_garcia@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** yuki_kumar@example.com, City, Techtopia
+   - **Projects:** Led the Revolutionary App for Solving Business Processes
+

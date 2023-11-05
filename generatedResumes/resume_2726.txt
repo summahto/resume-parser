@@ -1,0 +1,10 @@
+2726. **Name:** Olivia Cruz
+   - **Skills:** Vue.js, C#, Project Management, Data Analysis
+   - **Experience:** Lead Engineer at InnovativeTech
+   - **Education:** Ph.D. in Engineering from Creative Arts College
+   - **References:** David Miller, Scientist, sam_gonzalez@example.com
+Quinn Gupta, CTO, eva_chen@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** xena_lópez@example.com, City, Data Haven
+   - **Projects:** Developed the Cutting-edge Project for Streamlining Business Processes
+

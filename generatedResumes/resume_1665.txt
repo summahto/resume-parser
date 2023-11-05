@@ -1,0 +1,10 @@
+1665. **Name:** Zane Garcia
+   - **Skills:** Node.js, Angular, Network Administration, DevOps
+   - **Experience:** Junior Developer at InnoSolutions
+   - **Education:** Ph.D. in Computer Science from Data Science School
+   - **References:** Ulysses Wang, CEO, alice_jones@example.com
+Zane Garcia, Engineer, leo_smith@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** zane_singh@example.com, City, Scienceburg
+   - **Projects:** Contributed to the Innovative Platform for Streamlining Data Analysis
+

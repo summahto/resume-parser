@@ -1,0 +1,10 @@
+4214. **Name:** Mia Rodriguez
+   - **Skills:** Cloud Computing, Android Development, Swift, Big Data
+   - **Experience:** Lead Designer at DataExperts
+   - **Education:** Ph.D. in Physics from Creative Arts College
+   - **References:** Grace Gonzalez, Manager, xena_cruz@example.com
+David Kumar, Developer, rachel_taylor@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** david_kumar@example.com, Town, Innovation Meadows
+   - **Projects:** Developed the Groundbreaking Project for Streamlining Collaboration
+

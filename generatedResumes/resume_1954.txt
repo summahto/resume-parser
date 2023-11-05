@@ -1,0 +1,10 @@
+1954. **Name:** Mia Lopez
+   - **Skills:** Agile, Python, Kubernetes, SQL
+   - **Experience:** Junior Manager at InnoSolutions
+   - **Education:** Bachelor in Engineering from Inno Institute
+   - **References:** Leo Kumar, CEO, patrick_patel@example.com
+Eva Smith, Scientist, katherine_silva@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** nathan_wu@example.com, Village, Innovation Meadows
+   - **Projects:** Contributed to the Cutting-edge Framework for Solving User Experience
+

@@ -1,0 +1,10 @@
+120. **Name:** Katherine Suzuki
+   - **Skills:** React, JavaScript, CSS, Python
+   - **Experience:** Junior Developer at CodeCrafters
+   - **Education:** Bachelor in Engineering from Inno Institute
+   - **References:** Bob López, CTO, quinn_smith@example.com
+Ulysses Jones, Analyst, jack_kumar@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** katherine_taylor@example.com, Town, Data City
+   - **Projects:** Led the Innovative Framework for Optimizing Problem-solving
+

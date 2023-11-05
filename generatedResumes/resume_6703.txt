@@ -1,0 +1,10 @@
+6703. **Name:** Mia Wu
+   - **Skills:** Git, JavaScript, DevOps, Vue.js
+   - **Experience:** Senior Analyst at CreativeMinds
+   - **Education:** Ph.D. in Physics from Data Science School
+   - **References:** Yuki Smith, CEO, zane_lee@example.com
+Yuki Taylor, Designer, olivia_lee@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** sam_lópez@example.com, City, Green Valley
+   - **Projects:** Contributed to the Innovative App for Solving Data Analysis
+

@@ -1,0 +1,10 @@
+545. **Name:** Frank White
+   - **Skills:** C#, iOS Development, Java, IoT
+   - **Experience:** Senior Analyst at InnoSolutions
+   - **Education:** Bachelor in Engineering from Inno Institute
+   - **References:** Xena Yamamoto, Coordinator, eva_gupta@example.com
+Grace Nguyen, Engineer, victoria_lee@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** bob_gonzalez@example.com, Town, Techland
+   - **Projects:** Developed the Cutting-edge System for Optimizing Business Processes
+

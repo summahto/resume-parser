@@ -1,0 +1,10 @@
+3561. **Name:** Tina White
+   - **Skills:** JavaScript, Git, UI/UX Design, AR/VR Development
+   - **Experience:** Senior Engineer at InnovativeTech
+   - **Education:** Master in Physics from Inno Institute
+   - **References:** Quinn Johnson, CEO, quinn_jones@example.com
+Frank Kumar, Scientist, rachel_johnson@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** katherine_white@example.com, City, Techtopia
+   - **Projects:** Contributed to the Innovative Platform for Enhancing Collaboration
+

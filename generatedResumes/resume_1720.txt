@@ -1,0 +1,10 @@
+1720. **Name:** Olivia Rodriguez
+   - **Skills:** Graphic Design, Java, Machine Learning, AR/VR Development
+   - **Experience:** Junior Manager at InnovativeTech
+   - **Education:** Master in Business Administration from Inno Institute
+   - **References:** Rachel Gupta, Director, ulysses_jackson@example.com
+Ulysses Miller, Developer, henry_singh@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** ulysses_singh@example.com, Town, Techland
+   - **Projects:** Developed the Cutting-edge App for Streamlining Data Analysis
+

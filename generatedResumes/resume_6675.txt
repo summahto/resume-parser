@@ -1,0 +1,10 @@
+6675. **Name:** Charlie Wang
+   - **Skills:** Angular, IoT, Blockchain, Python
+   - **Experience:** Junior Designer at DataExperts
+   - **Education:** Bachelor in Art from Physics Academy
+   - **References:** Zane Gupta, CEO, ulysses_white@example.com
+Rachel Gupta, Engineer, sam_lee@example.com
+   - **Volunteering:** Coding for Charity
+   - **Contact Information:** yuki_brown@example.com, City, Green Valley
+   - **Projects:** Developed the Innovative System for Solving Collaboration
+

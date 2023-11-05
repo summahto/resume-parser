@@ -1,0 +1,10 @@
+6089. **Name:** David Brown
+   - **Skills:** Python, Project Management, Data Analysis, Graphic Design
+   - **Experience:** Lead Engineer at DigitalSolutions
+   - **Education:** Bachelor in Physics from Data Science School
+   - **References:** Tina Silva, Lead, quinn_patel@example.com
+Olivia Hernandez, Developer, victoria_lópez@example.com
+   - **Volunteering:** Food Drive
+   - **Contact Information:** quinn_cruz@example.com, City, Techtopia
+   - **Projects:** Contributed to the Revolutionary Project for Solving User Experience
+

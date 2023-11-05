@@ -1,0 +1,10 @@
+4484. **Name:** Patrick Miller
+   - **Skills:** Blockchain, SQL, Node.js, AR/VR Development
+   - **Experience:** Junior Designer at CreativeMinds
+   - **Education:** Bachelor in Computer Science from Inno Institute
+   - **References:** Jack Cruz, Scientist, tina_white@example.com
+Frank Rodriguez, Manager, tina_cruz@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** grace_hernandez@example.com, City, Artopia
+   - **Projects:** Contributed to the Revolutionary Project for Solving Data Analysis
+

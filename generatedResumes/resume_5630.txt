@@ -1,0 +1,10 @@
+5630. **Name:** Tina Rodriguez
+   - **Skills:** HTML, Project Management, Python, iOS Development
+   - **Experience:** Senior Engineer at CreativeMinds
+   - **Education:** Bachelor in Data Science from Tech University
+   - **References:** Bob Lee, Scientist, leo_kumar@example.com
+Frank Cruz, Developer, ivy_wang@example.com
+   - **Volunteering:** Tech Mentorship
+   - **Contact Information:** patrick_white@example.com, City, Techland
+   - **Projects:** Contributed to the Cutting-edge App for Enhancing Data Analysis
+

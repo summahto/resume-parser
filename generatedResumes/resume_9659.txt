@@ -1,0 +1,10 @@
+9659. **Name:** Jack Jackson
+   - **Skills:** Big Data, AR/VR Development, HTML, iOS Development
+   - **Experience:** Senior Engineer at DigitalSolutions
+   - **Education:** Bachelor in Engineering from Creative Arts College
+   - **References:** Eva Wu, Engineer, leo_miller@example.com
+Yuki Miller, Lead, david_wang@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** david_jackson@example.com, City, Artopia
+   - **Projects:** Developed the Innovative Framework for Streamlining User Experience
+

@@ -1,0 +1,10 @@
+155. **Name:** Ivy Patel
+   - **Skills:** Node.js, Swift, Git, AR/VR Development
+   - **Experience:** Lead Developer at DigitalSolutions
+   - **Education:** Ph.D. in Engineering from Inno Institute
+   - **References:** Yuki Kumar, Director, leo_brown@example.com
+Patrick Silva, Analyst, david_lopez@example.com
+   - **Volunteering:** Social Justice Initiatives
+   - **Contact Information:** victoria_lópez@example.com, City, Green Valley
+   - **Projects:** Contributed to the Cutting-edge App for Optimizing Collaboration
+

@@ -1,0 +1,10 @@
+4032. **Name:** Charlie López
+   - **Skills:** Node.js, JavaScript, IoT, iOS Development
+   - **Experience:** Lead Scientist at CreativeSolutions
+   - **Education:** Ph.D. in Art from Physics Academy
+   - **References:** Mia Miller, Lead, mia_gupta@example.com
+Leo Silva, Coordinator, patrick_silva@example.com
+   - **Volunteering:** Youth Education
+   - **Contact Information:** bob_garcia@example.com, Village, Artopia
+   - **Projects:** Developed the Revolutionary App for Streamlining Collaboration
+

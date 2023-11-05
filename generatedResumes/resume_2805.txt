@@ -1,0 +1,10 @@
+2805. **Name:** Grace Smith
+   - **Skills:** CSS, IoT, Docker, C#
+   - **Experience:** Junior Designer at CreativeMinds
+   - **Education:** Bachelor in Computer Science from Physics Academy
+   - **References:** Bob Garcia, Engineer, xena_williams@example.com
+Katherine Kumar, Analyst, charlie_silva@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** leo_lopez@example.com, City, Artopia
+   - **Projects:** Contributed to the Revolutionary Platform for Streamlining Collaboration
+

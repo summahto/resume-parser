@@ -1,0 +1,10 @@
+6024. **Name:** Xena Patel
+   - **Skills:** HTML, Machine Learning, Swift, Angular
+   - **Experience:** Senior Manager at CreativeMinds
+   - **Education:** Ph.D. in Computer Science from Creative Arts College
+   - **References:** Mia Taylor, CEO, walter_wu@example.com
+Katherine López, Lead, ulysses_lee@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** walter_kim@example.com, Village, Innovation Meadows
+   - **Projects:** Contributed to the Cutting-edge App for Optimizing Data Analysis
+

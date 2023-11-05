@@ -1,0 +1,10 @@
+3815. **Name:** Grace Wang
+   - **Skills:** Vue.js, Project Management, Blockchain, Big Data
+   - **Experience:** Lead Designer at DataInnovators
+   - **Education:** Bachelor in Art from Business School
+   - **References:** Jack Chen, Lead, eva_brown@example.com
+David Cruz, Developer, alice_cruz@example.com
+   - **Volunteering:** Healthcare Support
+   - **Contact Information:** ulysses_kumar@example.com, Village, Data Haven
+   - **Projects:** Led the Cutting-edge App for Optimizing User Experience
+

@@ -1,0 +1,10 @@
+9602. **Name:** Grace Jones
+   - **Skills:** AR/VR Development, Python, Cybersecurity, Node.js
+   - **Experience:** Senior Engineer at InnovativeTech
+   - **Education:** Master in Engineering from Data Science School
+   - **References:** Leo Chen, Lead, xena_nguyen@example.com
+Frank Silva, Analyst, rachel_smith@example.com
+   - **Volunteering:** Community Cleanup
+   - **Contact Information:** leo_taylor@example.com, City, Techtopia
+   - **Projects:** Contributed to the Groundbreaking App for Streamlining Data Analysis
+

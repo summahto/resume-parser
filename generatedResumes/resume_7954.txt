@@ -1,0 +1,10 @@
+7954. **Name:** Xena Wang
+   - **Skills:** C#, CSS, HTML, Swift
+   - **Experience:** Senior Analyst at DataExperts
+   - **Education:** Master in Physics from Business School
+   - **References:** David López, CEO, eva_cruz@example.com
+Katherine Nguyen, Scientist, eva_jones@example.com
+   - **Volunteering:** Disaster Relief
+   - **Contact Information:** nathan_miller@example.com, Town, Innoville
+   - **Projects:** Contributed to the Cutting-edge Platform for Streamlining Collaboration
+
